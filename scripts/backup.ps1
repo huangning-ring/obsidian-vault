@@ -22,6 +22,6 @@ try {
 }
 
 $all = Get-ChildItem $backupRoot -Directory | Where-Object { $_.Name -match '^\d{4}-\d{2}-\d{2}$' } | Sort-Object Name -Descending
-if ($all.Count -gt 30) {
-    $all | Select-Object -Skip 30 | ForEach-Object { Remove-Item $_.FullName -Recurse -Force -ErrorAction SilentlyContinue; Add-Content $logFile "[$ts] 清理过期: $($_.Name)" }
+if ($all.Count -gt 7) {
+    $all | Select-Object -Skip 7 | ForEach-Object { Remove-Item $_.FullName -Recurse -Force -ErrorAction SilentlyContinue; Add-Content $logFile "[$ts] 清理过期: $($_.Name)" }
 }

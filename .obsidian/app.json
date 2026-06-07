@@ -10,5 +10,21 @@
     "margin": "0",
     "downscalePercent": 89
   },
-  "trashOption": "local"
+  "trashOption": "local",
+  "userIgnoreFilters": [
+    ".claude/",
+    ".claudian/",
+    ".git/",
+    ".obsidian/",
+    ".obsidian_WIN/",
+    ".trash/",
+    "node_modules/",
+    "camera/",
+    "copilot/",
+    "HONOR Share/",
+    "OneNote/",
+    "ringtone/",
+    "scripts/",
+    "_code_archive/"
+  ]
 }

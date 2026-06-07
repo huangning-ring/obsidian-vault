@@ -1,7 +1,7 @@
 {
-  "userName": "",
+  "userName": "黄宁",
   "permissionMode": "yolo",
-  "model": "opus[1m]",
+  "model": "sonnet[1m]",
   "thinkingBudget": "off",
   "effortLevel": "high",
   "serviceTier": "default",
@@ -78,7 +78,8 @@
     }
   ],
   "customContextLimits": {
-    "deepseek-ai/DeepSeek-V4-Flash": 10000000
+    "deepseek-ai/DeepSeek-V4-Flash": 10000000,
+    "deepseek-v4-pro": 1000000
   },
   "customModelAliases": {
     "deepseek-ai/DeepSeek-V4-Flash": "V4-Flash"
@@ -94,16 +95,14 @@
     "claude": {
       "safeMode": "acceptEdits",
       "cliPath": "",
-      "cliPathsByHost": {
-        "device:f29a69ec-12d4-4fdf-b5c5-d737c6f14bdb": "C:\\Users\\29731\\AppData\\Roaming\\npm\\claude.cmd"
-      },
+      "cliPathsByHost": {},
       "loadUserSettings": true,
       "enableChrome": true,
       "enableBangBash": false,
       "enableOpus1M": true,
       "enableSonnet1M": true,
       "customModels": "",
-      "lastModel": "opus[1m]",
+      "lastModel": "sonnet[1m]",
       "environmentVariables": "",
       "environmentHash": ""
     },
@@ -148,7 +147,7 @@
   },
   "settingsProvider": "claude",
   "savedProviderModel": {
-    "claude": "opus[1m]"
+    "claude": "sonnet[1m]"
   },
   "savedProviderEffort": {
     "claude": "high"
