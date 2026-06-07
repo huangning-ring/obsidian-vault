@@ -1,7 +1,7 @@
 {
   "userName": "黄宁",
   "permissionMode": "yolo",
-  "model": "sonnet[1m]",
+  "model": "deepseek-ai/DeepSeek-V4-Pro",
   "thinkingBudget": "off",
   "effortLevel": "high",
   "serviceTier": "default",
@@ -102,9 +102,9 @@
       "enableOpus1M": true,
       "enableSonnet1M": true,
       "customModels": "",
-      "lastModel": "sonnet[1m]",
-      "environmentVariables": "",
-      "environmentHash": ""
+      "lastModel": "opus[1m]",
+      "environmentVariables": "ANTHROPIC_AUTH_TOKEN=sk-zyldlhnplcpjoddytdwijnzhbokrskufioqiginqkzpzuvvb\nANTHROPIC_BASE_URL=https://api.siliconflow.cn/\nANTHROPIC_MODEL=deepseek-ai/DeepSeek-V4-Pro",
+      "environmentHash": "ANTHROPIC_BASE_URL=https://api.siliconflow.cn/|ANTHROPIC_MODEL=deepseek-ai/DeepSeek-V4-Pro"
     },
     "codex": {
       "enabled": false,
@@ -147,7 +147,7 @@
   },
   "settingsProvider": "claude",
   "savedProviderModel": {
-    "claude": "sonnet[1m]"
+    "claude": "deepseek-ai/DeepSeek-V4-Pro"
   },
   "savedProviderEffort": {
     "claude": "high"
