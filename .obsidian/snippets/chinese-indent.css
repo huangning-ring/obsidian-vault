@@ -1,0 +1,45 @@
+/* 正文段落 */
+.markdown-reading-view p,
+.markdown-preview-view p {
+    text-indent: 2em;
+    line-height: 1.8;
+    margin-bottom: 0.5em;
+}
+
+/* 标题后的第一段不缩进 */
+h1 + p,
+h2 + p,
+h3 + p,
+h4 + p,
+h5 + p,
+h6 + p {
+    text-indent: 0;
+}
+
+/* 列表不缩进 */
+li p {
+    text-indent: 0;
+}
+
+/* 引用块不缩进 */
+blockquote p {
+    text-indent: 0;
+}
+
+/* PDF导出 */
+@media print {
+    .markdown-preview-view p {
+        text-indent: 2em !important;
+    }
+
+    h1 + p,
+    h2 + p,
+    h3 + p,
+    h4 + p,
+    h5 + p,
+    h6 + p,
+    li p,
+    blockquote p {
+        text-indent: 0 !important;
+    }
+}

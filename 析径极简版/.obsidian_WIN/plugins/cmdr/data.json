@@ -1,0 +1,75 @@
+{
+  "confirmDeletion": false,
+  "showAddCommand": true,
+  "debug": false,
+  "editorMenu": [],
+  "fileMenu": [],
+  "leftRibbon": [],
+  "rightRibbon": [],
+  "titleBar": [],
+  "statusBar": [],
+  "pageHeader": [
+    {
+      "id": "obsidian-omnivore:resync",
+      "icon": "cloud-drizzle",
+      "name": "Omnivore: Resync all articles",
+      "mode": "b465c3e392c49e28",
+      "color": "#000000"
+    },
+    {
+      "id": "Enhanced-editing:del-lines",
+      "icon": "lucide-scissors",
+      "name": "增强编辑: 批量去除空行",
+      "mode": "any",
+      "color": "#000000"
+    },
+    {
+      "id": "Enhanced-editing:del-allSpspace",
+      "icon": "lucide-space",
+      "name": "增强编辑: 去除所有空格",
+      "mode": "any"
+    },
+    {
+      "id": "Enhanced-editing:clear-link",
+      "icon": "broken-link",
+      "name": "增强编辑: 去除超链接语法()",
+      "mode": "any"
+    },
+    {
+      "id": "obsidian-local-images-plus:download-images-def",
+      "icon": "lucide-image-down",
+      "name": "本地存储当前笔记中的网络图片",
+      "mode": "any"
+    },
+    {
+      "id": "oz-clear-unused-images:clear-images-obsidian",
+      "icon": "lucide-image-minus",
+      "name": "清除未被使用的图片",
+      "mode": "any"
+    },
+    {
+      "id": "open-with-default-app:show",
+      "icon": "lucide-locate-fixed",
+      "name": "在系统资源管理器中显示",
+      "mode": "any",
+      "color": "#000000"
+    }
+  ],
+  "macros": [],
+  "explorer": [],
+  "hide": {
+    "statusbar": [],
+    "leftRibbon": []
+  },
+  "spacing": "5",
+  "advancedToolbar": {
+    "rowHeight": 48,
+    "rowCount": 1,
+    "spacing": 0,
+    "buttonWidth": 48,
+    "columnLayout": false,
+    "mappedIcons": [],
+    "tooltips": false,
+    "heightOffset": 0
+  }
+}

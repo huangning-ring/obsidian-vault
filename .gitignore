@@ -1,0 +1,24 @@
+# 含 API Key / Token 的敏感配置 —— 绝不进远程仓库
+.obsidian/plugins/bijitongbu/data.json
+.obsidian/plugins/obsidian-local-rest-api/data.json
+.obsidian/.obsidian-sync-helper-backup/
+
+# 频繁变动的会话/工作区文件
+.obsidian/workspace.json
+.obsidian/workspaces.json
+.claudian/sessions/
+.trash/
+
+# 超过 GitHub 100MB 限制的大文件
+*.pptx
+复习/习概复习/新思想简版背诵.pdf
+复习/免疫/医学免疫学 (曹雪涛) (Z-Library).pdf
+.obsidian/plugins/nutstore-sync/logs/
+
+# 依赖与缓存
+node_modules/
+
+# 系统垃圾
+.DS_Store
+Thumbs.db
+desktop.ini

@@ -1,0 +1,13 @@
+{
+  "trashOption": "local",
+  "showLineNumber": true,
+  "focusNewTab": false,
+  "readableLineLength": false,
+  "foldHeading": true,
+  "attachmentFolderPath": "./_附件_",
+  "alwaysUpdateLinks": true,
+  "userIgnoreFilters": [
+    "99 GENERAL/"
+  ],
+  "showUnsupportedFiles": true
+}

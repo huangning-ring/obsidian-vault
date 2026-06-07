@@ -1,0 +1,17 @@
+{
+  "Editor@@collapse-icon-restore": false,
+  "Editor@@line-hover-indicator": true,
+  "Editor@@border-focus-mode": true,
+  "Editor@@editor-grid-background-pattren": false,
+  "Editor@@line-normal-opacity": 1,
+  "Editor@@line-active-bg@@dark": "#DFA6FF1F",
+  "Components@@restored-scrollbars": true,
+  "Components@@scrollbar-hide": false,
+  "Components@@setting-item-title-icon-remove": false,
+  "Appearance-dark@@card-layout-open-dark": true,
+  "Appearance-dark@@theme-dark-style-select": "theme-dark-background-darker",
+  "Editor@@heading-indicator-off": false,
+  "Editor@@text-align-justify": true,
+  "Mobile@@card-layout-pad-open": true,
+  "Editor@@file-line-width": "950px"
+}

@@ -1,0 +1,95 @@
+
+.mermaid > svg {
+    overflow: visible !important;
+	padding-left: 180px !important; /* 根据需要调整这个值 */
+	width: 100%; /* 或者根据你的布局需要调整为其他值 */
+}
+
+
+/* 横坐标文字 */
+.mermaid .grid .tick text {
+	fill: #333;
+	font-size: 15px;
+
+}
+
+
+/* 背景横向条纹样式1 */
+.mermaid [class *= "section section0"] {
+    stroke: none !important;
+    fill: rgb(255, 214, 164) !important;
+	opacity: 0.3 !important;
+}
+
+/* 背景横向条纹样式2 */
+.mermaid [class *= "section section1"] {
+    stroke: none !important;
+    fill: rgb(255, 214, 164) !important;
+	opacity: 0.1 !important;
+}
+
+
+/* 背景纵向条纹样式 */
+.mermaid [class *= "exclude-range"] {
+    stroke: none !important;
+    fill: rgb(173, 173, 173) !important;
+	opacity: 0 !important;
+}
+
+
+/* 虚线样式 */
+.mermaid .grid .tick line {
+	stroke: gray !important;
+	stroke-dasharray: 2;
+	opacity: 1 !important;
+}
+
+
+/* 进行中的任务条样式 */
+.mermaid [class *= "task crit"] {
+    stroke: none !important;
+    fill: rgb(255, 156, 217) !important;
+	opacity: 0.8 !important;
+}
+
+
+/* 未开始的任务条样式 */
+.mermaid [class *= "task active"] {
+    stroke: none !important;
+    fill: rgb(255, 204, 167) !important;
+	opacity: 0.8 !important;
+}
+
+
+/* 已完成的任务条样式 116, 234, 218 */
+.mermaid [class *= "task done"] {
+    stroke: none !important;
+	fill: rgb(125, 240, 221) !important;
+	opacity: 0.8 !important;
+}
+
+
+/* 计划名称字体样式 */
+.mermaid .sectionTitle {
+    text-anchor: start !important;
+    font-size: 17px !important;
+	font-weight: 600;
+    transform: translateX(-200px) !important;
+}
+
+
+/* 进度条内字体颜色 */
+.mermaid [class *= "taskText"]  {
+	fill: rgb(27,34,34) !important;
+    font-size: 17px !important;
+	opacity: 1 !important;
+}
+
+
+/* 进度条外字体颜色 */
+.mermaid [class *= "taskTextOutsideRight"]  {
+	fill: rgb(27,34,34) !important;
+    font-size: 17px !important;
+	opacity: 1 !important;
+}
+

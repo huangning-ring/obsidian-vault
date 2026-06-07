@@ -1,0 +1,23 @@
+{
+  "collectAttachmentUsedByMultipleNotesMode": "Skip",
+  "consistencyReportFile": "consistency-report.md",
+  "emptyAttachmentFolderBehavior": "DeleteWithEmptyParents",
+  "excludePaths": [
+    "/consistency\\-report\\.md$/",
+    ".git/",
+    ".obsidian/"
+  ],
+  "excludePathsFromAttachmentCollecting": [],
+  "includePaths": [],
+  "moveAttachmentToProperFolderUsedByMultipleNotesMode": "CopyAll",
+  "shouldChangeNoteBacklinksDisplayText": false,
+  "shouldCollectAttachmentsAutomatically": false,
+  "shouldDeleteAttachmentsWithNote": true,
+  "shouldDeleteExistingFilesWhenMovingNote": false,
+  "shouldMoveAttachmentsWithNote": true,
+  "shouldShowBackupWarning": false,
+  "shouldUpdateLinks": true,
+  "treatAsAttachmentExtensions": [
+    ".excalidraw.md"
+  ]
+}

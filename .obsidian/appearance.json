@@ -1,0 +1,14 @@
+{
+  "accentColor": "",
+  "enabledCssSnippets": [
+    "笔记页标题居中",
+    "预览模式优化-空白行-行间距",
+    "chinese-indent",
+    "段落首行缩进"
+  ],
+  "cssTheme": "Border",
+  "textFontFamily": "仓耳今楷04,华文仿宋,华文细黑",
+  "interfaceFontFamily": "仓耳今楷04",
+  "baseFontSize": 19,
+  "baseFontSizeAction": true
+}

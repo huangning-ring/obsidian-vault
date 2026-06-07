@@ -1,0 +1,152 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "99 GENERAL/Templates",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": true,
+  "enable_system_commands": false,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "01 记事本/01 人",
+      "template": "99 GENERAL/Templates/记事本模板_人物信息.md"
+    },
+    {
+      "folder": "01 记事本/02 事",
+      "template": "99 GENERAL/Templates/记事本模板_事件记录.md"
+    },
+    {
+      "folder": "01 记事本/02 物",
+      "template": "99 GENERAL/Templates/记事本模板_物品信息.md"
+    },
+    {
+      "folder": "01 记事本/04 精彩瞬间",
+      "template": "99 GENERAL/Templates/记事本模板_精彩瞬间.md"
+    },
+    {
+      "folder": "02 知识管理/00 灵感库/方法技巧",
+      "template": "99 GENERAL/Templates/知识管理模板_方法技巧.md"
+    },
+    {
+      "folder": "02 知识管理/00 灵感库/感悟启发",
+      "template": "99 GENERAL/Templates/知识管理模板_感悟启发.md"
+    },
+    {
+      "folder": "02 知识管理/00 灵感库/经验总结",
+      "template": "99 GENERAL/Templates/知识管理模板_经验总结.md"
+    },
+    {
+      "folder": "02 知识管理/00 灵感库/看法见解",
+      "template": "99 GENERAL/Templates/知识管理模板_看法见解.md"
+    },
+    {
+      "folder": "02 知识管理/00 灵感库/灵感创意",
+      "template": "99 GENERAL/Templates/知识管理模板_灵感创意.md"
+    },
+    {
+      "folder": "02 知识管理/00 灵感库/问题好奇",
+      "template": "99 GENERAL/Templates/知识管理模板_问题好奇.md"
+    },
+    {
+      "folder": "02 知识管理/01 输入/法律规章",
+      "template": "99 GENERAL/Templates/知识管理模板_法律规章.md"
+    },
+    {
+      "folder": "02 知识管理/01 输入/国家标准",
+      "template": "99 GENERAL/Templates/知识管理模板_国家标准.md"
+    },
+    {
+      "folder": "03 行动管理/01 家庭/00 家庭灵感库/愿望清单",
+      "template": "99 GENERAL/Templates/任务管理模板_愿望清单.md"
+    },
+    {
+      "folder": "03 行动管理/01 家庭/00 家庭灵感库",
+      "template": "99 GENERAL/Templates/任务管理模板_实践计划.md"
+    },
+    {
+      "folder": "03 行动管理/01 家庭/01 家庭规划",
+      "template": "99 GENERAL/Templates/任务管理模板_家庭规划.md"
+    },
+    {
+      "folder": "03 行动管理/01 家庭/02 家庭计划",
+      "template": "99 GENERAL/Templates/任务管理模板_实践计划.md"
+    },
+    {
+      "folder": "03 行动管理/01 家庭/03 日常家庭任务",
+      "template": "99 GENERAL/Templates/任务管理模板_日常任务.md"
+    },
+    {
+      "folder": "03 行动管理/02 个人/00 个人灵感库",
+      "template": "99 GENERAL/Templates/任务管理模板_实践计划.md"
+    },
+    {
+      "folder": "03 行动管理/02 个人/01 个人规划",
+      "template": "99 GENERAL/Templates/任务管理模板_个人规划.md"
+    },
+    {
+      "folder": "03 行动管理/02 个人/02 个人计划",
+      "template": "99 GENERAL/Templates/任务管理模板_学习计划.md"
+    },
+    {
+      "folder": "03 行动管理/02 个人/03 日常个人任务",
+      "template": "99 GENERAL/Templates/任务管理模板_日常任务.md"
+    },
+    {
+      "folder": "03 行动管理/03 事业/00 事业灵感库",
+      "template": "99 GENERAL/Templates/任务管理模板_实践计划.md"
+    },
+    {
+      "folder": "03 行动管理/03 事业/01 事业规划",
+      "template": "99 GENERAL/Templates/任务管理模板_项目规划.md"
+    },
+    {
+      "folder": "03 行动管理/03 事业/02 事业计划",
+      "template": "99 GENERAL/Templates/任务管理模板_项目计划.md"
+    },
+    {
+      "folder": "03 行动管理/03 事业/03 日常事业任务",
+      "template": "99 GENERAL/Templates/任务管理模板_日常任务.md"
+    },
+    {
+      "folder": "03 行动管理/04 工作/00 工作灵感库",
+      "template": "99 GENERAL/Templates/任务管理模板_实践计划.md"
+    },
+    {
+      "folder": "03 行动管理/04 工作/01 工作规划",
+      "template": "99 GENERAL/Templates/任务管理模板_项目规划.md"
+    },
+    {
+      "folder": "03 行动管理/04 工作/02 工作计划",
+      "template": "99 GENERAL/Templates/任务管理模板_项目计划.md"
+    },
+    {
+      "folder": "03 行动管理/04 工作/03 日常工作任务",
+      "template": "99 GENERAL/Templates/任务管理模板_日常任务.md"
+    }
+  ],
+  "enable_file_templates": false,
+  "file_templates": [
+    {
+      "regex": ".*",
+      "template": ""
+    }
+  ],
+  "syntax_highlighting": true,
+  "syntax_highlighting_mobile": false,
+  "enabled_templates_hotkeys": [
+    ""
+  ],
+  "startup_templates": [
+    "",
+    ""
+  ],
+  "intellisense_render": 1,
+  "enable_ribbon_icon": true
+}

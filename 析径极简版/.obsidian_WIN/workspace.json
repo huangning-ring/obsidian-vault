@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "1a25c8fb6ffc33d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "5aa0a2d0eecf28da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f377e7c62284361d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9c5e12ef6810a4ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "df2d6b0e220ee9e7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "665af7f8c67ecbe2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "6e408f38fbd608d1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "0a8bc726d23d1d61",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "99 GENERAL/Copilot Prompts/目标拆解专家.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "目标拆解专家 的反向链接列表"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 347.5
+  },
+  "right": {
+    "id": "08b0f85a0c2ca0ca",
+    "type": "split",
+    "children": [
+      {
+        "id": "aef4931f3d3caed5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "551c38c7a98f7bfc",
+            "type": "leaf",
+            "state": {
+              "type": "quiet-outline",
+              "state": {},
+              "icon": "lines-of-text",
+              "title": "Quiet Outline"
+            }
+          },
+          {
+            "id": "705bf4e53ded1797",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "02 知识管理/01 输入/02 不常用/析径新用户入门指南.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "析径新用户入门指南 的出链列表"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "command-palette:打开命令面板": false,
+      "bases:创建新数据库": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "665af7f8c67ecbe2",
+  "lastOpenFiles": [
+    "02 知识管理/01 输入/02 不常用/析径新用户入门指南.md",
+    "00 DASHBOARD/个人首页/任务管理/任务清单/家庭任务清单/家庭高价值任务.md",
+    "99 GENERAL/Copilot Prompts/目标拆解助手.md",
+    "99 GENERAL/Templates/知识管理模板_灵感创意.md",
+    "99 GENERAL/Templates/知识管理模板_看法见解.md",
+    "99 GENERAL/Templates/知识管理模板_经验总结.md",
+    "99 GENERAL/Templates/知识管理模板_国家标准.md",
+    "99 GENERAL/Templates/知识管理模板_感悟启发.md",
+    "99 GENERAL/Templates/知识管理模板_方法技巧.md",
+    "99 GENERAL/Templates/知识管理模板_法律规章.md",
+    "99 GENERAL/Templates/任务管理模板_愿望清单.md",
+    "99 GENERAL/Templates/任务管理模板_学习计划（AI）.md",
+    "99 GENERAL/Templates/任务管理模板_学习计划.md",
+    "99 GENERAL/Templates/任务管理模板_项目计划（AI）.md",
+    "99 GENERAL/Templates/任务管理模板_项目计划.md",
+    "99 GENERAL/Templates/任务管理模板_项目规划.md",
+    "99 GENERAL/Templates/任务管理模板_实践计划（AI）.md",
+    "99 GENERAL/Templates/任务管理模板_实践计划.md",
+    "99 GENERAL/Templates/任务管理模板_家庭规划.md",
+    "99 GENERAL/Templates/任务管理模板_日常任务.md",
+    "99 GENERAL/Templates/任务管理模板_个人规划.md",
+    "99 GENERAL/Templates/记事本模板_物品信息.md",
+    "99 GENERAL/Templates/记事本模板_事件记录.md",
+    "99 GENERAL/Templates/记事本模板_人物信息.md",
+    "99 GENERAL/Templates/记事本模板_精彩瞬间.md",
+    "99 GENERAL/Templates/知识管理模板_问题好奇.md",
+    "00 DASHBOARD/任务看板.canvas",
+    "02 知识管理/01 输入/02 不常用/_附件_/知识管理课程合集.png",
+    "02 知识管理/01 输入/02 不常用/_附件_/任务管理课程合集.png",
+    "02 知识管理/01 输入/02 不常用/_附件_/微信搜索公众号.png",
+    "02 知识管理/01 输入/02 不常用/_附件_/扫码_搜索联合传播样式-标准色版.png",
+    "02 知识管理/01 输入/02 不常用/_附件_/扫码_搜索联合传播样式-白色版.png",
+    "02 知识管理/01 输入/02 不常用/_附件_",
+    "02 知识管理/01 输入/02 不常用/_附件_/微信名片.png",
+    "02 知识管理/01 输入/00 碎片信息/_附件_",
+    "99 GENERAL/DataRender.js",
+    "99 GENERAL/DataFetcher.js",
+    "DataRender.js",
+    "DataFetcher.js",
+    "99 GENERAL/Scripts/DataRender.js",
+    "99 GENERAL/Scripts/DataFetcher.js",
+    "03 行动管理/01 家庭/00 家庭灵感库/愿望清单",
+    "03 行动管理/01 家庭/00 家庭灵感库/新建文件夹"
+  ]
+}

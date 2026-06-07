@@ -1,0 +1,374 @@
+{
+  "pluginArr": {
+    "obsidian-auto-link-title": {
+      "id": "obsidian-auto-link-title",
+      "delay": 0,
+      "enabled": false
+    },
+    "obsidian42-brat": {
+      "id": "obsidian42-brat",
+      "delay": 0,
+      "enabled": false
+    },
+    "calendar": {
+      "id": "calendar",
+      "delay": 0,
+      "enabled": false
+    },
+    "obsidian-charts": {
+      "id": "obsidian-charts",
+      "delay": 0,
+      "enabled": true
+    },
+    "oz-clear-unused-images": {
+      "id": "oz-clear-unused-images",
+      "delay": 5000,
+      "enabled": true
+    },
+    "cmdr": {
+      "id": "cmdr",
+      "delay": 3000,
+      "enabled": true
+    },
+    "consistent-attachments-and-links": {
+      "id": "consistent-attachments-and-links",
+      "delay": 3000,
+      "enabled": true
+    },
+    "contribution-graph": {
+      "id": "contribution-graph",
+      "delay": 0,
+      "enabled": true
+    },
+    "copilot": {
+      "id": "copilot",
+      "delay": 0,
+      "enabled": false
+    },
+    "obsidian-copy-block-link": {
+      "id": "obsidian-copy-block-link",
+      "delay": 0,
+      "enabled": false
+    },
+    "dataview": {
+      "id": "dataview",
+      "delay": 0,
+      "enabled": true
+    },
+    "obsidian-enhancing-mindmap": {
+      "id": "obsidian-enhancing-mindmap",
+      "delay": 0,
+      "enabled": false
+    },
+    "obsidian-file-info-plugin": {
+      "id": "obsidian-file-info-plugin",
+      "delay": 5000,
+      "enabled": false
+    },
+    "obsidian-heading-shifter": {
+      "id": "obsidian-heading-shifter",
+      "delay": 0,
+      "enabled": false
+    },
+    "heatmap-calendar": {
+      "id": "heatmap-calendar",
+      "delay": 5000,
+      "enabled": true
+    },
+    "obsidian-hider": {
+      "id": "obsidian-hider",
+      "delay": 0,
+      "enabled": true
+    },
+    "homepage": {
+      "id": "homepage",
+      "delay": 0,
+      "enabled": true
+    },
+    "obsidian-hover-editor": {
+      "id": "obsidian-hover-editor",
+      "delay": 5000,
+      "enabled": true
+    },
+    "obsidian-linter": {
+      "id": "obsidian-linter",
+      "delay": 5000,
+      "enabled": true
+    },
+    "metaedit": {
+      "id": "metaedit",
+      "delay": 0,
+      "enabled": true
+    },
+    "obsidian-mind-map": {
+      "id": "obsidian-mind-map",
+      "delay": 0,
+      "enabled": false
+    },
+    "mousewheel-image-zoom": {
+      "id": "mousewheel-image-zoom",
+      "delay": 0,
+      "enabled": false
+    },
+    "mysnippets-plugin": {
+      "id": "mysnippets-plugin",
+      "delay": 0,
+      "enabled": false
+    },
+    "note-refactor-obsidian": {
+      "id": "note-refactor-obsidian",
+      "delay": 5000,
+      "enabled": true
+    },
+    "novel-word-count": {
+      "id": "novel-word-count",
+      "delay": 0,
+      "enabled": true
+    },
+    "number-headings-obsidian": {
+      "id": "number-headings-obsidian",
+      "delay": 5000,
+      "enabled": true
+    },
+    "obsidian-omnivore": {
+      "id": "obsidian-omnivore",
+      "delay": 0,
+      "enabled": true
+    },
+    "obsidian-outliner": {
+      "id": "obsidian-outliner",
+      "delay": 0,
+      "enabled": false
+    },
+    "obsidian-paste-image-rename": {
+      "id": "obsidian-paste-image-rename",
+      "delay": 0,
+      "enabled": false
+    },
+    "url-into-selection": {
+      "id": "url-into-selection",
+      "delay": 5000,
+      "enabled": false
+    },
+    "plugin-manager": {
+      "id": "plugin-manager",
+      "delay": 0,
+      "enabled": true
+    },
+    "progressbar": {
+      "id": "progressbar",
+      "delay": 0,
+      "enabled": true
+    },
+    "obsidian-projects": {
+      "id": "obsidian-projects",
+      "delay": 0,
+      "enabled": false
+    },
+    "quick-explorer": {
+      "id": "quick-explorer",
+      "delay": 5000,
+      "enabled": false
+    },
+    "quickadd": {
+      "id": "quickadd",
+      "delay": 3000,
+      "enabled": true
+    },
+    "obsidian-quiet-outline": {
+      "id": "obsidian-quiet-outline",
+      "delay": 0,
+      "enabled": true
+    },
+    "obsidian-regex-replace": {
+      "id": "obsidian-regex-replace",
+      "delay": 0,
+      "enabled": false
+    },
+    "remember-cursor-position": {
+      "id": "remember-cursor-position",
+      "delay": 5000,
+      "enabled": false
+    },
+    "obsidian-reminder-plugin": {
+      "id": "obsidian-reminder-plugin",
+      "delay": 0,
+      "enabled": false
+    },
+    "obsidian-style-settings": {
+      "id": "obsidian-style-settings",
+      "delay": 0,
+      "enabled": true
+    },
+    "ob-table-enhancer": {
+      "id": "ob-table-enhancer",
+      "delay": 0,
+      "enabled": false
+    },
+    "obsidian-table-generator": {
+      "id": "obsidian-table-generator",
+      "delay": 0,
+      "enabled": false
+    },
+    "obsidian-tasks-plugin": {
+      "id": "obsidian-tasks-plugin",
+      "delay": 0,
+      "enabled": true
+    },
+    "tasks-calendar-wrapper": {
+      "id": "tasks-calendar-wrapper",
+      "delay": 5000,
+      "enabled": true
+    },
+    "templater-obsidian": {
+      "id": "templater-obsidian",
+      "delay": 5000,
+      "enabled": true
+    },
+    "obsidian-tracker": {
+      "id": "obsidian-tracker",
+      "delay": 0,
+      "enabled": true
+    },
+    "Enhanced-editing": {
+      "id": "Enhanced-editing",
+      "delay": 5000,
+      "enabled": true
+    },
+    "better-word-count": {
+      "id": "better-word-count",
+      "delay": 0,
+      "enabled": false
+    },
+    "floating-toc": {
+      "id": "floating-toc",
+      "delay": 0,
+      "enabled": true
+    },
+    "obsidian-plugin-toc": {
+      "id": "obsidian-plugin-toc",
+      "delay": 0,
+      "enabled": false
+    },
+    "obsidian-hotkeys-for-specific-files": {
+      "id": "obsidian-hotkeys-for-specific-files",
+      "delay": 0,
+      "enabled": true
+    },
+    "obsidian-leaflet-plugin": {
+      "id": "obsidian-leaflet-plugin",
+      "delay": 0,
+      "enabled": false
+    },
+    "obsidian-extract-pdf-highlights": {
+      "id": "obsidian-extract-pdf-highlights",
+      "delay": 0,
+      "enabled": false
+    },
+    "pdf-plus": {
+      "id": "pdf-plus",
+      "delay": 0,
+      "enabled": false
+    },
+    "vscode-editor": {
+      "id": "vscode-editor",
+      "delay": 0,
+      "enabled": false
+    },
+    "obsidian-footnotes": {
+      "id": "obsidian-footnotes",
+      "delay": 5000,
+      "enabled": false
+    },
+    "obsidian-latex-suite": {
+      "id": "obsidian-latex-suite",
+      "delay": 0,
+      "enabled": false
+    },
+    "obsidian-tidy-footnotes": {
+      "id": "obsidian-tidy-footnotes",
+      "delay": 0,
+      "enabled": false
+    },
+    "float-search": {
+      "id": "float-search",
+      "delay": 0,
+      "enabled": false
+    },
+    "new-tab-plus": {
+      "id": "new-tab-plus",
+      "delay": 3000,
+      "enabled": true
+    },
+    "open-in-new-tab": {
+      "id": "open-in-new-tab",
+      "delay": 3000,
+      "enabled": true
+    },
+    "3d-graph": {
+      "id": "3d-graph",
+      "delay": 0,
+      "enabled": false
+    },
+    "cloze": {
+      "id": "cloze",
+      "delay": 0,
+      "enabled": false
+    },
+    "obsidian-excalidraw-plugin": {
+      "id": "obsidian-excalidraw-plugin",
+      "delay": 0,
+      "enabled": false
+    },
+    "obsidian-folder-focus-mode": {
+      "id": "obsidian-folder-focus-mode",
+      "delay": 0,
+      "enabled": false
+    },
+    "global-search-and-replace": {
+      "id": "global-search-and-replace",
+      "delay": 0,
+      "enabled": true
+    },
+    "janitor": {
+      "id": "janitor",
+      "delay": 0,
+      "enabled": false
+    },
+    "obsidian-echarts": {
+      "id": "obsidian-echarts",
+      "delay": 0,
+      "enabled": true
+    },
+    "typewriter-mode": {
+      "id": "typewriter-mode",
+      "delay": 0,
+      "enabled": false
+    },
+    "obsidian-local-images-plus": {
+      "id": "obsidian-local-images-plus",
+      "delay": 5000,
+      "enabled": true
+    },
+    "masking-type": {
+      "id": "masking-type",
+      "delay": 0,
+      "enabled": false
+    },
+    "pkmer": {
+      "id": "pkmer",
+      "delay": 0,
+      "enabled": false
+    },
+    "obsidian-to-anki-plugin": {
+      "id": "obsidian-to-anki-plugin",
+      "delay": 0,
+      "enabled": false
+    },
+    "obsidian-map-view": {
+      "id": "obsidian-map-view",
+      "delay": 0,
+      "enabled": false
+    }
+  }
+}

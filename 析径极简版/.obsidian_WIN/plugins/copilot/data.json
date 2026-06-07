@@ -1,0 +1,408 @@
+{
+  "isPlusUser": false,
+  "plusLicenseKey": "",
+  "openAIApiKey": "",
+  "openAIOrgId": "",
+  "huggingfaceApiKey": "",
+  "cohereApiKey": "",
+  "anthropicApiKey": "",
+  "azureOpenAIApiKey": "",
+  "azureOpenAIApiInstanceName": "",
+  "azureOpenAIApiDeploymentName": "",
+  "azureOpenAIApiVersion": "",
+  "azureOpenAIApiEmbeddingDeploymentName": "",
+  "googleApiKey": "",
+  "openRouterAiApiKey": "",
+  "defaultChainType": "llm_chain",
+  "defaultModelKey": "gpt-4.1|openai",
+  "embeddingModelKey": "text-embedding-3-small|openai",
+  "temperature": 0.1,
+  "maxTokens": 1000,
+  "contextTurns": 15,
+  "userSystemPrompt": "",
+  "openAIProxyBaseUrl": "https://api.moonshot.cn/v1",
+  "openAIEmbeddingProxyBaseUrl": "",
+  "stream": true,
+  "defaultSaveFolder": "02 知识管理/01 输入/01 AI 对话",
+  "defaultConversationTag": "AI 对话",
+  "autosaveChat": false,
+  "defaultOpenArea": "view",
+  "customPromptsFolder": "99 GENERAL/Copilot Prompts",
+  "indexVaultToVectorStore": "NEVER",
+  "qaExclusions": "copilot",
+  "qaInclusions": "",
+  "chatNoteContextPath": "",
+  "chatNoteContextTags": [],
+  "enableIndexSync": true,
+  "debug": false,
+  "enableEncryption": false,
+  "maxSourceChunks": 3,
+  "groqApiKey": "",
+  "activeModels": [
+    {
+      "name": "copilot-plus-flash",
+      "provider": "copilot-plus",
+      "enabled": false,
+      "isBuiltIn": true,
+      "core": true,
+      "plusExclusive": true,
+      "projectEnabled": false,
+      "capabilities": [
+        "vision"
+      ]
+    },
+    {
+      "name": "gpt-4.1",
+      "provider": "openai",
+      "enabled": true,
+      "isBuiltIn": true,
+      "core": true,
+      "projectEnabled": true,
+      "capabilities": [
+        "vision"
+      ]
+    },
+    {
+      "name": "gpt-4.1-mini",
+      "provider": "openai",
+      "enabled": true,
+      "isBuiltIn": true,
+      "core": true,
+      "projectEnabled": true,
+      "capabilities": [
+        "vision"
+      ]
+    },
+    {
+      "name": "gpt-4.1-nano",
+      "provider": "openai",
+      "enabled": true,
+      "isBuiltIn": true,
+      "core": true,
+      "capabilities": [
+        "vision"
+      ]
+    },
+    {
+      "name": "o4-mini",
+      "provider": "openai",
+      "enabled": true,
+      "isBuiltIn": true,
+      "core": true,
+      "capabilities": [
+        "reasoning"
+      ]
+    },
+    {
+      "name": "claude-3-5-sonnet-latest",
+      "provider": "anthropic",
+      "enabled": false,
+      "isBuiltIn": true,
+      "core": true,
+      "capabilities": [
+        "vision"
+      ]
+    },
+    {
+      "name": "google/gemini-2.5-flash-lite",
+      "provider": "openrouterai",
+      "enabled": true,
+      "isBuiltIn": true,
+      "core": true,
+      "projectEnabled": true,
+      "capabilities": [
+        "vision"
+      ]
+    },
+    {
+      "name": "google/gemini-2.5-flash",
+      "provider": "openrouterai",
+      "enabled": true,
+      "isBuiltIn": true,
+      "core": true,
+      "projectEnabled": true,
+      "capabilities": [
+        "vision"
+      ]
+    },
+    {
+      "name": "google/gemini-2.5-pro",
+      "provider": "openrouterai",
+      "enabled": true,
+      "isBuiltIn": true,
+      "core": true,
+      "projectEnabled": true,
+      "capabilities": [
+        "vision"
+      ]
+    },
+    {
+      "name": "gpt-5",
+      "provider": "openai",
+      "enabled": true,
+      "isBuiltIn": true,
+      "core": true,
+      "capabilities": [
+        "vision"
+      ]
+    },
+    {
+      "name": "gpt-5-mini",
+      "provider": "openai",
+      "enabled": true,
+      "isBuiltIn": true,
+      "core": true,
+      "capabilities": [
+        "vision"
+      ]
+    },
+    {
+      "name": "google/gemini-2.5-flash-lite-preview-06-17",
+      "provider": "openrouterai",
+      "enabled": true,
+      "isBuiltIn": true,
+      "core": true,
+      "projectEnabled": true,
+      "capabilities": [
+        "vision"
+      ]
+    },
+    {
+      "name": "gpt-4o",
+      "provider": "openai",
+      "enabled": false,
+      "isBuiltIn": true,
+      "core": true,
+      "capabilities": [
+        "vision"
+      ],
+      "baseUrl": "",
+      "apiKey": ""
+    },
+    {
+      "name": "gpt-4o-mini",
+      "provider": "openai",
+      "enabled": false,
+      "isBuiltIn": true,
+      "core": true,
+      "capabilities": [
+        "vision"
+      ],
+      "baseUrl": "",
+      "apiKey": ""
+    }
+  ],
+  "activeEmbeddingModels": [
+    {
+      "name": "copilot-plus-small",
+      "provider": "copilot-plus",
+      "enabled": true,
+      "isBuiltIn": true,
+      "isEmbeddingModel": true,
+      "core": true,
+      "plusExclusive": true
+    },
+    {
+      "name": "copilot-plus-large",
+      "provider": "copilot-plus-jina",
+      "enabled": true,
+      "isBuiltIn": true,
+      "isEmbeddingModel": true,
+      "core": true,
+      "plusExclusive": true,
+      "believerExclusive": true,
+      "dimensions": 1024
+    },
+    {
+      "name": "copilot-plus-multilingual",
+      "provider": "copilot-plus-jina",
+      "enabled": true,
+      "isBuiltIn": true,
+      "isEmbeddingModel": true,
+      "core": true,
+      "plusExclusive": true,
+      "dimensions": 512
+    },
+    {
+      "name": "text-embedding-3-small",
+      "provider": "openai",
+      "enabled": true,
+      "isBuiltIn": true,
+      "isEmbeddingModel": true,
+      "core": true
+    },
+    {
+      "name": "gemini-embedding-001",
+      "provider": "google",
+      "enabled": true,
+      "isBuiltIn": true,
+      "isEmbeddingModel": true,
+      "core": true
+    },
+    {
+      "name": "Qwen/Qwen3-Embedding-0.6B",
+      "provider": "siliconflow",
+      "enabled": true,
+      "isBuiltIn": true,
+      "isEmbeddingModel": true,
+      "core": true,
+      "baseUrl": "https://api.siliconflow.com/v1"
+    },
+    {
+      "name": "copilot-plus-large",
+      "provider": "copilot-plus",
+      "enabled": true,
+      "isBuiltIn": true,
+      "isEmbeddingModel": true,
+      "core": true,
+      "believerExclusive": true
+    },
+    {
+      "name": "text-embedding-3-large",
+      "provider": "openai",
+      "enabled": true,
+      "isBuiltIn": true,
+      "isEmbeddingModel": true
+    },
+    {
+      "name": "embed-multilingual-light-v3.0",
+      "provider": "cohereai",
+      "enabled": true,
+      "isBuiltIn": true,
+      "isEmbeddingModel": true
+    },
+    {
+      "name": "text-embedding-004",
+      "provider": "google",
+      "enabled": true,
+      "isBuiltIn": true,
+      "isEmbeddingModel": true
+    },
+    {
+      "name": "azure-openai",
+      "provider": "azure openai",
+      "enabled": true,
+      "isBuiltIn": true,
+      "isEmbeddingModel": true
+    }
+  ],
+  "embeddingRequestsPerSecond": 10,
+  "disableIndexOnMobile": true,
+  "showSuggestedPrompts": true,
+  "showRelevantNotes": true,
+  "numPartitions": 1,
+  "enabledCommands": {
+    "fix-grammar-prompt": {
+      "enabled": true,
+      "name": "Fix grammar and spelling of selection"
+    },
+    "summarize-prompt": {
+      "enabled": true,
+      "name": "Summarize selection"
+    },
+    "generate-toc-prompt": {
+      "enabled": true,
+      "name": "Generate table of contents for selection"
+    },
+    "generate-glossary-prompt": {
+      "enabled": true,
+      "name": "Generate glossary for selection"
+    },
+    "simplify-prompt": {
+      "enabled": true,
+      "name": "Simplify selection"
+    },
+    "emojify-prompt": {
+      "enabled": false,
+      "name": "Emojify selection"
+    },
+    "remove-urls-prompt": {
+      "enabled": false,
+      "name": "Remove URLs from selection"
+    },
+    "rewrite-tweet-prompt": {
+      "enabled": true,
+      "name": "Rewrite selection to a tweet"
+    },
+    "rewrite-tweet-thread-prompt": {
+      "enabled": true,
+      "name": "Rewrite selection to a tweet thread"
+    },
+    "make-shorter-prompt": {
+      "enabled": true,
+      "name": "Make selection shorter"
+    },
+    "make-longer-prompt": {
+      "enabled": true,
+      "name": "Make selection longer"
+    },
+    "eli5-prompt": {
+      "enabled": true,
+      "name": "Explain selection like I'm 5"
+    },
+    "press-release-prompt": {
+      "enabled": true,
+      "name": "Rewrite selection to a press release"
+    },
+    "translate-selection-prompt": {
+      "enabled": true,
+      "name": "Translate selection"
+    },
+    "change-tone-prompt": {
+      "enabled": true,
+      "name": "Change tone of selection"
+    }
+  },
+  "promptUsageTimestamps": {
+    "无界003号成员_梦笔（头脑风暴）": 1750033339830,
+    "无界006号成员_活水（口播改稿）": 1750401074847,
+    "无界008号成员_萃露（内容提炼）": 1761552894377,
+    "无界007号成员_流萤（SEO优化）": 1760761841519,
+    "无界009号成员_字鉴（文风分析）": 1761552703053,
+    "无界010号成员_觅径（目标拆解）": 1762223740383
+  },
+  "defaultConversationNoteName": "{$topic}@{$date}_{$time}",
+  "anthropicModel": "claude-3-sonnet-20240229",
+  "openRouterModel": "cognitivecomputations/dolphin-mixtral-8x7b",
+  "defaultModel": "gpt-4-turbo-preview",
+  "defaultModelDisplayName": "GPT-4 TURBO",
+  "embeddingModel": "text-embedding-3-small",
+  "openAIProxyModelName": "",
+  "openAIEmbeddingProxyModelName": "",
+  "ollamaModel": "llama2",
+  "ollamaBaseUrl": "",
+  "lmStudioBaseUrl": "http://localhost:1234/v1",
+  "qaExclusionPaths": "",
+  "embeddingRequestsPerMin": 90,
+  "embeddingBatchSize": 16,
+  "userId": "54368dbf-a519-4cd6-b9fa-9f47bba465ee",
+  "passMarkdownImages": true,
+  "enableCustomPromptTemplating": true,
+  "includeActiveNoteAsContext": true,
+  "allowAdditionalContext": true,
+  "enableWordCompletion": false,
+  "suggestedDefaultCommands": true,
+  "promptSortStrategy": "timestamp",
+  "lastDismissedVersion": "3.1.2",
+  "lexicalSearchRamLimit": 100,
+  "generateAIChatTitleOnSave": true,
+  "enableAutocomplete": false,
+  "autonomousAgentMaxIterations": 4,
+  "autonomousAgentEnabledToolIds": [
+    "localSearch",
+    "readNote",
+    "webSearch",
+    "pomodoro",
+    "youtubeTranscription",
+    "writeToFile",
+    "replaceInFile",
+    "updateMemory"
+  ],
+  "memoryFolderName": "copilot/memory",
+  "enableRecentConversations": true,
+  "enableSavedMemory": true,
+  "maxRecentConversations": 30,
+  "quickCommandIncludeNoteContext": true,
+  "autoIncludeTextSelection": false,
+  "defaultSendShortcut": "enter"
+}

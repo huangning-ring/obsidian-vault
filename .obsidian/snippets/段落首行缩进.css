@@ -1,0 +1,115 @@
+
+/* ==================== 编辑视图 ==================== */
+/* 普通文本缩进 */
+.markdown-source-view.mod-cm6 div.cm-line:not(
+  .HyperMD-header,
+  .hr,
+  .cm-line:has(.list-bullet),
+  .cm-line:has(.list-number),
+  .cm-line:has(.task-list-label),
+  .cm-line:has(.cm-quote)
+),
+.markdown-source-view.mod-cm6.indent div.cm-line:not(
+  .HyperMD-header,
+  .hr,
+  .cm-line:has(.list-bullet),
+  .cm-line:has(.list-number),
+  .cm-line:has(.task-list-label),
+  .cm-line:has(.cm-quote)
+  ) {
+  text-indent: 2em;
+}
+
+/* 列表符号缩进 */
+.cm-line .list-bullet,
+.cm-line .list-number,
+.cm-line .task-list-label {
+  margin-left: 1.3em !important;
+}
+
+/* 列表引导线缩进 */
+.markdown-source-view.mod-cm6 .cm-line.HyperMD-list-line {
+  --indent-guide-offset: 1.3em; /* 与列表项缩进一致 */
+}
+.HyperMD-list-line .cm-indent::before {
+  left: var(--indent-guide-offset) !important;
+}
+
+/* 调整Frontmatter第一行的显示位置，避免被缩进影响YAML元数据的解析 */
+.markdown-source-view.mod-cm6 div.cm-line:not(.HyperMD-header, .hr) .cm-hmd-frontmatter:first-of-type,
+.markdown-source-view.mod-cm6.indent div.cm-line:not(.HyperMD-header, .hr) .cm-hmd-frontmatter:first-of-type {
+ margin-left: -2em;
+}
+
+/* 带横幅样式的Frontmatter特殊调整：1.重置定义字段的边距；2. 调整折叠指示器的位置） */
+.markdown-source-view.mod-cm6 div.has-banner.cm-line:not(.HyperMD-header, .hr) .cm-def.cm-hmd-frontmatter,
+.markdown-source-view.mod-cm6 div.has-banner.cm-line:not(.HyperMD-header, .hr) .collapse-indicator,
+.markdown-source-view.mod-cm6.indent div.has-banner.cm-line:not(.HyperMD-header, .hr) .cm-def.cm-hmd-frontmatter,
+.markdown-source-view.mod-cm6.indent div.has-banner.cm-line:not(.HyperMD-header, .hr) .collapse-indicator {
+  margin-left: 0;
+  left: -3em;
+}
+
+
+
+/* ==================== 阅读视图 ==================== */
+/* 列表符号缩进 */
+.markdown-preview-view ul,
+.markdown-preview-view ol,
+.markdown-preview-view ul.contains-task-list {
+  padding-left: 1.3em; /* 控制整体缩进距离 */
+}
+
+/* 无序子列表、有序子列表缩进 */
+.markdown-preview-view li > ul,
+.markdown-preview-view li > ol,
+.markdown-preview-view li > ul.contains-task-list {
+  padding-left: 0em; /* 子列表额外缩进 */
+}
+
+/* 任务子列表缩进 */
+.markdown-preview-view li > ul.contains-task-list {
+  padding-left: 0.5em; /* 子列表额外缩进 */
+}
+
+/* 对特定容器(el-p)内的段落应用缩进，排除blockquote中的段落 */
+[data-type="markdown"] div[class="el-p"]:not(blockquote) > p,
+[data-type="markdown"] :is(.markdown-preview-view,.markdown-rendered).indent div[class="el-p"]:not(blockquote) > p {
+  text-indent: 2.24em;
+}
+
+/* 处理换行符(br)的显示效果：1. 保留空白字符；2. 调整行高； */
+[data-type="markdown"] div[class="el-p"]:not(blockquote) > p>br,
+[data-type="markdown"] :is(.markdown-preview-view,.markdown-rendered).indent div[class="el-p"]:not(blockquote) >  p>br {
+  content: ' ';
+  white-space: pre;
+  line-height: calc((var(--paragraph-spacing) + 0.3)*1em);
+  display:unset;
+}
+
+/* 在换行后添加两个制表符和换行符，模拟段落缩进 */
+[data-type="markdown"] div[class="el-p"]:not(blockquote) > p>br::after,
+[data-type="markdown"] :is(.markdown-preview-view,.markdown-rendered).indent div[class="el-p"]:not(blockquote) >p>br::after {
+  content: '\A\0009\0009';
+}
+
+
+
+/* ==================== 打印样式 ==================== */
+/* 打印时的段落缩进设置，排除blockquote中的段落 */
+.print *:not(blockquote) > p {
+  text-indent: 2em;
+}
+
+/* 打印时的换行符处理，保持与屏幕显示相同的效果 */
+.print *:not(blockquote) > p>br {
+  content: ' ';
+  white-space: pre;
+  line-height: calc((var(--paragraph-spacing) + 0.3)*1em);
+  display:unset;
+}
+
+/* 打印时的换行后缩进 */
+.print *:not(blockquote) > p>br::after {
+  content: '\A\0009\0009';
+}

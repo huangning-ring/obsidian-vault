@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "skills": {
+    "html-ppt-maker": {
+      "name": "html-ppt-maker",
+      "version": "1.0.1",
+      "source": "redskill",
+      "install_dir": "C:\\Users\\29731\\OneDrive\\文档\\Obsidian Vault\\skills\\html-ppt-maker",
+      "installed_at": "1780523582471",
+      "sha256": "58d2fb07c5f39cdda98ddaf901f59bae466eb6b57f579a01387cd1c811ae0917"
+    }
+  }
+}
