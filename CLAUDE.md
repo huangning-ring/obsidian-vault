@@ -87,6 +87,26 @@ node vision.js --url "<图片链接>" "用中文描述这张图片"
 
 ***
 
+## 网页抓取注意事项
+
+### WebFetch 不可靠
+- WebFetch 工具经常返回 400 错误（如 `options type cannot be disabled when reasoning_effort is set`），不可作为主要的网页抓取手段。
+- 替代方案优先级：
+  1. **defuddle skill** — 优先用于解析标准网页为 Markdown（`defuddle parse <URL> --md`），能有效去除导航、广告等杂余内容。
+  2. **Bash + curl** — 直接 `curl -sL "<URL>"` 下载原始内容，配合 defuddle 或手动分析。
+  3. **WebFetch** — 仅作为后备，且不应依赖其成功。
+
+### .jsp 动态下载链接需带 Referer 头
+- 高校教务系统等网站的附件下载链接常为 `.jsp` 动态地址（如 `download.jsp?urltype=...&wbfileid=...`）。
+- 不带 `Referer` 头直接下载会拿到错误页面（HTML 而非真实文件），大小仅 3-4K。
+- **必须在 curl 中添加 `-e <来源页面URL>`** 参数：
+  ```
+  curl -sL -o "附件名.docx" -e "https://来源页面.htm" "https://.../download.jsp?urltype=..."
+  ```
+- 也可用 `-H "Referer: <URL>"` 等效替代。
+
+***
+
 ## 中文字号对照（参考）
 
 | 字号 | 磅数 |
