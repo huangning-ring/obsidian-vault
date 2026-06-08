@@ -3,7 +3,7 @@
   "permissionMode": "yolo",
   "model": "deepseek-v4-flash[1m]",
   "thinkingBudget": "off",
-  "effortLevel": "high",
+  "effortLevel": "low",
   "serviceTier": "default",
   "enableAutoTitleGeneration": true,
   "titleGenerationModel": "",
@@ -153,7 +153,7 @@
     "claude": "deepseek-v4-flash[1m]"
   },
   "savedProviderEffort": {
-    "claude": "high"
+    "claude": "low"
   },
   "savedProviderServiceTier": {},
   "savedProviderThinkingBudget": {},
