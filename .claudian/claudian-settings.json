@@ -61,7 +61,7 @@
       "id": "snippet-1780668309933",
       "name": "DeepSeek-V4-Pro",
       "description": "SiliconFlow",
-      "envVars": "ANTHROPIC_AUTH_TOKEN=sk-zyldlhnplcpjoddytdwijnzhbokrskufioqiginqkzpzuvvb\nANTHROPIC_BASE_URL=https://api.siliconflow.cn/\nANTHROPIC_MODEL=deepseek-ai/DeepSeek-V4-Pro\n",
+      "envVars": "ANTHROPIC_AUTH_TOKEN=sk-zyldlhnplcpjoddytdwijnzhbokrskufioqiginqkzpzuvvb\nANTHROPIC_BASE_URL=https://api.siliconflow.cn/\nANTHROPIC_MODEL=deepseek-ai/DeepSeek-V4-Pro\nANTHROPIC_DEFAULT_OPUS_MODEL=\"deepseek-ai/DeepSeek-V4-Pro\"\nANTHROPIC_DEFAULT_SONNET_MODEL=\"deepseek-ai/DeepSeek-V4-Flash\"\nANTHROPIC_DEFAULT_HAIKU_MODEL=\"Pro/MiniMaxAI/MiniMax-M2.5\"\nCLAUDE_CODE_DISABLE_NONESSENTIAL_TRAFFIC=\"1\"\nCLAUDE_CODE_EFFORT_LEVEL=\"max\"",
       "scope": "provider:claude",
       "contextLimits": {
         "deepseek-ai/DeepSeek-V4-Pro": 1000000

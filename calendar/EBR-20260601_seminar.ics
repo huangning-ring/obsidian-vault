@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//bb-browser//Seminar Extractor//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:EBR-20260601@seminar
+DTSTART:20260601T133000
+DTEND:20260601T143000
+SUMMARY:EBR Seminar: Unlocking the Female Ribosome and the Epigenetic Androgen Clock
+DESCRIPTION:Speaker: Professor Tim Hore (University of Otago, New Zealand)\nHost: Dr Doug Vernimmen\n\nTitle: "Unlocking the Female Ribosome and the Epigenetic Androgen Clock"\n\nProf Hore created the first successful knockout of rDNA in a vertebrate (Danio rerio), finding it effectively blocked female differentiation. Also works on the Androgen Clock, a predictor of long-term male hormone exposure in mammals based on DNA methylation profiles.
+LOCATION:Roslin Institute Auditorium
+ORGANIZER;CN=Douglas Vernimmen:mailto:douglas.vernimmen@roslin.ed.ac.uk
+END:VEVENT
+END:VCALENDAR

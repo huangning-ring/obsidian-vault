@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//bb-browser//Seminar Extractor//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:CIR-20260608@seminar
+DTSTART:2026undefined08T120000
+DTEND:2026undefined08T130000
+SUMMARY:CIR Seminar: The Challenges for Precision Medicine in Acute Illness
+DESCRIPTION:Speaker: Professor Christopher W. Seymour, MD, MSc\nProfessor of Critical Care Medicine and Emergency Medicine\nUniversity of Pittsburgh\nDirector, TraCS Program, CRISMA\nAssociate Editor, JAMA\n\nHost: Professor Kenny Baillie\n\nAbstract: This seminar explores the opportunities and challenges of implementing precision medicine approaches in acute illness and critical care.
+LOCATION:IRR South large seminar room
+ORGANIZER;CN=CIR Seminars:mailto:CIR.seminars@ed.ac.uk
+END:VEVENT
+END:VCALENDAR
