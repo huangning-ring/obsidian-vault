@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//bb-browser//Seminar Extractor//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:giles-yeo-ondemand
+DTSTART:20260602T000000
+DTEND:20260602T010000
+SUMMARY:ONLINE: In a post-Ozempic world, have we cured obesity? (Pre-recorded)
+DESCRIPTION:Pre-recorded seminar by Professor Giles Yeo (University of Cambridge).\n\nRecommended by Vicky MacRae. Giles is a geneticist specialised in obesity biology, often speaks at science festivals.\n\nWatch on-demand.\n\n⚠️ This is a pre-recorded talk - watch at your convenience
+LOCATION:Online (recorded link)
+ORGANIZER;CN=Vicky MacRae:mailto:vicky.macrae@roslin.ed.ac.uk
+END:VEVENT
+END:VCALENDAR

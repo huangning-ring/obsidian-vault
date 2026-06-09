@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//bb-browser//Seminar Extractor//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:lab-meeting-20260529
+DTSTART:20260529T100000
+DTEND:20260529T110000
+SUMMARY:MacRae Lab Meeting
+DESCRIPTION:Weekly MacRae group lab meeting.
+LOCATION:Roslin Institute
+ORGANIZER;CN=Vicky MacRae:mailto:vicky.macrae@roslin.ed.ac.uk
+END:VEVENT
+END:VCALENDAR

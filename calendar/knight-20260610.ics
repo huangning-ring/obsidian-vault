@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//bb-browser//Seminar Extractor//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:knight-20260610
+DTSTART:20260610T091500
+DTEND:20260610T102000
+SUMMARY:Lab Visit: Screening for in vivo modifiers of muscle repair in ageing and disease
+DESCRIPTION:Speaker: Dr Robert Knight\nHost: Vicky MacRae group\n\nArrive early (9:15am) to set up computer. Finish by 10:20am (virology seminar follows).
+LOCATION:Room 2.003
+ORGANIZER;CN=Vicky MacRae:mailto:vicky.macrae@roslin.ed.ac.uk
+END:VEVENT
+END:VCALENDAR
