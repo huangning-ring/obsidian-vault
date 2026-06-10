@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//bb-browser//Email Scan//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ohge-20260616-community
+DTSTART:20260616T090000
+DTEND:20260616T170000
+SUMMARY:One Health Genomics Edinburgh Community Meeting
+DESCRIPTION:Keynote speakers: Mirte Bosse (Wageningen University), Pete Hollingsworth (RBGE), Didier Trono (EPFL). EMS300 celebratory lecture: Wendy Bickmore (IGC) - 'Mutations and disease: From mustard gas to genome sequencing'. 10+ presentations on biodiversity genomics, conservation, and health.
+LOCATION:Appleton Tower, George Square
+ORGANIZER;CN=Tim Aitman, Rob Ogden et al.:mailto:genomics_network@ed.ac.uk
+END:VEVENT
+END:VCALENDAR

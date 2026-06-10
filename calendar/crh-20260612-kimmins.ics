@@ -1,15 +1,15 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//bb-browser//Seminar Extractor//EN
+PRODID:-//bb-browser//Email Scan//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:crh-20260612-kimmins
 DTSTART:20260612T140000
 DTEND:20260612T150000
-SUMMARY:CRH Seminar: FROM INHERITANCE TO INTERVENTION - Reprogramming the Sperm Epigenome
-DESCRIPTION:Speaker: Professor Sarah Kimmins (University of Montreal)\nHost: Niamh Forde\n\nSenior Tier 1 Canada Research Chair in Epigenetic Inheritance of Disease. Research on how paternal environment shapes sperm epigenetic programming. Also Founder and CEO of HisTurn (male fertility diagnostics).
-LOCATION:IRR SOUTH, SEMINAR ROOM (1.05)
-ORGANIZER;CN=CRH Seminars:mailto:crh.seminars@ed.ac.uk
+SUMMARY:CRH Seminar: Prof Sarah Kimmins - "Reprogramming the Sperm Epigenome"
+DESCRIPTION:Speaker: Professor Sarah Kimmins, Department of Pathology and Cell Biology, Université de Montréal, Canada. Title: 'FROM INHERITANCE TO INTERVENTION: REPROGRAMMING THE SPERM EPIGENOME'. Host: Niamh Forde.
+LOCATION:IRR SOUTH, Seminar Room (1.05)
+ORGANIZER;CN=CRH Seminars:mailto:CRH.Seminars@ed.ac.uk
 END:VEVENT
 END:VCALENDAR
