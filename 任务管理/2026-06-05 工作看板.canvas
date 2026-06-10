@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"sync-note","type":"file","file":"笔记同步助手/2026-06-05/同步助手_2026-06-05.md","x":-360,"y":40,"width":460,"height":170},
-		{"id":"epigene-docx","type":"file","file":"笔记同步助手/attachments/Epigenetic_Calcification_Lecture.docx","x":-360,"y":260,"width":460,"height":130},
+		{"id":"epigene-docx","type":"file","file":"分子生物学/Epigenetic_Calcification_Lecture.docx","x":-360,"y":260,"width":460,"height":130},
 		{"id":"wechat-article","type":"file","file":"笔记同步助手/2026-06-05/终于搞定微信公众号订阅、下载、RSS，让 Agent 替我刷公众号，消息不再错过.md","x":220,"y":40,"width":500,"height":190},
 		{"id":"workflow-problem","type":"text","text":"## 问题\n信息过载、公众号抓不到、缺少标准 RSS/API。Agent 想自动阅读和归档，但公众号内容长期像围墙花园。","x":220,"y":260,"width":500,"height":180},
 		{"id":"workflow-solution","type":"text","text":"## 方案\n使用 we-mp-rss 生成 RSS，并导出 PDF/Word/HTML；通过 Access Key 让 Agent 直接读取 API、拉取文章。","x":220,"y":460,"width":500,"height":180},

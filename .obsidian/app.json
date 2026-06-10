@@ -10,7 +10,7 @@
     "margin": "0",
     "downscalePercent": 89
   },
-  "trashOption": "local",
+  "trashOption": "system",
   "userIgnoreFilters": [
     ".claude/",
     ".claudian/",
@@ -25,6 +25,7 @@
     "OneNote/",
     "ringtone/",
     "scripts/",
+    "_code_archive/",
     "_code_archive/"
   ]
 }
