@@ -43,5 +43,5 @@
   },
   "realtimeSync": true,
   "startupSyncDelaySeconds": 1,
-  "autoSyncIntervalSeconds": 600
+  "autoSyncIntervalSeconds": 1800
 }
