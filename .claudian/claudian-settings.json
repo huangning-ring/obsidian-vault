@@ -10,7 +10,9 @@
   "excludedTags": [],
   "mediaFolder": "",
   "systemPrompt": "",
-  "persistentExternalContextPaths": [],
+  "persistentExternalContextPaths": [
+    "C:\\Users\\29731\\OneDrive\\Desktop\\研究方案"
+  ],
   "sharedEnvironmentVariables": "",
   "envSnippets": [
     {

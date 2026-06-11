@@ -11,4 +11,4 @@ Endometrium calcification is the marker of atherosclerosis while Mesentery calci
 # The molecular engine behind vascular calcification
 RUNX2's position in the progress has been already detected by conditional knock out, which meant that RUNX2 plays a key role in AMC differentiation to osteoblasts. 
 One more thing: an improtant environment signal that inhibits liver cell ABCC6, like ERK and ROS, will drive RUNX2 upregulate in VSMC, causing a vicious spiral. Until now, everything were connected.
-A new landmarking research were 
+A new landmarking research were conducted by Kathy Shanahan's team, describing that when DNA is damaging, PARP enzyme 合成 PAR and attach to target protein, and the PAR化 protein and free PAR are released to extracellular matrix. These PAR and protein will result in mineral 成核位点, ending the 沉积 of 羟基磷灰石。In a word, PARP is been associated
