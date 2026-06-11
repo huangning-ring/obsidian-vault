@@ -11,4 +11,9 @@ Endometrium calcification is the marker of atherosclerosis while Mesentery calci
 # The molecular engine behind vascular calcification
 RUNX2's position in the progress has been already detected by conditional knock out, which meant that RUNX2 plays a key role in AMC differentiation to osteoblasts. 
 One more thing: an improtant environment signal that inhibits liver cell ABCC6, like ERK and ROS, will drive RUNX2 upregulate in VSMC, causing a vicious spiral. Until now, everything were connected.
-A new landmarking research were conducted by Kathy Shanahan's team, describing that when DNA is damaging, PARP enzyme 合成 PAR and attach to target protein, and the PAR化 protein and free PAR are released to extracellular matrix. These PAR and protein will result in mineral 成核位点, ending the 沉积 of 羟基磷灰石。In a word, PARP is been associated
+A new landmarking research were conducted by Kathy Shanahan's team, describing that when DNA is damaging, PARP enzyme 合成 PAR and attach to target protein, and the PAR化 protein and free PAR are released to extracellular matrix. These PAR and protein will result in mineral 成核位点, ending the 沉积 of 羟基磷灰石。In a word, PARP is associated with DNA damage and activates 成骨程序control.
+# Epigenetics
+## Relation to vascular calcification
+The first connetion between epigenetics and vascular calcification is the phenomenon we mentioned above: transdifferenciation of VSMC is driven by essential transformation in cell destiny. Secondly, we have discussed environmental triggering factors of vascular calcification: oxidative stress and  phosphate elevation, which are normal stimulation factors to drive epigenetic changes.
+However, there still keeps a limited number of reports to actually relate epigenetics to calcification.
+## Specific epigenetic mechanism in vascular calcification
