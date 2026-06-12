@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//bb-browser//Seminar Extractor//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:cir-20260526-ghaffari
+DTSTART:20260526T120000
+DTEND:20260526T130000
+SUMMARY:CIR Seminar: Lysosomes in Reversing Hematopoietic Stem Cell Aging
+DESCRIPTION:Speaker: Professor Saghi Ghaffari (Icahn School of Medicine at Mount Sinai, New York)\nHost: Professor Chris Lucas\n\nCIR student meet-the-speaker session at 1pm. Lunch provided - contact Verity Cowell for dietary requirements.\n\nLink: https://labs.icahn.mssm.edu/ghaffarilab/\n\n⚠️ Contact Verity Cowell V.E.Cowell@sms.ed.ac.uk if attending student lunch session
+LOCATION:IRR South large seminar room
+ORGANIZER;CN=CIR Seminars:mailto:CIR.seminars@ed.ac.uk
+END:VEVENT
+END:VCALENDAR

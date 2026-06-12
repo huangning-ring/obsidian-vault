@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//bb-browser//Seminar Extractor//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:livsct-20260604-clague
+DTSTART:20260604T143000
+DTEND:20260604T153000
+SUMMARY:LivSCt@RI: Ubiquitin and regulation of mitochondrial health
+DESCRIPTION:Speaker: Professor Mike Clague (University of Liverpool)\n\nInstitute of Systems, Molecular & Integrative Biology. Expert in membrane trafficking, autophagy, mitochondrial dynamics, cancer and neurodegeneration. Focus on deubiquitylase (DUB) family enzymes.\n\nLink: https://pcwww.liv.ac.uk/~clague/\n\n⚠️ TEAMs link available for remote attendance upon request
+LOCATION:Rm 1-003, Roslin Institute
+ORGANIZER;CN=Tom Burdon:mailto:tom.burdon@roslin.ed.ac.uk
+END:VEVENT
+END:VCALENDAR

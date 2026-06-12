@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//bb-browser//Seminar Extractor//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:paul-welcome-20260525
+DTSTART:20260525T173000
+DTEND:20260525T190000
+SUMMARY:Welcome coffee with Paul Tang
+DESCRIPTION:Informal welcome meeting with Paul Tang for new GMU visiting students. Chat about travelling to Roslin, getting around Edinburgh, things to do.\n\nLink: https://maps.app.goo.gl/UfzgUK8C2kwQVPaL9\n\n⚠️ Paul and April will be there
+LOCATION:Cult Coffee Roasters, Buccleuch Street, EH8 9NG
+ORGANIZER;CN=Paul Tang:mailto:qtang@ed.ac.uk
+END:VEVENT
+END:VCALENDAR

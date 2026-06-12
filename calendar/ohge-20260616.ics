@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//bb-browser//Seminar Extractor//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ohge-20260616
+DTSTART:20260616T090000
+DTEND:20260616T170000
+SUMMARY:One Health Genomics Edinburgh Community Meeting 2026
+DESCRIPTION:Full-day community meeting bringing together genetics and genomics researchers.\n\nKeynotes: Mirte Bosse (Wageningen), Pete Hollingsworth (RBGE), Didier Trono (EPFL)\nEMS300 lecture: Wendy Bickmore\n\nPlus talks from Dan McQueen, Ross Fitzgerald, Emily Humble, Chumeng Zhu, Kyle Ewart and many more.\n\nLink: https://onehealthgenomics.ed.ac.uk/communitymeeting2026\n\n⚠️ Register by 1st June: https://forms.office.com/e/pksbT9quJX
+LOCATION:Appleton Tower, George Square
+ORGANIZER;CN=OHGE Committee:mailto:genomics_network@ed.ac.uk
+END:VEVENT
+END:VCALENDAR

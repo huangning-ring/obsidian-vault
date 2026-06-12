@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//bb-browser//Seminar Extractor//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:zeiss-demo-20260617
+DTSTART:20260617T100000
+DTEND:20260617T160000
+SUMMARY:Zeiss Lightfield 4D and LSM 990 Airyscan Demo
+DESCRIPTION:From Paul Tang: Zeiss demonstrating Lightfield 4D imaging system - captures fast 3D images from thick fluorescent samples (zebrafish, organoids, tissue slices).\n\nOrganised by Matthieu Vermeren. Demo by Daniel Soong in the Zebrafish Imaging Facility.\n\nZeiss bringing Krispy Kreme donuts!\n\n⚠️ Contact Daniel Soong to test the system. Fill in form for time slot. Krispy Kreme donuts provided!
+LOCATION:Zebrafish Imaging Facility, Chancellors Building
+ORGANIZER;CN=Matthieu Vermeren:mailto:matthieu.vermeren@ed.ac.uk
+END:VEVENT
+END:VCALENDAR

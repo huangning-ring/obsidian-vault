@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//bb-browser//Seminar Extractor//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:induction-20260602
+DTSTART:20260602T090000
+DTEND:20260602T160000
+SUMMARY:Easter Bush Campus Induction Day for New Starts
+DESCRIPTION:Mandatory induction for all new staff and visiting students.\n\n9:00 Coffee/tea/networking outside Room B-006\n9:30 Presentations begin.\n\nLink: https://uoe.sharepoint.com/sites/collegemvm/easterbush/Shared%20Documents/Forms/AllItems.aspx\n\n⚠️ No booking needed. Bring bottled water. Limited breaks.
+LOCATION:Roslin Institute, Room B-006
+ORGANIZER;CN=EB Staffing Team:mailto:ebstaffingteam@ed.ac.uk
+END:VEVENT
+END:VCALENDAR

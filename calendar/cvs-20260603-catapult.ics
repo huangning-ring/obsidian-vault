@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//bb-browser//Seminar Extractor//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:cvs-20260603-catapult
+DTSTART:20260603T120000
+DTEND:20260603T130000
+SUMMARY:SEMINAR SERIES: My Journey Through Science / Who and What Are Catapult?
+DESCRIPTION:Speaker 1: Alison Daniels (Cell and Gene Therapy Catapult)\n  "My Journey Through Science So Far"\nSpeaker 2: Francis Acklam (Cell and Gene Therapy Catapult)\n  "Who And What Are Catapult?"\nHost: Angus Comerford\n\nPizza social 13:00-13:30 at The Larder.\n\n⚠️ Pizza provided after seminar at The Larder, 13:00-13:30
+LOCATION:Auditorium A, Shirley Hall, Chancellors Building
+ORGANIZER;CN=Lorraine Vaughan:mailto:
+END:VEVENT
+END:VCALENDAR
