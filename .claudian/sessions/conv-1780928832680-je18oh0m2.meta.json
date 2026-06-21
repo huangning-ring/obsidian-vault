@@ -1,0 +1,23 @@
+{
+  "id": "conv-1780928832680-je18oh0m2",
+  "providerId": "claude",
+  "title": "Summarize web search and scraping rules in CLAU...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1780928832680,
+  "updatedAt": 1780952921546,
+  "lastResponseAt": 1780929537291,
+  "sessionId": null,
+  "providerState": {
+    "providerSessionId": "d0ae5334-26f1-4fb2-ac90-ce1fb07bea48"
+  },
+  "usage": {
+    "model": "deepseek-v4-flash[1m]",
+    "inputTokens": 64,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 75136,
+    "contextWindow": 1000000,
+    "contextTokens": 75200,
+    "percentage": 8,
+    "contextWindowIsAuthoritative": true
+  }
+}

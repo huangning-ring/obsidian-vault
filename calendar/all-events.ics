@@ -1,0 +1,255 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//bb-browser//Email Scan//EN
+BEGIN:VEVENT
+UID:cir-20260526-ghaffari
+DTSTART:20260526T120000
+DTEND:20260526T130000
+SUMMARY:CIR Seminar: Lysosomes in Reversing Hematopoietic Stem Cell Aging
+DESCRIPTION:Speaker: Professor Saghi Ghaffari (Icahn School of Medicine at Mount Sinai, New York)\nHost: Professor Chris Lucas\n\nCIR student meet-the-speaker session at 1pm. Lunch provided - contact Verity Cowell for dietary requirements.\n\nLink: https://labs.icahn.mssm.edu/ghaffarilab/\n\n⚠️ Contact Verity Cowell V.E.Cowell@sms.ed.ac.uk if attending student lunch session
+LOCATION:IRR South large seminar room
+ORGANIZER;CN=CIR Seminars:mailto:CIR.seminars@ed.ac.uk
+END:VEVENT
+BEGIN:VEVENT
+UID:cir-20260608-seymour
+DTSTART:20260608T120000
+DTEND:20260608T130000
+SUMMARY:CIR Seminar: The Challenges for Precision Medicine in Acute Illness
+DESCRIPTION:Speaker: Professor Christopher W. Seymour (University of Pittsburgh)\nHost: Professor Kenny Baillie\n\nDirector, TraCS Program, CRISMA. Associate Editor, JAMA.\n\nMSc/PhD students and early career postdocs invited to informal lunch and discussion after.\n\n⚠️ Contact Adam Truelove v1atruel@ed.ac.uk for student lunch (+dietary requirements)
+LOCATION:IRR South large seminar room
+ORGANIZER;CN=CIR Seminars:mailto:CIR.seminars@ed.ac.uk
+END:VEVENT
+BEGIN:VEVENT
+UID:crh-20260529-martins
+DTSTART:20260529T140000
+DTEND:20260529T150000
+SUMMARY:IRR SPECIAL SEMINAR: Drug Discovery for Womens Health
+DESCRIPTION:Speaker: Professor Sarah Martins da Silva (University of Dundee)\nHost: Andrew Horne\n\nReproduction and Fertility Medicine - translational research on male infertility, sperm biology and drug discovery.
+LOCATION:IRR SOUTH, SEMINAR ROOM (1.05)
+ORGANIZER;CN=CRH Seminars:mailto:CRH.Seminars@ed.ac.uk
+END:VEVENT
+BEGIN:VEVENT
+UID:crh-20260612-kimmins
+DTSTART:20260612T140000
+DTEND:20260612T150000
+SUMMARY:CRH Seminar: FROM INHERITANCE TO INTERVENTION - Reprogramming the Sperm Epigenome
+DESCRIPTION:Speaker: Professor Sarah Kimmins (University of Montreal)\nHost: Niamh Forde\n\nSenior Tier 1 Canada Research Chair in Epigenetic Inheritance of Disease. Research on how paternal environment shapes sperm epigenetic programming. Also Founder and CEO of HisTurn (male fertility diagnostics).
+LOCATION:IRR SOUTH, SEMINAR ROOM (1.05)
+ORGANIZER;CN=CRH Seminars:mailto:crh.seminars@ed.ac.uk
+END:VEVENT
+BEGIN:VEVENT
+UID:cvs-20260603-catapult
+DTSTART:20260603T120000
+DTEND:20260603T130000
+SUMMARY:SEMINAR SERIES: My Journey Through Science / Who and What Are Catapult?
+DESCRIPTION:Speaker 1: Alison Daniels (Cell and Gene Therapy Catapult)\n  "My Journey Through Science So Far"\nSpeaker 2: Francis Acklam (Cell and Gene Therapy Catapult)\n  "Who And What Are Catapult?"\nHost: Angus Comerford\n\nPizza social 13:00-13:30 at The Larder.\n\n⚠️ Pizza provided after seminar at The Larder, 13:00-13:30
+LOCATION:Auditorium A, Shirley Hall, Chancellors Building
+ORGANIZER;CN=Lorraine Vaughan:mailto:
+END:VEVENT
+BEGIN:VEVENT
+UID:cvs-20260610-lygate
+DTSTART:20260610T120000
+DTEND:20260610T130000
+SUMMARY:SEMINAR SERIES: A tale of two metabolites - Creatine and Homoarginine in Heart Disease
+DESCRIPTION:Speaker: Craig Lygate (University of Glasgow)\nHost: Cecile Benezech\n\nTitle: "A tale of two metabolites: the therapeutic potential of creatine and homoarginine in heart disease"\n\nCreatine matches energy supply and demand in the heart. Homoarginine associated with poor outcomes in CVD.\n\nPizza social 13:00-13:30 at The Larder.\n\n⚠️ Pizza provided after at The Larder
+LOCATION:Auditorium A, Shirley Hall, Chancellors Building
+ORGANIZER;CN=Rosie Adam:mailto:rosie.adam@ed.ac.uk
+END:VEVENT
+BEGIN:VEVENT
+UID:ebr-20260601-hore
+DTSTART:20260601T133000
+DTEND:20260601T143000
+SUMMARY:EBR Seminar: Unlocking the Female Ribosome and the Epigenetic Androgen Clock
+DESCRIPTION:Speaker: Professor Tim Hore (University of Otago, New Zealand)\nHost: Dr Doug Vernimmen\n\nPart 1: fem-rDNA knockout in zebrafish - effectively blocked female differentiation.\nPart 2: Androgen Clock - predictor of long-term male hormone exposure from DNA methylation.
+LOCATION:Roslin Institute Auditorium
+ORGANIZER;CN=Douglas Vernimmen:mailto:douglas.vernimmen@roslin.ed.ac.uk
+END:VEVENT
+BEGIN:VEVENT
+UID:first-roslin-20260528
+DTSTART:20260528T093000
+DTEND:20260528T100000
+SUMMARY:First arrival at Roslin Campus
+DESCRIPTION:First day at Roslin Institute. Arrive around 9:30am. Lab meeting at 10am. Campus tour.
+LOCATION:Roslin Institute, Easter Bush Campus
+ORGANIZER;CN=Vicky MacRae:mailto:vicky.macrae@roslin.ed.ac.uk
+END:VEVENT
+BEGIN:VEVENT
+UID:giles-yeo-ondemand
+DTSTART:20260602T000000
+DTEND:20260602T010000
+SUMMARY:ONLINE: In a post-Ozempic world, have we cured obesity? (Pre-recorded)
+DESCRIPTION:Pre-recorded seminar by Professor Giles Yeo (University of Cambridge).\n\nRecommended by Vicky MacRae. Giles is a geneticist specialised in obesity biology, often speaks at science festivals.\n\nWatch on-demand.\n\n⚠️ This is a pre-recorded talk - watch at your convenience
+LOCATION:Online (recorded link)
+ORGANIZER;CN=Vicky MacRae:mailto:vicky.macrae@roslin.ed.ac.uk
+END:VEVENT
+BEGIN:VEVENT
+UID:induction-20260602
+DTSTART:20260602T090000
+DTEND:20260602T160000
+SUMMARY:Easter Bush Campus Induction Day for New Starts
+DESCRIPTION:Mandatory induction for all new staff and visiting students.\n\n9:00 Coffee/tea/networking outside Room B-006\n9:30 Presentations begin.\n\nLink: https://uoe.sharepoint.com/sites/collegemvm/easterbush/Shared%20Documents/Forms/AllItems.aspx\n\n⚠️ No booking needed. Bring bottled water. Limited breaks.
+LOCATION:Roslin Institute, Room B-006
+ORGANIZER;CN=EB Staffing Team:mailto:ebstaffingteam@ed.ac.uk
+END:VEVENT
+BEGIN:VEVENT
+UID:knight-20260610
+DTSTART:20260610T091500
+DTEND:20260610T102000
+SUMMARY:Lab Visit: Screening for in vivo modifiers of muscle repair in ageing and disease
+DESCRIPTION:Speaker: Dr Robert Knight\nHost: Vicky MacRae group\n\nArrive early (9:15am) to set up computer. Finish by 10:20am (virology seminar follows).
+LOCATION:Room 2.003
+ORGANIZER;CN=Vicky MacRae:mailto:vicky.macrae@roslin.ed.ac.uk
+END:VEVENT
+BEGIN:VEVENT
+UID:lab-meeting-20260528
+DTSTART:20260528T100000
+DTEND:20260528T113000
+SUMMARY:MacRae Lab Meeting
+DESCRIPTION:Weekly MacRae group lab meeting.
+LOCATION:Roslin Institute
+ORGANIZER;CN=Vicky MacRae:mailto:vicky.macrae@roslin.ed.ac.uk
+END:VEVENT
+BEGIN:VEVENT
+UID:lab-meeting-20260529
+DTSTART:20260529T100000
+DTEND:20260529T110000
+SUMMARY:MacRae Lab Meeting
+DESCRIPTION:Weekly MacRae group lab meeting.
+LOCATION:Roslin Institute
+ORGANIZER;CN=Vicky MacRae:mailto:vicky.macrae@roslin.ed.ac.uk
+END:VEVENT
+BEGIN:VEVENT
+UID:livsct-20260604-clague
+DTSTART:20260604T143000
+DTEND:20260604T153000
+SUMMARY:LivSCt@RI: Ubiquitin and regulation of mitochondrial health
+DESCRIPTION:Speaker: Professor Mike Clague (University of Liverpool)\n\nInstitute of Systems, Molecular & Integrative Biology. Expert in membrane trafficking, autophagy, mitochondrial dynamics, cancer and neurodegeneration. Focus on deubiquitylase (DUB) family enzymes.\n\nLink: https://pcwww.liv.ac.uk/~clague/\n\n⚠️ TEAMs link available for remote attendance upon request
+LOCATION:Rm 1-003, Roslin Institute
+ORGANIZER;CN=Tom Burdon:mailto:tom.burdon@roslin.ed.ac.uk
+END:VEVENT
+BEGIN:VEVENT
+UID:mitotalks-20260528
+DTSTART:20260528T160000
+DTEND:20260528T170000
+SUMMARY:MITOtalks: Insights into the metabolic regulation of de novo peroxisome biogenesis
+DESCRIPTION:Speaker: Heidi McBride (McGill University)\n\nOnline seminar about peroxisome biogenesis - a multiorganellar endeavour.\n\nLink: https://psu.zoom.us/j/93394520046\n\n⚠️ Check timezone - originally 17:00 CET
+LOCATION:Online (Zoom)
+ORGANIZER;CN=MITOtalks:mailto:mitotalks@lists.umu.se
+END:VEVENT
+BEGIN:VEVENT
+UID:ohge-20260616
+DTSTART:20260616T090000
+DTEND:20260616T170000
+SUMMARY:One Health Genomics Edinburgh Community Meeting 2026
+DESCRIPTION:Full-day community meeting bringing together genetics and genomics researchers.\n\nKeynotes: Mirte Bosse (Wageningen), Pete Hollingsworth (RBGE), Didier Trono (EPFL)\nEMS300 lecture: Wendy Bickmore\n\nPlus talks from Dan McQueen, Ross Fitzgerald, Emily Humble, Chumeng Zhu, Kyle Ewart and many more.\n\nLink: https://onehealthgenomics.ed.ac.uk/communitymeeting2026\n\n⚠️ Register by 1st June: https://forms.office.com/e/pksbT9quJX
+LOCATION:Appleton Tower, George Square
+ORGANIZER;CN=OHGE Committee:mailto:genomics_network@ed.ac.uk
+END:VEVENT
+BEGIN:VEVENT
+UID:paul-welcome-20260525
+DTSTART:20260525T173000
+DTEND:20260525T190000
+SUMMARY:Welcome coffee with Paul Tang
+DESCRIPTION:Informal welcome meeting with Paul Tang for new GMU visiting students. Chat about travelling to Roslin, getting around Edinburgh, things to do.\n\nLink: https://maps.app.goo.gl/UfzgUK8C2kwQVPaL9\n\n⚠️ Paul and April will be there
+LOCATION:Cult Coffee Roasters, Buccleuch Street, EH8 9NG
+ORGANIZER;CN=Paul Tang:mailto:qtang@ed.ac.uk
+END:VEVENT
+BEGIN:VEVENT
+UID:starbucks-meet-20260526
+DTSTART:20260526T093000
+DTEND:20260526T103000
+SUMMARY:Welcome meeting with Vicky - Starbucks
+DESCRIPTION:First informal meeting with Vicky at Starbucks Middle Meadow Walk. Discuss study programme, show university buildings.\n\nLink: https://www.starbucks.co.uk/store-locator/12857
+LOCATION:Starbucks, Middle Meadow Walk, Edinburgh
+ORGANIZER;CN=Vicky MacRae:mailto:vicky.macrae@roslin.ed.ac.uk
+END:VEVENT
+BEGIN:VEVENT
+UID:zeiss-demo-20260617
+DTSTART:20260617T100000
+DTEND:20260617T160000
+SUMMARY:Zeiss Lightfield 4D and LSM 990 Airyscan Demo
+DESCRIPTION:From Paul Tang: Zeiss demonstrating Lightfield 4D imaging system - captures fast 3D images from thick fluorescent samples (zebrafish, organoids, tissue slices).\n\nOrganised by Matthieu Vermeren. Demo by Daniel Soong in the Zebrafish Imaging Facility.\n\nZeiss bringing Krispy Kreme donuts!\n\n⚠️ Contact Daniel Soong to test the system. Fill in form for time slot. Krispy Kreme donuts provided!
+LOCATION:Zebrafish Imaging Facility, Chancellors Building
+ORGANIZER;CN=Matthieu Vermeren:mailto:matthieu.vermeren@ed.ac.uk
+END:VEVENT
+BEGIN:VEVENT
+UID:zhao-20260615-condensate
+DTSTART:20260615T150000
+DTEND:20260615T160000
+SUMMARY:Special Condensate Seminar: Imaging, Quantifying and Mapping Chromatin Remodeler Dynamics
+DESCRIPTION:Speaker: Ziqing Winston Zhao (National University of Singapore)\nHost: Eric Schirmer\n\nCentre for BioImaging Sciences, NUS. Single-molecule imaging of SWI/SNF chromatin remodelers and BRG1 intra-nuclear condensates. PhD at Harvard (Xie lab), post-doc at A*Star.\n\n⚠️ Contact Eric if you want to meet with Winston before/after the seminar
+LOCATION:Swann 7.20, Kings Buildings
+ORGANIZER;CN=Eric Schirmer:mailto:eric.schirmer@ed.ac.uk
+END:VEVENT
+
+BEGIN:VEVENT
+UID:vicky-tutorial-20260618
+DTSTART:20260618T103000
+DTEND:20260618T113000
+SUMMARY:Group Tutorial with Vicky MacRae
+DESCRIPTION:Study assignment feedback discussion. Written summaries reviewed. Literature review titles assigned.
+LOCATION:Office area (meeting room booked by Vicky)
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:cvs-seminar-salem-20260622
+DTSTART:20260622T120000
+DTEND:20260622T130000
+SUMMARY:CVS Seminar - Non-animal models for diabetes regenerative medicine
+DESCRIPTION:Speaker: Prof Victoria Salem (King's College London). Title: Non-animal models to study regenerative medicine for diabetes.\nHost: Ahmad Al-Mrabeh.\nSocial: Pizza in The Larder 13:00-13:30.
+LOCATION:Wellcome Theatre, QMRI
+STATUS:TENTATIVE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:cir-seminar-amulic-20260622
+DTSTART:20260622T120000
+DTEND:20260622T130000
+SUMMARY:CIR Seminar - Fine tuning the neutrophil response
+DESCRIPTION:Speaker: Dr Borko Amulic (Univ of Bristol). Title: Fine tuning the neutrophil response for improved infection outcome.\nHost: Dr Sonja Vermeren.
+LOCATION:IRR South seminar room
+STATUS:TENTATIVE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:cir-seminar-khanna-20260624
+DTSTART:20260624T120000
+DTEND:20260624T130000
+SUMMARY:CIR Seminar - NAMs in Respiratory Immunity
+DESCRIPTION:Speaker: Prof Kamal Khanna (NYU School of Medicine). Title: Critical Roles of Nerve and Airway Associated Interstitial Macrophages (NAMs) in Respiratory Immunity: Balancing Immunity, Disease Tolerance, and Inflammation.\nHost: Professor Chris Lucas.
+LOCATION:IRR South seminar room
+STATUS:TENTATIVE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:genetics-society-anniversary-20260625
+DTSTART:20260625
+DTEND:20260626
+SUMMARY:Genetics Society Anniversary Day - Edinburgh
+DESCRIPTION:Booking confirmed. Payment pending: £30.00 (Order Ref: 27293). Pay via mySociety portal.\nContact: theteam@genetics.org.uk
+LOCATION:Edinburgh
+STATUS:TENTATIVE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:deadline-second-summary-20260626
+DTSTART:20260626T100000
+DTEND:20260626T100000
+SUMMARY:Deadline - Submit second webinar + paper summary to Vicky
+DESCRIPTION:Submit second seminar summary and paper summary (max 2 pages each) to Vicky MacRae by 10:00 AM.
+LOCATION:Email
+STATUS:TENTATIVE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:cir-seminar-tsagakis-20260626
+DTSTART:20260626T130000
+DTEND:20260626T140000
+SUMMARY:CIR Seminar - The role of a scientific editor
+DESCRIPTION:Speaker: Dr Ioannis Tsagakis (Scientific Editor, Cell). Title: The role of a scientific editor and the editorial process.\nHost: Dr Chengcan Yao.
+LOCATION:IRR North seminar room
+STATUS:TENTATIVE
+END:VEVENT
+
+END:VCALENDAR

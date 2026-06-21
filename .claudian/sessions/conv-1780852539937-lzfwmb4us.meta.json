@@ -1,0 +1,23 @@
+{
+  "id": "conv-1780852539937-lzfwmb4us",
+  "providerId": "claude",
+  "title": "调查 D 盘 vault backup 文件夹更新与保留规则",
+  "titleGenerationStatus": "success",
+  "createdAt": 1780852539938,
+  "updatedAt": 1780853018197,
+  "lastResponseAt": 1780852794207,
+  "sessionId": null,
+  "providerState": {
+    "providerSessionId": "a92437b6-289d-4590-838b-b34841c94648"
+  },
+  "usage": {
+    "model": "opus[1m]",
+    "inputTokens": 120,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 33792,
+    "contextWindow": 1000000,
+    "contextTokens": 33912,
+    "percentage": 3,
+    "contextWindowIsAuthoritative": true
+  }
+}

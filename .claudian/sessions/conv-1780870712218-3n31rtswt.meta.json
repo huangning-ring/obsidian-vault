@@ -1,0 +1,22 @@
+{
+  "id": "conv-1780870712218-3n31rtswt",
+  "providerId": "claude",
+  "title": "读一下 claude-vision-skill/README",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1780870712219,
+  "updatedAt": 1780870951528,
+  "lastResponseAt": 1780870946577,
+  "sessionId": null,
+  "providerState": {
+    "providerSessionId": "6bef3f27-5f93-4046-a65c-27584acd5561"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 34113,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 34113,
+    "percentage": 17
+  }
+}

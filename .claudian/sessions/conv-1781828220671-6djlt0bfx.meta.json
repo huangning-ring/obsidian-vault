@@ -1,0 +1,23 @@
+{
+  "id": "conv-1781828220671-6djlt0bfx",
+  "providerId": "claude",
+  "title": "宝宝\n\n宝宝，我是 Agnes-2.0-Flash，由 Sapiens AI 开发。",
+  "titleGenerationStatus": "success",
+  "createdAt": 1781828220671,
+  "updatedAt": 1781828298801,
+  "lastResponseAt": 1781828239292,
+  "sessionId": "e7e7754a-4b7a-43ce-bd6c-565d4abb9fe7",
+  "providerState": {
+    "providerSessionId": "e7e7754a-4b7a-43ce-bd6c-565d4abb9fe7"
+  },
+  "usage": {
+    "model": "opus[1m]",
+    "inputTokens": 32396,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 1000000,
+    "contextTokens": 32396,
+    "percentage": 3,
+    "contextWindowIsAuthoritative": true
+  }
+}

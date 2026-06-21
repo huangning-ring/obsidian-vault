@@ -1,0 +1,23 @@
+{
+  "id": "conv-1780671576226-gpopgn9zo",
+  "providerId": "claude",
+  "title": "Identify AI model",
+  "titleGenerationStatus": "success",
+  "createdAt": 1780671576226,
+  "updatedAt": 1780827077139,
+  "lastResponseAt": 1780674482773,
+  "sessionId": null,
+  "providerState": {
+    "providerSessionId": "cef7a363-c33e-45ef-b604-9cdd563dad23"
+  },
+  "usage": {
+    "model": "deepseek-v4-pro",
+    "inputTokens": 114,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 101120,
+    "contextWindow": 200000,
+    "contextTokens": 101234,
+    "percentage": 51,
+    "contextWindowIsAuthoritative": true
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "account": "",
+  "credential": "",
+  "remoteDir": "/黄宁的Obsidian2025.12.5/",
+  "remoteCacheDir": "",
+  "useGitStyle": false,
+  "conflictStrategy": "diff-match-patch",
+  "oauthResponseText": "DWIWGnK8YvXV0TjpTi6bhNcjt0007g0Yfg0S2AADxiz6IFI1GsUOxVABAFJdLCGXcGiMhoLZeU4Soc_62n0CdcZBLdM81yUuIkvdGfSHSSehOdvkftBbxu32P-224Z4HEi9OBxE3Mu7a8h-ZEvw04GG8KIJj_tWMgEripVkh20mAr3iEZPx3ZiSctQNAtg",
+  "loginMode": "sso",
+  "confirmBeforeSync": true,
+  "syncMode": "loose",
+  "filterRules": {
+    "exclusionRules": [
+      {
+        "expr": "**/.git",
+        "options": {
+          "caseSensitive": false
+        }
+      },
+      {
+        "expr": "**/.DS_Store",
+        "options": {
+          "caseSensitive": false
+        }
+      },
+      {
+        "expr": "**/.trash",
+        "options": {
+          "caseSensitive": false
+        }
+      },
+      {
+        "expr": ".obsidian",
+        "options": {
+          "caseSensitive": false
+        }
+      }
+    ],
+    "inclusionRules": []
+  },
+  "skipLargeFiles": {
+    "maxSize": "30 MB"
+  },
+  "realtimeSync": true,
+  "startupSyncDelaySeconds": 1,
+  "autoSyncIntervalSeconds": 1800
+}

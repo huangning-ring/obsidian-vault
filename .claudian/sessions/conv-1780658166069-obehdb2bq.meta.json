@@ -1,0 +1,36 @@
+{
+  "id": "conv-1780658166069-obehdb2bq",
+  "providerId": "claude",
+  "title": "给我的微信文件传输助手发送：“你好我是deepseek”",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1780658166070,
+  "updatedAt": 1780873786971,
+  "lastResponseAt": 1780667894411,
+  "sessionId": null,
+  "providerState": {
+    "providerSessionId": "5d789d58-1e4c-4eaa-b5c2-651e94775726",
+    "previousProviderSessionIds": [
+      "5a89cc81-81bf-4b57-95f9-bef17c7db9a5"
+    ],
+    "subagentData": {
+      "019e97879cbd8dbe46731758af20a197": {
+        "id": "019e97879cbd8dbe46731758af20a197",
+        "description": "调研 WeChatFerry 方案",
+        "prompt": "深入调研 WeChatFerry (https://github.com/lich0821/WeChatFerry) 的技术方案。请重点找出以下信息：\n\n1. 它的 Python SDK (`wcferry`) 的 API 有哪些？具体能做什么？（发送消息、接收消息、获取联系人、管理群聊等）\n2. 安装方式是什么？`pip install wcferry` 就可以吗？是否需要编译？\n3. 它需要特定版本的微信客户端吗？目前支持的微信版本是什么？\n4. 启动流程是怎样的？需要先启动微信桌面客户端再注入吗？\n5. 它是否支持\"热启动\"（扫码后保持登录状态）？\n6. 有没有一个简单的 Python 示例代码，展示如何发送消息到文件传输助手？\n7. 是否有类似的、更简单的替代方案？\n\n请用 WebFetch 逐一获取信息：\n- https://github.com/lich0821/WeChatFerry (README)\n- https://pypi.org/project/wcferry/ (如果有的话)\n- 搜索相关文档或示例代码\n\n把关键信息整理成结构化的摘要。",
+        "status": "completed",
+        "toolCalls": [],
+        "isExpanded": false,
+        "result": "\nagentId: a228ad17d07a5f53a (use SendMessage with to: 'a228ad17d07a5f53a' to continue this agent)\n<usage>subagent_tokens: 16402\ntool_uses: 0\nduration_ms: 19601</usage>"
+      }
+    }
+  },
+  "usage": {
+    "model": "nex-agi/Nex-N2-Pro",
+    "inputTokens": 66682,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 66682,
+    "percentage": 33
+  }
+}

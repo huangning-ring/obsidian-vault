@@ -1,0 +1,26 @@
+{
+  "id": "conv-1781042667016-s1j27onk",
+  "providerId": "claude",
+  "title": "Restore missing vault files from backup",
+  "titleGenerationStatus": "success",
+  "createdAt": 1781042667020,
+  "updatedAt": 1781050001964,
+  "lastResponseAt": 1781049403149,
+  "sessionId": null,
+  "providerState": {
+    "providerSessionId": "1c147c3f-d1c0-4009-9a03-67047495b0c0"
+  },
+  "externalContextPaths": [
+    "C:\\Users\\29731\\OneDrive\\Desktop\\obsidian-vault-master"
+  ],
+  "usage": {
+    "model": "deepseek-v4-flash[1m]",
+    "inputTokens": 60,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 163968,
+    "contextWindow": 1000000,
+    "contextTokens": 164028,
+    "percentage": 16,
+    "contextWindowIsAuthoritative": true
+  }
+}

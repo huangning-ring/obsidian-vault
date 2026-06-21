@@ -1,0 +1,24 @@
+{
+  "id": "conv-1780924411465-fcla04jaw",
+  "providerId": "claude",
+  "title": "Remove blank lines in Obsidian safely",
+  "titleGenerationStatus": "success",
+  "createdAt": 1780924411465,
+  "updatedAt": 1780925675569,
+  "lastResponseAt": 1780925353687,
+  "sessionId": null,
+  "providerState": {
+    "providerSessionId": "07ccaba0-261a-4830-8b6d-7be19ac5659e"
+  },
+  "currentNote": "笔记同步助手/2026-06-06/自用临床医学AI复习技巧及提示词整理（一）.md",
+  "usage": {
+    "model": "deepseek-v4-flash",
+    "inputTokens": 1706,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 90112,
+    "contextWindow": 200000,
+    "contextTokens": 91818,
+    "percentage": 46,
+    "contextWindowIsAuthoritative": true
+  }
+}

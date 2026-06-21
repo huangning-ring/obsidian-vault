@@ -1,0 +1,23 @@
+{
+  "id": "conv-1781050088110-c01t6jwpc",
+  "providerId": "claude",
+  "title": "抓取用户主页信息",
+  "titleGenerationStatus": "success",
+  "createdAt": 1781050088111,
+  "updatedAt": 1781128403746,
+  "lastResponseAt": 1781126278534,
+  "sessionId": null,
+  "providerState": {
+    "providerSessionId": "b52cf2ae-c753-44af-885d-47e52def0ef1"
+  },
+  "usage": {
+    "model": "deepseek-v4-flash[1m]",
+    "inputTokens": 218,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 140032,
+    "contextWindow": 1000000,
+    "contextTokens": 140250,
+    "percentage": 14,
+    "contextWindowIsAuthoritative": true
+  }
+}

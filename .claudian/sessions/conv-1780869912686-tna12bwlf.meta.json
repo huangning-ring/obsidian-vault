@@ -1,0 +1,1135 @@
+{
+  "id": "conv-1780869912686-tna12bwlf",
+  "providerId": "claude",
+  "title": "你好",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1780869912687,
+  "updatedAt": 1780874716605,
+  "lastResponseAt": 1780874682721,
+  "sessionId": null,
+  "providerState": {
+    "providerSessionId": "32b789a1-eccf-44b0-89f8-a72f8dee1152",
+    "previousProviderSessionIds": [
+      "f2fd9c3f-1bd5-42ea-a5aa-c0b25545978b",
+      "93c2de69-a7cc-4acb-8339-6ef25ecaa197"
+    ],
+    "subagentData": {
+      "call_00_tuM3Zwg538jNdlRPtSQn0336": {
+        "id": "call_00_tuM3Zwg538jNdlRPtSQn0336",
+        "description": "Verify Andrew Ng course claim",
+        "prompt": "I need you to search the web and verify the following claims. Use WebSearch, WebFetch, and Bash(curl) tools.\n\n1. Does Andrew Ng (吴恩达) have a course specifically called \"AI Prompting for Everyone\" (给所有人的人工智能提示词课程)? When was it released? Search on DeepLearning.AI website and general web.\n\n2. Is there a B站 (bilibili) upload of this specific course? Search B站 and web for \"吴恩达\" + \"AI Prompting\" + \"提示词\" on B站.\n\n3. Search for Ring-H on B站 (space.bilibili.com/502337801) - what kind of content does this UP主 post? Is it related to medical education?\n\n4. Does DeepSeek web chat (chat.deepseek.com) support file upload? Search for comparisons or reviews mentioning this limitation.\n\n5. Does 通义千问 (Tongyi Qianwen / Qwen) support file upload (PDF, Word, PPT) for analysis?\n\n6. Is MUDPILES a real medical mnemonic for anion gap metabolic acidosis?\n\nPlease search in both English and Chinese as needed, and report ALL findings with sources.",
+        "status": "running",
+        "toolCalls": [
+          {
+            "id": "call_00_QS8z1AGblf5Qa0VLHinf2342",
+            "name": "WebSearch",
+            "input": {
+              "query": "Andrew Ng \"AI Prompting for Everyone\" DeepLearning.AI course"
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "Web search results for query: \"Andrew Ng \"AI Prompting for Everyone\" DeepLearning.AI course\"\n\nAPI Error: 400 thinking options type cannot be disabled when reasoning_effort is set\n\n\nREMINDER: You MUST include the sources above in your response to the user using markdown hyperlinks."
+          },
+          {
+            "id": "call_01_YMQndAeqaTjFUUCZSW0y7994",
+            "name": "WebSearch",
+            "input": {
+              "query": "吴恩达 AI Prompting for Everyone 提示词课程 DeepLearning.AI"
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "Web search results for query: \"吴恩达 AI Prompting for Everyone 提示词课程 DeepLearning.AI\"\n\nAPI Error: 400 thinking options type cannot be disabled when reasoning_effort is set\n\n\nREMINDER: You MUST include the sources above in your response to the user using markdown hyperlinks."
+          },
+          {
+            "id": "call_02_EH3xlyLf4gnwgdhFHxT91750",
+            "name": "WebSearch",
+            "input": {
+              "query": "吴恩达 AI Prompting 提示词 bilibili B站 课程"
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "Web search results for query: \"吴恩达 AI Prompting 提示词 bilibili B站 课程\"\n\nAPI Error: 400 thinking options type cannot be disabled when reasoning_effort is set\n\n\nREMINDER: You MUST include the sources above in your response to the user using markdown hyperlinks."
+          },
+          {
+            "id": "call_03_ou8Gr1tMqqDF9tlbz6tl4812",
+            "name": "WebSearch",
+            "input": {
+              "query": "Ring-H bilibili space.bilibili.com 502337801 医学教育"
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "Web search results for query: \"Ring-H bilibili space.bilibili.com 502337801 医学教育\"\n\nAPI Error: 400 thinking options type cannot be disabled when reasoning_effort is set\n\n\nREMINDER: You MUST include the sources above in your response to the user using markdown hyperlinks."
+          },
+          {
+            "id": "call_04_MZ7bktbhHhPOM7769Q2q2033",
+            "name": "WebSearch",
+            "input": {
+              "query": "DeepSeek chat.deepseek.com file upload limitation comparison"
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "Web search results for query: \"DeepSeek chat.deepseek.com file upload limitation comparison\"\n\nAPI Error: 400 thinking options type cannot be disabled when reasoning_effort is set\n\n\nREMINDER: You MUST include the sources above in your response to the user using markdown hyperlinks."
+          },
+          {
+            "id": "call_05_fJXIvtVkZbZAaxBdzafl2974",
+            "name": "WebSearch",
+            "input": {
+              "query": "通义千问 file upload PDF Word PPT analysis support"
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "Web search results for query: \"通义千问 file upload PDF Word PPT analysis support\"\n\nAPI Error: 400 thinking options type cannot be disabled when reasoning_effort is set\n\n\nREMINDER: You MUST include the sources above in your response to the user using markdown hyperlinks."
+          },
+          {
+            "id": "call_06_z8ZfTsxxtzrgAAXE5egd5580",
+            "name": "WebSearch",
+            "input": {
+              "query": "MUDPILES medical mnemonic anion gap metabolic acidosis"
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "Web search results for query: \"MUDPILES medical mnemonic anion gap metabolic acidosis\"\n\nAPI Error: 400 thinking options type cannot be disabled when reasoning_effort is set\n\n\nREMINDER: You MUST include the sources above in your response to the user using markdown hyperlinks."
+          },
+          {
+            "id": "call_00_5Gp2Ao3m7fGzXGZeCYyD4211",
+            "name": "WebFetch",
+            "input": {
+              "url": "https://www.deeplearning.ai/courses/",
+              "prompt": "Find any course by Andrew Ng related to \"AI Prompting\" or \"Prompting for Everyone\". List all course titles mentioning prompting or prompts."
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "API Error: 400 thinking options type cannot be disabled when reasoning_effort is set"
+          },
+          {
+            "id": "call_01_AtPpiAkhRZu318wcjAWR9194",
+            "name": "WebFetch",
+            "input": {
+              "url": "https://space.bilibili.com/502337801",
+              "prompt": "What is the name and description of this B站 UP主? What kind of content do they post? Is it related to medical education? List any tags, descriptions, video titles, or categories visible on this page."
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "API Error: 400 thinking options type cannot be disabled when reasoning_effort is set"
+          },
+          {
+            "id": "call_02_rJPr1XzLlisVoL74zI8c4598",
+            "name": "WebFetch",
+            "input": {
+              "url": "https://chat.deepseek.com/",
+              "prompt": "Does DeepSeek web chat support file upload? What features are mentioned on this page? Is there any mention of uploading PDFs, images, or other file types?"
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "The server returned HTTP 403 Forbidden.\n\nThe response body was not retrieved. If this URL requires authentication, use an authenticated tool (e.g. `gh` for GitHub, or an MCP-provided fetch tool) instead of WebFetch."
+          },
+          {
+            "id": "call_03_kJixkHw9XGomJZzIKHYw1796",
+            "name": "WebFetch",
+            "input": {
+              "url": "https://en.wikipedia.org/wiki/Anion_gap_metabolic_acidosis",
+              "prompt": "Is MUDPILES mentioned as a mnemonic for anion gap metabolic acidosis? What does MUDPILES stand for? List all related mnemonics."
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "API Error: 400 thinking options type cannot be disabled when reasoning_effort is set"
+          },
+          {
+            "id": "call_00_cjonHeotIjGgVozsBhPk5666",
+            "name": "Bash",
+            "input": {
+              "command": "curl -sL \"https://www.deeplearning.ai/courses/\" -o /tmp/dlai_courses.html 2>/dev/null || echo \"FAILED\"",
+              "description": "Fetch DeepLearning.AI courses page",
+              "timeout": 15000
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "(Bash completed with no output)"
+          },
+          {
+            "id": "call_01_QAHu202Ngu3Drenko3ni2099",
+            "name": "Bash",
+            "input": {
+              "command": "curl -sL \"https://api.bilibili.com/x/space/arc/search?mid=502337801&ps=10&pn=1\" -H \"User-Agent: Mozilla/5.0\" -o /tmp/bili_ringh.json 2>/dev/null; echo \"DONE\"",
+              "description": "Fetch Bilibili user Ring-H video list via API",
+              "timeout": 15000
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "DONE"
+          },
+          {
+            "id": "call_02_vpZIkMx4izIHfWw0vzxy5222",
+            "name": "Bash",
+            "input": {
+              "command": "curl -sL \"https://en.wikipedia.org/wiki/Anion_gap_metabolic_acidosis\" -o /tmp/wikipedia_agma.html 2>/dev/null; echo \"DONE\"",
+              "description": "Fetch Wikipedia page for anion gap metabolic acidosis",
+              "timeout": 15000
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "DONE"
+          },
+          {
+            "id": "call_03_ZhBnPGUFK7gmj7WzaZIT4519",
+            "name": "Bash",
+            "input": {
+              "command": "curl -sL \"https://search.bilibili.com/all?keyword=%E5%90%B4%E6%81%A9%E8%BE%BE%20AI%20Prompting%20%E6%8F%90%E7%A4%BA%E8%AF%8D&order=totalrank\" -H \"User-Agent: Mozilla/5.0\" -o /tmp/bili_search_prompt.html 2>/dev/null; echo \"DONE\"",
+              "description": "Search Bilibili for Andrew Ng AI Prompting course",
+              "timeout": 15000
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "DONE"
+          },
+          {
+            "id": "call_04_JR4WpkKW4H6f67sJwzCN0232",
+            "name": "Bash",
+            "input": {
+              "command": "curl -sL \"https://en.wikipedia.org/w/api.php?action=query&titles=Anion_gap_metabolic_acidosis&prop=extracts&explaintext&format=json\" -o /tmp/wiki_agma.json 2>/dev/null; echo \"DONE\"",
+              "description": "Fetch Wikipedia API extract for anion gap metabolic acidosis",
+              "timeout": 15000
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "DONE"
+          },
+          {
+            "id": "call_05_hznb9ZmKLUGlgabk7csh7843",
+            "name": "Bash",
+            "input": {
+              "command": "curl -sL \"https://tongyi.aliyun.com/\" -H \"User-Agent: Mozilla/5.0\" -o /tmp/tongyi_page.html 2>/dev/null; echo \"DONE\"",
+              "description": "Fetch Tongyi Qianwen official page",
+              "timeout": 15000
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "DONE"
+          },
+          {
+            "id": "call_00_FyNdZ7slsTGc1NzcWy6p6564",
+            "name": "Bash",
+            "input": {
+              "command": "head -500 /tmp/dlai_courses.html 2>/dev/null || echo \"FILE NOT FOUND\"",
+              "description": "Read DeepLearning.AI courses page",
+              "timeout": 10000
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "<persisted-output>\nOutput too large (842.3KB). Full output saved to: C:\\Users\\29731\\.claude\\projects\\C--Users-29731-OneDrive----Obsidian-Vault\\7ec67a92-9af9-4241-9b7b-0de23db29589\\tool-results\\btvxf91yr.txt\n\nPreview (first 2KB):\n<!DOCTYPE html><html data-dpl-id=\"dpl_9J5buBR36oqNFFgsF4BCgAtsH4Ej\" lang=\"en\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><link rel=\"preload\" as=\"image\" imageSrcSet=\"https://dlai-learn.deeplearning.ai/_next/image?url=%2Fdlai%2Fassets%2Fdlai-logo.png&amp;w=256&amp;q=75&amp;dpl=dpl_9J5buBR36oqNFFgsF4BCgAtsH4Ej 1x, https://dlai-learn.deeplearning.ai/_next/image?url=%2Fdlai%2Fassets%2Fdlai-logo.png&amp;w=640&amp;q=75&amp;dpl=dpl_9J5buBR36oqNFFgsF4BCgAtsH4Ej 2x\"/><link rel=\"stylesheet\" href=\"https://dlai-learn.deeplearning.ai/_next/static/chunks/03qp59xnzx6_d.css?dpl=dpl_9J5buBR36oqNFFgsF4BCgAtsH4Ej\" data-precedence=\"next\"/><link rel=\"stylesheet\" href=\"https://dlai-learn.deeplearning.ai/_next/static/chunks/13tjn7rwlib0b.css?dpl=dpl_9J5buBR36oqNFFgsF4BCgAtsH4Ej\" data-precedence=\"next\"/><link rel=\"stylesheet\" href=\"https://dlai-learn.deeplearning.ai/_next/static/chunks/0~lbbkxou7qiu.css?dpl=dpl_9J5buBR36oqNFFgsF4BCgAtsH4Ej\" data-precedence=\"next\"/><link rel=\"stylesheet\" href=\"https://dlai-learn.deeplearning.ai/_next/static/chunks/15gb3a_t2cm~t.css?dpl=dpl_9J5buBR36oqNFFgsF4BCgAtsH4Ej\" data-precedence=\"next\"/><link rel=\"preload\" as=\"script\" fetchPriority=\"low\" href=\"https://dlai-learn.deeplearning.ai/_next/static/chunks/0u~ketesk45rw.js?dpl=dpl_9J5buBR36oqNFFgsF4BCgAtsH4Ej\"/><script src=\"https://dlai-learn.deeplearning.ai/_next/static/chunks/0g0qrw6-2vrn3.js?dpl=dpl_9J5buBR36oqNFFgsF4BCgAtsH4Ej\" async=\"\"></script><script src=\"https://dlai-learn.deeplearning.ai/_next/static/chunks/0u6p3sxu.fi7-.js?dpl=dpl_9J5buBR36oqNFFgsF4BCgAtsH4Ej\" async=\"\"></script><script src=\"https://dlai-learn.deeplearning.ai/_next/static/chunks/0-g48y6sug79p.js?dpl=dpl_9J5buBR36oqNFFgsF4BCgAtsH4Ej\" async=\"\"></script><script src=\"https://dlai-learn.deeplearning.ai/_next/static/chunks/0.qsz1mgbiytr.js?dpl=dpl_9J5buBR36oqNFFgsF4BCgAtsH4Ej\" async=\"\"></script><script src=\"https://dlai-learn.deeplearning.ai/_next/static/chunks/turbopack-13ohqu-d7x059.js\n...\n</persisted-output>"
+          },
+          {
+            "id": "call_01_rpMlxjF1SmU77Ahq3EQ54784",
+            "name": "Bash",
+            "input": {
+              "command": "cat /tmp/bili_ringh.json 2>/dev/null | python -m json.tool 2>/dev/null || cat /tmp/bili_ringh.json",
+              "description": "Read Bilibili Ring-H user data",
+              "timeout": 10000
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "<!DOCTYPE html>\n<html lang=\"zh-cn\">\n\n<head>\n    <meta http-equiv=\"Access-Control-Allow-Origin\" content=\"*\" />\n    <meta http-equiv=\"Page-Enter\" content=\"blendTrans(Duration=0.5)\">\n    <meta http-equiv=\"Page-Exit\" content=\"blendTrans(Duration=0.5)\">\n    <meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\n    <meta name=\"viewport\" content=\"width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0\">\n    <meta name=\"spm_prefix\" content=\"333.937\">\n    <title>出错啦! - bilibili.com</title>\n    <link rel=\"shortcut icon\" href=\"//static.hdslb.com/images/favicon.ico\">\n    <script type=\"text/javascript\" src=\"//s1.hdslb.com/bfs/static/jinkela/long/js/jquery/jquery1.7.2.min.js\"></script>\n    <style>\n        body {\n          margin: 0;\n          padding: 0;\n          width: 100vw;\n          height: 100vh;\n        }\n       .error-container {\n          height: 100%;\n          width: 100%;\n          display: flex;\n          justify-content: center;\n          align-items: center;\n        }\n        .captcha-content {\n          text-align: center;\n        }\n        .txt-wrap {\n          margin-top: 15px;\n          font-size: 12px;\n          line-height: 22px;\n          color: #999;\n          text-align: left;\n        }\n        .txt-item.err-code {\n          font-size: 28px;\n          font-weight: 700;\n          text-align: center;\n          color: #4c93ff;\n          margin-top: 16px;\n        }\n        \n        .captcha-img {\n          width: 160px;\n          height: 160px;\n          margin: auto;\n          background: url('https://i0.hdslb.com/bfs/static/jinkela/long/412/%E9%A1%B5%E9%9D%A2%E7%8A%B6%E6%80%81%E5%9B%BE.png') no-repeat center / cover;\n        }\n        .err-text {\n          color: #03a9f4;\n        }\n        .err-default {\n          font-size: 16px;\n          margin-top: 10px;\n        }\n      </style>\n</head>\n\n<body>\n    <noscript>\n          <strong>抱歉！我们需要允许JavaScript才能够正常运行。请打开后重试~</strong>\n          <strong>错误：412</strong>\n      </noscript>\n      <div class=\"error-container\">\n        <div class=\"captcha-content\">\n          <div class=\"captcha-img\"></div>\n          <div class=\"txt-item err-code\">错误号: 412</div>\n          <div class=\"txt-item err-text\"></div>\n          <div class=\"txt-item err-default\">由于触发哔哩哔哩安全风控策略，该次访问请求被拒绝。 \n            <div class=\"txt-item\">The request was rejected because of the bilibili security control policy.</div>\n          </div>\n          <div class=\"txt-wrap\">\n            <div class=\"txt-item datetime_now\"></div>\n            <div class=\"txt-item user_url\"></div>\n            <div class=\"txt-item user_ip\"></div>\n            <div class=\"txt-item user_id\"></div>\n          </div>\n          <div class=\"check-input\">\n              <div class=\"title\"></div>\n              <div class=\"box-pic\"></div>\n              <div class=\"box\"></div>\n              <div class=\"state\"></div>\n          </div>\n      </div>\n    </div>\n    <script type=\"text/javascript\" charset=\"utf-8\" src=\"//security.bilibili.com/static/js/sha256.min.js\"></script>\n    <script type=\"text/javascript\" charset=\"utf-8\" src=\"//security.bilibili.com/static/js/js.cookie.min.js\"></script>\n    <script type=\"text/javascript\" charset=\"utf-8\" src=\"//security.bilibili.com/static/js/412.js\"></script>\n</body>\n</html>"
+          },
+          {
+            "id": "call_02_UvAt271k3Quc9DXc2jaE8202",
+            "name": "Bash",
+            "input": {
+              "command": "cat /tmp/wiki_agma.json 2>/dev/null | python -c \"import json,sys; d=json.load(sys.stdin); pages=d['query']['pages']; [print(pages[p]['extract'][:3000]) for p in pages]\" 2>/dev/null || cat /tmp/wiki_agma.json",
+              "description": "Extract Wikipedia text for anion gap metabolic acidosis",
+              "timeout": 10000
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "(Bash completed with no output)"
+          },
+          {
+            "id": "call_03_tjAM0asURi9O8FG8Ewch4237",
+            "name": "Bash",
+            "input": {
+              "command": "cat /tmp/bili_search_prompt.html 2>/dev/null | python -c \"\nimport sys, re\nhtml = sys.stdin.read()\n# Try to extract video titles\ntitles = re.findall(r'title=\\\"([^\\\"]+)\\\"', html)\nfor t in titles[:30]:\n    if len(t) > 5:\n        print(t)\n\" 2>/dev/null || echo \"NO RESULTS PARSED\"",
+              "description": "Extract video titles from Bilibili search results",
+              "timeout": 10000
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "(Bash completed with no output)"
+          },
+          {
+            "id": "call_00_BpJ8Z0VRhIg9LWImgFPI1127",
+            "name": "Bash",
+            "input": {
+              "command": "grep -i \"prompt\" /tmp/dlai_courses.html 2>/dev/null | head -50",
+              "description": "Search DeepLearning.AI page for prompt-related courses",
+              "timeout": 10000
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "<persisted-output>\nOutput too large (842.3KB). Full output saved to: C:\\Users\\29731\\.claude\\projects\\C--Users-29731-OneDrive----Obsidian-Vault\\7ec67a92-9af9-4241-9b7b-0de23db29589\\tool-results\\byxnb4x50.txt\n\nPreview (first 2KB):\n<!DOCTYPE html><html data-dpl-id=\"dpl_9J5buBR36oqNFFgsF4BCgAtsH4Ej\" lang=\"en\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><link rel=\"preload\" as=\"image\" imageSrcSet=\"https://dlai-learn.deeplearning.ai/_next/image?url=%2Fdlai%2Fassets%2Fdlai-logo.png&amp;w=256&amp;q=75&amp;dpl=dpl_9J5buBR36oqNFFgsF4BCgAtsH4Ej 1x, https://dlai-learn.deeplearning.ai/_next/image?url=%2Fdlai%2Fassets%2Fdlai-logo.png&amp;w=640&amp;q=75&amp;dpl=dpl_9J5buBR36oqNFFgsF4BCgAtsH4Ej 2x\"/><link rel=\"stylesheet\" href=\"https://dlai-learn.deeplearning.ai/_next/static/chunks/03qp59xnzx6_d.css?dpl=dpl_9J5buBR36oqNFFgsF4BCgAtsH4Ej\" data-precedence=\"next\"/><link rel=\"stylesheet\" href=\"https://dlai-learn.deeplearning.ai/_next/static/chunks/13tjn7rwlib0b.css?dpl=dpl_9J5buBR36oqNFFgsF4BCgAtsH4Ej\" data-precedence=\"next\"/><link rel=\"stylesheet\" href=\"https://dlai-learn.deeplearning.ai/_next/static/chunks/0~lbbkxou7qiu.css?dpl=dpl_9J5buBR36oqNFFgsF4BCgAtsH4Ej\" data-precedence=\"next\"/><link rel=\"stylesheet\" href=\"https://dlai-learn.deeplearning.ai/_next/static/chunks/15gb3a_t2cm~t.css?dpl=dpl_9J5buBR36oqNFFgsF4BCgAtsH4Ej\" data-precedence=\"next\"/><link rel=\"preload\" as=\"script\" fetchPriority=\"low\" href=\"https://dlai-learn.deeplearning.ai/_next/static/chunks/0u~ketesk45rw.js?dpl=dpl_9J5buBR36oqNFFgsF4BCgAtsH4Ej\"/><script src=\"https://dlai-learn.deeplearning.ai/_next/static/chunks/0g0qrw6-2vrn3.js?dpl=dpl_9J5buBR36oqNFFgsF4BCgAtsH4Ej\" async=\"\"></script><script src=\"https://dlai-learn.deeplearning.ai/_next/static/chunks/0u6p3sxu.fi7-.js?dpl=dpl_9J5buBR36oqNFFgsF4BCgAtsH4Ej\" async=\"\"></script><script src=\"https://dlai-learn.deeplearning.ai/_next/static/chunks/0-g48y6sug79p.js?dpl=dpl_9J5buBR36oqNFFgsF4BCgAtsH4Ej\" async=\"\"></script><script src=\"https://dlai-learn.deeplearning.ai/_next/static/chunks/0.qsz1mgbiytr.js?dpl=dpl_9J5buBR36oqNFFgsF4BCgAtsH4Ej\" async=\"\"></script><script src=\"https://dlai-learn.deeplearning.ai/_next/static/chunks/turbopack-13ohqu-d7x059.js\n...\n</persisted-output>"
+          },
+          {
+            "id": "call_01_uImvxq5BlaQ7vPYXFidx2000",
+            "name": "Bash",
+            "input": {
+              "command": "cat /tmp/wiki_agma.json 2>/dev/null | python3 -c \"\nimport json, sys\nd = json.load(sys.stdin)\npages = d['query']['pages']\nfor pid in pages:\n    print(pages[pid].get('extract', 'NO EXTRACT')[:5000])\n\" 2>/dev/null || echo \"FAILED\"",
+              "description": "Extract Wikipedia text",
+              "timeout": 10000
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "(Bash completed with no output)"
+          },
+          {
+            "id": "call_02_vmBYq5zImNUzECuz9baS4691",
+            "name": "Bash",
+            "input": {
+              "command": "grep -i \"prompt\\|prompting\\|提示词\" /tmp/bili_search_prompt.html 2>/dev/null | head -30",
+              "description": "Search Bilibili results for prompt-related content",
+              "timeout": 10000
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "(Bash completed with no output)"
+          },
+          {
+            "id": "call_03_R9ZgRXkupMDehOVQIcZh2016",
+            "name": "Bash",
+            "input": {
+              "command": "grep -o '<title>[^<]*</title>' /tmp/bili_search_prompt.html 2>/dev/null; head -c 2000 /tmp/bili_search_prompt.html 2>/dev/null | python3 -c \"\nimport sys, re\nhtml = sys.stdin.read()\n# Extract titles and text\ntexts = re.findall(r'class=\\\"title\\\">([^<]+)<', html)\nfor t in texts:\n    print(t)\ntexts2 = re.findall(r'alt=\\\"([^\\\"]{10,80})\\\"', html)\nfor t in texts2:\n    print(t)\n\" 2>/dev/null || echo \"FAILED\"",
+              "description": "Extract titles from Bilibili search HTML",
+              "timeout": 10000
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "<title>验证码_哔哩哔哩</title>"
+          },
+          {
+            "id": "call_04_SHSMeLP9TcCy5XW2YUgA8555",
+            "name": "Bash",
+            "input": {
+              "command": "grep -oi 'MUDPILES\\|GOLD MARK\\|ketoacidosis\\|lactic\\|mnemonic' /tmp/wikipedia_agma.html 2>/dev/null || echo \"Not found in HTML\"; head -c 500 /tmp/wikipedia_agma.html 2>/dev/null | python3 -c \"\nimport sys; d=sys.stdin.read(); print(d[:500])\n\"",
+              "description": "Check Wikipedia for MUDPILES",
+              "timeout": 10000
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "Mnemonic\nmudpiles\nmudpiles\nMnemonic\nMnemonic\nMnemonic\nMnemonic\nmudpiles\nmudpiles\nmudpiles\nmudpiles\nmudpiles\nKetoacidosis\nKetoacidosis\nketoacidosis\nLactic\nLactic\nlactic\nKetoacidosis\nketoacidosis\nketoacidosis\nketoacidosis\nLactic\nLactic\nLactic\nlactic\nMnemonic\nMnemonic\nMnemonic\nmnemonic\nMnemonic\nMnemonic\nmnemonic\nGOLD MARK\nLactic\nLactic\nlactic\nKetoacidosis\nKetoacidosis\nketoacidosis\nketoacidosis\nketoacidosis\nketoacidosis\nmnemonic\nMUDPILES\nketoacidosis\nketoacidosis\nketoacidosis\nlactic\nLactic\nLactic\nLactic\nmnemonic\nlactic\nmnemonic\nKetoacidosis\nKetoacidosis\nKetoacidosis\nLactic\nLactic\nLactic\nmnemonic\nKetoacidosis\nKetoacidosis\nKetoacidosis\nketoacidosis\nketoacidosis\nketoacidosis\nLactic\nmnemonic\nlactic\nGOLD MARK\nmnemonic\nmnemonic\nMnemonic\nMnemonic\nMnemonic\nmnemonic\nKetoacidosis\nKetoacidosis\nKetoacidosis\nketoacidosis\nketoacidosis\nketoacidosis\nketoacidosis\nketoacidosis\nketoacidosis\nLactic\nLactic\nLactic\nMnemonic\nMnemonic\nMnemonic\nmudpiles\n<!DOCTYPE html>\r\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientp"
+          },
+          {
+            "id": "call_00_RYHH3ndL9QVjCIUb5sgd3743",
+            "name": "Bash",
+            "input": {
+              "command": "grep -oP 'course-card[^>]*>.*?title[^>]*>.*?<' /tmp/dlai_courses.html 2>/dev/null | head -100",
+              "description": "Extract course card titles from DeepLearning.AI",
+              "timeout": 10000
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "<persisted-output>\nOutput too large (133.9KB). Full output saved to: C:\\Users\\29731\\.claude\\projects\\C--Users-29731-OneDrive----Obsidian-Vault\\7ec67a92-9af9-4241-9b7b-0de23db29589\\tool-results\\bofeovljw.txt\n\nPreview (first 2KB):\ncourse-card-sm:flex-row relative flex w-full flex-col @course-card-xs:h-140 @course-card-sm:h-41 @course-card-md:h-49 @course-card-lg:h-67 @course-card-xl:h-72 @course-card-2xl:h-105 h-110\"><figure class=\"@course-card-sm:h-full @course-card-sm:w-auto from-base-100 via-base-200 to-base-100 relative aspect-video w-full shrink-0 bg-gradient-to-r\"><img alt=\"AI Prompting for Everyone\" loading=\"lazy\" decoding=\"async\" data-nimg=\"fill\" class=\"absolute inset-0 h-full w-full object-cover\" style=\"position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;color:transparent\" sizes=\"(max-width: 640px) 100vw, 400px\" srcSet=\"https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2026%2F04%2FYouTube-Thumbnails-2026-04-22T144036.220.png&amp;w=640&amp;q=75 640w, https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2026%2F04%2FYouTube-Thumbnails-2026-04-22T144036.220.png&amp;w=750&amp;q=75 750w, https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2026%2F04%2FYouTube-Thumbnails-2026-04-22T144036.220.png&amp;w=828&amp;q=75 828w, https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2026%2F04%2FYouTube-Thumbnails-2026-04-22T144036.220.png&amp;w=1080&amp;q=75 1080w, https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2026%2F04%2FYouTube-Thumbnails-2026-04-22T144036.220.png&amp;w=1200&amp;q=75 1200w, https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2026%2F04%2FYouTube-Thumbnails-2026-04-22T144036.220.png&amp;w=1920&amp;q=75 1920w, https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2026%2F04%2FYouTube-Thumbn\n...\n</persisted-output>"
+          },
+          {
+            "id": "call_01_DvSEP3a6XGWHnFvPMF7N8241",
+            "name": "Bash",
+            "input": {
+              "command": "grep -oP 'alt=\"[^\"]*prompt[^\"]*\"' /tmp/dlai_courses.html 2>/dev/null; grep -oP 'alt=\"[^\"]*Prompt[^\"]*\"' /tmp/dlai_courses.html 2>/dev/null; grep -oP '[Pp]rompt[^<]{0,100}' /tmp/dlai_courses.html 2>/dev/null | head -30",
+              "description": "Search for prompt-related courses in DeepLearning.AI HTML",
+              "timeout": 10000
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "alt=\"AI Prompting for Everyone\"\nalt=\"AI Prompting for Everyone\"\nalt=\"Large Multimodal Model Prompting with Gemini\"\nalt=\"Prompt Compression and Query Optimization\"\nalt=\"Prompt Engineering for Vision Models\"\nalt=\"Prompt Engineering with Llama 2&amp;3\"\nalt=\"ChatGPT Prompt Engineering for Developers\"\nprompting-for-everyone\">\nPrompting for Everyone\" loading=\"lazy\" decoding=\"async\" data-nimg=\"fill\" class=\"absolute inset-0 h-full w-\nPrompting for Everyone\nPrompting for Everyone\nprompting skills that get real, useful results from today&#x27;s most powerful AI models.\nPrompt Engineering\nPrompt Engineering\nPrompt Engineering\nPrompt Engineering\nPrompt Engineering\nPrompt Engineering\nprompting-for-everyone\">\nPrompting for Everyone\" loading=\"lazy\" decoding=\"async\" data-nimg=\"fill\" class=\"absolute inset-0 h-full w-\nPrompting for Everyone\nprompting skills that get real, useful results from today&#x27;s most powerful AI models.\nprompt engineering and pair programming techniques with LLMs to write, test, and improve your code.\nprompts using the Model Context Protocol.\nprompt OpenAI&#x27;s o1 model for complex reasoning tasks.\nprompting-with-gemini\">\nPrompting with Gemini\" loading=\"lazy\" decoding=\"async\" data-nimg=\"fill\" class=\"absolute inset-0 h-full w-f\nprompting-with-gemini.jpg&amp;w=640&amp;q=75 640w, https://dlai-learn.deeplearning.ai/_next/image?url=http\nprompting-with-gemini.jpg&amp;w=750&amp;q=75 750w, https://dlai-learn.deeplearning.ai/_next/image?url=http\nprompting-with-gemini.jpg&amp;w=828&amp;q=75 828w, https://dlai-learn.deeplearning.ai/_next/image?url=http\nprompting-with-gemini.jpg&amp;w=1080&amp;q=75 1080w, https://dlai-learn.deeplearning.ai/_next/image?url=ht\nprompting-with-gemini.jpg&amp;w=1200&amp;q=75 1200w, https://dlai-learn.deeplearning.ai/_next/image?url=ht\nprompting-with-gemini.jpg&amp;w=1920&amp;q=75 1920w, https://dlai-learn.deeplearning.ai/_next/image?url=ht\nprompting-with-gemini.jpg&amp;w=2048&amp;q=75 2048w, https://dlai-learn.deeplearning.ai/_next/image?url=ht\nprompting-with-gemini.jpg&amp;w=3840&amp;q=75 3840w\" src=\"https://dlai-learn.deeplearning.ai/_next/image?u\nprompting-with-gemini.jpg&amp;w=3840&amp;q=75\"/>\nPrompting with Gemini"
+          },
+          {
+            "id": "call_02_fIDKHM82mUEYJhtQEJsG0018",
+            "name": "Bash",
+            "input": {
+              "command": "grep -oP '\"title\":\"[^\"]*\"' /tmp/wikipedia_agma.html 2>/dev/null | head -10; echo \"---\"; python3 -c \"\nimport re\nwith open('/tmp/wikipedia_agma.html','r',errors='replace') as f:\n    html = f.read()\n# Find sections mentioning MUDPILES\nstart = html.lower().find('mudpiles')\nif start > 0:\n    snippet = html[max(0,start-200):start+500]\n    # strip tags\n    clean = re.sub(r'<[^>]+>', ' ', snippet)\n    print('MUDPILES context:', clean)\nelse:\n    print('MUDPILES not found in page')\nstart2 = html.lower().find('gold mark')\nif start2 > 0:\n    snippet2 = html[max(0,start2-200):start2+500]\n    clean2 = re.sub(r'<[^>]+>', ' ', snippet2)\n    print('GOLD MARK context:', clean2)\n\" 2>/dev/null",
+              "description": "Extract MUDPILES context from Wikipedia HTML",
+              "timeout": 10000
+            },
+            "status": "error",
+            "isExpanded": false,
+            "result": "Exit code 1\n---"
+          },
+          {
+            "id": "call_00_tCRMjh9MdqTsvTOAeRaX3462",
+            "name": "Bash",
+            "input": {
+              "command": "python3 -c \"\nimport re\nwith open('/tmp/dlai_courses.html','r',errors='replace') as f:\n    html = f.read()\n\n# Find the AI Prompting for Everyone section\nidx = html.find('AI Prompting for Everyone')\nif idx > 0:\n    snippet = html[max(0,idx-1000):idx+2000]\n    clean = re.sub(r'<[^>]+>', '\\n', snippet)\n    print('CONTEXT AROUND AI Prompting for Everyone:')\n    print(clean[:3000])\n\" 2>/dev/null",
+              "description": "Extract AI Prompting for Everyone course info",
+              "timeout": 10000
+            },
+            "status": "error",
+            "isExpanded": false,
+            "result": "Exit code 1"
+          },
+          {
+            "id": "call_01_TpfUHSdrHQBiZ5OyTajg9958",
+            "name": "Bash",
+            "input": {
+              "command": "python3 -c \"\nimport re\nwith open('/tmp/wikipedia_agma.html','r',errors='replace') as f:\n    html = f.read()\n\nlines = html.split('\\n')\nfor i, line in enumerate(lines):\n    if 'mudpiles' in line.lower() or 'MUDPILES' in line:\n        # Print surrounding context\n        start = max(0, i-5)\n        end = min(len(lines), i+15)\n        for j in range(start, end):\n            clean = re.sub(r'<[^>]+>', ' ', lines[j])\n            clean = re.sub(r'\\s+', ' ', clean).strip()\n            if clean:\n                print(f'  Line {j}: {clean[:200]}')\n        print('---')\n\" 2>/dev/null",
+              "description": "Extract MUDPILES context from Wikipedia HTML by line",
+              "timeout": 10000
+            },
+            "status": "error",
+            "isExpanded": false,
+            "result": "Exit code 1"
+          },
+          {
+            "id": "call_02_LJWddutqqoD5CaibVCGB6108",
+            "name": "Bash",
+            "input": {
+              "command": "python3 -c \"\nimport re\nwith open('/tmp/dlai_courses.html','r',errors='replace') as f:\n    html = f.read()\n\n# Find all course image URLs to get full information\nalts = re.findall(r'alt=\\\"([^\\\"]+)\\\"', html)\nseen = set()\nfor a in alts:\n    if a not in seen and len(a) > 5:\n        seen.add(a)\n        print(a)\n\" 2>/dev/null | sort -u | head -60",
+              "description": "Extract all course titles from DeepLearning.AI page",
+              "timeout": 10000
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "(Bash completed with no output)"
+          },
+          {
+            "id": "call_00_M8FuxA4yaz9q3qL4CglD3730",
+            "name": "Bash",
+            "input": {
+              "command": "grep -c \"AI Prompting for Everyone\" /tmp/dlai_courses.html 2>/dev/null; grep -oP 'alt=\"AI Prompting for Everyone\"[^>]*>' /tmp/dlai_courses.html 2>/dev/null | head -3; grep -c \"Andrew\" /tmp/dlai_courses.html 2>/dev/null; grep -oP 'alt=\"[^\"]*Andrew[^\"]*\"' /tmp/dlai_courses.html 2>/dev/null | head -5",
+              "description": "Count occurrences of course name in DeepLearning.AI HTML",
+              "timeout": 10000
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "1\nalt=\"AI Prompting for Everyone\" loading=\"lazy\" decoding=\"async\" data-nimg=\"fill\" class=\"absolute inset-0 h-full w-full object-cover\" style=\"position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;color:transparent\" sizes=\"(max-width: 640px) 100vw, 400px\" srcSet=\"https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2026%2F04%2FYouTube-Thumbnails-2026-04-22T144036.220.png&amp;w=640&amp;q=75 640w, https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2026%2F04%2FYouTube-Thumbnails-2026-04-22T144036.220.png&amp;w=750&amp;q=75 750w, https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2026%2F04%2FYouTube-Thumbnails-2026-04-22T144036.220.png&amp;w=828&amp;q=75 828w, https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2026%2F04%2FYouTube-Thumbnails-2026-04-22T144036.220.png&amp;w=1080&amp;q=75 1080w, https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2026%2F04%2FYouTube-Thumbnails-2026-04-22T144036.220.png&amp;w=1200&amp;q=75 1200w, https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2026%2F04%2FYouTube-Thumbnails-2026-04-22T144036.220.png&amp;w=1920&amp;q=75 1920w, https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2026%2F04%2FYouTube-Thumbnails-2026-04-22T144036.220.png&amp;w=2048&amp;q=75 2048w, https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2026%2F04%2FYouTube-Thumbnails-2026-04-22T144036.220.png&amp;w=3840&amp;q=75 3840w\" src=\"https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2026%2F04%2FYouTube-Thumbnails-2026-04-22T144036.220.png&amp;w=3840&amp;q=75\"/>\nalt=\"AI Prompting for Everyone\" loading=\"lazy\" decoding=\"async\" data-nimg=\"fill\" class=\"absolute inset-0 h-full w-full object-cover\" style=\"position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;color:transparent\" sizes=\"(max-width: 640px) 100vw, 400px\" srcSet=\"https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2026%2F04%2FYouTube-Thumbnails-2026-04-22T144036.220.png&amp;w=640&amp;q=75 640w, https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2026%2F04%2FYouTube-Thumbnails-2026-04-22T144036.220.png&amp;w=750&amp;q=75 750w, https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2026%2F04%2FYouTube-Thumbnails-2026-04-22T144036.220.png&amp;w=828&amp;q=75 828w, https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2026%2F04%2FYouTube-Thumbnails-2026-04-22T144036.220.png&amp;w=1080&amp;q=75 1080w, https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2026%2F04%2FYouTube-Thumbnails-2026-04-22T144036.220.png&amp;w=1200&amp;q=75 1200w, https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2026%2F04%2FYouTube-Thumbnails-2026-04-22T144036.220.png&amp;w=1920&amp;q=75 1920w, https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2026%2F04%2FYouTube-Thumbnails-2026-04-22T144036.220.png&amp;w=2048&amp;q=75 2048w, https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2026%2F04%2FYouTube-Thumbnails-2026-04-22T144036.220.png&amp;w=3840&amp;q=75 3840w\" src=\"https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2026%2F04%2FYouTube-Thumbnails-2026-04-22T144036.220.png&amp;w=3840&amp;q=75\"/>\n1\nalt=\"Build with Andrew\"\nalt=\"Build with Andrew\""
+          },
+          {
+            "id": "call_01_HG7T34Ofn0svDqtQDk5s7800",
+            "name": "Bash",
+            "input": {
+              "command": "grep -oP 'url[\"\\']?\\s*:\\s*[\"\\']([^\"\\']*prompting-for-everyone[^\"\\']*)[\"\\']' /tmp/dlai_courses.html 2>/dev/null | head -5",
+              "description": "Find course URL for AI Prompting for Everyone",
+              "timeout": 10000
+            },
+            "status": "error",
+            "isExpanded": false,
+            "result": "Exit code 2\n/usr/bin/bash: eval: line 1: unexpected EOF while looking for matching `''"
+          },
+          {
+            "id": "call_02_IBchZGALPoz0Yw1APWgh1204",
+            "name": "Bash",
+            "input": {
+              "command": "grep -oP 'href=\"[^\"]*prompting-for-everyone[^\"]*\"' /tmp/dlai_courses.html 2>/dev/null | head -5",
+              "description": "Find course link for Prompting for Everyone course",
+              "timeout": 10000
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "href=\"/courses/ai-prompting-for-everyone\"\nhref=\"/courses/ai-prompting-for-everyone\""
+          },
+          {
+            "id": "call_03_pDiUIOCnQZ1y3To0XD2I8214",
+            "name": "Bash",
+            "input": {
+              "command": "python3 -c \"\nimport re\nwith open('/tmp/wikipedia_agma.html','r',errors='replace') as f:\n    content = f.read()\nidx = content.lower().find('mudpiles')\nprint(f'First MUDPILES at index: {idx}')\nif idx >= 0:\n    # Print 2000 chars around it, stripping tags roughly\n    snippet = content[max(0,idx-500):idx+1500]\n    clean = re.sub(r'<script[^>]*>.*?</script>', '', snippet, flags=re.DOTALL)\n    clean = re.sub(r'<[^>]+>', ' ', clean)\n    clean = re.sub(r'&[a-z]+;', '', clean)\n    clean = re.sub(r'\\s+', ' ', clean).strip()\n    print(clean[:3000])\nelse:\n    print('Checking for mnemonic...')\n    idx2 = content.lower().find('mnemonic')\n    if idx2 >= 0:\n        snippet2 = content[max(0,idx2-200):idx2+600]\n        clean2 = re.sub(r'<[^>]+>', ' ', snippet2)\n        clean2 = re.sub(r'\\s+', ' ', clean2).strip()\n        print(clean2[:2000])\n\" 2>/dev/null",
+              "description": "Extract MUDPILES context from Wikipedia",
+              "timeout": 10000
+            },
+            "status": "error",
+            "isExpanded": false,
+            "result": "Exit code 1"
+          },
+          {
+            "id": "call_00_SaCBqRB4gHllbLgzULN90546",
+            "name": "Bash",
+            "input": {
+              "command": "curl -sL \"https://www.deeplearning.ai/courses/ai-prompting-for-everyone/\" -o /tmp/dlai_prompting_course.html 2>/dev/null; echo \"DONE\"",
+              "description": "Fetch the AI Prompting for Everyone course page",
+              "timeout": 15000
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "DONE"
+          },
+          {
+            "id": "call_01_rT1pcTWShjOZZsRgpOC83288",
+            "name": "Bash",
+            "input": {
+              "command": "python3 -c \"\nimport re\nwith open('/tmp/wikipedia_agma.html','r',errors='replace') as f:\n    content = f.read()\n\n# Find all mentions of MUDPILES with context\nfor m in re.finditer(r'(?:[^.]*\\.){0,5}[^.]*mu.d?piles[^.]*\\.', content, re.IGNORECASE):\n    print('MATCH:', m.group()[:500])\n    print()\n\n# Also check for mnemonic sections\nfor m in re.finditer(r'(?:[^.]*\\.){0,3}[^.]*mnemonic[^.]*\\.', content, re.IGNORECASE):\n    txt = m.group()[:300]\n    if any(w in txt.lower() for w in ['gap', 'acidosis', 'mudpiles', 'gold']):\n        print('MNEMONIC:', txt)\n        print()\n\" 2>/dev/null",
+              "description": "Extract MUDPILES mnemonic info from Wikipedia",
+              "timeout": 10000
+            },
+            "status": "error",
+            "isExpanded": false,
+            "result": "Exit code 1"
+          },
+          {
+            "id": "call_02_sFXjX7iy7ThtibClasXC7341",
+            "name": "Bash",
+            "input": {
+              "command": "python3 -c \"\nimport re\nwith open('/tmp/dlai_courses.html','r',errors='replace') as f:\n    content = f.read()\n\n# Look for text around 'AI Prompting for Everyone'\nidx = content.find('AI Prompting for Everyone')\nsnippet = content[idx:idx+3000]\n# Clean HTML tags\nclean = re.sub(r'<[^>]+>', '\\n', snippet)\nlines = [l.strip() for l in clean.split('\\n') if l.strip()]\nfor l in lines[:50]:\n    if len(l) > 3 and not l.startswith('http') and not l.startswith('/_next') and 'srcSet' not in l:\n        print(l)\n\" 2>/dev/null",
+              "description": "Extract text about the course from DeepLearning.AI",
+              "timeout": 10000
+            },
+            "status": "error",
+            "isExpanded": false,
+            "result": "Exit code 1"
+          },
+          {
+            "id": "call_00_IhINnBzIfFKP2Rot0Wyu5446",
+            "name": "Bash",
+            "input": {
+              "command": "grep -oP '<title>[^<]+</title>' /tmp/dlai_prompting_course.html 2>/dev/null; echo \"===\"; grep -oP 'alt=\"[^\"]*Andrew[^\"]*\"' /tmp/dlai_prompting_course.html 2>/dev/null; echo \"===\"; grep -i 'instructor\\|teacher\\|author\\|Andrew Ng\\|吴恩达' /tmp/dlai_prompting_course.html 2>/dev/null | head -10; echo \"===\"; grep -i '2025\\|2026\\|April\\|March\\|release\\|launch\\|new' /tmp/dlai_prompting_course.html 2>/dev/null | head -10",
+              "description": "Extract course details from the AI Prompting for Everyone page",
+              "timeout": 10000
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "<persisted-output>\nOutput too large (474KB). Full output saved to: C:\\Users\\29731\\.claude\\projects\\C--Users-29731-OneDrive----Obsidian-Vault\\7ec67a92-9af9-4241-9b7b-0de23db29589\\tool-results\\bojur01ef.txt\n\nPreview (first 2KB):\n<title>AI Prompting for Everyone - DeepLearning.AI</title>\n===\nalt=\"Andrew Ng\"\n===\n<!DOCTYPE html><html data-dpl-id=\"dpl_9J5buBR36oqNFFgsF4BCgAtsH4Ej\" lang=\"en\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><link rel=\"preload\" href=\"https://dlai-learn.deeplearning.ai/_next/static/media/797e433ab948586e-s.p.09zddjkbdep5a.woff2?dpl=dpl_9J5buBR36oqNFFgsF4BCgAtsH4Ej\" as=\"font\" crossorigin=\"\" type=\"font/woff2\"/><link rel=\"preload\" href=\"https://dlai-learn.deeplearning.ai/_next/static/media/caa3a2e1cccd8315-s.p.09~u27dqhyhd6.woff2?dpl=dpl_9J5buBR36oqNFFgsF4BCgAtsH4Ej\" as=\"font\" crossorigin=\"\" type=\"font/woff2\"/><link rel=\"preload\" href=\"https://dlai-learn.deeplearning.ai/_next/static/media/e2334d715941921e-s.p.12skym0rqknxy.woff2?dpl=dpl_9J5buBR36oqNFFgsF4BCgAtsH4Ej\" as=\"font\" crossorigin=\"\" type=\"font/woff2\"/><link rel=\"preload\" as=\"image\" imageSrcSet=\"https://dlai-learn.deeplearning.ai/_next/image?url=%2Fdlai%2Fassets%2Fdlai-logo.png&amp;w=256&amp;q=75&amp;dpl=dpl_9J5buBR36oqNFFgsF4BCgAtsH4Ej 1x, https://dlai-learn.deeplearning.ai/_next/image?url=%2Fdlai%2Fassets%2Fdlai-logo.png&amp;w=640&amp;q=75&amp;dpl=dpl_9J5buBR36oqNFFgsF4BCgAtsH4Ej 2x\"/><link rel=\"stylesheet\" href=\"https://dlai-learn.deeplearning.ai/_next/static/chunks/03qp59xnzx6_d.css?dpl=dpl_9J5buBR36oqNFFgsF4BCgAtsH4Ej\" data-precedence=\"next\"/><link rel=\"stylesheet\" href=\"https://dlai-learn.deeplearning.ai/_next/static/chunks/13tjn7rwlib0b.css?dpl=dpl_9J5buBR36oqNFFgsF4BCgAtsH4Ej\" data-precedence=\"next\"/><link rel=\"stylesheet\" href=\"https://dlai-learn.deeplearning.ai/_next/static/chunks/0~lbbkxou7qiu.css?dpl=dpl_9J5buBR36oqNFFgsF4BCgAtsH4Ej\" data-precedence=\"next\"/><link rel=\"preload\" as=\"script\" fetchPriority=\"low\" href=\"https://dlai-learn.deeplearning.ai/_next/static/chunks/0u~ketesk45rw.js?dpl=dpl_9J5buBR36oqNFFgsF4BCgAtsH4Ej\"/><script src=\"https://dlai-learn.deeplearning.ai/_next/static/chunks/0g0qrw6-2vrn3.js?dpl=dpl_9J5buBR36oqNFFgsF4BCgAtsH4Ej\" async=\"\n...\n</persisted-output>"
+          },
+          {
+            "id": "call_01_FX6e1Q2CvHsoaZulaDxx9263",
+            "name": "Bash",
+            "input": {
+              "command": "grep -oiP 'MUDPILES[^<]*' /tmp/wikipedia_agma.html 2>/dev/null; echo \"===\"; grep -oiP 'GOLD[-\\s]?MARK[^<]*' /tmp/wikipedia_agma.html 2>/dev/null; echo \"===\"; grep -oiP 'Mnemonics?[^<]{0,200}' /tmp/wikipedia_agma.html 2>/dev/null",
+              "description": "Search Wikipedia for MUDPILES and GOLD MARK",
+              "timeout": 10000
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "mudpiles_-_causes_of_high_anion-gap_metabolic_acidosis.svg/1280px-Cat_mudpiles_-_causes_of_high_anion-gap_metabolic_acidosis.svg.png\">\nmudpiles_-_causes_of_high_anion-gap_metabolic_acidosis.svg\" class=\"mw-file-description\">\nmudpiles_-_causes_of_high_anion-gap_metabolic_acidosis.svg/250px-Cat_mudpiles_-_causes_of_high_anion-gap_metabolic_acidosis.svg.png\" decoding=\"async\" width=\"250\" height=\"250\" class=\"mw-file-element\" srcset=\"//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Cat_mudpiles_-_causes_of_high_anion-gap_metabolic_acidosis.svg/500px-Cat_mudpiles_-_causes_of_high_anion-gap_metabolic_acidosis.svg.png 2x\" data-file-width=\"745\" data-file-height=\"745\" />\nMUDPILES is commonly used to remember the causes of increased anion gap metabolic acidosis.\nmudpiles_-_causes_of_high_anion-gap_metabolic_acidosis.svg\",\"headline\":\"medical condition\"}\n===\nGOLD MARK\" was proposed in \nGOLD MARK: An anion gap mnemonic for the 21st century\"\n===\nMnemonics\",\"Metabolic disorders\",\"Kidney diseases\"],\"wgPageViewLanguage\":\"en\",\"wgPageContentLanguage\":\"en\",\"wgPageContentModel\":\"wikitext\",\"wgRelevantPageName\":\"High_anion_gap_metabolic_acidosis\",\"wgRelevantAr\nMnemonics\"\nMnemonics\">\nMnemonics\nMnemonics-sublist\" class=\"vector-toc-list\">\nMnemonics\">Mnemonics\nMnemonics\">\nmnemonics are used to assist clinicians in the detection and diagnosis of conditions that may result in high anion gap metabolic acidosis:\nMnemonic\" title=\"Mnemonic\">mnemonic\nmnemonic MUDPILES is commonly used to remember the causes of increased anion gap metabolic acidosis.\nmnemonic as well, although the acidosis caused by ethanol is actually primarily due to the increased production of lactic acid found in such intoxication.)\nmnemonic is KARMEL.\nmnemonic is KULT.\nmnemonic for toxins is ACE GIFTs: Aspirin, Cyanide, Ethanolic ketosis, Glycols (ethylene and propylene), \nmnemonic for the 21st century\"\nmnemonic+for+the+21st+century&amp;rft.volume=372&amp;rft.issue=9642&amp;rft.pages=892&amp;rft.date=2008&amp;rft&#95;id=https%3A%2F%2Fapi.semanticscholar.org%2FCorpusID%3A28053476%23id-name%3DS2CID&amp;rft&#95\nMnemonic\" title=\"Mnemonic\">Mnemonics\nmnemonics.com/cgi-bin/lookup.cfm?id1=1203&amp;id2=3255&amp;id3=&amp;id4=\">1203 3255  \nMnemonics\" title=\"Category:Mnemonics\">Mnemonics"
+          },
+          {
+            "id": "call_02_edwzqU24EXkfmKxZasax1382",
+            "name": "Bash",
+            "input": {
+              "command": "grep -oiP 'Anion[^<]{0,200}' /tmp/wikipedia_agma.html 2>/dev/null | head -20",
+              "description": "Search Wikipedia anion gap content",
+              "timeout": 10000
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "anion gap metabolic acidosis - Wikipedia\nanion_gap_metabolic_acidosis\",\"wgTitle\":\"High anion gap metabolic acidosis\",\"wgCurRevisionId\":1333693794,\"wgRevisionId\":1333693794,\"wgArticleId\":20551992,\"wgIsArticle\":true,\"wgIsRedirect\":false,\"wgAction\":\nanion_gap_metabolic_acidosis\",\"wgRelevantArticleId\":20551992,\"wgTempUserName\":null,\"wgIsProbablyEditable\":true,\"wgRelevantPageIsProbablyEditable\":true,\"wgRestrictionEdit\":[],\"wgRestrictionMove\":[],\"wgRedir\nAnion_gap_metabolic_acidosis\",\"wgNoticeProject\":\"wikipedia\",\"wgFlaggedRevsParams\":{\"tags\":{\"status\":{\"levels\":1}}},\"wgConfirmEditCaptchaNeededForGenericEdit\":\"hcaptcha\",\"wgConfirmEditForceShowCaptcha\":fals\nanion_gap_metabolic_acidosis\",\"wgTestKitchenUserExperiments\":{\"overrides\":[],\"enrolled\":[],\"assigned\":[],\"subject_ids\":[]},\"wgEditSubmitButtonLabelPublish\":true,\"wgVisualEditorPageIsDisambiguation\":false,\"\nanion-gap_metabolic_acidosis.svg/1280px-Cat_mudpiles_-_causes_of_high_anion-gap_metabolic_acidosis.svg.png\">\nanion gap metabolic acidosis - Wikipedia\">\nanion_gap_metabolic_acidosis&amp;action=edit\">\nanion_gap_metabolic_acidosis\">\nanion_gap_metabolic_acidosis rootpage-High_anion_gap_metabolic_acidosis skin-vector-2022 action-view\">\nanion+gap+metabolic+acidosis\" title=\"You are encouraged to create an account and log in; however, it is not mandatory\" class=\"\">\nanion+gap+metabolic+acidosis\" title=\"You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]\" accesskey=\"o\" class=\"\">\nanion+gap+metabolic+acidosis\" title=\"You are encouraged to create an account and log in; however, it is not mandatory\" class=\"\">\nanion+gap+metabolic+acidosis\" title=\"You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]\" accesskey=\"o\" class=\"\">\nanion gap metabolic acidosis\nanion_gap_metabolic_acidosis\" title=\"View the content page [c]\" accesskey=\"c\">\nanion_gap_metabolic_acidosis\" rel=\"discussion\" title=\"Discuss improvements to the content page [t]\" accesskey=\"t\">\nanion_gap_metabolic_acidosis\">\nanion_gap_metabolic_acidosis&amp;action=edit\" title=\"Edit this page [e]\" accesskey=\"e\">\nanion_gap_metabolic_acidosis&amp;action=history\" title=\"Past revisions of this page [h]\" accesskey=\"h\">"
+          },
+          {
+            "id": "call_00_vtUvJBsarJrK3dNzps7B9023",
+            "name": "Bash",
+            "input": {
+              "command": "python3 -c \"\nimport re\nwith open('/tmp/dlai_prompting_course.html','r',errors='replace') as f:\n    content = f.read()\n\nidx = content.find('AI Prompting for Everyone')\nsnippet = content[idx:idx+5000]\nclean = re.sub(r'<script[^>]*>.*?</script>', '', snippet, flags=re.DOTALL)\nclean = re.sub(r'<[^>]+>', '\\n', clean)\nlines = [l.strip() for l in clean.split('\\n') if l.strip()]\nfor l in lines[:80]:\n    if len(l) > 3 and not l.startswith('http') and not l.startswith('/_next') and 'srcSet' not in l and 'dpl' not in l:\n        print(l)\n\" 2>/dev/null",
+              "description": "Extract course details text",
+              "timeout": 10000
+            },
+            "status": "error",
+            "isExpanded": false,
+            "result": "Exit code 1"
+          },
+          {
+            "id": "call_01_aUtoGEoMjcXpOnq2JCfF4226",
+            "name": "Bash",
+            "input": {
+              "command": "python3 -c \"\nimport re\nwith open('/tmp/dlai_prompting_course.html','r',errors='replace') as f:\n    content = f.read()\n\n# Look for description and details\n# Find sections with text\ntexts = []\nfor m in re.finditer(r'>([^<>]{20,500})<', content):\n    t = m.group(1).strip()\n    if t and not t.startswith('/') and 'dpl' not in t and 'srcSet' not in t and 'loading' not in t:\n        texts.append(t)\nfor t in texts:\n    print(t)\n\" 2>/dev/null | head -60",
+              "description": "Extract all readable text from course page",
+              "timeout": 10000
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "(Bash completed with no output)"
+          },
+          {
+            "id": "call_02_ezs2EcTbw9BVT0Yj4SiW2533",
+            "name": "Bash",
+            "input": {
+              "command": "python3 -c \"\nimport re\nwith open('/tmp/dlai_prompting_course.html','r',errors='replace') as f:\n    content = f.read()\n\n# check for release date / timing\nfor pattern in [r'202[456]', r'Apr[a-z]* \\d+, \\d{4}', r'March \\d+', r'January \\d+', r'February \\d+', r'Released', r'Published', r'Launch']:\n    for m in re.finditer(pattern, content):\n        idx = max(0, m.start()-50)\n        print(f'  [{m.group()}] -> ...{content[idx:m.end()+50]}...')\n        print()\n\" 2>/dev/null | head -30",
+              "description": "Search for date information on course page",
+              "timeout": 10000
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "(Bash completed with no output)"
+          },
+          {
+            "id": "call_03_Rg9BlxbHO5nmYHw2locQ1794",
+            "name": "Bash",
+            "input": {
+              "command": "grep -oP 'href=\"[^\"]*prompting-for-everyone[^\"]*\"' /tmp/dlai_prompting_course.html 2>/dev/null | head -5; echo \"===\"; grep -oP 'href=\"/courses/ai-prompting-for-everyone[^\"]*\"' /tmp/dlai_prompting_course.html 2>/dev/null | head -5",
+              "description": "Find course URL information",
+              "timeout": 10000
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "href=\"https://www.deeplearning.ai/courses/ai-prompting-for-everyone\"\nhref=\"https://learn.deeplearning.ai/courses/ai-prompting-for-everyone?utm_source=home&amp;utm_medium=course-landing-page&amp;utm_campaign=summary-cta-button\"\nhref=\"https://learn.deeplearning.ai/courses/ai-prompting-for-everyone?utm_source=home&amp;utm_medium=course-landing-page&amp;utm_campaign=summary-cta-button\"\nhref=\"https://learn.deeplearning.ai/courses/ai-prompting-for-everyone/lesson/de11nq6r/the-ai-novice-and-the-ai-power-user\"\nhref=\"https://learn.deeplearning.ai/courses/ai-prompting-for-everyone/lesson/53ttu2p0/pretrained-knowledge\"\n==="
+          },
+          {
+            "id": "call_00_77WXg0SE2BI1sudyscuM8372",
+            "name": "Bash",
+            "input": {
+              "command": "curl -sL \"https://learn.deeplearning.ai/courses/ai-prompting-for-everyone\" -o /tmp/learn_prompting.html 2>/dev/null; echo \"DONE\"",
+              "description": "Fetch the learn.deeplearning.ai course page",
+              "timeout": 15000
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "DONE"
+          },
+          {
+            "id": "call_01_JG4o6z7fdPt8wuCnemQX0221",
+            "name": "Bash",
+            "input": {
+              "command": "python3 -c \"\nimport re\nwith open('/tmp/dlai_prompting_course.html','r',errors='replace') as f:\n    content = f.read()\n\n# Get all text content  \ntags = re.findall(r'>([^<]{5,300})<', content)\nfor t in tags:\n    clean = t.strip()\n    if clean and not any(x in clean for x in ['http', 'srcSet', 'loading', 'dpl', 'chunk', '/_next', '{', '}', ';', '.css', '.js', 'data-']):\n        print(clean)\n\" 2>/dev/null | sort -u | head -80",
+              "description": "Extract all readable content from course page",
+              "timeout": 10000
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "(Bash completed with no output)"
+          },
+          {
+            "id": "call_02_z2CgCssXaH0l9MOxTE4z8067",
+            "name": "Bash",
+            "input": {
+              "command": "grep -oiP 'Building[^<]{0,200}' /tmp/dlai_prompting_course.html 2>/dev/null | head -10; echo \"===\"; grep -oiP '[Bb]uild with Andrew Ng[^<]{0,200}' /tmp/dlai_prompting_course.html 2>/dev/null | head -10",
+              "description": "Search for Andrew Ng references",
+              "timeout": 10000
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "building apps, you&#x27;ll develop the prompting skills that get real, useful results from today&#x27;s most powerful AI models.\"/>\nbuilding apps, you&#x27;ll develop the prompting skills that get real, useful results from today&#x27;s most powerful AI models.\"/>\nbuilding apps, you&#x27;ll develop the prompting skills that get real, useful results from today&#x27;s most powerful AI models.\"/>\nbuilding apps, you'll develop the prompting skills that get real, useful results from today's most powerful AI models.\",\"provider\":{\"@type\":\"Organization\",\"name\":\"DeepLearning.AI\",\"sameAs\":\"https://learn.deep\nbuilding apps, you'll develop the prompting skills that get real, useful results from today's most powerful AI models.\",\"thumbnailUrl\":[\"https://home-wordpress.deeplearning.ai/wp-content/uploads/2026/04/YouTu\nbuilding simple games, websites, and apps with AI. No coding experience needed. Along the way you’ll encounter flying squirrels, a creativity test, some of Andrew’s old family photos, and fireworks.\nbuilding-apps\">\nBuilding apps\nbuilding-with-ai-and-final-project\">\nBuilding with AI and final project\n==="
+          },
+          {
+            "id": "call_00_21UO9IPO7zqcfCzovHeS7213",
+            "name": "Bash",
+            "input": {
+              "command": "python3 -c \"\nimport re\nwith open('/tmp/dlai_prompting_course.html','r',errors='replace') as f:\n    content = f.read()\n\n# Try to extract JSON-LD structured data \nfor m in re.finditer(r'type=\"application/ld\\+json\"[^>]*>(.*?)</script>', content, re.DOTALL):\n    print('JSON-LD:', m.group(1)[:3000])\nprint('===')\n\n# Also look for the description meta\nfor m in re.finditer(r'name=\"description\"[^>]*content=\"([^\"]+)\"', content):\n    print('META DESC:', m.group(1))\nfor m in re.finditer(r'property=\"og:description\"[^>]*content=\"([^\"]+)\"', content):\n    print('OG DESC:', m.group(1))\nprint('===')\n\n# Course structure info\nfor keyword in ['Lesson', 'Course', 'Chapter', 'Module', 'Section', 'Overview', 'Description']:\n    for m in re.finditer(r'>([^<>]*' + keyword + r'[^<>]{2,100})<', content):\n        print(f'{keyword}: {m.group(1)}')\n\" 2>/dev/null | head -60",
+              "description": "Extract structured data and metadata from course page",
+              "timeout": 10000
+            },
+            "status": "error",
+            "isExpanded": false,
+            "result": "Exit code 2\n/usr/bin/bash: eval: line 12: syntax error near unexpected token `('\n/usr/bin/bash: eval: line 12: `for m in re.finditer(r'name=\"description\"[^>]*content=\"([^\"]+)\"', content):'"
+          },
+          {
+            "id": "call_01_3xhBRJtbxCqqq9T9DEOc1036",
+            "name": "Bash",
+            "input": {
+              "command": "python3 -c \"\nimport re\nwith open('/tmp/learn_prompting.html','r',errors='replace') as f:\n    content = f.read()\n\n# Get all visible text\ntags = re.findall(r'>([^<]{5,500})<', content)\nfor t in tags:\n    clean = t.strip()\n    if clean and len(clean) > 10 and not any(x in clean for x in ['http', 'srcSet', 'loading', 'dpl', 'chunk', '/_next', '{', '}', ';', '.css', '.js', 'data-']):\n        print(clean)\n\" 2>/dev/null | sort -u | head -80",
+              "description": "Extract text from learn.deeplearning.ai course page",
+              "timeout": 10000
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "(Bash completed with no output)"
+          },
+          {
+            "id": "call_00_Gza9I9inl2AxEC3Ah1V21689",
+            "name": "Bash",
+            "input": {
+              "command": "grep -oP 'name=\"description\" content=\"([^\"]+)\"' /tmp/dlai_prompting_course.html 2>/dev/null; echo \"===\"; grep -oP 'property=\"og:description\" content=\"([^\"]+)\"' /tmp/dlai_prompting_course.html 2>/dev/null; echo \"===\"; grep -oP '\"@type\":\"Course\"[^}]+}' /tmp/dlai_prompting_course.html 2>/dev/null | head -3",
+              "description": "Extract metadata from course page",
+              "timeout": 10000
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "name=\"description\" content=\"Become an AI power user in this new course taught by Andrew Ng. From finding information to building apps, you&#x27;ll develop the prompting skills that get real, useful results from today&#x27;s most powerful AI models.\"\n===\nproperty=\"og:description\" content=\"Become an AI power user in this new course taught by Andrew Ng. From finding information to building apps, you&#x27;ll develop the prompting skills that get real, useful results from today&#x27;s most powerful AI models.\"\n===\n\"@type\":\"Course\",\"name\":\"AI Prompting for Everyone\",\"description\":\"Become an AI power user in this new course taught by Andrew Ng. From finding information to building apps, you'll develop the prompting skills that get real, useful results from today's most powerful AI models.\",\"provider\":{\"@type\":\"Organization\",\"name\":\"DeepLearning.AI\",\"sameAs\":\"https://learn.deeplearning.ai\"}"
+          },
+          {
+            "id": "call_01_Gd7tZt7GVQVRKIg2Po1u6169",
+            "name": "Bash",
+            "input": {
+              "command": "grep -oP '\"description\":\"[^\"]+\"' /tmp/dlai_prompting_course.html 2>/dev/null | head -5; echo \"===\"; grep -oP '\"name\":\"[^\"]+\"' /tmp/dlai_prompting_course.html 2>/dev/null | head -10",
+              "description": "Extract JSON descriptions from course page",
+              "timeout": 10000
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "\"description\":\"Become an AI power user in this new course taught by Andrew Ng. From finding information to building apps, you'll develop the prompting skills that get real, useful results from today's most powerful AI models.\"\n\"description\":\"Become an AI power user in this new course taught by Andrew Ng. From finding information to building apps, you'll develop the prompting skills that get real, useful results from today's most powerful AI models.\"\n===\n\"name\":\"AI Prompting for Everyone\"\n\"name\":\"DeepLearning.AI\"\n\"name\":\"AI Prompting for Everyone - Course Preview\""
+          },
+          {
+            "id": "call_00_XjPVKxIPlVV4EVJ5XQ2D0076",
+            "name": "Bash",
+            "input": {
+              "command": "curl -sL \"https://api-docs.deepseek.com/guides/web_search\" -o /tmp/deepseek_docs.html 2>/dev/null; curl -sL \"https://chat.deepseek.com/\" -H \"User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36\" -o /tmp/deepseek_chat.html 2>/dev/null; echo \"DONE\"",
+              "description": "Fetch DeepSeek documentation and chat page",
+              "timeout": 15000
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "DONE"
+          },
+          {
+            "id": "call_01_gOeJGHVQVEZjI5GjiR8l0179",
+            "name": "Bash",
+            "input": {
+              "command": "grep -oP 'title>[^<]+' /tmp/learn_prompting.html 2>/dev/null; echo \"===\"; grep -i \"2026\\|2025\\|releas\\|launch\\|new\" /tmp/learn_prompting.html 2>/dev/null | grep -oP '>[^<]{3,200}<' | head -20",
+              "description": "Search for date info in learn.deeplearning.ai page",
+              "timeout": 10000
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "===\n>AI Prompting for Everyone - DeepLearning.AI<\n>AI is the new electricity and will transform and improve nearly all areas of human lives.<\n>close<\n>Try Skill Builder<\n>Have a friendly voice chat about how you&#x27;re using AI, get feedback on your skills, and find out what to learn or build next.<\n>Got It<\n>Take Me There<\n>close<\n>Quick Guide &amp; Tips<\n>💻   Accessing Utils File and Helper Functions<\n>Keep learning by enrolling in other short courses. We add new short courses regularly. Visit DeepLearning.AI Short Courses page to see our latest courses and begin learning new topics. 👇<\n>close<\n>Sign in<\n>Continue with Google<\n>Continue with LinkedIn<\n>Or, sign in with your email<\n>Email<\n>Password<\n>Sign in<\n>Forgot password?<"
+          },
+          {
+            "id": "call_00_JxJY5X1armtyoEHIFRdx9797",
+            "name": "Bash",
+            "input": {
+              "command": "grep -i \"file\\|upload\\|attach\\|document\\|PDF\\|image\\|drag\" /tmp/deepseek_chat.html 2>/dev/null | head -20",
+              "description": "Check DeepSeek chat page for file upload features",
+              "timeout": 10000
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "(Bash completed with no output)"
+          },
+          {
+            "id": "call_01_YWOdQgr4Ub6tNAWWvKpk8155",
+            "name": "Bash",
+            "input": {
+              "command": "grep -i \"file\\|upload\\|attach\\|document\\|PDF\\|drag\\|image\\|picture\" /tmp/deepseek_docs.html 2>/dev/null | head -30",
+              "description": "Check DeepSeek documentation for file upload",
+              "timeout": 10000
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "<title data-rh=\"true\">DeepSeek API Docs</title><meta data-rh=\"true\" property=\"og:title\" content=\"DeepSeek API Docs\"><meta data-rh=\"true\" name=\"viewport\" content=\"width=device-width,initial-scale=1\"><meta data-rh=\"true\" name=\"twitter:card\" content=\"summary_large_image\"><meta data-rh=\"true\" property=\"og:image\" content=\"https://api-docs.deepseek.com/img/deepseek-social-card.jpeg\"><meta data-rh=\"true\" name=\"twitter:image\" content=\"https://api-docs.deepseek.com/img/deepseek-social-card.jpeg\"><meta data-rh=\"true\" property=\"og:url\" content=\"https://api-docs.deepseek.com/404.html\"><meta data-rh=\"true\" property=\"og:locale\" content=\"en\"><meta data-rh=\"true\" property=\"og:locale:alternate\" content=\"zh_cn\"><meta data-rh=\"true\" name=\"docusaurus_locale\" content=\"en\"><meta data-rh=\"true\" name=\"docsearch:language\" content=\"en\"><meta data-rh=\"true\" name=\"docusaurus_version\" content=\"current\"><meta data-rh=\"true\" name=\"docusaurus_tag\" content=\"docs-default-current\"><meta data-rh=\"true\" name=\"docsearch:version\" content=\"current\"><meta data-rh=\"true\" name=\"docsearch:docusaurus_tag\" content=\"docs-default-current\"><link data-rh=\"true\" rel=\"icon\" href=\"/img/favicon.svg\"><link data-rh=\"true\" rel=\"canonical\" href=\"https://api-docs.deepseek.com/404.html\"><link data-rh=\"true\" rel=\"alternate\" href=\"https://api-docs.deepseek.com/404.html\" hreflang=\"en\"><link data-rh=\"true\" rel=\"alternate\" href=\"https://api-docs.deepseek.com/zh-cn/404.html\" hreflang=\"zh-cn\"><link data-rh=\"true\" rel=\"alternate\" href=\"https://api-docs.deepseek.com/404.html\" hreflang=\"x-default\"><link rel=\"stylesheet\" href=\"/assets/css/styles.e31a7b76.css\">\n<script>!function(){function t(t){document.documentElement.setAttribute(\"data-theme\",t)}var e=function(){try{return new URLSearchParams(window.location.search).get(\"docusaurus-theme\")}catch(t){}}()||function(){try{return localStorage.getItem(\"theme\")}catch(t){}}();t(null!==e?e:\"light\")}(),function(){try{const c=new URLSearchParams(window.location.search).entries();for(var[t,e]of c)if(t.startsWith(\"docusaurus-data-\")){var a=t.replace(\"docusaurus-data-\",\"data-\");document.documentElement.setAttribute(a,e)}}catch(t){}}()</script><div id=\"__docusaurus\"><div role=\"region\" aria-label=\"Skip to main content\"><a class=\"skipToContent_xSgN\" href=\"#__docusaurus_skipToContent_fallback\">Skip to main content</a></div><nav aria-label=\"Main\" class=\"navbar navbar--fixed-top\"><div class=\"navbar__inner\"><div class=\"navbar__items\"><button aria-label=\"Toggle navigation bar\" aria-expanded=\"false\" class=\"navbar__toggle clean-btn\" type=\"button\"><svg width=\"30\" height=\"30\" viewBox=\"0 0 30 30\" aria-hidden=\"true\"><path stroke=\"currentColor\" stroke-linecap=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2\" d=\"M4 7h22M4 15h22M4 23h22\"></path></svg></button><a class=\"navbar__brand\" href=\"/\"><div class=\"navbar__logo\"><img src=\"https://cdn.deepseek.com/platform/favicon.png\" alt=\"DeepSeek API Docs Logo\" class=\"themedComponent_EBr5 themedComponent--light_FDat\"><img src=\"https://cdn.deepseek.com/platform/favicon.png\" alt=\"DeepSeek API Docs Logo\" class=\"themedComponent_EBr5 themedComponent--dark_NU8c\"></div><b class=\"navbar__title text--truncate\">DeepSeek API Docs</b></a></div><div class=\"navbar__items navbar__items--right\"><div class=\"navbar__item dropdown dropdown--hoverable dropdown--right\"><a href=\"#\" aria-haspopup=\"true\" aria-expanded=\"false\" role=\"button\" class=\"navbar__link\"><svg viewBox=\"0 0 24 24\" width=\"20\" height=\"20\" aria-hidden=\"true\" class=\"iconLanguage_B6X1\"><path fill=\"currentColor\" d=\"M12.87 15.07l-2.54-2.51.03-.03c1.74-1.94 2.98-4.17 3.71-6.53H17V4h-7V2H8v2H1v1.99h11.17C11.5 7.92 10.44 9.75 9 11.35 8.07 10.32 7.3 9.19 6.69 8h-2c.73 1.63 1.73 3.17 2.98 4.56l-5.09 5.02L4 19l5-5 3.11 3.11.76-2.04zM18.5 10h-2L12 22h2l1.12-3h4.75L21 22h2l-4.5-12zm-2.62 7l1.62-4.33L19.12 17h-3.24z\"></path></svg>English</a><ul class=\"dropdown__menu\"><li><a href=\"/404\" target=\"_self\" rel=\"noopener noreferrer\" class=\"dropdown__link dropdown__link--active\" lang=\"en\">English</a></li><li><a href=\"/zh-cn/404\" target=\"_self\" rel=\"noopener noreferrer\" class=\"dropdown__link\" lang=\"zh-cn\">中文（中国）</a></li></ul></div><a href=\"https://platform.deepseek.com/\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"navbar__item navbar__link\">DeepSeek Platform<svg width=\"13.5\" height=\"13.5\" aria-hidden=\"true\" viewBox=\"0 0 24 24\" class=\"iconExternalLink_YH95\"><path fill=\"currentColor\" d=\"M21 13v10h-21v-19h12v2h-10v15h17v-8h2zm3-12h-10.988l4.035 4-6.977 7.07 2.828 2.828 6.977-7.07 4.125 4.172v-11z\"></path></svg></a><div class=\"toggle_SQQt colorModeToggle_ulqQ\"><button class=\"clean-btn toggleButton_Z4XR toggleButtonDisabled_lK4M\" type=\"button\" disabled=\"\" title=\"Switch between dark and light mode (currently light mode)\" aria-label=\"Switch between dark and light mode (currently light mode)\" aria-live=\"polite\"><svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" class=\"lightToggleIcon_JCQN\"><path fill=\"currentColor\" d=\"M12,9c1.65,0,3,1.35,3,3s-1.35,3-3,3s-3-1.35-3-3S10.35,9,12,9 M12,7c-2.76,0-5,2.24-5,5s2.24,5,5,5s5-2.24,5-5 S14.76,7,12,7L12,7z M2,13l2,0c0.55,0,1-0.45,1-1s-0.45-1-1-1l-2,0c-0.55,0-1,0.45-1,1S1.45,13,2,13z M20,13l2,0c0.55,0,1-0.45,1-1 s-0.45-1-1-1l-2,0c-0.55,0-1,0.45-1,1S19.45,13,20,13z M11,2v2c0,0.55,0.45,1,1,1s1-0.45,1-1V2c0-0.55-0.45-1-1-1S11,1.45,11,2z M11,20v2c0,0.55,0.45,1,1,1s1-0.45,1-1v-2c0-0.55-0.45-1-1-1C11.45,19,11,19.45,11,20z M5.99,4.58c-0.39-0.39-1.03-0.39-1.41,0 c-0.39,0.39-0.39,1.03,0,1.41l1.06,1.06c0.39,0.39,1.03,0.39,1.41,0s0.39-1.03,0-1.41L5.99,4.58z M18.36,16.95 c-0.39-0.39-1.03-0.39-1.41,0c-0.39,0.39-0.39,1.03,0,1.41l1.06,1.06c0.39,0.39,1.03,0.39,1.41,0c0.39-0.39,0.39-1.03,0-1.41 L18.36,16.95z M19.42,5.99c0.39-0.39,0.39-1.03,0-1.41c-0.39-0.39-1.03-0.39-1.41,0l-1.06,1.06c-0.39,0.39-0.39,1.03,0,1.41 s1.03,0.39,1.41,0L19.42,5.99z M7.05,18.36c0.39-0.39,0.39-1.03,0-1.41c-0.39-0.39-1.03-0.39-1.41,0l-1.06,1.06 c-0.39,0.39-0.39,1.03,0,1.41s1.03,0.39,1.41,0L7.05,18.36z\"></path></svg><svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" class=\"darkToggleIcon_R3EN\"><path fill=\"currentColor\" d=\"M9.37,5.51C9.19,6.15,9.1,6.82,9.1,7.5c0,4.08,3.32,7.4,7.4,7.4c0.68,0,1.35-0.09,1.99-0.27C17.45,17.19,14.93,19,12,19 c-3.86,0-7-3.14-7-7C5,9.07,6.81,6.55,9.37,5.51z M12,3c-4.97,0-9,4.03-9,9s4.03,9,9,9s9-4.03,9-9c0-0.46-0.04-0.92-0.1-1.36 c-0.98,1.37-2.58,2.26-4.4,2.26c-2.98,0-5.4-2.42-5.4-5.4c0-1.81,0.89-3.42,2.26-4.4C12.92,3.04,12.46,3,12,3L12,3z\"></path></svg></button></div><div class=\"navbarSearchContainer_uDFu\"></div></div></div><div role=\"presentation\" class=\"navbar-sidebar__backdrop\"></div></nav><div id=\"__docusaurus_skipToContent_fallback\" class=\"main-wrapper mainWrapper_O4_m\"><main class=\"container margin-vert--xl\"><div class=\"row\"><div class=\"col col--6 col--offset-3\"><h1 class=\"hero__title\">Page Not Found</h1><p>We could not find what you were looking for.</p><p>Please contact the owner of the site that linked you to the original URL and let them know their link is broken.</p></div></div></main></div><footer class=\"footer footer--dark\"><div class=\"container container-fluid\"><div class=\"row footer__links\"><div class=\"col footer__col\"><div class=\"footer__title\">WeChat Official Account</div><ul class=\"footer__items clean-list\"><li class=\"footer__item\">"
+          },
+          {
+            "id": "call_02_lIddUgPpHzG9loksyvKT4949",
+            "name": "Bash",
+            "input": {
+              "command": "curl -sL \"https://help.deepseek.com/\" -H \"User-Agent: Mozilla/5.0\" -o /tmp/deepseek_help.html 2>/dev/null; echo \"DONE\"",
+              "description": "Fetch DeepSeek help page",
+              "timeout": 15000
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "DONE"
+          },
+          {
+            "id": "call_00_pcQBmmfTg3pqyK5E9EcL0403",
+            "name": "Bash",
+            "input": {
+              "command": "curl -sL \"https://api-docs.deepseek.com/\" -H \"User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36\" -o /tmp/deepseek_api.html 2>/dev/null; echo \"DONE\"",
+              "description": "Fetch DeepSeek API docs main page",
+              "timeout": 15000
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "DONE"
+          },
+          {
+            "id": "call_01_9D2Ah6NmFgtcQqW5QH7l9146",
+            "name": "Bash",
+            "input": {
+              "command": "grep -i \"file\\|upload\\|document\\|PDF\\|image\\|attachment\\|upload\" /tmp/deepseek_help.html 2>/dev/null | head -30",
+              "description": "Search DeepSeek help for file upload features",
+              "timeout": 10000
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "(Bash completed with no output)"
+          },
+          {
+            "id": "call_02_XNh1JVGkjy3JmuZJkg2u6935",
+            "name": "Bash",
+            "input": {
+              "command": "curl -sL \"https://tongyi.aliyun.com/wanxiang/app/qwen\" -H \"User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36\" -o /tmp/tongyi_qwen.html 2>/dev/null; curl -sL \"https://help.aliyun.com/zh/model-studio/user-guide/upload-files\" -H \"User-Agent: Mozilla/5.0\" -o /tmp/tongyi_faq.html 2>/dev/null; echo \"DONE\"",
+              "description": "Fetch Tongyi Qianwen and help pages",
+              "timeout": 15000
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "DONE"
+          },
+          {
+            "id": "call_03_YBx2BQk2vr2uReuxcpTp3118",
+            "name": "Bash",
+            "input": {
+              "command": "curl -sL \"https://platform.deepseek.com/api-docs/pricing\" -H \"User-Agent: Mozilla/5.0\" -o /tmp/deepseek_pricing.html 2>/dev/null; curl -sL \"https://chat.deepseek.com/\" -H \"User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36\" --max-time 10 -o /tmp/deepseek_chat2.html 2>/dev/null; echo \"DONE\"",
+              "description": "Fetch DeepSeek pricing and chat page",
+              "timeout": 15000
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "DONE"
+          },
+          {
+            "id": "call_00_s7FM57gEzHYFgTXUImhm7761",
+            "name": "Bash",
+            "input": {
+              "command": "grep -i \"file\\|upload\\|document\\|PDF\\|image\\|attach\\|drag\" /tmp/deepseek_api.html 2>/dev/null | head -20; echo \"===\"; grep -oP 'title>[^<]+' /tmp/deepseek_api.html 2>/dev/null | head -5",
+              "description": "Search DeepSeek API docs for file upload features",
+              "timeout": 10000
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "<title data-rh=\"true\">Your First API Call | DeepSeek API Docs</title><meta data-rh=\"true\" name=\"viewport\" content=\"width=device-width,initial-scale=1\"><meta data-rh=\"true\" name=\"twitter:card\" content=\"summary_large_image\"><meta data-rh=\"true\" property=\"og:image\" content=\"https://api-docs.deepseek.com/img/deepseek-social-card.jpeg\"><meta data-rh=\"true\" name=\"twitter:image\" content=\"https://api-docs.deepseek.com/img/deepseek-social-card.jpeg\"><meta data-rh=\"true\" property=\"og:url\" content=\"https://api-docs.deepseek.com/\"><meta data-rh=\"true\" property=\"og:locale\" content=\"en\"><meta data-rh=\"true\" property=\"og:locale:alternate\" content=\"zh_cn\"><meta data-rh=\"true\" name=\"docusaurus_locale\" content=\"en\"><meta data-rh=\"true\" name=\"docsearch:language\" content=\"en\"><meta data-rh=\"true\" name=\"docusaurus_version\" content=\"current\"><meta data-rh=\"true\" name=\"docusaurus_tag\" content=\"docs-default-current\"><meta data-rh=\"true\" name=\"docsearch:version\" content=\"current\"><meta data-rh=\"true\" name=\"docsearch:docusaurus_tag\" content=\"docs-default-current\"><meta data-rh=\"true\" property=\"og:title\" content=\"Your First API Call | DeepSeek API Docs\"><meta data-rh=\"true\" name=\"description\" content=\"The DeepSeek API uses an API format compatible with OpenAI/Anthropic. By modifying the configuration, you can use the OpenAI/Anthropic SDK or softwares compatible with the OpenAI/Anthropic API to access the DeepSeek API.\"><meta data-rh=\"true\" property=\"og:description\" content=\"The DeepSeek API uses an API format compatible with OpenAI/Anthropic. By modifying the configuration, you can use the OpenAI/Anthropic SDK or softwares compatible with the OpenAI/Anthropic API to access the DeepSeek API.\"><link data-rh=\"true\" rel=\"icon\" href=\"/img/favicon.svg\"><link data-rh=\"true\" rel=\"canonical\" href=\"https://api-docs.deepseek.com/\"><link data-rh=\"true\" rel=\"alternate\" href=\"https://api-docs.deepseek.com/\" hreflang=\"en\"><link data-rh=\"true\" rel=\"alternate\" href=\"https://api-docs.deepseek.com/zh-cn/\" hreflang=\"zh-cn\"><link data-rh=\"true\" rel=\"alternate\" href=\"https://api-docs.deepseek.com/\" hreflang=\"x-default\"><script data-rh=\"true\">function insertBanner(){var n=document.createElement(\"div\");n.id=\"__docusaurus-base-url-issue-banner-container\";n.innerHTML='\\n<div id=\"__docusaurus-base-url-issue-banner\" style=\"border: thick solid red; background-color: rgb(255, 230, 179); margin: 20px; padding: 20px; font-size: 20px;\">\\n   <p style=\"font-weight: bold; font-size: 30px;\">Your Docusaurus site did not load properly.</p>\\n   <p>A very common reason is a wrong site <a href=\"https://docusaurus.io/docs/docusaurus.config.js/#baseUrl\" style=\"font-weight: bold;\">baseUrl configuration</a>.</p>\\n   <p>Current configured baseUrl = <span style=\"font-weight: bold; color: red;\">/</span>  (default value)</p>\\n   <p>We suggest trying baseUrl = <span id=\"__docusaurus-base-url-issue-banner-suggestion-container\" style=\"font-weight: bold; color: green;\"></span></p>\\n</div>\\n',document.body.prepend(n);var e=document.getElementById(\"__docusaurus-base-url-issue-banner-suggestion-container\"),s=window.location.pathname,o=\"/\"===s.substr(-1)?s:s+\"/\";e.innerHTML=o}document.addEventListener(\"DOMContentLoaded\",(function(){void 0===window.docusaurus&&insertBanner()}))</script><link rel=\"stylesheet\" href=\"/assets/css/styles.e31a7b76.css\">\n<script>!function(){function t(t){document.documentElement.setAttribute(\"data-theme\",t)}var e=function(){try{return new URLSearchParams(window.location.search).get(\"docusaurus-theme\")}catch(t){}}()||function(){try{return localStorage.getItem(\"theme\")}catch(t){}}();t(null!==e?e:\"light\")}(),function(){try{const c=new URLSearchParams(window.location.search).entries();for(var[t,e]of c)if(t.startsWith(\"docusaurus-data-\")){var a=t.replace(\"docusaurus-data-\",\"data-\");document.documentElement.setAttribute(a,e)}}catch(t){}}()</script><div id=\"__docusaurus\"><div role=\"region\" aria-label=\"Skip to main content\"><a class=\"skipToContent_xSgN\" href=\"#__docusaurus_skipToContent_fallback\">Skip to main content</a></div><nav aria-label=\"Main\" class=\"navbar navbar--fixed-top\"><div class=\"navbar__inner\"><div class=\"navbar__items\"><button aria-label=\"Toggle navigation bar\" aria-expanded=\"false\" class=\"navbar__toggle clean-btn\" type=\"button\"><svg width=\"30\" height=\"30\" viewBox=\"0 0 30 30\" aria-hidden=\"true\"><path stroke=\"currentColor\" stroke-linecap=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2\" d=\"M4 7h22M4 15h22M4 23h22\"></path></svg></button><a class=\"navbar__brand\" href=\"/\"><div class=\"navbar__logo\"><img src=\"https://cdn.deepseek.com/platform/favicon.png\" alt=\"DeepSeek API Docs Logo\" class=\"themedComponent_EBr5 themedComponent--light_FDat\"><img src=\"https://cdn.deepseek.com/platform/favicon.png\" alt=\"DeepSeek API Docs Logo\" class=\"themedComponent_EBr5 themedComponent--dark_NU8c\"></div><b class=\"navbar__title text--truncate\">DeepSeek API Docs</b></a></div><div class=\"navbar__items navbar__items--right\"><div class=\"navbar__item dropdown dropdown--hoverable dropdown--right\"><a href=\"#\" aria-haspopup=\"true\" aria-expanded=\"false\" role=\"button\" class=\"navbar__link\"><svg viewBox=\"0 0 24 24\" width=\"20\" height=\"20\" aria-hidden=\"true\" class=\"iconLanguage_B6X1\"><path fill=\"currentColor\" d=\"M12.87 15.07l-2.54-2.51.03-.03c1.74-1.94 2.98-4.17 3.71-6.53H17V4h-7V2H8v2H1v1.99h11.17C11.5 7.92 10.44 9.75 9 11.35 8.07 10.32 7.3 9.19 6.69 8h-2c.73 1.63 1.73 3.17 2.98 4.56l-5.09 5.02L4 19l5-5 3.11 3.11.76-2.04zM18.5 10h-2L12 22h2l1.12-3h4.75L21 22h2l-4.5-12zm-2.62 7l1.62-4.33L19.12 17h-3.24z\"></path></svg>English</a><ul class=\"dropdown__menu\"><li><a href=\"/\" target=\"_self\" rel=\"noopener noreferrer\" class=\"dropdown__link dropdown__link--active\" lang=\"en\">English</a></li><li><a href=\"/zh-cn/\" target=\"_self\" rel=\"noopener noreferrer\" class=\"dropdown__link\" lang=\"zh-cn\">中文（中国）</a></li></ul></div><a href=\"https://platform.deepseek.com/\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"navbar__item navbar__link\">DeepSeek Platform<svg width=\"13.5\" height=\"13.5\" aria-hidden=\"true\" viewBox=\"0 0 24 24\" class=\"iconExternalLink_YH95\"><path fill=\"currentColor\" d=\"M21 13v10h-21v-19h12v2h-10v15h17v-8h2zm3-12h-10.988l4.035 4-6.977 7.07 2.828 2.828 6.977-7.07 4.125 4.172v-11z\"></path></svg></a><div class=\"toggle_SQQt colorModeToggle_ulqQ\"><button class=\"clean-btn toggleButton_Z4XR toggleButtonDisabled_lK4M\" type=\"button\" disabled=\"\" title=\"Switch between dark and light mode (currently light mode)\" aria-label=\"Switch between dark and light mode (currently light mode)\" aria-live=\"polite\"><svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" class=\"lightToggleIcon_JCQN\"><path fill=\"currentColor\" d=\"M12,9c1.65,0,3,1.35,3,3s-1.35,3-3,3s-3-1.35-3-3S10.35,9,12,9 M12,7c-2.76,0-5,2.24-5,5s2.24,5,5,5s5-2.24,5-5 S14.76,7,12,7L12,7z M2,13l2,0c0.55,0,1-0.45,1-1s-0.45-1-1-1l-2,0c-0.55,0-1,0.45-1,1S1.45,13,2,13z M20,13l2,0c0.55,0,1-0.45,1-1 s-0.45-1-1-1l-2,0c-0.55,0-1,0.45-1,1S19.45,13,20,13z M11,2v2c0,0.55,0.45,1,1,1s1-0.45,1-1V2c0-0.55-0.45-1-1-1S11,1.45,11,2z M11,20v2c0,0.55,0.45,1,1,1s1-0.45,1-1v-2c0-0.55-0.45-1-1-1C11.45,19,11,19.45,11,20z M5.99,4.58c-0.39-0.39-1.03-0.39-1.41,0 c-0.39,0.39-0.39,1.03,0,1.41l1.06,1.06c0.39,0.39,1.03,0.39,1.41,0s0.39-1.03,0-1.41L5.99,4.58z M18.36,16.95 c-0.39-0.39-1.03-0.39-1.41,0c-0.39,0.39-0.39,1.03,0,1.41l1.06,1.06c0.39,0.39,1.03,0.39,1.41,0c0.39-0.39,0.39-1.03,0-1.41 L18.36,16.95z M19.42,5.99c0.39-0.39,0.39-1.03,0-1.41c-0.39-0.39-1.03-0.39-1.41,0l-1.06,1.06c-0.39,0.39-0.39,1.03,0,1.41 s1.03,0.39,1.41,0L19.42,5.99z M7.05,18.36c0.39-0.39,0.39-1.03,0-1.41c-0.39-0.39-1.03-0.39-1.41,0l-1.06,1.06 c-0.39,0.39-0.39,1.03,0,1.41s1.03,0.39,1.41,0L7.05,18.36z\"></path></svg><svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" class=\"darkToggleIcon_R3EN\"><path fill=\"currentColor\" d=\"M9.37,5.51C9.19,6.15,9.1,6.82,9.1,7.5c0,4.08,3.32,7.4,7.4,7.4c0.68,0,1.35-0.09,1.99-0.27C17.45,17.19,14.93,19,12,19 c-3.86,0-7-3.14-7-7C5,9.07,6.81,6.55,9.37,5.51z M12,3c-4.97,0-9,4.03-9,9s4.03,9,9,9s9-4.03,9-9c0-0.46-0.04-0.92-0.1-1.36 c-0.98,1.37-2.58,2.26-4.4,2.26c-2.98,0-5.4-2.42-5.4-5.4c0-1.81,0.89-3.42,2.26-4.4C12.92,3.04,12.46,3,12,3L12,3z\"></path></svg></button></div><div class=\"navbarSearchContainer_uDFu\"></div></div></div><div role=\"presentation\" class=\"navbar-sidebar__backdrop\"></div></nav><div id=\"__docusaurus_skipToContent_fallback\" class=\"main-wrapper mainWrapper_O4_m\"><div class=\"docsWrapper_mcSy\"><button aria-label=\"Scroll back to top\" class=\"clean-btn theme-back-to-top-button backToTopButton_XdUj\" type=\"button\"></button><div class=\"docRoot_Dr47\"><aside class=\"theme-doc-sidebar-container docSidebarContainer_baRN\"><div class=\"sidebarViewport_VhFV\"><div class=\"sidebar_pcuX\"><nav aria-label=\"Docs sidebar\" class=\"menu thin-scrollbar menu_r8D2\"><ul class=\"theme-doc-sidebar-menu menu__list\"><li class=\"theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item\"><div class=\"menu__list-item-collapsible\"><a class=\"menu__link menu__link--sublist menu__link--sublist-caret menu__link--active\" aria-expanded=\"true\" href=\"/\">Quick Start</a></div><ul style=\"display:block;overflow:visible;height:auto\" class=\"menu__list\"><li class=\"theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item\"><a class=\"menu__link menu__link--active\" aria-current=\"page\" tabindex=\"0\" href=\"/\">Your First API Call</a></li><li class=\"theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item\"><a class=\"menu__link\" tabindex=\"0\" href=\"/quick_start/pricing\">Models &amp; Pricing</a></li><li class=\"theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item\"><a class=\"menu__link\" tabindex=\"0\" href=\"/quick_start/token_usage\">Token &amp; Token Usage</a></li><li class=\"theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item\"><a class=\"menu__link\" tabindex=\"0\" href=\"/quick_start/rate_limit\">Rate Limit &amp; Isolation</a></li><li class=\"theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item\"><a class=\"menu__link\" tabindex=\"0\" href=\"/quick_start/error_codes\">Error Codes</a></li><li class=\"theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-2 menu__list-item menu__list-item--collapsed\"><div class=\"menu__list-item-collapsible\"><a class=\"menu__link menu__link--sublist menu__link--sublist-caret\" aria-expanded=\"false\" tabindex=\"0\" href=\"/quick_start/agent_integrations/claude_code\">Agent Integrations</a></div></li></ul></li><li class=\"theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item\"><div class=\"menu__list-item-collapsible\"><a class=\"menu__link menu__link--sublist menu__link--sublist-caret\" aria-expanded=\"true\" href=\"/guides/thinking_mode\">API Guides</a></div><ul style=\"display:block;overflow:visible;height:auto\" class=\"menu__list\"><li class=\"theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item\"><a class=\"menu__link\" tabindex=\"0\" href=\"/guides/thinking_mode\">Thinking Mode</a></li><li class=\"theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item\"><a class=\"menu__link\" tabindex=\"0\" href=\"/guides/multi_round_chat\">Multi-round Conversation</a></li><li class=\"theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item\"><a class=\"menu__link\" tabindex=\"0\" href=\"/guides/chat_prefix_completion\">Chat Prefix Completion (Beta)</a></li><li class=\"theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item\"><a class=\"menu__link\" tabindex=\"0\" href=\"/guides/fim_completion\">FIM Completion (Beta)</a></li><li class=\"theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item\"><a class=\"menu__link\" tabindex=\"0\" href=\"/guides/json_mode\">JSON Output</a></li><li class=\"theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item\"><a class=\"menu__link\" tabindex=\"0\" href=\"/guides/tool_calls\">Tool Calls</a></li><li class=\"theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item\"><a class=\"menu__link\" tabindex=\"0\" href=\"/guides/kv_cache\">Context Caching</a></li><li class=\"theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item\"><a class=\"menu__link\" tabindex=\"0\" href=\"/guides/anthropic_api\">Anthropic API</a></li></ul></li><li class=\"theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed\"><div class=\"menu__list-item-collapsible\"><a class=\"menu__link menu__link--sublist menu__link--sublist-caret\" aria-expanded=\"false\" href=\"/api/deepseek-api\">API Reference</a></div></li><li class=\"theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed\"><div class=\"menu__list-item-collapsible\"><a class=\"menu__link menu__link--sublist menu__link--sublist-caret\" aria-expanded=\"false\" href=\"/news/news260424\">News</a></div></li><li class=\"theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed\"><div class=\"menu__list-item-collapsible\"><a href=\"https://github.com/deepseek-ai/awesome-deepseek-integration/tree/main\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"menu__link menu__link--sublist menu__link--sublist-caret\" aria-expanded=\"false\">Other Resources</a></div></li><li class=\"theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-1 menu__list-item\"><a class=\"menu__link\" href=\"/faq\">FAQ</a></li><li class=\"theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-1 menu__list-item\"><a class=\"menu__link\" href=\"/updates\">Change Log</a></li></ul></nav></div></div></aside><main class=\"docMainContainer_SNqp\"><div class=\"container padding-top--md padding-bottom--lg\"><div class=\"row\"><div class=\"col docItemCol_GEdM\"><div class=\"docItemContainer_OUCh\"><article><nav class=\"theme-doc-breadcrumbs breadcrumbsContainer_gDTe\" aria-label=\"Breadcrumbs\"><ul class=\"breadcrumbs\" itemscope=\"\" itemtype=\"https://schema.org/BreadcrumbList\"><li class=\"breadcrumbs__item\"><a aria-label=\"Home page\" class=\"breadcrumbs__link\" href=\"/\"><svg viewBox=\"0 0 24 24\" class=\"breadcrumbHomeIcon_fbmM\"><path d=\"M10 19v-5h4v5c0 .55.45 1 1 1h3c.55 0 1-.45 1-1v-7h1.7c.46 0 .68-.57.33-.87L12.67 3.6c-.38-.34-.96-.34-1.34 0l-8.36 7.53c-.34.3-.13.87.33.87H5v7c0 .55.45 1 1 1h3c.55 0 1-.45 1-1z\" fill=\"currentColor\"></path></svg></a></li><li class=\"breadcrumbs__item\"><span class=\"breadcrumbs__link\">Quick Start</span><meta itemprop=\"position\" content=\"1\"></li><li itemscope=\"\" itemprop=\"itemListElement\" itemtype=\"https://schema.org/ListItem\" class=\"breadcrumbs__item breadcrumbs__item--active\"><span class=\"breadcrumbs__link\" itemprop=\"name\">Your First API Call</span><meta itemprop=\"position\" content=\"2\"></li></ul></nav><div class=\"tocCollapsible_lKxX theme-doc-toc-mobile tocMobile_kO7c\"><button type=\"button\" class=\"clean-btn tocCollapsibleButton_KNXb\">On this page</button></div><div class=\"theme-doc-markdown markdown\"><div class=\"row\"><div class=\"col col--12\"><h1>Your First API Call</h1>\n==="
+          },
+          {
+            "id": "call_01_aFd7AYGjLZhbyxgSimZI4264",
+            "name": "Bash",
+            "input": {
+              "command": "grep -oP 'title>[^<]+' /tmp/tongyi_qwen.html 2>/dev/null | head -5; echo \"===\"; grep -i \"file\\|upload\\|document\\|PDF\\|Word\\|PPT\\|上传\\|文件\\|文档\\|分析\" /tmp/tongyi_qwen.html 2>/dev/null | head -30",
+              "description": "Search Tongyi Qianwen for file upload",
+              "timeout": 10000
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "title>万相 | 领先的AI视频与图像生成模型\n===\n          document.write('<link rel=\"preload\" href=\"https://g.alicdn.com/sail-web/wan-static-resources/0.0.95/font/AlibabaPuHuiTi-3-55-Regular.woff2\" crossorigin=\"\" type=\"font/woff2\"/>');\n    <meta name=\"keywords\" content=\"万相,通义万相,AIGC,视频生成,图像生成,AI作画,AI绘画,AI视频创作,AI艺术创作,AI生成,图生视频,人工智能\"/>\n        })(document);"
+          },
+          {
+            "id": "call_02_opuZLEKTBl1iey8rBE6L6068",
+            "name": "Bash",
+            "input": {
+              "command": "grep -i \"file\\|upload\\|document\\|PDF\\|Word\\|PPT\\|上传\\|文件\\|文档\\|分析\" /tmp/tongyi_faq.html 2>/dev/null | head -30",
+              "description": "Search Tongyi FAQ for file upload",
+              "timeout": 10000
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "<header><div id=\"a9177b940e97ed04a5c2f6e6d649c700\"><div class=\"_18a32969382a277c44015217fbc5cb5a_box\"><div class=\"_3bd147f6948a20d6c528ac898ad4ba47_pc de5ef2fee09ebcb2b1dcaf0c982523bc_theme _277ebb348812c9712fac6b680ad5e513_reset _277ebb348812c9712fac6b680ad5e513_aliyun-font-family\" data-ai-assistant-text-selection-tooltip=\"disabled\"><header class=\"_702422913dd5754f065139ec2d2def80_container   \"><button class=\"_17fcaf1a4ee37405e5ad5fbad24204b4_container _17fcaf1a4ee37405e5ad5fbad24204b4_loading\" aria-label=\"打开菜单\" data-spm=\"d_dashboard_trigger\" data-tracker-exp=\"true\"><span class=\"_17fcaf1a4ee37405e5ad5fbad24204b4_burger \"><span class=\"_17fcaf1a4ee37405e5ad5fbad24204b4_middle\"></span></span></button><a href=\"https://www.aliyun.com/\" class=\"_3f46140aade30bc61f3012933357c477_logo _702422913dd5754f065139ec2d2def80_logo\" data-tracker-content=\"LOGO\" data-spm=\"d_logo\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4608 1024\" fill=\"#ff6a00\" width=\"80\"><path d=\"M3266.56 773.12h327.68v-102.4h-327.68v-102.4H3584V35.84H2846.72v532.48h317.44v102.4h-327.68v102.4h327.68v112.64h-353.28v102.4h814.08v-102.4h-353.28v-112.64zM3276.8 138.24h215.04v112.64H3276.8V138.24z m0 215.04h215.04V460.8H3276.8V353.28zM3174.4 460.8h-215.04V353.28H3174.4V460.8z m0-209.92h-215.04V138.24H3174.4v112.64zM537.6 445.44H1075.2v122.88H537.6z\"></path><path d=\"M1341.44 5.12h-353.28L1075.2 128l256 81.92c46.08 15.36 76.8 61.44 76.8 107.52v389.12c0 46.08-30.72 92.16-76.8 107.52l-256 81.92-87.04 122.88h353.28c148.48 0 266.24-117.76 266.24-266.24V276.48c0-148.48-117.76-271.36-266.24-271.36zM276.48 814.08c-46.08-15.36-76.8-61.44-76.8-107.52V317.44c0-46.08 30.72-92.16 76.8-107.52l256-81.92L619.52 5.12H266.24C117.76 5.12 0 128 0 276.48v471.04c0 148.48 117.76 266.24 266.24 266.24h353.28l-87.04-122.88-256-76.8zM2493.44 250.88h-261.12v537.6h261.12V250.88z m-107.52 430.08h-56.32V353.28h56.32v327.68zM1848.32 988.16h102.4V138.24h107.52L1996.8 419.84v102.4h61.44v225.28c0 15.36-10.24 25.6-25.6 25.6h-25.6v102.4h51.2c56.32 0 102.4-46.08 102.4-102.4v-358.4H2099.2l61.44-281.6v-102.4h-312.32v957.44z\"></path><path d=\"M2206.72 138.24H2560v660.48c0 46.08-35.84 87.04-87.04 87.04h-76.8v102.4h107.52c87.04 0 163.84-71.68 163.84-163.84V138.24h35.84v-102.4h-496.64v102.4zM3763.2 40.96h737.28v102.4H3763.2zM4541.44 527.36v-102.4H3727.36v102.4h204.8l-163.84 358.4v102.4h691.2c30.72 0 51.2-25.6 51.2-51.2 0-10.24 0-15.36-5.12-20.48l-87.04-194.56h-112.64l76.8 163.84h-496.64l163.84-358.4h491.52z\"></path></svg></a><div class=\"e76910c82efe8556eb8a6ce6019c5d00_container\"><button class=\"e76910c82efe8556eb8a6ce6019c5d00_controller\" data-spm=\"dscroll-left\"><i class=\"ee52067fb65534cb06d3b35f654f5441_icon ddd10ed9ffa4788f54781e516c4c6560-button_left\"></i></button><div class=\"e76910c82efe8556eb8a6ce6019c5d00_menu-warp\"><nav class=\"_0b0e00051b37611378e027e6ac3a695a_menus\"><a class=\"_2cdcedb5935313401458d214540870bc_menu\" href=\"https://www.aliyun.com/product/tongyi\" data-spm=\"d_menu_0\">大模型</a><a class=\"_2cdcedb5935313401458d214540870bc_menu\" href=\"https://www.aliyun.com/product/list\" data-spm=\"d_menu_1\">产品</a><a class=\"_2cdcedb5935313401458d214540870bc_menu\" href=\"https://www.aliyun.com/solution/tech-solution/\" data-spm=\"d_menu_2\">解决方案</a><a class=\"_2cdcedb5935313401458d214540870bc_menu\" href=\"https://www.aliyun.com/benefit\" data-spm=\"d_menu_3\">权益</a><a class=\"_2cdcedb5935313401458d214540870bc_menu\" href=\"https://www.aliyun.com/price\" data-spm=\"d_menu_4\">定价</a><a class=\"_2cdcedb5935313401458d214540870bc_menu\" href=\"https://market.aliyun.com/\" data-spm=\"d_menu_5\">云市场</a><a class=\"_2cdcedb5935313401458d214540870bc_menu\" href=\"https://partner.aliyun.com/management/v2\" data-spm=\"d_menu_6\">伙伴</a><a class=\"_2cdcedb5935313401458d214540870bc_menu\" href=\"https://www.aliyun.com/service\" data-spm=\"d_menu_7\">服务</a><a class=\"_2cdcedb5935313401458d214540870bc_menu\" href=\"https://www.aliyun.com/about\" data-spm=\"d_menu_8\">了解阿里云</a></nav></div><button class=\"e76910c82efe8556eb8a6ce6019c5d00_controller\" data-spm=\"dscroll-right\"><i class=\"ee52067fb65534cb06d3b35f654f5441_icon ddd10ed9ffa4788f54781e516c4c6560-button_right\"></i></button></div><div class=\"_702422913dd5754f065139ec2d2def80_search-wrap \" style=\"--left-width:0px;--right-width:0px\"><div class=\"global-nav-search _626567c051250ffe2f303af907d3fc83_global-nav-search\"><div class=\"global-search-container _626567c051250ffe2f303af907d3fc83_global-nav-search-desktop-container\"><div class=\"ff4f4a96a12f52ffbdd0d6adbdb6a2b0_position-desktop-search-container\"><div><div class=\"f6fd7e4d3293f0634b9ac54848c275b7_default-search-panel  f6fd7e4d3293f0634b9ac54848c275b7_hidden-default-search-panel\"></div><div class=\"_3b4f5487091623b0b6852e2b46d2729e_search-recommend-panel  _3b4f5487091623b0b6852e2b46d2729e_hidden-search-recommend-panel\"><button class=\"_4b65cdd64479a2fabe582b8c0789821e_search-no-content \" type=\"button\">查看 &quot;&quot; 全部搜索结果</button></div></div></div></div><div class=\"_626567c051250ffe2f303af907d3fc83_global-nav-search-mobile-container\"><a class=\"_626567c051250ffe2f303af907d3fc83_search-button\" href=\"https://www.aliyun.com/search?from=h5-global-nav-search\"><span role=\"img\" class=\"_9a1d73bbcd1a80626a31035a12410804_icon _626567c051250ffe2f303af907d3fc83_search-button-icon\"><svg width=\"1em\" height=\"1em\" viewBox=\"0 0 32 32\" focusable=\"false\" color=\"currentColor\" fill=\"currentColor\" class=\"\" data-icon=\"search\"><g><g><path fill-opacity=\"1\" fill-rule=\"evenodd\" d=\"M14,4C15.3558,4,16.653399999999998,4.262105,17.8926,4.786314C19.089100000000002,5.29242,20.1486,6.00666,21.071,6.92905C21.9933,7.85144,22.7076,8.91087,23.2137,10.10735C23.7379,11.34664,24,12.64419,24,14C24,15.3558,23.7379,16.653399999999998,23.2137,17.892699999999998C22.8382,18.7803,22.3482,19.5925,21.7436,20.3293L27.7072,26.2928L26.293,27.7071L20.3294,21.7435C19.592599999999997,22.3481,18.7803,22.8382,17.8926,23.2137C16.653399999999998,23.7379,15.3558,24,14,24C12.64419,24,11.34664,23.7379,10.10735,23.2137C8.91087,22.7076,7.85144,21.9933,6.92905,21.0709C6.00666,20.1486,5.29242,19.089100000000002,4.786314,17.8926C4.262105,16.653399999999998,4,15.3558,4,14C4,12.64419,4.262105,11.34664,4.786314,10.10735C5.29242,8.91087,6.00666,7.85144,6.92905,6.92905C7.85144,6.00666,8.91087,5.29242,10.10735,4.786314C11.34664,4.262105,12.64419,4,14,4ZM14,6C11.79102,6,9.905439999999999,6.78109,8.34326,8.34326C6.78109,9.905439999999999,6,11.79102,6,14C6,16.209,6.78109,18.0946,8.34326,19.6567C9.905439999999999,21.2189,11.79102,22,14,22C16.209,22,18.0946,21.2189,19.6567,19.6567C21.2189,18.0946,22,16.209,22,14C22,11.79102,21.2189,9.905439999999999,19.6567,8.34326C18.0946,6.78109,16.209,6,14,6Z\"></path></g></g></svg></span></a></div></div></div><div class=\"_174801eef2caf75aeaee91c72b19c09a_container\"><a class=\"global-nav-ai-assistant _174801eef2caf75aeaee91c72b19c09a_item _2d3ef330b3f8055912d355b9a255bfcf_btn\" href=\"https://www.aliyun.com/ai-assistant?displayMode=side\" data-spm=\"dai_assistant\" target=\"_blank\"><div class=\"LogoStyled-aliyun-ai-assistant-rc-8096__sc-1qusfpt-0 cpJKij\"><div class=\"ai-assistant-brand-logo-icon\" style=\"background:no-repeat center/100%  url(https://img.alicdn.com/imgextra/i4/O1CN012X1Rxl1clAgB5waMK_!!6000000003640-2-tps-52-52.png)\"><img src=\"https://img.alicdn.com/imgextra/i2/O1CN01bYc1m81RrcSAyOjMu_!!6000000002165-54-tps-60-60.apng\" loading=\"lazy\"/></div><div class=\"ai-assistant-brand-logo-tooltip \"><div class=\"ai-assistant-logo-tooltip-content\">AI 助理</div></div></div></a><button class=\"_174801eef2caf75aeaee91c72b19c09a_item bb3dbc2de557f9f2029f50770c77fab9_button\"><i class=\"ee52067fb65534cb06d3b35f654f5441_icon ddd10ed9ffa4788f54781e516c4c6560-intl\"></i></button><button class=\"_174801eef2caf75aeaee91c72b19c09a_item\"><i class=\"ee52067fb65534cb06d3b35f654f5441_icon ddd10ed9ffa4788f54781e516c4c6560-contact d42d5e3a0d0e018547c66700af2a2030_icon\"></i></button><a class=\"_174801eef2caf75aeaee91c72b19c09a_item\" href=\"https://help.aliyun.com/\" target=\"_blank\" data-spm=\"d_quick_access_3\">文档</a><a class=\"_174801eef2caf75aeaee91c72b19c09a_item\" href=\"https://beian.aliyun.com/\" target=\"_blank\" data-spm=\"d_quick_access_4\">备案</a><a class=\"_174801eef2caf75aeaee91c72b19c09a_item\" href=\"https://home.console.aliyun.com/home/dashboard/ProductAndService\" target=\"_blank\" data-spm=\"d_quick_access_5\" rel=\"nofollow\">控制台</a><span class=\"_05da28cf18b2b6ee04dbfd3ceb5ad3c9_loading _174801eef2caf75aeaee91c72b19c09a_item\"></span></div></header></div><div class=\"_3bd147f6948a20d6c528ac898ad4ba47_mobile de5ef2fee09ebcb2b1dcaf0c982523bc_theme _277ebb348812c9712fac6b680ad5e513_reset _277ebb348812c9712fac6b680ad5e513_aliyun-font-family\"></div><div class=\"_18a32969382a277c44015217fbc5cb5a_box\"></div></div></div></header>\n<footer><div id=\"39aec8efd6c3e7cd9ed8f44cffd7051b\"><div class=\"_18a32969382a277c44015217fbc5cb5a_box\"><footer class=\"_49ada0cd752f65901c49f2eed0d6c3d5_container\" aria-label=\"PC 端页尾\"><div class=\"_49ada0cd752f65901c49f2eed0d6c3d5_inner\"><div class=\"b34f022d45e42bd104ce1362bc0808b1_services\"><nav class=\"b34f022d45e42bd104ce1362bc0808b1_homepage-footer-main-services\" aria-label=\"页脚导航\"><section class=\"a52e48969cced2d562e47543eeb73ebb_ali-main-services\"><h3 class=\"a52e48969cced2d562e47543eeb73ebb_ali-main-services-title\">为什么选择阿里云</h3><a class=\"a52e48969cced2d562e47543eeb73ebb_ali-main-services-link\" href=\"https://www.aliyun.com/about/what-is-cloud-computing\" target=\"_blank\">什么是云计算</a><a class=\"a52e48969cced2d562e47543eeb73ebb_ali-main-services-link\" href=\"https://infrastructure.aliyun.com/\" target=\"_blank\">全球基础设施</a><a class=\"a52e48969cced2d562e47543eeb73ebb_ali-main-services-link\" href=\"https://www.aliyun.com/why-us/leading-technology\" target=\"_blank\">技术领先</a><a class=\"a52e48969cced2d562e47543eeb73ebb_ali-main-services-link\" href=\"https://www.aliyun.com/why-us/reliability\" target=\"_blank\">稳定可靠</a><a class=\"a52e48969cced2d562e47543eeb73ebb_ali-main-services-link\" href=\"https://www.aliyun.com/why-us/security-compliance\" target=\"_blank\">安全合规</a><a class=\"a52e48969cced2d562e47543eeb73ebb_ali-main-services-link\" href=\"https://www.aliyun.com/analyst-reports\" target=\"_blank\">分析师报告</a></section><section class=\"a52e48969cced2d562e47543eeb73ebb_ali-main-services\"><h3 class=\"a52e48969cced2d562e47543eeb73ebb_ali-main-services-title\">大模型</h3><a class=\"a52e48969cced2d562e47543eeb73ebb_ali-main-services-link\" href=\"https://www.aliyun.com/product/tongyi\" target=\"_blank\">千问大模型</a><a class=\"a52e48969cced2d562e47543eeb73ebb_ali-main-services-link\" href=\"https://bailian.console.aliyun.com/?tab=model#/model-market\" target=\"_blank\" rel=\"nofollow\">大模型服务</a><a class=\"a52e48969cced2d562e47543eeb73ebb_ali-main-services-link\" href=\"https://bailian.console.aliyun.com/app-center?tab=app#/app-center\" target=\"_blank\" rel=\"nofollow\">AI应用构建</a></section><section class=\"a52e48969cced2d562e47543eeb73ebb_ali-main-services\"><h3 class=\"a52e48969cced2d562e47543eeb73ebb_ali-main-services-title\">产品和定价</h3><a class=\"a52e48969cced2d562e47543eeb73ebb_ali-main-services-link\" href=\"https://www.aliyun.com/product/list\" target=\"_blank\">全部产品</a><a class=\"a52e48969cced2d562e47543eeb73ebb_ali-main-services-link\" href=\"https://free.aliyun.com/\" target=\"_blank\">免费试用</a><a class=\"a52e48969cced2d562e47543eeb73ebb_ali-main-services-link\" href=\"https://www.aliyun.com/product/news/\" target=\"_blank\">产品动态</a><a class=\"a52e48969cced2d562e47543eeb73ebb_ali-main-services-link\" href=\"https://www.aliyun.com/price/detail\" target=\"_blank\">产品定价</a><a class=\"a52e48969cced2d562e47543eeb73ebb_ali-main-services-link\" href=\"https://www.aliyun.com/price/cpq/list\" target=\"_blank\">配置报价器</a><a class=\"a52e48969cced2d562e47543eeb73ebb_ali-main-services-link\" href=\"https://www.aliyun.com/price/cost-management\" target=\"_blank\">云上成本管理</a></section><section class=\"a52e48969cced2d562e47543eeb73ebb_ali-main-services\"><h3 class=\"a52e48969cced2d562e47543eeb73ebb_ali-main-services-title\">技术内容</h3><a class=\"a52e48969cced2d562e47543eeb73ebb_ali-main-services-link\" href=\"https://www.aliyun.com/solution/tech-solution\" target=\"_blank\">技术解决方案</a><a class=\"a52e48969cced2d562e47543eeb73ebb_ali-main-services-link\" href=\"https://help.aliyun.com/\" target=\"_blank\">帮助文档</a><a class=\"a52e48969cced2d562e47543eeb73ebb_ali-main-services-link\" href=\"https://developer.aliyun.com/\" target=\"_blank\">开发者社区</a><a class=\"a52e48969cced2d562e47543eeb73ebb_ali-main-services-link\" href=\"https://tianchi.aliyun.com/\" target=\"_blank\">天池大赛</a><a class=\"a52e48969cced2d562e47543eeb73ebb_ali-main-services-link\" href=\"https://edu.aliyun.com/\" target=\"_blank\">阿里云认证</a></section><section class=\"a52e48969cced2d562e47543eeb73ebb_ali-main-services\"><h3 class=\"a52e48969cced2d562e47543eeb73ebb_ali-main-services-title\">权益</h3><a class=\"a52e48969cced2d562e47543eeb73ebb_ali-main-services-link\" href=\"https://free.aliyun.com/\" target=\"_blank\">免费试用</a><a class=\"a52e48969cced2d562e47543eeb73ebb_ali-main-services-link\" href=\"https://www.aliyun.com/solution/free\" target=\"_blank\">解决方案免费试用</a><a class=\"a52e48969cced2d562e47543eeb73ebb_ali-main-services-link\" href=\"https://university.aliyun.com/\" target=\"_blank\">高校计划</a><a class=\"a52e48969cced2d562e47543eeb73ebb_ali-main-services-link\" href=\"https://www.aliyun.com/benefit/form/index\" target=\"_blank\">5亿算力补贴</a><a class=\"a52e48969cced2d562e47543eeb73ebb_ali-main-services-link\" href=\"https://dashi.aliyun.com/?ambRef=shouYeDaoHang2&amp;pageCode=yunparterIndex\" target=\"_blank\">推荐返现计划</a></section><section class=\"a52e48969cced2d562e47543eeb73ebb_ali-main-services\"><h3 class=\"a52e48969cced2d562e47543eeb73ebb_ali-main-services-title\">服务</h3><a class=\"a52e48969cced2d562e47543eeb73ebb_ali-main-services-link\" href=\"https://www.aliyun.com/service\" target=\"_blank\">基础服务</a><a class=\"a52e48969cced2d562e47543eeb73ebb_ali-main-services-link\" href=\"https://www.aliyun.com/service/supportplans\" target=\"_blank\">企业增值服务</a><a class=\"a52e48969cced2d562e47543eeb73ebb_ali-main-services-link\" href=\"https://www.aliyun.com/service/devopsimpl/devopsimpl_cloudmigration_public_cn\" target=\"_blank\">迁云服务</a><a class=\"a52e48969cced2d562e47543eeb73ebb_ali-main-services-link\" href=\"https://www.aliyun.com/notice/\" target=\"_blank\">官网公告</a><a class=\"a52e48969cced2d562e47543eeb73ebb_ali-main-services-link\" href=\"https://status.aliyun.com/\" target=\"_blank\">健康看板</a><a class=\"a52e48969cced2d562e47543eeb73ebb_ali-main-services-link\" href=\"https://security.aliyun.com/trust-center\" target=\"_blank\">信任中心</a></section></nav><article class=\"_7b44142961778903dda8af3f769cd06c_focus\"><h3 class=\"_7b44142961778903dda8af3f769cd06c_ali-main-services-title\">关注阿里云</h3><p class=\"_7b44142961778903dda8af3f769cd06c_ali-main-services-desc\">关注阿里云公众号或下载阿里云APP，关注云资讯，随时随地运维管控云服务</p><img alt=\"阿里云APP\" src=\"https://img.alicdn.com/imgextra/i4/O1CN01XLesV31fkf7pYNATb_!!6000000004045-2-tps-400-400.png\" class=\"_7b44142961778903dda8af3f769cd06c_ali-official-code\" loading=\"lazy\"/><img alt=\"阿里云微信\" src=\"https://img.alicdn.com/tfs/TB1AOdINW6qK1RjSZFmXXX0PFXa-258-258.jpg\" class=\"_7b44142961778903dda8af3f769cd06c_ali-official-code\" loading=\"lazy\"/><p class=\"_7b44142961778903dda8af3f769cd06c_consult-text\">联系我们：4008013260</p></article></div><div class=\"_4598709a854bea355ceb6ef9f23f10d4_about-link-wrap\"><a href=\"https://help.aliyun.com/product/67275.html\" class=\"_4598709a854bea355ceb6ef9f23f10d4_ali-about-link\" target=\"_blank\">法律声明</a><a href=\"https://terms.alicdn.com/legal-agreement/terms/platform_service/20220906101446934/20220906101446934.html\" class=\"_4598709a854bea355ceb6ef9f23f10d4_ali-about-link\" target=\"_blank\">Cookies政策</a><a href=\"https://aliyun.jubao.alibaba.com/\" class=\"_4598709a854bea355ceb6ef9f23f10d4_ali-about-link\" target=\"_blank\">廉正举报</a><a href=\"https://report.aliyun.com/\" class=\"_4598709a854bea355ceb6ef9f23f10d4_ali-about-link\" target=\"_blank\">安全举报</a><a href=\"https://www.aliyun.com/contact\" class=\"_4598709a854bea355ceb6ef9f23f10d4_ali-about-link\" target=\"_blank\">联系我们</a><a href=\"https://careers.aliyun.com/\" class=\"_4598709a854bea355ceb6ef9f23f10d4_ali-about-link\" target=\"_blank\">加入我们</a></div><section class=\"_4598709a854bea355ceb6ef9f23f10d4_friend-link-wrap\"><h3 hidden=\"\">友情链接</h3><a href=\"https://www.alibabagroup.com/cn/global/home\" class=\"_4598709a854bea355ceb6ef9f23f10d4_ali-friend-link\" target=\"_blank\">阿里巴巴集团</a><a href=\"https://www.taobao.com/\" class=\"_4598709a854bea355ceb6ef9f23f10d4_ali-friend-link\" target=\"_blank\">淘宝网</a><a href=\"https://www.tmall.com/\" class=\"_4598709a854bea355ceb6ef9f23f10d4_ali-friend-link\" target=\"_blank\">天猫</a><a href=\"https://www.aliexpress.com/\" class=\"_4598709a854bea355ceb6ef9f23f10d4_ali-friend-link\" target=\"_blank\">全球速卖通</a><a href=\"https://www.alibaba.com/\" class=\"_4598709a854bea355ceb6ef9f23f10d4_ali-friend-link\" target=\"_blank\">阿里巴巴国际交易市场</a><a href=\"https://www.1688.com/\" class=\"_4598709a854bea355ceb6ef9f23f10d4_ali-friend-link\" target=\"_blank\">1688</a><a href=\"https://www.alimama.com/index.htm\" class=\"_4598709a854bea355ceb6ef9f23f10d4_ali-friend-link\" target=\"_blank\">阿里妈妈</a><a href=\"https://www.fliggy.com/\" class=\"_4598709a854bea355ceb6ef9f23f10d4_ali-friend-link\" target=\"_blank\">飞猪</a><a href=\"https://www.aliyun.com/\" class=\"_4598709a854bea355ceb6ef9f23f10d4_ali-friend-link\" target=\"_blank\">阿里云计算</a><a href=\"https://wanwang.aliyun.com/\" class=\"_4598709a854bea355ceb6ef9f23f10d4_ali-friend-link\" target=\"_blank\">万网</a><a href=\"https://mobile.amap.com/\" class=\"_4598709a854bea355ceb6ef9f23f10d4_ali-friend-link\" target=\"_blank\">高德</a><a href=\"https://www.uc.cn/\" class=\"_4598709a854bea355ceb6ef9f23f10d4_ali-friend-link\" target=\"_blank\">UC</a><a href=\"https://www.umeng.com/\" class=\"_4598709a854bea355ceb6ef9f23f10d4_ali-friend-link\" target=\"_blank\">友盟</a><a href=\"https://www.youku.com/\" class=\"_4598709a854bea355ceb6ef9f23f10d4_ali-friend-link\" target=\"_blank\">优酷</a><a href=\"https://www.dingtalk.com/\" class=\"_4598709a854bea355ceb6ef9f23f10d4_ali-friend-link\" target=\"_blank\">钉钉</a><a href=\"https://www.alipay.com/\" class=\"_4598709a854bea355ceb6ef9f23f10d4_ali-friend-link\" target=\"_blank\">支付宝</a><a href=\"https://damo.alibaba.com/\" class=\"_4598709a854bea355ceb6ef9f23f10d4_ali-friend-link\" target=\"_blank\">达摩院</a><a href=\"https://world.taobao.com/\" class=\"_4598709a854bea355ceb6ef9f23f10d4_ali-friend-link\" target=\"_blank\">淘宝海外</a><a href=\"https://www.aliyundrive.com/\" class=\"_4598709a854bea355ceb6ef9f23f10d4_ali-friend-link\" target=\"_blank\">阿里云盘</a><a href=\"https://www.ele.me/\" class=\"_4598709a854bea355ceb6ef9f23f10d4_ali-friend-link\" target=\"_blank\">淘宝闪购</a></section><p class=\"_4598709a854bea355ceb6ef9f23f10d4_ali-copyright-text\">© 2009-现在 Aliyun.com 版权所有 增值电信业务经营许可证： <a href=\"http://beian.miit.gov.cn/\" target=\"_blank\">浙B2-20080101</a> 域名注册服务机构许可： <a href=\"https://domain.miit.gov.cn/域名注册服务机构/互联网域名/阿里云计算有限公司 \" target=\"_blank\">浙D3-20210002</a></p><p class=\"_4598709a854bea355ceb6ef9f23f10d4_ali-report-wrap\"><a href=\"https://zzlz.gsxt.gov.cn/businessCheck/verifKey.do?showType=p&amp;serial=91330106673959654P-SAIC_SHOW_10000091330106673959654P1710919400712&amp;signData=MEUCIQDEkCd8cK7%2Fyqe6BNMWvoMPtAnsgKa7FZetfPkjZMsvhAIgOX1G9YC6FKyndE7o7hL0KaBVn4f%20V%2Fiof3iAgpsV09o%3D\" target=\"_blank\" class=\"_4598709a854bea355ceb6ef9f23f10d4_ali-report-link\"><img src=\"//gw.alicdn.com/tfs/TB1GxwdSXXXXXa.aXXXXXXXXXXX-65-70.gif\" class=\"_4598709a854bea355ceb6ef9f23f10d4_ali-report-img\" alt=\"\" loading=\"lazy\"/></a><a href=\"http://www.beian.gov.cn/portal/registerSystemInfo\" target=\"_blank\" class=\"_4598709a854bea355ceb6ef9f23f10d4_ali-report-link\"><img src=\"//img.alicdn.com/tfs/TB1..50QpXXXXX7XpXXXXXXXXXX-40-40.png\" class=\"_4598709a854bea355ceb6ef9f23f10d4_ali-report-img\" alt=\"浙公网安备 33010602009975号\" loading=\"lazy\"/><span class=\"_4598709a854bea355ceb6ef9f23f10d4_ali-report-link-text\">浙公网安备 33010602009975号</span></a><a href=\"https://beian.miit.gov.cn/\" target=\"_blank\" class=\"_4598709a854bea355ceb6ef9f23f10d4_ali-report-link\"><span class=\"_4598709a854bea355ceb6ef9f23f10d4_ali-report-link-text _4598709a854bea355ceb6ef9f23f10d4_ali-report-link-text-unique\">浙B2-20080101-4</span></a></p></div></footer><footer class=\"_4b41e3343c851a7a8833c9165b249eb2_container\" aria-label=\"移动端页尾\"></footer></div></div></footer>"
+          },
+          {
+            "id": "call_03_fGFE57ln8WtpksD02QOZ7563",
+            "name": "Bash",
+            "input": {
+              "command": "grep -i \"file\\|upload\\|document\\|PDF\\|image\\|attach\\|drag\\|picture\\|photo\" /tmp/deepseek_chat2.html 2>/dev/null | head -30; echo \"===\"; grep -oP 'title>[^<]+' /tmp/deepseek_chat2.html 2>/dev/null | head -5",
+              "description": "Search DeepSeek chat page for file upload",
+              "timeout": 10000
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "==="
+          },
+          {
+            "id": "call_00_Nhs0h8Knqiec5qNVNWrn7982",
+            "name": "Bash",
+            "input": {
+              "command": "curl -sL \"https://qwen.aliyun.com/\" -H \"User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36\" -o /tmp/qwen_main.html 2>/dev/null; curl -sL \"https://help.aliyun.com/zh/model-studio/user-guide/file-upload\" -H \"User-Agent: Mozilla/5.0\" -o /tmp/qwen_file_upload.html 2>/dev/null; echo \"DONE\"",
+              "description": "Fetch Qwen official site and file upload docs",
+              "timeout": 15000
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "DONE"
+          },
+          {
+            "id": "call_01_1rYgr000Ceskmh62JBk12927",
+            "name": "Bash",
+            "input": {
+              "command": "curl -sL \"https://chat.qwen.ai/\" -H \"User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36\" -o /tmp/qwen_chat.html 2>/dev/null; echo \"DONE\"",
+              "description": "Fetch Qwen chat web page",
+              "timeout": 15000
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "DONE"
+          },
+          {
+            "id": "call_02_swJks0gYdqUFiHThQhdI0648",
+            "name": "Bash",
+            "input": {
+              "command": "python3 -c \"\nimport re\nwith open('/tmp/dlai_prompting_course.html','r',errors='replace') as f:\n    content = f.read()\n\n# Look for lesson/module structure\nlessons = re.findall(r'lesson/([a-z0-9]+/[a-z0-9-]+)', content)\nprint('Lessons found:')\nfor l in set(lessons):\n    print(f'  {l}')\nprint()\n\n# Extract chapter/module titles\nfor m in re.finditer(r'>([^<>]{10,200})<', content):\n    t = m.group(1)\n    if any(kw in t.lower() for kw in ['lesson', 'module', 'chapter', 'section', 'part', 'building', 'introduction', 'ai nov', 'power user', 'creative', 'final', 'project']):\n        if len(t) > 5 and '{' not in t and '}' not in t:\n            print(t)\n\" 2>/dev/null | head -40",
+              "description": "Extract course lesson structure",
+              "timeout": 10000
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "(Bash completed with no output)"
+          },
+          {
+            "id": "call_00_noLf9QPAmvfamZPpzfu84562",
+            "name": "Bash",
+            "input": {
+              "command": "grep -oP 'title>[^<]+' /tmp/qwen_main.html 2>/dev/null | head -5",
+              "description": "Get Qwen page title",
+              "timeout": 10000
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "(Bash completed with no output)"
+          },
+          {
+            "id": "call_01_aKW0yzLgIigaSPFQ5wmc6352",
+            "name": "Bash",
+            "input": {
+              "command": "grep -oiP 'upload|file|document|PDF|Word|PPT|上传|文件|文档|分析|附件' /tmp/qwen_main.html 2>/dev/null | sort -u | head -20",
+              "description": "Search Qwen main page for file upload",
+              "timeout": 10000
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "(Bash completed with no output)"
+          },
+          {
+            "id": "call_02_TpNnaqSodzFHTEyMRcnB8523",
+            "name": "Bash",
+            "input": {
+              "command": "grep -oiP 'upload|file|document|PDF|Word|PPT|上传|文件|文档|分析|附件' /tmp/qwen_file_upload.html 2>/dev/null | sort -u | head -20",
+              "description": "Search Qwen file upload help page",
+              "timeout": 10000
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "分析\n文档"
+          },
+          {
+            "id": "call_03_BHjjTA2nxksbC2XyTLEZ6218",
+            "name": "Bash",
+            "input": {
+              "command": "grep -oiP 'upload|file|document|PDF|Word|PPT|附件|文件|上传' /tmp/qwen_chat.html 2>/dev/null | sort -u | head -20; grep -oP 'title>[^<]+' /tmp/qwen_chat.html 2>/dev/null | head -5",
+              "description": "Search Qwen chat page for file upload",
+              "timeout": 10000
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "Upload\nWord\ndocument\nfile\npdf\nppt\nupload\nword\n上传\n文件\ntitle>Qwen Studio"
+          },
+          {
+            "id": "call_00_WIaoP0il2PN9s3I8F4kt4994",
+            "name": "Bash",
+            "input": {
+              "command": "python3 -c \"\nwith open('/tmp/qwen_chat.html','r',errors='replace') as f:\n    c = f.read()\nidx = c.lower().find('upload') \nif idx >= 0:\n    print(c[max(0,idx-200):idx+500])\nprint('---')\nidx2 = c.lower().find('上传') \nif idx2 >= 0:\n    print(c[max(0,idx2-200):idx2+500])\n\" 2>/dev/null | head -40",
+              "description": "Get file upload context from Qwen chat page",
+              "timeout": 10000
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "(Bash completed with no output)"
+          },
+          {
+            "id": "call_01_eEtTyBzcfCNeLBhPf3JP3925",
+            "name": "Bash",
+            "input": {
+              "command": "python3 -c \"\nwith open('/tmp/qwen_file_upload.html','r',errors='replace') as f:\n    c = f.read()\nidx = c.lower().find('文档') \nif idx >= 0:\n    print(c[max(0,idx-300):idx+800])\nprint('===')    \nidx2 = c.lower().find('upload') \nif idx2 >= 0:\n    print(c[max(0,idx2-300):idx2+800])\n\" 2>/dev/null | head -80",
+              "description": "Get file upload help context",
+              "timeout": 10000
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "(Bash completed with no output)"
+          },
+          {
+            "id": "call_00_9ISFI6uiz3gYzTEfrL1K9859",
+            "name": "Bash",
+            "input": {
+              "command": "grep -oP '.{0,100}upload.{0,200}' /tmp/qwen_chat.html 2>/dev/null | head -10",
+              "description": "Get upload context from Qwen chat HTML",
+              "timeout": 10000
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "line, running qwen 2.5, ryan qwen of sudbury ma, s.qwen, set youtube to post on facebook qwen video uploaded, seven qwen's head, sexy busty qwen stacy, sexy qwen ben ten, sexy qwen stacy, shadbase qwen, shemale eskort qwens, shy-girls.com qwen, skudbutt qwen, skudbutt qwen por, skuddbutt full qwen video,"
+          },
+          {
+            "id": "call_01_PWK8oS5pPeBqLJ0F2veU6499",
+            "name": "Bash",
+            "input": {
+              "command": "grep -oP '.{0,100}上传.{0,200}' /tmp/qwen_chat.html 2>/dev/null | head -10",
+              "description": "Get Chinese upload context from Qwen chat HTML",
+              "timeout": 10000
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "en models comparison, qwen new ai model, qwen o1, qwen omini, qwen omni 3b, qwen omni 7b, qwen omni 上传多个类型文件, qwen or llama, qwen performance, qwen pronounce, qwen qwq 32b benchmark, qwen qwq 32b chat, qwen qwq api, qwen qwq max, qwen qwq vs deepseek r1, qwen qwq-32b model, qwen r1, qwen r"
+          },
+          {
+            "id": "call_00_oFLGzFRrEUH9yteqZLxh0645",
+            "name": "Bash",
+            "input": {
+              "command": "curl -sL \"https://help.aliyun.com/zh/model-studio/\" -H \"User-Agent: Mozilla/5.0\" -o /tmp/model_studio.html 2>/dev/null; echo \"DONE\"",
+              "description": "Fetch Alibaba Model Studio help page",
+              "timeout": 15000
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "DONE"
+          },
+          {
+            "id": "call_01_7BQ3NaL6Vs5dWwCJ6piu0500",
+            "name": "Bash",
+            "input": {
+              "command": "grep -i \"file\\|upload\\|document\\|PDF\\|image\\|attach\\|drag\\|support\\|feature\" /tmp/deepseek_chat2.html 2>/dev/null | head -20; echo \"===\"; file /tmp/deepseek_chat2.html 2>/dev/null; wc -c /tmp/deepseek_chat2.html 2>/dev/null",
+              "description": "Check DeepSeek chat page content",
+              "timeout": 10000
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "===\n/tmp/deepseek_chat2.html: empty\n0 /tmp/deepseek_chat2.html"
+          },
+          {
+            "id": "call_00_HkK1DFbWw57Ca3Ifzm9L4105",
+            "name": "Bash",
+            "input": {
+              "command": "curl -sL \"https://platform.deepseek.com/\" -H \"User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36\" -o /tmp/deepseek_platform.html 2>/dev/null; echo \"DONE\"",
+              "description": "Fetch DeepSeek platform page",
+              "timeout": 15000
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "DONE"
+          },
+          {
+            "id": "call_01_R9vn0cfCi63l0xfs2TI55934",
+            "name": "Bash",
+            "input": {
+              "command": "grep -oP 'title>[^<]+' /tmp/model_studio.html 2>/dev/null | head -5; echo \"===\"; grep -i \"file\\|upload\\|文档\\|文件\\|pdf\\|上传\" /tmp/model_studio.html 2>/dev/null | head -20",
+              "description": "Check Model Studio page",
+              "timeout": 10000
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "<persisted-output>\nOutput too large (63.5KB). Full output saved to: C:\\Users\\29731\\.claude\\projects\\C--Users-29731-OneDrive----Obsidian-Vault\\7ec67a92-9af9-4241-9b7b-0de23db29589\\tool-results\\bo7j6pnur.txt\n\nPreview (first 2KB):\n===\nwindow.__ICE_PAGE_PROPS__={\"docDetailData\":{\"storeData\":{\"alias\":\"/model-studio/what-is-model-studio\",\"nodeId\":null,\"data\":{\"lastModifiedTime\":1780323170000,\"keywords\":\"了解阿里云百炼,评估阿里云百炼,阿里云百炼产品介绍,阿里云百炼功能概览\",\"docTitle\":\"什么是阿里云百炼\",\"language\":\"zh\",\"seoTitle\":\"全链路模型服务应用构建-大模型服务平台百炼-阿里云-大模型服务平台百炼(Model Studio)-阿里云帮助中心\",\"title\":\"产品简介\",\"content\":\"<div lang=\\\"zh\\\" class=\\\"icms-help-docs-content\\\">\\n\\n  <main id=\\\"main-2521604\\\">\\n    \\n    \\n    <p data-tag=\\\"shortdesc\\\" id=\\\"bb20b4bf9def8\\\" class=\\\"shortdesc\\\"><span data-tag=\\\"ph\\\" id=\\\"fdb9674669z1d\\\" props=\\\"china\\\" data-cond-props=\\\"china\\\" class=\\\"ph\\\">阿里云百炼是一站式大模型开发与应用平台，集成千问及主流第三方模型。面向开发者提供兼容 OpenAI 的<span class=\\\"help-letter-space\\\"></span>API<span class=\\\"help-letter-space\\\"></span>和全链路模型服务；面向业务人员提供可视化应用构建能力，可快速创建智能体、知识库问答等 AI 应用。</span></p>\\n    <div id=\\\"113d283decyyk\\\" data-tag=\\\"body\\\" class=\\\"body\\\">\\n      <p id=\\\"eeccfc8ae21tv\\\" props=\\\"china\\\" data-cond-props=\\\"china\\\">主要能力：</p>\\n      <table id=\\\"5015761f8b3wt\\\" tablewidth=\\\"100\\\" tablecolswidth=\\\"33.42 33.42 33.16\\\" autofit=\\\"true\\\" class=\\\"table\\\">\\n        <colgroup colwidth=\\\"1.01*\\\" style=\\\"width:33.42%\\\"></colgroup>\\n        <colgroup colwidth=\\\"1.01*\\\" style=\\\"width:33.42%\\\"></colgroup>\\n        <colgroup colwidth=\\\"1*\\\" style=\\\"width:33.16%\\\"></colgroup>\\n        <tbody class=\\\"tbody\\\">\\n          <tr id=\\\"3ff3e5b137iyx\\\">\\n            <td id=\\\"c051cb3c0axam\\\" rowspan=\\\"1\\\" style=\\\"vertical-align:top\\\" colspan=\\\"3\\\">\\n              <p jc=\\\"left\\\" id=\\\"7d842c30affb8\\\" style=\\\"text-align:left\\\"><b> </b><img alt=\\\"api\\\" height=\\\"18\\\" id=\\\"c8482ff068vjj\\\" placement=\\\"inline\\\" src=\\\"https://help-static-aliyun-doc.aliyuncs.com/assets/img/zh-CN/6710872271/p824099.png\\\" class=\\\"image inline\\\"> 调用 API</p>\\n              <p jc=\\\"left\\\" id=\\\"a87af37081hh0\\\" style=\\\"text-align:left\\\">几行代码即可调用大模型，实现内容创作、摘要生成等功能。</p>\\n              <blockquote id=\\\"2936a5f531dco\\\" jc=\\\"left\\\" style=\\\"text-align:left\\\">百炼兼容 OpenAI 接口规范，只需调整<span class=\\\"help-letter-space\\\"></s\n...\n</persisted-output>"
+          },
+          {
+            "id": "call_02_qXKRUNAjb9A77SeH8Bg71372",
+            "name": "Bash",
+            "input": {
+              "command": "curl -sL \"https://help.aliyun.com/zh/model-studio/user-guide/file-upload\" -H \"User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36\" --max-time 15 -o /tmp/file_upload_guide.html 2>/dev/null; echo \"DONE\"",
+              "description": "Fetch Alibaba file upload guide",
+              "timeout": 20000
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "DONE"
+          },
+          {
+            "id": "call_00_ZO7nD3GZIQXPbuSm11kM9920",
+            "name": "Bash",
+            "input": {
+              "command": "grep -i \"文件\\|文档\\|上传\\|file\\|upload\\|pdf\\|word\\|ppt\" /tmp/file_upload_guide.html 2>/dev/null | head -30; echo \"===\"; grep -oP 'title>[^<]+' /tmp/file_upload_guide.html 2>/dev/null | head -5",
+              "description": "Check file upload guide page",
+              "timeout": 10000
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "<header><div id=\"a9177b940e97ed04a5c2f6e6d649c700\"><div class=\"_18a32969382a277c44015217fbc5cb5a_box\"><div class=\"_3bd147f6948a20d6c528ac898ad4ba47_pc de5ef2fee09ebcb2b1dcaf0c982523bc_theme _277ebb348812c9712fac6b680ad5e513_reset _277ebb348812c9712fac6b680ad5e513_aliyun-font-family\" data-ai-assistant-text-selection-tooltip=\"disabled\"><header class=\"_702422913dd5754f065139ec2d2def80_container   \"><button class=\"_17fcaf1a4ee37405e5ad5fbad24204b4_container _17fcaf1a4ee37405e5ad5fbad24204b4_loading\" aria-label=\"打开菜单\" data-spm=\"d_dashboard_trigger\" data-tracker-exp=\"true\"><span class=\"_17fcaf1a4ee37405e5ad5fbad24204b4_burger \"><span class=\"_17fcaf1a4ee37405e5ad5fbad24204b4_middle\"></span></span></button><a href=\"https://www.aliyun.com/\" class=\"_3f46140aade30bc61f3012933357c477_logo _702422913dd5754f065139ec2d2def80_logo\" data-tracker-content=\"LOGO\" data-spm=\"d_logo\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 4608 1024\" fill=\"#ff6a00\" width=\"80\"><path d=\"M3266.56 773.12h327.68v-102.4h-327.68v-102.4H3584V35.84H2846.72v532.48h317.44v102.4h-327.68v102.4h327.68v112.64h-353.28v102.4h814.08v-102.4h-353.28v-112.64zM3276.8 138.24h215.04v112.64H3276.8V138.24z m0 215.04h215.04V460.8H3276.8V353.28zM3174.4 460.8h-215.04V353.28H3174.4V460.8z m0-209.92h-215.04V138.24H3174.4v112.64zM537.6 445.44H1075.2v122.88H537.6z\"></path><path d=\"M1341.44 5.12h-353.28L1075.2 128l256 81.92c46.08 15.36 76.8 61.44 76.8 107.52v389.12c0 46.08-30.72 92.16-76.8 107.52l-256 81.92-87.04 122.88h353.28c148.48 0 266.24-117.76 266.24-266.24V276.48c0-148.48-117.76-271.36-266.24-271.36zM276.48 814.08c-46.08-15.36-76.8-61.44-76.8-107.52V317.44c0-46.08 30.72-92.16 76.8-107.52l256-81.92L619.52 5.12H266.24C117.76 5.12 0 128 0 276.48v471.04c0 148.48 117.76 266.24 266.24 266.24h353.28l-87.04-122.88-256-76.8zM2493.44 250.88h-261.12v537.6h261.12V250.88z m-107.52 430.08h-56.32V353.28h56.32v327.68zM1848.32 988.16h102.4V138.24h107.52L1996.8 419.84v102.4h61.44v225.28c0 15.36-10.24 25.6-25.6 25.6h-25.6v102.4h51.2c56.32 0 102.4-46.08 102.4-102.4v-358.4H2099.2l61.44-281.6v-102.4h-312.32v957.44z\"></path><path d=\"M2206.72 138.24H2560v660.48c0 46.08-35.84 87.04-87.04 87.04h-76.8v102.4h107.52c87.04 0 163.84-71.68 163.84-163.84V138.24h35.84v-102.4h-496.64v102.4zM3763.2 40.96h737.28v102.4H3763.2zM4541.44 527.36v-102.4H3727.36v102.4h204.8l-163.84 358.4v102.4h691.2c30.72 0 51.2-25.6 51.2-51.2 0-10.24 0-15.36-5.12-20.48l-87.04-194.56h-112.64l76.8 163.84h-496.64l163.84-358.4h491.52z\"></path></svg></a><div class=\"e76910c82efe8556eb8a6ce6019c5d00_container\"><button class=\"e76910c82efe8556eb8a6ce6019c5d00_controller\" data-spm=\"dscroll-left\"><i class=\"ee52067fb65534cb06d3b35f654f5441_icon ddd10ed9ffa4788f54781e516c4c6560-button_left\"></i></button><div class=\"e76910c82efe8556eb8a6ce6019c5d00_menu-warp\"><nav class=\"_0b0e00051b37611378e027e6ac3a695a_menus\"><a class=\"_2cdcedb5935313401458d214540870bc_menu\" href=\"https://www.aliyun.com/product/tongyi\" data-spm=\"d_menu_0\">大模型</a><a class=\"_2cdcedb5935313401458d214540870bc_menu\" href=\"https://www.aliyun.com/product/list\" data-spm=\"d_menu_1\">产品</a><a class=\"_2cdcedb5935313401458d214540870bc_menu\" href=\"https://www.aliyun.com/solution/tech-solution/\" data-spm=\"d_menu_2\">解决方案</a><a class=\"_2cdcedb5935313401458d214540870bc_menu\" href=\"https://www.aliyun.com/benefit\" data-spm=\"d_menu_3\">权益</a><a class=\"_2cdcedb5935313401458d214540870bc_menu\" href=\"https://www.aliyun.com/price\" data-spm=\"d_menu_4\">定价</a><a class=\"_2cdcedb5935313401458d214540870bc_menu\" href=\"https://market.aliyun.com/\" data-spm=\"d_menu_5\">云市场</a><a class=\"_2cdcedb5935313401458d214540870bc_menu\" href=\"https://partner.aliyun.com/management/v2\" data-spm=\"d_menu_6\">伙伴</a><a class=\"_2cdcedb5935313401458d214540870bc_menu\" href=\"https://www.aliyun.com/service\" data-spm=\"d_menu_7\">服务</a><a class=\"_2cdcedb5935313401458d214540870bc_menu\" href=\"https://www.aliyun.com/about\" data-spm=\"d_menu_8\">了解阿里云</a></nav></div><button class=\"e76910c82efe8556eb8a6ce6019c5d00_controller\" data-spm=\"dscroll-right\"><i class=\"ee52067fb65534cb06d3b35f654f5441_icon ddd10ed9ffa4788f54781e516c4c6560-button_right\"></i></button></div><div class=\"_702422913dd5754f065139ec2d2def80_search-wrap \" style=\"--left-width:0px;--right-width:0px\"><div class=\"global-nav-search _626567c051250ffe2f303af907d3fc83_global-nav-search\"><div class=\"global-search-container _626567c051250ffe2f303af907d3fc83_global-nav-search-desktop-container\"><div class=\"ff4f4a96a12f52ffbdd0d6adbdb6a2b0_position-desktop-search-container\"><div><div class=\"f6fd7e4d3293f0634b9ac54848c275b7_default-search-panel  f6fd7e4d3293f0634b9ac54848c275b7_hidden-default-search-panel\"></div><div class=\"_3b4f5487091623b0b6852e2b46d2729e_search-recommend-panel  _3b4f5487091623b0b6852e2b46d2729e_hidden-search-recommend-panel\"><button class=\"_4b65cdd64479a2fabe582b8c0789821e_search-no-content \" type=\"button\">查看 &quot;&quot; 全部搜索结果</button></div></div></div></div><div class=\"_626567c051250ffe2f303af907d3fc83_global-nav-search-mobile-container\"><a class=\"_626567c051250ffe2f303af907d3fc83_search-button\" href=\"https://www.aliyun.com/search?from=h5-global-nav-search\"><span role=\"img\" class=\"_9a1d73bbcd1a80626a31035a12410804_icon _626567c051250ffe2f303af907d3fc83_search-button-icon\"><svg width=\"1em\" height=\"1em\" viewBox=\"0 0 32 32\" focusable=\"false\" color=\"currentColor\" fill=\"currentColor\" class=\"\" data-icon=\"search\"><g><g><path fill-opacity=\"1\" fill-rule=\"evenodd\" d=\"M14,4C15.3558,4,16.653399999999998,4.262105,17.8926,4.786314C19.089100000000002,5.29242,20.1486,6.00666,21.071,6.92905C21.9933,7.85144,22.7076,8.91087,23.2137,10.10735C23.7379,11.34664,24,12.64419,24,14C24,15.3558,23.7379,16.653399999999998,23.2137,17.892699999999998C22.8382,18.7803,22.3482,19.5925,21.7436,20.3293L27.7072,26.2928L26.293,27.7071L20.3294,21.7435C19.592599999999997,22.3481,18.7803,22.8382,17.8926,23.2137C16.653399999999998,23.7379,15.3558,24,14,24C12.64419,24,11.34664,23.7379,10.10735,23.2137C8.91087,22.7076,7.85144,21.9933,6.92905,21.0709C6.00666,20.1486,5.29242,19.089100000000002,4.786314,17.8926C4.262105,16.653399999999998,4,15.3558,4,14C4,12.64419,4.262105,11.34664,4.786314,10.10735C5.29242,8.91087,6.00666,7.85144,6.92905,6.92905C7.85144,6.00666,8.91087,5.29242,10.10735,4.786314C11.34664,4.262105,12.64419,4,14,4ZM14,6C11.79102,6,9.905439999999999,6.78109,8.34326,8.34326C6.78109,9.905439999999999,6,11.79102,6,14C6,16.209,6.78109,18.0946,8.34326,19.6567C9.905439999999999,21.2189,11.79102,22,14,22C16.209,22,18.0946,21.2189,19.6567,19.6567C21.2189,18.0946,22,16.209,22,14C22,11.79102,21.2189,9.905439999999999,19.6567,8.34326C18.0946,6.78109,16.209,6,14,6Z\"></path></g></g></svg></span></a></div></div></div><div class=\"_174801eef2caf75aeaee91c72b19c09a_container\"><a class=\"global-nav-ai-assistant _174801eef2caf75aeaee91c72b19c09a_item _2d3ef330b3f8055912d355b9a255bfcf_btn\" href=\"https://www.aliyun.com/ai-assistant?displayMode=side\" data-spm=\"dai_assistant\" target=\"_blank\"><div class=\"LogoStyled-aliyun-ai-assistant-rc-8096__sc-1qusfpt-0 cpJKij\"><div class=\"ai-assistant-brand-logo-icon\" style=\"background:no-repeat center/100%  url(https://img.alicdn.com/imgextra/i4/O1CN012X1Rxl1clAgB5waMK_!!6000000003640-2-tps-52-52.png)\"><img src=\"https://img.alicdn.com/imgextra/i2/O1CN01bYc1m81RrcSAyOjMu_!!6000000002165-54-tps-60-60.apng\" loading=\"lazy\"/></div><div class=\"ai-assistant-brand-logo-tooltip \"><div class=\"ai-assistant-logo-tooltip-content\">AI 助理</div></div></div></a><button class=\"_174801eef2caf75aeaee91c72b19c09a_item bb3dbc2de557f9f2029f50770c77fab9_button\"><i class=\"ee52067fb65534cb06d3b35f654f5441_icon ddd10ed9ffa4788f54781e516c4c6560-intl\"></i></button><button class=\"_174801eef2caf75aeaee91c72b19c09a_item\"><i class=\"ee52067fb65534cb06d3b35f654f5441_icon ddd10ed9ffa4788f54781e516c4c6560-contact d42d5e3a0d0e018547c66700af2a2030_icon\"></i></button><a class=\"_174801eef2caf75aeaee91c72b19c09a_item\" href=\"https://help.aliyun.com/\" target=\"_blank\" data-spm=\"d_quick_access_3\">文档</a><a class=\"_174801eef2caf75aeaee91c72b19c09a_item\" href=\"https://beian.aliyun.com/\" target=\"_blank\" data-spm=\"d_quick_access_4\">备案</a><a class=\"_174801eef2caf75aeaee91c72b19c09a_item\" href=\"https://home.console.aliyun.com/home/dashboard/ProductAndService\" target=\"_blank\" data-spm=\"d_quick_access_5\" rel=\"nofollow\">控制台</a><span class=\"_05da28cf18b2b6ee04dbfd3ceb5ad3c9_loading _174801eef2caf75aeaee91c72b19c09a_item\"></span></div></header></div><div class=\"_3bd147f6948a20d6c528ac898ad4ba47_mobile de5ef2fee09ebcb2b1dcaf0c982523bc_theme _277ebb348812c9712fac6b680ad5e513_reset _277ebb348812c9712fac6b680ad5e513_aliyun-font-family\"></div><div class=\"_18a32969382a277c44015217fbc5cb5a_box\"></div></div></div></header>\n<footer><div id=\"39aec8efd6c3e7cd9ed8f44cffd7051b\"><div class=\"_18a32969382a277c44015217fbc5cb5a_box\"><footer class=\"_49ada0cd752f65901c49f2eed0d6c3d5_container\" aria-label=\"PC 端页尾\"><div class=\"_49ada0cd752f65901c49f2eed0d6c3d5_inner\"><div class=\"b34f022d45e42bd104ce1362bc0808b1_services\"><nav class=\"b34f022d45e42bd104ce1362bc0808b1_homepage-footer-main-services\" aria-label=\"页脚导航\"><section class=\"a52e48969cced2d562e47543eeb73ebb_ali-main-services\"><h3 class=\"a52e48969cced2d562e47543eeb73ebb_ali-main-services-title\">为什么选择阿里云</h3><a class=\"a52e48969cced2d562e47543eeb73ebb_ali-main-services-link\" href=\"https://www.aliyun.com/about/what-is-cloud-computing\" target=\"_blank\">什么是云计算</a><a class=\"a52e48969cced2d562e47543eeb73ebb_ali-main-services-link\" href=\"https://infrastructure.aliyun.com/\" target=\"_blank\">全球基础设施</a><a class=\"a52e48969cced2d562e47543eeb73ebb_ali-main-services-link\" href=\"https://www.aliyun.com/why-us/leading-technology\" target=\"_blank\">技术领先</a><a class=\"a52e48969cced2d562e47543eeb73ebb_ali-main-services-link\" href=\"https://www.aliyun.com/why-us/reliability\" target=\"_blank\">稳定可靠</a><a class=\"a52e48969cced2d562e47543eeb73ebb_ali-main-services-link\" href=\"https://www.aliyun.com/why-us/security-compliance\" target=\"_blank\">安全合规</a><a class=\"a52e48969cced2d562e47543eeb73ebb_ali-main-services-link\" href=\"https://www.aliyun.com/analyst-reports\" target=\"_blank\">分析师报告</a></section><section class=\"a52e48969cced2d562e47543eeb73ebb_ali-main-services\"><h3 class=\"a52e48969cced2d562e47543eeb73ebb_ali-main-services-title\">大模型</h3><a class=\"a52e48969cced2d562e47543eeb73ebb_ali-main-services-link\" href=\"https://www.aliyun.com/product/tongyi\" target=\"_blank\">千问大模型</a><a class=\"a52e48969cced2d562e47543eeb73ebb_ali-main-services-link\" href=\"https://bailian.console.aliyun.com/?tab=model#/model-market\" target=\"_blank\" rel=\"nofollow\">大模型服务</a><a class=\"a52e48969cced2d562e47543eeb73ebb_ali-main-services-link\" href=\"https://bailian.console.aliyun.com/app-center?tab=app#/app-center\" target=\"_blank\" rel=\"nofollow\">AI应用构建</a></section><section class=\"a52e48969cced2d562e47543eeb73ebb_ali-main-services\"><h3 class=\"a52e48969cced2d562e47543eeb73ebb_ali-main-services-title\">产品和定价</h3><a class=\"a52e48969cced2d562e47543eeb73ebb_ali-main-services-link\" href=\"https://www.aliyun.com/product/list\" target=\"_blank\">全部产品</a><a class=\"a52e48969cced2d562e47543eeb73ebb_ali-main-services-link\" href=\"https://free.aliyun.com/\" target=\"_blank\">免费试用</a><a class=\"a52e48969cced2d562e47543eeb73ebb_ali-main-services-link\" href=\"https://www.aliyun.com/product/news/\" target=\"_blank\">产品动态</a><a class=\"a52e48969cced2d562e47543eeb73ebb_ali-main-services-link\" href=\"https://www.aliyun.com/price/detail\" target=\"_blank\">产品定价</a><a class=\"a52e48969cced2d562e47543eeb73ebb_ali-main-services-link\" href=\"https://www.aliyun.com/price/cpq/list\" target=\"_blank\">配置报价器</a><a class=\"a52e48969cced2d562e47543eeb73ebb_ali-main-services-link\" href=\"https://www.aliyun.com/price/cost-management\" target=\"_blank\">云上成本管理</a></section><section class=\"a52e48969cced2d562e47543eeb73ebb_ali-main-services\"><h3 class=\"a52e48969cced2d562e47543eeb73ebb_ali-main-services-title\">技术内容</h3><a class=\"a52e48969cced2d562e47543eeb73ebb_ali-main-services-link\" href=\"https://www.aliyun.com/solution/tech-solution\" target=\"_blank\">技术解决方案</a><a class=\"a52e48969cced2d562e47543eeb73ebb_ali-main-services-link\" href=\"https://help.aliyun.com/\" target=\"_blank\">帮助文档</a><a class=\"a52e48969cced2d562e47543eeb73ebb_ali-main-services-link\" href=\"https://developer.aliyun.com/\" target=\"_blank\">开发者社区</a><a class=\"a52e48969cced2d562e47543eeb73ebb_ali-main-services-link\" href=\"https://tianchi.aliyun.com/\" target=\"_blank\">天池大赛</a><a class=\"a52e48969cced2d562e47543eeb73ebb_ali-main-services-link\" href=\"https://edu.aliyun.com/\" target=\"_blank\">阿里云认证</a></section><section class=\"a52e48969cced2d562e47543eeb73ebb_ali-main-services\"><h3 class=\"a52e48969cced2d562e47543eeb73ebb_ali-main-services-title\">权益</h3><a class=\"a52e48969cced2d562e47543eeb73ebb_ali-main-services-link\" href=\"https://free.aliyun.com/\" target=\"_blank\">免费试用</a><a class=\"a52e48969cced2d562e47543eeb73ebb_ali-main-services-link\" href=\"https://www.aliyun.com/solution/free\" target=\"_blank\">解决方案免费试用</a><a class=\"a52e48969cced2d562e47543eeb73ebb_ali-main-services-link\" href=\"https://university.aliyun.com/\" target=\"_blank\">高校计划</a><a class=\"a52e48969cced2d562e47543eeb73ebb_ali-main-services-link\" href=\"https://www.aliyun.com/benefit/form/index\" target=\"_blank\">5亿算力补贴</a><a class=\"a52e48969cced2d562e47543eeb73ebb_ali-main-services-link\" href=\"https://dashi.aliyun.com/?ambRef=shouYeDaoHang2&amp;pageCode=yunparterIndex\" target=\"_blank\">推荐返现计划</a></section><section class=\"a52e48969cced2d562e47543eeb73ebb_ali-main-services\"><h3 class=\"a52e48969cced2d562e47543eeb73ebb_ali-main-services-title\">服务</h3><a class=\"a52e48969cced2d562e47543eeb73ebb_ali-main-services-link\" href=\"https://www.aliyun.com/service\" target=\"_blank\">基础服务</a><a class=\"a52e48969cced2d562e47543eeb73ebb_ali-main-services-link\" href=\"https://www.aliyun.com/service/supportplans\" target=\"_blank\">企业增值服务</a><a class=\"a52e48969cced2d562e47543eeb73ebb_ali-main-services-link\" href=\"https://www.aliyun.com/service/devopsimpl/devopsimpl_cloudmigration_public_cn\" target=\"_blank\">迁云服务</a><a class=\"a52e48969cced2d562e47543eeb73ebb_ali-main-services-link\" href=\"https://www.aliyun.com/notice/\" target=\"_blank\">官网公告</a><a class=\"a52e48969cced2d562e47543eeb73ebb_ali-main-services-link\" href=\"https://status.aliyun.com/\" target=\"_blank\">健康看板</a><a class=\"a52e48969cced2d562e47543eeb73ebb_ali-main-services-link\" href=\"https://security.aliyun.com/trust-center\" target=\"_blank\">信任中心</a></section></nav><article class=\"_7b44142961778903dda8af3f769cd06c_focus\"><h3 class=\"_7b44142961778903dda8af3f769cd06c_ali-main-services-title\">关注阿里云</h3><p class=\"_7b44142961778903dda8af3f769cd06c_ali-main-services-desc\">关注阿里云公众号或下载阿里云APP，关注云资讯，随时随地运维管控云服务</p><img alt=\"阿里云APP\" src=\"https://img.alicdn.com/imgextra/i4/O1CN01XLesV31fkf7pYNATb_!!6000000004045-2-tps-400-400.png\" class=\"_7b44142961778903dda8af3f769cd06c_ali-official-code\" loading=\"lazy\"/><img alt=\"阿里云微信\" src=\"https://img.alicdn.com/tfs/TB1AOdINW6qK1RjSZFmXXX0PFXa-258-258.jpg\" class=\"_7b44142961778903dda8af3f769cd06c_ali-official-code\" loading=\"lazy\"/><p class=\"_7b44142961778903dda8af3f769cd06c_consult-text\">联系我们：4008013260</p></article></div><div class=\"_4598709a854bea355ceb6ef9f23f10d4_about-link-wrap\"><a href=\"https://help.aliyun.com/product/67275.html\" class=\"_4598709a854bea355ceb6ef9f23f10d4_ali-about-link\" target=\"_blank\">法律声明</a><a href=\"https://terms.alicdn.com/legal-agreement/terms/platform_service/20220906101446934/20220906101446934.html\" class=\"_4598709a854bea355ceb6ef9f23f10d4_ali-about-link\" target=\"_blank\">Cookies政策</a><a href=\"https://aliyun.jubao.alibaba.com/\" class=\"_4598709a854bea355ceb6ef9f23f10d4_ali-about-link\" target=\"_blank\">廉正举报</a><a href=\"https://report.aliyun.com/\" class=\"_4598709a854bea355ceb6ef9f23f10d4_ali-about-link\" target=\"_blank\">安全举报</a><a href=\"https://www.aliyun.com/contact\" class=\"_4598709a854bea355ceb6ef9f23f10d4_ali-about-link\" target=\"_blank\">联系我们</a><a href=\"https://careers.aliyun.com/\" class=\"_4598709a854bea355ceb6ef9f23f10d4_ali-about-link\" target=\"_blank\">加入我们</a></div><section class=\"_4598709a854bea355ceb6ef9f23f10d4_friend-link-wrap\"><h3 hidden=\"\">友情链接</h3><a href=\"https://www.alibabagroup.com/cn/global/home\" class=\"_4598709a854bea355ceb6ef9f23f10d4_ali-friend-link\" target=\"_blank\">阿里巴巴集团</a><a href=\"https://www.taobao.com/\" class=\"_4598709a854bea355ceb6ef9f23f10d4_ali-friend-link\" target=\"_blank\">淘宝网</a><a href=\"https://www.tmall.com/\" class=\"_4598709a854bea355ceb6ef9f23f10d4_ali-friend-link\" target=\"_blank\">天猫</a><a href=\"https://www.aliexpress.com/\" class=\"_4598709a854bea355ceb6ef9f23f10d4_ali-friend-link\" target=\"_blank\">全球速卖通</a><a href=\"https://www.alibaba.com/\" class=\"_4598709a854bea355ceb6ef9f23f10d4_ali-friend-link\" target=\"_blank\">阿里巴巴国际交易市场</a><a href=\"https://www.1688.com/\" class=\"_4598709a854bea355ceb6ef9f23f10d4_ali-friend-link\" target=\"_blank\">1688</a><a href=\"https://www.alimama.com/index.htm\" class=\"_4598709a854bea355ceb6ef9f23f10d4_ali-friend-link\" target=\"_blank\">阿里妈妈</a><a href=\"https://www.fliggy.com/\" class=\"_4598709a854bea355ceb6ef9f23f10d4_ali-friend-link\" target=\"_blank\">飞猪</a><a href=\"https://www.aliyun.com/\" class=\"_4598709a854bea355ceb6ef9f23f10d4_ali-friend-link\" target=\"_blank\">阿里云计算</a><a href=\"https://wanwang.aliyun.com/\" class=\"_4598709a854bea355ceb6ef9f23f10d4_ali-friend-link\" target=\"_blank\">万网</a><a href=\"https://mobile.amap.com/\" class=\"_4598709a854bea355ceb6ef9f23f10d4_ali-friend-link\" target=\"_blank\">高德</a><a href=\"https://www.uc.cn/\" class=\"_4598709a854bea355ceb6ef9f23f10d4_ali-friend-link\" target=\"_blank\">UC</a><a href=\"https://www.umeng.com/\" class=\"_4598709a854bea355ceb6ef9f23f10d4_ali-friend-link\" target=\"_blank\">友盟</a><a href=\"https://www.youku.com/\" class=\"_4598709a854bea355ceb6ef9f23f10d4_ali-friend-link\" target=\"_blank\">优酷</a><a href=\"https://www.dingtalk.com/\" class=\"_4598709a854bea355ceb6ef9f23f10d4_ali-friend-link\" target=\"_blank\">钉钉</a><a href=\"https://www.alipay.com/\" class=\"_4598709a854bea355ceb6ef9f23f10d4_ali-friend-link\" target=\"_blank\">支付宝</a><a href=\"https://damo.alibaba.com/\" class=\"_4598709a854bea355ceb6ef9f23f10d4_ali-friend-link\" target=\"_blank\">达摩院</a><a href=\"https://world.taobao.com/\" class=\"_4598709a854bea355ceb6ef9f23f10d4_ali-friend-link\" target=\"_blank\">淘宝海外</a><a href=\"https://www.aliyundrive.com/\" class=\"_4598709a854bea355ceb6ef9f23f10d4_ali-friend-link\" target=\"_blank\">阿里云盘</a><a href=\"https://www.ele.me/\" class=\"_4598709a854bea355ceb6ef9f23f10d4_ali-friend-link\" target=\"_blank\">淘宝闪购</a></section><p class=\"_4598709a854bea355ceb6ef9f23f10d4_ali-copyright-text\">© 2009-现在 Aliyun.com 版权所有 增值电信业务经营许可证： <a href=\"http://beian.miit.gov.cn/\" target=\"_blank\">浙B2-20080101</a> 域名注册服务机构许可： <a href=\"https://domain.miit.gov.cn/域名注册服务机构/互联网域名/阿里云计算有限公司 \" target=\"_blank\">浙D3-20210002</a></p><p class=\"_4598709a854bea355ceb6ef9f23f10d4_ali-report-wrap\"><a href=\"https://zzlz.gsxt.gov.cn/businessCheck/verifKey.do?showType=p&amp;serial=91330106673959654P-SAIC_SHOW_10000091330106673959654P1710919400712&amp;signData=MEUCIQDEkCd8cK7%2Fyqe6BNMWvoMPtAnsgKa7FZetfPkjZMsvhAIgOX1G9YC6FKyndE7o7hL0KaBVn4f%20V%2Fiof3iAgpsV09o%3D\" target=\"_blank\" class=\"_4598709a854bea355ceb6ef9f23f10d4_ali-report-link\"><img src=\"//gw.alicdn.com/tfs/TB1GxwdSXXXXXa.aXXXXXXXXXXX-65-70.gif\" class=\"_4598709a854bea355ceb6ef9f23f10d4_ali-report-img\" alt=\"\" loading=\"lazy\"/></a><a href=\"http://www.beian.gov.cn/portal/registerSystemInfo\" target=\"_blank\" class=\"_4598709a854bea355ceb6ef9f23f10d4_ali-report-link\"><img src=\"//img.alicdn.com/tfs/TB1..50QpXXXXX7XpXXXXXXXXXX-40-40.png\" class=\"_4598709a854bea355ceb6ef9f23f10d4_ali-report-img\" alt=\"浙公网安备 33010602009975号\" loading=\"lazy\"/><span class=\"_4598709a854bea355ceb6ef9f23f10d4_ali-report-link-text\">浙公网安备 33010602009975号</span></a><a href=\"https://beian.miit.gov.cn/\" target=\"_blank\" class=\"_4598709a854bea355ceb6ef9f23f10d4_ali-report-link\"><span class=\"_4598709a854bea355ceb6ef9f23f10d4_ali-report-link-text _4598709a854bea355ceb6ef9f23f10d4_ali-report-link-text-unique\">浙B2-20080101-4</span></a></p></div></footer><footer class=\"_4b41e3343c851a7a8833c9165b249eb2_container\" aria-label=\"移动端页尾\"></footer></div></div></footer>\n===\ntitle>404错误页-阿里云帮助中心"
+          },
+          {
+            "id": "call_01_ILzSBsKNAuM3lhKvogw81885",
+            "name": "Bash",
+            "input": {
+              "command": "python3 -c \"\nimport re\nwith open('/tmp/file_upload_guide.html','r',errors='replace') as f:\n    content = f.read()\n\n# Extract the text content of the page\n# Find product description\nfor m in re.finditer(r'class=\\\"shortdesc\\\"[^>]*>', content):\n    start = m.end()\n    # Extract until next tag\n    text = content[start:start+2000]\n    clean = re.sub(r'<[^>]+>', '', text)\n    clean = re.sub(r'&[a-z]+;', '', clean)\n    print('SHORTDESC:', clean[:1000])\n    print()\n\n# Look for title-like text\nfor m in re.finditer(r'docTitle[\\\":]+([^\\\"<]+)', content):\n    print('TITLE:', m.group(1))\nfor m in re.finditer(r'seoTitle[\\\":]+([^\\\"<]+)', content):\n    print('SEO:', m.group(1)[:200])\n\" 2>/dev/null | head -20",
+              "description": "Extract file upload help content",
+              "timeout": 10000
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "(Bash completed with no output)"
+          },
+          {
+            "id": "call_00_uEua8xpp1Er63zTnODhx2647",
+            "name": "Bash",
+            "input": {
+              "command": "curl -sL \"https://api-docs.deepseek.com/faq\" -H \"User-Agent: Mozilla/5.0\" -o /tmp/deepseek_faq.html 2>/dev/null; echo \"DONE\"",
+              "description": "Fetch DeepSeek FAQ page",
+              "timeout": 15000
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "DONE"
+          },
+          {
+            "id": "call_01_6ZAOPvtil3UZCsMVJQSc7810",
+            "name": "Bash",
+            "input": {
+              "command": "grep -oP 'class=\"[^\"]*\"[^>]*>[^<]{10,200}<' /tmp/deepseek_faq.html 2>/dev/null | head -20; echo \"===\"; grep -i \"file\\|upload\\|document\\|PDF\\|image\" /tmp/deepseek_faq.html 2>/dev/null | head -20",
+              "description": "Search DeepSeek FAQ for file upload",
+              "timeout": 10000
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "class=\"skipToContent_xSgN\" href=\"#__docusaurus_skipToContent_fallback\">Skip to main content<\nclass=\"navbar__title text--truncate\">DeepSeek API Docs<\nclass=\"dropdown__link\" lang=\"zh-cn\">中文（中国）<\nclass=\"navbar__item navbar__link\">DeepSeek Platform<\nclass=\"menu__link menu__link--sublist menu__link--sublist-caret\" aria-expanded=\"true\" href=\"/\">Quick Start<\nclass=\"menu__link\" tabindex=\"0\" href=\"/\">Your First API Call<\nclass=\"menu__link\" tabindex=\"0\" href=\"/quick_start/pricing\">Models &amp; Pricing<\nclass=\"menu__link\" tabindex=\"0\" href=\"/quick_start/token_usage\">Token &amp; Token Usage<\nclass=\"menu__link\" tabindex=\"0\" href=\"/quick_start/rate_limit\">Rate Limit &amp; Isolation<\nclass=\"menu__link\" tabindex=\"0\" href=\"/quick_start/error_codes\">Error Codes<\nclass=\"menu__link menu__link--sublist menu__link--sublist-caret\" aria-expanded=\"false\" tabindex=\"0\" href=\"/quick_start/agent_integrations/claude_code\">Agent Integrations<\nclass=\"menu__link menu__link--sublist menu__link--sublist-caret\" aria-expanded=\"true\" href=\"/guides/thinking_mode\">API Guides<\nclass=\"menu__link\" tabindex=\"0\" href=\"/guides/thinking_mode\">Thinking Mode<\nclass=\"menu__link\" tabindex=\"0\" href=\"/guides/multi_round_chat\">Multi-round Conversation<\nclass=\"menu__link\" tabindex=\"0\" href=\"/guides/chat_prefix_completion\">Chat Prefix Completion (Beta)<\nclass=\"menu__link\" tabindex=\"0\" href=\"/guides/fim_completion\">FIM Completion (Beta)<\nclass=\"menu__link\" tabindex=\"0\" href=\"/guides/json_mode\">JSON Output<\nclass=\"menu__link\" tabindex=\"0\" href=\"/guides/tool_calls\">Tool Calls<\nclass=\"menu__link\" tabindex=\"0\" href=\"/guides/kv_cache\">Context Caching<\nclass=\"menu__link\" tabindex=\"0\" href=\"/guides/anthropic_api\">Anthropic API<\n===\n<title data-rh=\"true\">FAQ | DeepSeek API Docs</title><meta data-rh=\"true\" name=\"viewport\" content=\"width=device-width,initial-scale=1\"><meta data-rh=\"true\" name=\"twitter:card\" content=\"summary_large_image\"><meta data-rh=\"true\" property=\"og:image\" content=\"https://api-docs.deepseek.com/img/deepseek-social-card.jpeg\"><meta data-rh=\"true\" name=\"twitter:image\" content=\"https://api-docs.deepseek.com/img/deepseek-social-card.jpeg\"><meta data-rh=\"true\" property=\"og:url\" content=\"https://api-docs.deepseek.com/faq\"><meta data-rh=\"true\" property=\"og:locale\" content=\"en\"><meta data-rh=\"true\" property=\"og:locale:alternate\" content=\"zh_cn\"><meta data-rh=\"true\" name=\"docusaurus_locale\" content=\"en\"><meta data-rh=\"true\" name=\"docsearch:language\" content=\"en\"><meta data-rh=\"true\" name=\"docusaurus_version\" content=\"current\"><meta data-rh=\"true\" name=\"docusaurus_tag\" content=\"docs-default-current\"><meta data-rh=\"true\" name=\"docsearch:version\" content=\"current\"><meta data-rh=\"true\" name=\"docsearch:docusaurus_tag\" content=\"docs-default-current\"><meta data-rh=\"true\" property=\"og:title\" content=\"FAQ | DeepSeek API Docs\"><meta data-rh=\"true\" name=\"description\" content=\"Account\"><meta data-rh=\"true\" property=\"og:description\" content=\"Account\"><link data-rh=\"true\" rel=\"icon\" href=\"/img/favicon.svg\"><link data-rh=\"true\" rel=\"canonical\" href=\"https://api-docs.deepseek.com/faq\"><link data-rh=\"true\" rel=\"alternate\" href=\"https://api-docs.deepseek.com/faq\" hreflang=\"en\"><link data-rh=\"true\" rel=\"alternate\" href=\"https://api-docs.deepseek.com/zh-cn/faq\" hreflang=\"zh-cn\"><link data-rh=\"true\" rel=\"alternate\" href=\"https://api-docs.deepseek.com/faq\" hreflang=\"x-default\"><link rel=\"stylesheet\" href=\"/assets/css/styles.e31a7b76.css\">\n<script>!function(){function t(t){document.documentElement.setAttribute(\"data-theme\",t)}var e=function(){try{return new URLSearchParams(window.location.search).get(\"docusaurus-theme\")}catch(t){}}()||function(){try{return localStorage.getItem(\"theme\")}catch(t){}}();t(null!==e?e:\"light\")}(),function(){try{const c=new URLSearchParams(window.location.search).entries();for(var[t,e]of c)if(t.startsWith(\"docusaurus-data-\")){var a=t.replace(\"docusaurus-data-\",\"data-\");document.documentElement.setAttribute(a,e)}}catch(t){}}()</script><div id=\"__docusaurus\"><div role=\"region\" aria-label=\"Skip to main content\"><a class=\"skipToContent_xSgN\" href=\"#__docusaurus_skipToContent_fallback\">Skip to main content</a></div><nav aria-label=\"Main\" class=\"navbar navbar--fixed-top\"><div class=\"navbar__inner\"><div class=\"navbar__items\"><button aria-label=\"Toggle navigation bar\" aria-expanded=\"false\" class=\"navbar__toggle clean-btn\" type=\"button\"><svg width=\"30\" height=\"30\" viewBox=\"0 0 30 30\" aria-hidden=\"true\"><path stroke=\"currentColor\" stroke-linecap=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2\" d=\"M4 7h22M4 15h22M4 23h22\"></path></svg></button><a class=\"navbar__brand\" href=\"/\"><div class=\"navbar__logo\"><img src=\"https://cdn.deepseek.com/platform/favicon.png\" alt=\"DeepSeek API Docs Logo\" class=\"themedComponent_EBr5 themedComponent--light_FDat\"><img src=\"https://cdn.deepseek.com/platform/favicon.png\" alt=\"DeepSeek API Docs Logo\" class=\"themedComponent_EBr5 themedComponent--dark_NU8c\"></div><b class=\"navbar__title text--truncate\">DeepSeek API Docs</b></a></div><div class=\"navbar__items navbar__items--right\"><div class=\"navbar__item dropdown dropdown--hoverable dropdown--right\"><a href=\"#\" aria-haspopup=\"true\" aria-expanded=\"false\" role=\"button\" class=\"navbar__link\"><svg viewBox=\"0 0 24 24\" width=\"20\" height=\"20\" aria-hidden=\"true\" class=\"iconLanguage_B6X1\"><path fill=\"currentColor\" d=\"M12.87 15.07l-2.54-2.51.03-.03c1.74-1.94 2.98-4.17 3.71-6.53H17V4h-7V2H8v2H1v1.99h11.17C11.5 7.92 10.44 9.75 9 11.35 8.07 10.32 7.3 9.19 6.69 8h-2c.73 1.63 1.73 3.17 2.98 4.56l-5.09 5.02L4 19l5-5 3.11 3.11.76-2.04zM18.5 10h-2L12 22h2l1.12-3h4.75L21 22h2l-4.5-12zm-2.62 7l1.62-4.33L19.12 17h-3.24z\"></path></svg>English</a><ul class=\"dropdown__menu\"><li><a href=\"/faq\" target=\"_self\" rel=\"noopener noreferrer\" class=\"dropdown__link dropdown__link--active\" lang=\"en\">English</a></li><li><a href=\"/zh-cn/faq\" target=\"_self\" rel=\"noopener noreferrer\" class=\"dropdown__link\" lang=\"zh-cn\">中文（中国）</a></li></ul></div><a href=\"https://platform.deepseek.com/\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"navbar__item navbar__link\">DeepSeek Platform<svg width=\"13.5\" height=\"13.5\" aria-hidden=\"true\" viewBox=\"0 0 24 24\" class=\"iconExternalLink_YH95\"><path fill=\"currentColor\" d=\"M21 13v10h-21v-19h12v2h-10v15h17v-8h2zm3-12h-10.988l4.035 4-6.977 7.07 2.828 2.828 6.977-7.07 4.125 4.172v-11z\"></path></svg></a><div class=\"toggle_SQQt colorModeToggle_ulqQ\"><button class=\"clean-btn toggleButton_Z4XR toggleButtonDisabled_lK4M\" type=\"button\" disabled=\"\" title=\"Switch between dark and light mode (currently light mode)\" aria-label=\"Switch between dark and light mode (currently light mode)\" aria-live=\"polite\"><svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" class=\"lightToggleIcon_JCQN\"><path fill=\"currentColor\" d=\"M12,9c1.65,0,3,1.35,3,3s-1.35,3-3,3s-3-1.35-3-3S10.35,9,12,9 M12,7c-2.76,0-5,2.24-5,5s2.24,5,5,5s5-2.24,5-5 S14.76,7,12,7L12,7z M2,13l2,0c0.55,0,1-0.45,1-1s-0.45-1-1-1l-2,0c-0.55,0-1,0.45-1,1S1.45,13,2,13z M20,13l2,0c0.55,0,1-0.45,1-1 s-0.45-1-1-1l-2,0c-0.55,0-1,0.45-1,1S19.45,13,20,13z M11,2v2c0,0.55,0.45,1,1,1s1-0.45,1-1V2c0-0.55-0.45-1-1-1S11,1.45,11,2z M11,20v2c0,0.55,0.45,1,1,1s1-0.45,1-1v-2c0-0.55-0.45-1-1-1C11.45,19,11,19.45,11,20z M5.99,4.58c-0.39-0.39-1.03-0.39-1.41,0 c-0.39,0.39-0.39,1.03,0,1.41l1.06,1.06c0.39,0.39,1.03,0.39,1.41,0s0.39-1.03,0-1.41L5.99,4.58z M18.36,16.95 c-0.39-0.39-1.03-0.39-1.41,0c-0.39,0.39-0.39,1.03,0,1.41l1.06,1.06c0.39,0.39,1.03,0.39,1.41,0c0.39-0.39,0.39-1.03,0-1.41 L18.36,16.95z M19.42,5.99c0.39-0.39,0.39-1.03,0-1.41c-0.39-0.39-1.03-0.39-1.41,0l-1.06,1.06c-0.39,0.39-0.39,1.03,0,1.41 s1.03,0.39,1.41,0L19.42,5.99z M7.05,18.36c0.39-0.39,0.39-1.03,0-1.41c-0.39-0.39-1.03-0.39-1.41,0l-1.06,1.06 c-0.39,0.39-0.39,1.03,0,1.41s1.03,0.39,1.41,0L7.05,18.36z\"></path></svg><svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" class=\"darkToggleIcon_R3EN\"><path fill=\"currentColor\" d=\"M9.37,5.51C9.19,6.15,9.1,6.82,9.1,7.5c0,4.08,3.32,7.4,7.4,7.4c0.68,0,1.35-0.09,1.99-0.27C17.45,17.19,14.93,19,12,19 c-3.86,0-7-3.14-7-7C5,9.07,6.81,6.55,9.37,5.51z M12,3c-4.97,0-9,4.03-9,9s4.03,9,9,9s9-4.03,9-9c0-0.46-0.04-0.92-0.1-1.36 c-0.98,1.37-2.58,2.26-4.4,2.26c-2.98,0-5.4-2.42-5.4-5.4c0-1.81,0.89-3.42,2.26-4.4C12.92,3.04,12.46,3,12,3L12,3z\"></path></svg></button></div><div class=\"navbarSearchContainer_uDFu\"></div></div></div><div role=\"presentation\" class=\"navbar-sidebar__backdrop\"></div></nav><div id=\"__docusaurus_skipToContent_fallback\" class=\"main-wrapper mainWrapper_O4_m\"><div class=\"docsWrapper_mcSy\"><button aria-label=\"Scroll back to top\" class=\"clean-btn theme-back-to-top-button backToTopButton_XdUj\" type=\"button\"></button><div class=\"docRoot_Dr47\"><aside class=\"theme-doc-sidebar-container docSidebarContainer_baRN\"><div class=\"sidebarViewport_VhFV\"><div class=\"sidebar_pcuX\"><nav aria-label=\"Docs sidebar\" class=\"menu thin-scrollbar menu_r8D2\"><ul class=\"theme-doc-sidebar-menu menu__list\"><li class=\"theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item\"><div class=\"menu__list-item-collapsible\"><a class=\"menu__link menu__link--sublist menu__link--sublist-caret\" aria-expanded=\"true\" href=\"/\">Quick Start</a></div><ul style=\"display:block;overflow:visible;height:auto\" class=\"menu__list\"><li class=\"theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item\"><a class=\"menu__link\" tabindex=\"0\" href=\"/\">Your First API Call</a></li><li class=\"theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item\"><a class=\"menu__link\" tabindex=\"0\" href=\"/quick_start/pricing\">Models &amp; Pricing</a></li><li class=\"theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item\"><a class=\"menu__link\" tabindex=\"0\" href=\"/quick_start/token_usage\">Token &amp; Token Usage</a></li><li class=\"theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item\"><a class=\"menu__link\" tabindex=\"0\" href=\"/quick_start/rate_limit\">Rate Limit &amp; Isolation</a></li><li class=\"theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item\"><a class=\"menu__link\" tabindex=\"0\" href=\"/quick_start/error_codes\">Error Codes</a></li><li class=\"theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-2 menu__list-item menu__list-item--collapsed\"><div class=\"menu__list-item-collapsible\"><a class=\"menu__link menu__link--sublist menu__link--sublist-caret\" aria-expanded=\"false\" tabindex=\"0\" href=\"/quick_start/agent_integrations/claude_code\">Agent Integrations</a></div></li></ul></li><li class=\"theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item\"><div class=\"menu__list-item-collapsible\"><a class=\"menu__link menu__link--sublist menu__link--sublist-caret\" aria-expanded=\"true\" href=\"/guides/thinking_mode\">API Guides</a></div><ul style=\"display:block;overflow:visible;height:auto\" class=\"menu__list\"><li class=\"theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item\"><a class=\"menu__link\" tabindex=\"0\" href=\"/guides/thinking_mode\">Thinking Mode</a></li><li class=\"theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item\"><a class=\"menu__link\" tabindex=\"0\" href=\"/guides/multi_round_chat\">Multi-round Conversation</a></li><li class=\"theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item\"><a class=\"menu__link\" tabindex=\"0\" href=\"/guides/chat_prefix_completion\">Chat Prefix Completion (Beta)</a></li><li class=\"theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item\"><a class=\"menu__link\" tabindex=\"0\" href=\"/guides/fim_completion\">FIM Completion (Beta)</a></li><li class=\"theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item\"><a class=\"menu__link\" tabindex=\"0\" href=\"/guides/json_mode\">JSON Output</a></li><li class=\"theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item\"><a class=\"menu__link\" tabindex=\"0\" href=\"/guides/tool_calls\">Tool Calls</a></li><li class=\"theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item\"><a class=\"menu__link\" tabindex=\"0\" href=\"/guides/kv_cache\">Context Caching</a></li><li class=\"theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item\"><a class=\"menu__link\" tabindex=\"0\" href=\"/guides/anthropic_api\">Anthropic API</a></li></ul></li><li class=\"theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed\"><div class=\"menu__list-item-collapsible\"><a class=\"menu__link menu__link--sublist menu__link--sublist-caret\" aria-expanded=\"false\" href=\"/api/deepseek-api\">API Reference</a></div></li><li class=\"theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed\"><div class=\"menu__list-item-collapsible\"><a class=\"menu__link menu__link--sublist menu__link--sublist-caret\" aria-expanded=\"false\" href=\"/news/news260424\">News</a></div></li><li class=\"theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed\"><div class=\"menu__list-item-collapsible\"><a href=\"https://github.com/deepseek-ai/awesome-deepseek-integration/tree/main\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"menu__link menu__link--sublist menu__link--sublist-caret\" aria-expanded=\"false\">Other Resources</a></div></li><li class=\"theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-1 menu__list-item\"><a class=\"menu__link menu__link--active\" aria-current=\"page\" href=\"/faq\">FAQ</a></li><li class=\"theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-1 menu__list-item\"><a class=\"menu__link\" href=\"/updates\">Change Log</a></li></ul></nav></div></div></aside><main class=\"docMainContainer_SNqp\"><div class=\"container padding-top--md padding-bottom--lg\"><div class=\"row\"><div class=\"col docItemCol_GEdM\"><div class=\"docItemContainer_OUCh\"><article><nav class=\"theme-doc-breadcrumbs breadcrumbsContainer_gDTe\" aria-label=\"Breadcrumbs\"><ul class=\"breadcrumbs\" itemscope=\"\" itemtype=\"https://schema.org/BreadcrumbList\"><li class=\"breadcrumbs__item\"><a aria-label=\"Home page\" class=\"breadcrumbs__link\" href=\"/\"><svg viewBox=\"0 0 24 24\" class=\"breadcrumbHomeIcon_fbmM\"><path d=\"M10 19v-5h4v5c0 .55.45 1 1 1h3c.55 0 1-.45 1-1v-7h1.7c.46 0 .68-.57.33-.87L12.67 3.6c-.38-.34-.96-.34-1.34 0l-8.36 7.53c-.34.3-.13.87.33.87H5v7c0 .55.45 1 1 1h3c.55 0 1-.45 1-1z\" fill=\"currentColor\"></path></svg></a></li><li itemscope=\"\" itemprop=\"itemListElement\" itemtype=\"https://schema.org/ListItem\" class=\"breadcrumbs__item breadcrumbs__item--active\"><span class=\"breadcrumbs__link\" itemprop=\"name\">FAQ</span><meta itemprop=\"position\" content=\"1\"></li></ul></nav><div class=\"tocCollapsible_lKxX theme-doc-toc-mobile tocMobile_kO7c\"><button type=\"button\" class=\"clean-btn tocCollapsibleButton_KNXb\">On this page</button></div><div class=\"theme-doc-markdown markdown\"><div class=\"row\"><div class=\"col col--12\"><h1>FAQ</h1>\n<p><a href=\"https://platform.deepseek.com/profile\" target=\"_blank\" rel=\"noopener noreferrer\">「Profile」</a> --&gt; 「Delete」.</p>\n<p>Download and unzip the usage data package. You will find two CSV files.</p>\n<p>The file named amount contains usage details broken down by Key.</p>"
+          },
+          {
+            "id": "call_02_KEYAEORMwfaztWSLycW14965",
+            "name": "Bash",
+            "input": {
+              "command": "curl -sL \"https://help.aliyun.com/zh/model-studio/user-guide/file-upload\" -H \"User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36\" --max-time 15 | python3 -c \"\nimport sys, re\nhtml = sys.stdin.read()\n# Try to get the document title\nfor m in re.finditer(r'docTitle[:\\\"]+([^\\\"<]+)', html):\n    print('Title:', m.group(1))\nfor m in re.finditer(r'seoTitle[:\\\"]+([^\\\"<]+)', html):\n    print('SEO:', m.group(1)[:200])\n# Look for main content  \nfor m in re.finditer(r'class=\\\"shortdesc\\\"[^>]*>(.*?)<', html):\n    clean = re.sub(r'<[^>]+>', '', m.group(1))\n    clean = re.sub(r'&[a-z]+;', ' ', clean)\n    print('Shortdesc:', clean[:500])\n# Or just extract anything with keyword\nfor m in re.finditer(r'[^.]{0,50}(?:上传|文件|PDF|Word|PPT|文档|upload|file)[^.]{0,100}\\.', html, re.IGNORECASE):\n    clean = re.sub(r'<[^>]+>', '', m.group(0))\n    clean = re.sub(r'&[a-z]+;', ' ', clean)\n    print('Match:', clean[:200])\n\" 2>/dev/null | head -20",
+              "description": "Fetch Qwen file upload guide with user agent",
+              "timeout": 20000
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "(Bash completed with no output)"
+          },
+          {
+            "id": "call_00_JdWdcvHNQMhQIFDuck9p6704",
+            "name": "Bash",
+            "input": {
+              "command": "grep -oP '>{10,200}<' /tmp/deepseek_faq.html 2>/dev/null | sort -u | head -40",
+              "description": "Get FAQ text content",
+              "timeout": 10000
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "(Bash completed with no output)"
+          },
+          {
+            "id": "call_01_iiY76xXa6g8wUomUMcLK5078",
+            "name": "Bash",
+            "input": {
+              "command": "python3 -c \"\nimport re\nwith open('/tmp/deepseek_faq.html','r',errors='replace') as f:\n    content = f.read()\n# Look for h2/h3/p with content  \nfor m in re.finditer(r'<(h[23]|p|li)[^>]*>([^<]{10,300})<', content):\n    tag, text = m.group(1), m.group(2)\n    if 'skip' not in text.lower() and 'navbar' not in text.lower() and len(text) > 5:\n        print(f'[{tag}]: {text}')\n\" 2>/dev/null | head -40",
+              "description": "Extract FAQ text from DeepSeek FAQ page",
+              "timeout": 10000
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "(Bash completed with no output)"
+          },
+          {
+            "id": "call_00_zC1i49fkc9BAxDAvuoGB3564",
+            "name": "Bash",
+            "input": {
+              "command": "grep -oP '<[^>]{0,10}>[^<]{10,200}<' /tmp/deepseek_faq.html 2>/dev/null | sort -u | head -40",
+              "description": "Extract FAQ text",
+              "timeout": 10000
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "</a> --&gt; 「Delete」.<\n</a> page, and click 「Refunds」 to process the refund yourself.<\n</a> page. You can check the results on the <\n</a>, select 「Refund Request」, and provide the necessary information.<\n</code>，for streaming requests) while waiting for the request to be scheduled. If you are parsing the HTTP response yourself, please make sure to handle these empty lines or comments appropriately.<\n<p>Download and unzip the usage data package. You will find two CSV files.<\n<p>Follow these steps to view detailed usage for each API Key:<\n<p>For concurrency limits and capacity expansion requests, please refer to <\n<p>Go to the <\n<p>If the issue persists, contact <\n<p>If you believe this is an error,  please contact us by filling out the <\n<p>If you deleted a phone-registered account and re-registered, the new account is independent of the old one. If the old account had a balance, it couldn&#x27;t be used. <\n<p>If you have a Google account, try logging into the Platform with Google to check if the historical payments are in that account.<\n<p>Please refer to <\n<p>Select the relevant month and click 「Export」.<\n<p>The file named amount contains usage details broken down by Key.<\n<p>The web service uses streaming output, i.e., every time the model outputs a token, it will be displayed incrementally on the web page.<\n<p>To prevent the TCP connection from being interrupted due to timeout, we continuously return empty lines (for non-streaming requests) or SSE keep-alive comments (<\n<p>Unused balances are refundable.<\n<p>Verify that the top-up account matches the currently logged-in account.<\n<p>Yes. You can refer to the demo code below, which demonstrates how to use LangChain with DeepSeek API. Replace the API key in the code as necessary.<\n<p>You can request account deletion via the following path:<\n<p>You can top up online via PayPal, bank card, Alipay, or WeChat Pay on the <\n<p>Your topped-up balance will not expire. You can check the expiration date of the granted balance on the <\n<strong>Important:<"
+          },
+          {
+            "id": "call_00_A74UzKQCYfTiFbgvcGa42550",
+            "name": "Bash",
+            "input": {
+              "command": "python3 -c \"\nimport re\nwith open('/tmp/dlai_prompting_course.html','r',errors='replace') as f:\n    content = f.read()\n# Find lesson links which contain lesson names\nlessons = re.findall(r'/lesson/[a-z0-9]+/([a-z0-9-]+)', content)\nseen = set()\nfor l in lessons:\n    name = l.replace('-', ' ').title()\n    if name not in seen:\n        seen.add(name)\n        print(name)\n\" 2>/dev/null",
+              "description": "Extract lesson names from course URL slugs",
+              "timeout": 10000
+            },
+            "status": "error",
+            "isExpanded": false,
+            "result": "Exit code 1"
+          },
+          {
+            "id": "call_01_z2t5DYW4zH7QRNWkGTtU3636",
+            "name": "Bash",
+            "input": {
+              "command": "curl -sL \"https://chat.qwen.ai/\" -H \"User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36\" --max-time 15 | python3 -c \"\nimport sys, re\nhtml = sys.stdin.read()\n# look for keywords\nkeywords = ['upload', 'file', 'document', 'pdf', 'word', 'ppt', '上传', '文件', '附件', '图片', '拖拽']\nfor kw in keywords:\n    count = html.lower().count(kw)\n    if count > 0:\n        print(f'{kw}: {count} matches')\n        # get some context\n        idx = html.lower().find(kw)\n        if idx >= 0:\n            context = html[max(0,idx-50):idx+200]\n            clean = re.sub(r'<[^>]+>', ' ', context)\n            clean = re.sub(r'\\s+', ' ', clean).strip()\n            print(f'  Context: {clean[:200]}')\n            print()\n\" 2>/dev/null | head -40",
+              "description": "Check Qwen chat for file upload capabilities",
+              "timeout": 20000
+            },
+            "status": "completed",
+            "isExpanded": false,
+            "result": "upload: 2 matches\r\n  Context: .qwen, set youtube to post on facebook qwen video uploaded, seven qwen's head, sexy busty qwen stacy, sexy qwen ben ten, sexy qwen stacy, shadbase qwen, shemale eskort qwens, shy-girls.com qwen, skudb\r\n\r\nfile: 8 matches\r\n  Context: qwen how to use, qwen image generator, qwen llamafile, qwen llm chat, qwen log in, qwen logo 3d, qwen logo svg, qwen lora微调, qwen lvm, qwen mask attention github issue, qwen math 1.5b, qwen math prm\r\n\r\ndocument: 56 matches\r\n  Context: pt nonce=mUHvLj6xPEWbENvsrSuYfQ>!function(){var e=document.documentElement,t=window.matchMedia(\"(prefers-color-scheme: dark)\").matches,a=\"system\";try{a=localStorage.getItem(\"theme\")||\"system\"}catch(e)\r\n\r\npdf: 16 matches\r\n  Context: , qwen app, qwen agent, ai agent, qwen turbo, chatpdf, chat pdf, doc summarizer, humanize ai free, ai humanize , free chat bot, humanize ai, bypass ai, wanx, deepl translate, undetectable ai, ai image\r\n\r\nword: 11 matches\r\n  Context: and video chat, and artifacts.\"> <meta name=keywords content=\"qwen, qwen ai, qwen 0.5b, alibaba qwen, qwen alibaba, qwen chatbot, alibaba qwen ai, @qwen, qwen ai login, open devin, opensource devin, c\r\n\r\nppt: 5 matches\r\n  Context: urce, wan generator, a.i, afree chat, ai d, chat gppt, chat gpt 4 login, chatgpt stock, chgat, deep translator, google chats login, hey gen, hi en español, hi ai, iai, llm.ai, login chatgpt, probar, r"
+          },
+          {
+            "id": "call_02_LWwrxALbvVEjHD2eQlSo2220",
+            "name": "Bash",
+            "input": {
+              "command": "curl -sL \"https://tongyi.aliyun.com/qianwen/\" -H \"User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36\" --max-time 15 -o /tmp/tongyi_chat.html 2>/dev/null; echo \"DONE\"",
+              "description": "Fetch Tongyi Qianwen chat page",
+              "timeout": 20000
+            },
+            "status": "running",
+            "isExpanded": false
+          }
+        ],
+        "isExpanded": false
+      }
+    }
+  },
+  "usage": {
+    "model": "deepseek-v4-pro",
+    "inputTokens": 148,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 75648,
+    "contextWindow": 1000000,
+    "contextTokens": 75796,
+    "percentage": 8,
+    "contextWindowIsAuthoritative": false
+  }
+}

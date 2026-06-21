@@ -1,0 +1,23 @@
+{
+  "id": "conv-1780433180557-wmayokwuv",
+  "providerId": "claude",
+  "title": "你是什么模型",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1780433180557,
+  "updatedAt": 1780438247585,
+  "lastResponseAt": 1780436176478,
+  "sessionId": null,
+  "providerState": {
+    "providerSessionId": "30de9bb3-96cf-4d0a-abaf-54ed7bc8656f"
+  },
+  "usage": {
+    "model": "deepseek-v4-pro[1m]",
+    "inputTokens": 76,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 73088,
+    "contextWindow": 1000000,
+    "contextTokens": 73164,
+    "percentage": 7,
+    "contextWindowIsAuthoritative": true
+  }
+}

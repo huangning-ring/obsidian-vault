@@ -1,0 +1,24 @@
+{
+  "id": "conv-1780874726656-1zyoq3ay2",
+  "providerId": "claude",
+  "title": "Search and verify information",
+  "titleGenerationStatus": "success",
+  "createdAt": 1780874726657,
+  "updatedAt": 1780878817854,
+  "lastResponseAt": 1780878677796,
+  "sessionId": null,
+  "providerState": {
+    "providerSessionId": "5f846421-ad6b-445a-8cf3-5412d56fdc20"
+  },
+  "currentNote": "笔记同步助手/2026-06-06/自用临床医学AI复习技巧及提示词整理（一）.md",
+  "usage": {
+    "model": "deepseek-v4-pro",
+    "inputTokens": 1761,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 71296,
+    "contextWindow": 200000,
+    "contextTokens": 73057,
+    "percentage": 37,
+    "contextWindowIsAuthoritative": true
+  }
+}

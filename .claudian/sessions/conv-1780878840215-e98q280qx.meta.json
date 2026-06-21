@@ -1,0 +1,23 @@
+{
+  "id": "conv-1780878840215-e98q280qx",
+  "providerId": "claude",
+  "title": "抓取B站up主Ring-H视频字幕",
+  "titleGenerationStatus": "success",
+  "createdAt": 1780878840215,
+  "updatedAt": 1780952912894,
+  "lastResponseAt": 1780879373703,
+  "sessionId": null,
+  "providerState": {
+    "providerSessionId": "80455e17-665a-4570-9fc3-21541659de84"
+  },
+  "usage": {
+    "model": "deepseek-v4-pro",
+    "inputTokens": 1112,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 65536,
+    "contextWindow": 200000,
+    "contextTokens": 66648,
+    "percentage": 33,
+    "contextWindowIsAuthoritative": true
+  }
+}

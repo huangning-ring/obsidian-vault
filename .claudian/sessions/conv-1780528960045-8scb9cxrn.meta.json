@@ -1,0 +1,23 @@
+{
+  "id": "conv-1780528960045-8scb9cxrn",
+  "providerId": "claude",
+  "title": "整理视频字幕，生成一步步的protocol，放在同一文件夹",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1780528960045,
+  "updatedAt": 1780873542351,
+  "lastResponseAt": 1780658142408,
+  "sessionId": null,
+  "providerState": {
+    "providerSessionId": "e5fc649a-e757-478e-9fc3-23c1acab09fc"
+  },
+  "usage": {
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "inputTokens": 69498,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 69498,
+    "percentage": 35,
+    "contextWindowIsAuthoritative": true
+  }
+}

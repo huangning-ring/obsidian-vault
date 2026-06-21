@@ -1,0 +1,32 @@
+{
+  "promptDelete": false,
+  "showLineNumber": true,
+  "smartIndentList": false,
+  "alwaysUpdateLinks": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 89
+  },
+  "trashOption": "system",
+  "userIgnoreFilters": [
+    ".claude/",
+    ".claudian/",
+    ".git/",
+    ".obsidian/",
+    ".obsidian_WIN/",
+    ".trash/",
+    "node_modules/",
+    "camera/",
+    "copilot/",
+    "HONOR Share/",
+    "OneNote/",
+    "ringtone/",
+    "scripts/",
+    "_code_archive/",
+    "_code_archive/",
+    "raw/"
+  ]
+}

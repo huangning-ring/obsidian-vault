@@ -1,0 +1,24 @@
+{
+  "id": "conv-1780929290731-67tmpozd7",
+  "providerId": "claude",
+  "title": "Let me search for this video to find out which ...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1780929290732,
+  "updatedAt": 1780952897510,
+  "lastResponseAt": 1780952815969,
+  "sessionId": null,
+  "providerState": {
+    "providerSessionId": "25b9374b-4167-47d1-89aa-776fb2753d40"
+  },
+  "currentNote": "笔记同步助手/2026-06-06/自用临床医学AI复习技巧及提示词整理（一）.md",
+  "usage": {
+    "model": "deepseek-v4-flash[1m]",
+    "inputTokens": 141,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 53376,
+    "contextWindow": 1000000,
+    "contextTokens": 53517,
+    "percentage": 5,
+    "contextWindowIsAuthoritative": true
+  }
+}

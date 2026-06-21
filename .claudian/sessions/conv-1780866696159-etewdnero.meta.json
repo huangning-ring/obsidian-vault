@@ -1,0 +1,22 @@
+{
+  "id": "conv-1780866696159-etewdnero",
+  "providerId": "claude",
+  "title": "安装https://github",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1780866696159,
+  "updatedAt": 1780870337868,
+  "lastResponseAt": 1780870062600,
+  "sessionId": null,
+  "providerState": {
+    "providerSessionId": "1d4877a3-30ca-4816-a88c-c8819d8976ae"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 0,
+    "percentage": 0
+  }
+}

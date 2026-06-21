@@ -1,0 +1,26 @@
+{
+  "id": "conv-1780876921586-zdvpmzcjf",
+  "providerId": "claude",
+  "title": "Fetch DeepSeek API documentation",
+  "titleGenerationStatus": "success",
+  "createdAt": 1780876921587,
+  "updatedAt": 1780877514802,
+  "lastResponseAt": 1780877507392,
+  "sessionId": null,
+  "providerState": {
+    "providerSessionId": "400dba08-4f0a-4a99-8fe2-219007e9e2b2",
+    "previousProviderSessionIds": [
+      "c7c2103e-965c-49ae-8b8a-0ce3ac243582"
+    ]
+  },
+  "usage": {
+    "model": "deepseek-v4-flash",
+    "inputTokens": 1060,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 32768,
+    "contextWindow": 200000,
+    "contextTokens": 33828,
+    "percentage": 17,
+    "contextWindowIsAuthoritative": true
+  }
+}

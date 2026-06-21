@@ -1,0 +1,23 @@
+{
+  "id": "conv-1780870396300-gotoobyaf",
+  "providerId": "claude",
+  "title": "你现在有什么skill",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1780870396301,
+  "updatedAt": 1780870706729,
+  "lastResponseAt": 1780870493598,
+  "sessionId": null,
+  "providerState": {
+    "providerSessionId": "5eea7ec9-f253-432b-813e-3f6bf88dc10c"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 32251,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 32251,
+    "percentage": 16,
+    "contextWindowIsAuthoritative": true
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "conv-1781199498394-6kff3f69x",
+  "providerId": "claude",
+  "title": "Find best Obsidian table plugins",
+  "titleGenerationStatus": "success",
+  "createdAt": 1781199498394,
+  "updatedAt": 1781204481146,
+  "lastResponseAt": 1781202490061,
+  "sessionId": null,
+  "providerState": {
+    "providerSessionId": "d29e82a6-89a0-449e-a898-9e5df423dc3b"
+  },
+  "usage": {
+    "model": "deepseek-v4-flash[1m]",
+    "inputTokens": 4691,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 131584,
+    "contextWindow": 1000000,
+    "contextTokens": 136275,
+    "percentage": 14,
+    "contextWindowIsAuthoritative": true
+  }
+}

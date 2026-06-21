@@ -1,0 +1,23 @@
+{
+  "id": "conv-1780827521257-o21tubrfw",
+  "providerId": "claude",
+  "title": "Insert 456789",
+  "titleGenerationStatus": "success",
+  "createdAt": 1780827521257,
+  "updatedAt": 1780827566413,
+  "lastResponseAt": 1780827548467,
+  "sessionId": null,
+  "providerState": {
+    "providerSessionId": "28e1ca05-74b1-4d86-aec4-731c96db2958"
+  },
+  "usage": {
+    "model": "deepseek-v4-pro",
+    "inputTokens": 268,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 25216,
+    "contextWindow": 200000,
+    "contextTokens": 25484,
+    "percentage": 13,
+    "contextWindowIsAuthoritative": true
+  }
+}

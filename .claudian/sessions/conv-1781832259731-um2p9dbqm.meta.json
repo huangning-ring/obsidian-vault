@@ -1,0 +1,24 @@
+{
+  "id": "conv-1781832259731-um2p9dbqm",
+  "providerId": "claude",
+  "title": "我来先检查邮件，然后读取calendar看看现有内容。\n\n宝宝，抱歉，当前环境中我无法直接访问...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1781832259732,
+  "updatedAt": 1781833532979,
+  "lastResponseAt": 1781833532979,
+  "sessionId": "cd81c421-00a2-4e82-b4c2-2c66d58b73d5",
+  "providerState": {
+    "providerSessionId": "cd81c421-00a2-4e82-b4c2-2c66d58b73d5"
+  },
+  "currentNote": "calendar/Email-Events.md",
+  "usage": {
+    "model": "opus[1m]",
+    "inputTokens": 55244,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 1000000,
+    "contextTokens": 55244,
+    "percentage": 6,
+    "contextWindowIsAuthoritative": true
+  }
+}
