@@ -194,47 +194,9 @@
       "notehelper:tongbuzhushou": false
     }
   },
-  "floating": {
-    "id": "97e80919d2425f1f",
-    "type": "floating",
-    "children": [
-      {
-        "id": "576ef326f74793cc",
-        "type": "window",
-        "children": [
-          {
-            "id": "51d39b448a80e820",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "11c0c067ec039713",
-                "type": "leaf",
-                "state": {
-                  "type": "webviewer",
-                  "state": {
-                    "url": "https://obsidian.md/help/data-storage#Metadata+cache",
-                    "title": "How Obsidian stores data - Obsidian Help",
-                    "mode": "webview"
-                  },
-                  "icon": "globe-2",
-                  "title": "How Obsidian stores data - Obsidian Help"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 256,
-        "y": 56,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "320416940aa567ac",
+  "active": "8ed2c05eb0498218",
   "lastOpenFiles": [
+    "分子生物学/分子生物学考试内容目录.md",
     "calendar/Seminars.md",
     "Clippings/Protocol-Obsidian+AI 知识库搭建.md",
     "Clippings/Claude Code 免费调用 Agnes AI 配置指南.md",
@@ -278,7 +240,6 @@
     "分子生物学/基因敲除技术.md",
     "复习/实验诊断学/Claude血液病冲刺讲义：血液系统疾病 + 止血与血栓性疾病.md",
     "分子生物学/基因诊断.md",
-    "分子生物学/分子生物学考试内容目录.md",
     "分子生物学/Illumina High-thoroughput Sequencing.md",
     "课题相关技术/找师姐前的问题312.md",
     "任务管理/任务看板.canvas",
