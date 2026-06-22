@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0d6082e2fe31ce83",
+        "id": "fd38035b411207b7",
         "type": "tabs",
         "children": [
           {
-            "id": "1904bac584ecf293",
+            "id": "8ed2c05eb0498218",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "笔记同步助手/2026-06-05/终于搞定微信公众号订阅、下载、RSS，让 Agent 替我刷公众号，消息不再错过.md",
+                "file": "calendar/邮件活动日历.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "终于搞定微信公众号订阅、下载、RSS，让 Agent 替我刷公众号，消息不再错过"
+              "title": "邮件活动日历"
             }
           }
         ]
@@ -94,12 +94,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "笔记同步助手/2026-06-05/终于搞定微信公众号订阅、下载、RSS，让 Agent 替我刷公众号，消息不再错过.md",
+                "file": "calendar/邮件活动日历.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "终于搞定微信公众号订阅、下载、RSS，让 Agent 替我刷公众号，消息不再错过 的出链列表"
+              "title": "邮件活动日历 的出链列表"
             }
           },
           {
@@ -150,8 +150,19 @@
               "icon": "lucide-tags",
               "title": "标签"
             }
+          },
+          {
+            "id": "8b3f01beab0cb80d",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-view",
+              "state": {},
+              "icon": "bot",
+              "title": "Claudian"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -182,10 +193,23 @@
       "notehelper:tongbuzhushou": false
     }
   },
-  "active": "320416940aa567ac",
+  "active": "8ed2c05eb0498218",
   "lastOpenFiles": [
+    "免疫/Antiviral strategy in virus infection.md",
+    "免疫/张华 等 - 2022 - 表观遗传学与新型冠状病毒肺炎.pdf",
+    "笔记同步助手/2026-06-05/同步助手_2026-06-05.md",
+    "笔记同步助手/images/227f998c3713adc72c93f02632276111_MD5.png",
+    "笔记同步助手/2026-06-05/终于搞定微信公众号订阅、下载、RSS，让 Agent 替我刷公众号，消息不再错过.md",
+    "笔记同步助手/images/638daab4f9b04f0977980d06f2ed6765_MD5.jpg",
+    "笔记同步助手/images/0dd30aab0f0da64984441de5fb1993ea_MD5.jpg",
+    "笔记同步助手/images/2d5b65dcf9cc4b776aebbbadfe25f283_MD5.jpg",
+    "笔记同步助手/images/d60f8d812e3093e18ccd13dcc1e94ccf_MD5.jpg",
+    "笔记同步助手/images/ccf03bbba9c9e1ed643dc6299dcd0369_MD5.jpg",
+    "笔记同步助手/images/21a72e31dbee3941b0591c7a39da6681_MD5.jpg",
+    "笔记同步助手/images/da18f5af3ff9460876fa9f01efc56f57_MD5.jpg",
+    "笔记同步助手/images/fbdd119d46a742b47f1c234e8c1b69b4_MD5.jpg",
+    "笔记同步助手/images/88220981a1966defa644cc6f6e7a8f5c_MD5.jpg",
     "calendar/Email-Events.md",
-    "笔记同步助手/images/38edf0d457cc8988cb8d4ed1d9928bd6_MD5.jpg",
     "笔记同步助手/2026-06-22/这个 GitHub 项目火了：30.9k Star，把你的提示词从“随便写写”变成“可测试、可复用、可迭代”.md",
     "笔记同步助手/2026-06-22/Obsidian 的 10 大 AI Skill.md",
     "笔记同步助手/2026-06-22",
@@ -197,7 +221,6 @@
     "析径极简版/99 GENERAL/Copilot Prompts",
     "析径极简版/99 GENERAL",
     "析径极简版/03 行动管理/01 家庭/00 家庭灵感库/愿望清单",
-    "析径极简版/03 行动管理/04 工作/03 日常工作任务",
     "课题相关技术/回答2.md",
     "分子生物学/ATAC-seq.md",
     "课题相关技术/生信PBL.md",
@@ -206,15 +229,6 @@
     "析径极简版/3. 内容创作.md",
     "析径极简版/2. 信息输入.md",
     "析径极简版/1. 灵感捕获.md",
-    "media/e96bbca7ba35be77bc92e053517b823f_MD5.png",
-    "media/demo.gif",
-    "media/bit8_RLE_out.bmp",
-    "media/bit8_RLE.bmp",
-    "media/bit16_x444.bmp",
-    "media/bit16_a555_out.bmp",
-    "media/bit16_a555.bmp",
-    "media/bit16_a444_out.bmp",
-    "media/bit16_a444.bmp",
     "Inhibition of arterial medial calcification and bone mineralization by extracellular nucleotides：The same functional effect mediated by different cellular mechanism.md",
     "分子生物学/基因敲除技术.md",
     "复习/实验诊断学/Claude血液病冲刺讲义：血液系统疾病 + 止血与血栓性疾病.md",
@@ -224,8 +238,6 @@
     "课题相关技术/找师姐前的问题312.md",
     "笔记同步助手/2026-06-15/我在 Claude Code 装了 3 个 Skill，它们合起来是一套完整的脑子.md",
     "笔记同步助手/2026-06-15/还在手动调文档样式？这个 AI 开源工具 5 天拿下 3.2k Star，输出即专业级.md",
-    "笔记同步助手/2026-06-05/同步助手_2026-06-05.md",
-    "笔记同步助手/2026-06-05/终于搞定微信公众号订阅、下载、RSS，让 Agent 替我刷公众号，消息不再错过.md",
     "Clippings/Claude Code Plan 模式完全指南：从入门到精通.md",
     "calendar/Seminars.md",
     "未命名.md",

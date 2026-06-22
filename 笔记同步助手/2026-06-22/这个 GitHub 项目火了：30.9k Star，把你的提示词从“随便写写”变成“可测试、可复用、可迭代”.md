@@ -94,7 +94,7 @@ AI 很快给你一篇。
 
 `linshenkx/prompt-optimizer` 当前约 **30.9k Star / 3.6k Fork**。
 
-![](https://relay-1.bijitongbu.site/p/a3b130cde79a06e1119d796945912155.png)
+![[笔记同步助手/images/227f998c3713adc72c93f02632276111_MD5.png]]
 
 这个数据已经不是小工具级别。
 
