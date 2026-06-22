@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "calendar/邮件活动日历.md",
+                "file": "calendar/Seminars.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "邮件活动日历"
+              "title": "Seminars"
             }
           }
         ]
@@ -94,12 +94,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "calendar/邮件活动日历.md",
+                "file": "calendar/Seminars.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "邮件活动日历 的出链列表"
+              "title": "Seminars 的出链列表"
             }
           },
           {
@@ -193,8 +193,10 @@
       "notehelper:tongbuzhushou": false
     }
   },
-  "active": "8ed2c05eb0498218",
+  "active": "320416940aa567ac",
   "lastOpenFiles": [
+    "calendar/Email-Events.md",
+    "calendar/邮件活动日历.md",
     "免疫/Antiviral strategy in virus infection.md",
     "免疫/张华 等 - 2022 - 表观遗传学与新型冠状病毒肺炎.pdf",
     "笔记同步助手/2026-06-05/同步助手_2026-06-05.md",
@@ -209,7 +211,6 @@
     "笔记同步助手/images/da18f5af3ff9460876fa9f01efc56f57_MD5.jpg",
     "笔记同步助手/images/fbdd119d46a742b47f1c234e8c1b69b4_MD5.jpg",
     "笔记同步助手/images/88220981a1966defa644cc6f6e7a8f5c_MD5.jpg",
-    "calendar/Email-Events.md",
     "笔记同步助手/2026-06-22/这个 GitHub 项目火了：30.9k Star，把你的提示词从“随便写写”变成“可测试、可复用、可迭代”.md",
     "笔记同步助手/2026-06-22/Obsidian 的 10 大 AI Skill.md",
     "笔记同步助手/2026-06-22",
@@ -240,7 +241,6 @@
     "笔记同步助手/2026-06-15/还在手动调文档样式？这个 AI 开源工具 5 天拿下 3.2k Star，输出即专业级.md",
     "Clippings/Claude Code Plan 模式完全指南：从入门到精通.md",
     "calendar/Seminars.md",
-    "未命名.md",
     "任务管理/任务看板.canvas",
     "任务管理/2026-06-05 工作看板.canvas",
     "GPT画图测试260227/GPT画图测试260227.canvas",

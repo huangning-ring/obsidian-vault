@@ -11,22 +11,5 @@
     "downscalePercent": 89
   },
   "trashOption": "system",
-  "userIgnoreFilters": [
-    ".claude/",
-    ".claudian/",
-    ".git/",
-    ".obsidian/",
-    ".obsidian_WIN/",
-    ".trash/",
-    "node_modules/",
-    "camera/",
-    "copilot/",
-    "HONOR Share/",
-    "OneNote/",
-    "ringtone/",
-    "scripts/",
-    "_code_archive/",
-    "_code_archive/",
-    "raw/"
-  ]
+  "userIgnoreFilters": null
 }
