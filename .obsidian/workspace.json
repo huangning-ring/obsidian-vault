@@ -166,7 +166,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 363.5
+    "width": 363.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -232,8 +233,9 @@
       }
     ]
   },
-  "active": "11c0c067ec039713",
+  "active": "8ed2c05eb0498218",
   "lastOpenFiles": [
+    "wiki/新建 DOCX 文档.docx",
     "calendar/Seminars.md",
     "calendar/Email-Events.md",
     "calendar/邮件活动日历.md",
@@ -279,7 +281,6 @@
     "课题相关技术/找师姐前的问题312.md",
     "笔记同步助手/2026-06-15/我在 Claude Code 装了 3 个 Skill，它们合起来是一套完整的脑子.md",
     "笔记同步助手/2026-06-15/还在手动调文档样式？这个 AI 开源工具 5 天拿下 3.2k Star，输出即专业级.md",
-    "Clippings/Claude Code Plan 模式完全指南：从入门到精通.md",
     "任务管理/任务看板.canvas",
     "任务管理/2026-06-05 工作看板.canvas",
     "GPT画图测试260227/GPT画图测试260227.canvas",
