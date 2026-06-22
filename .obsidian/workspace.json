@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "calendar/Seminars.md",
+                "file": "分子生物学/分子生物学考试内容目录.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Seminars"
+              "title": "分子生物学考试内容目录"
             }
           }
         ]
@@ -94,12 +94,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "calendar/Seminars.md",
+                "file": "分子生物学/分子生物学考试内容目录.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Seminars 的出链列表"
+              "title": "分子生物学考试内容目录 的出链列表"
             }
           },
           {
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "calendar/邮件活动日历.md",
+                "file": "分子生物学/分子生物学考试内容目录.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "邮件活动日历 的反向链接列表"
+              "title": "分子生物学考试内容目录 的反向链接列表"
             }
           },
           {
@@ -162,12 +162,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 363.5,
-    "collapsed": true
+    "width": 363.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -235,11 +234,11 @@
   },
   "active": "320416940aa567ac",
   "lastOpenFiles": [
+    "calendar/Seminars.md",
     "Clippings/Protocol-Obsidian+AI 知识库搭建.md",
     "Clippings/Claude Code 免费调用 Agnes AI 配置指南.md",
     "Clippings/Claude Code Skills 推荐平台汇总.md",
     "wiki/新建 DOCX 文档.docx",
-    "calendar/Seminars.md",
     "calendar/Email-Events.md",
     "calendar/邮件活动日历.md",
     "免疫/Antiviral strategy in virus infection.md",
@@ -278,7 +277,7 @@
     "分子生物学/基因敲除技术.md",
     "复习/实验诊断学/Claude血液病冲刺讲义：血液系统疾病 + 止血与血栓性疾病.md",
     "分子生物学/基因诊断.md",
-    "分子生物学复习/分子生物学考试内容目录.md",
+    "分子生物学/分子生物学考试内容目录.md",
     "分子生物学/Illumina High-thoroughput Sequencing.md",
     "课题相关技术/找师姐前的问题312.md",
     "任务管理/任务看板.canvas",
