@@ -4,41 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "0d8c56ba982d1eaf",
+        "id": "0d6082e2fe31ce83",
         "type": "tabs",
         "children": [
           {
-            "id": "5214342ea095f3aa",
+            "id": "1904bac584ecf293",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "分子生物学/基因敲除技术.md",
+                "file": "calendar/Email-Events.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "基因敲除技术"
-            }
-          },
-          {
-            "id": "46cc79afc8de480b",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "分子生物学/基因敲除-冉欣如 （2025重制版）.pdf",
-                "page": 36,
-                "left": -25,
-                "top": 544,
-                "zoom": 0.60546875
-              },
-              "icon": "lucide-file-text",
-              "title": "基因敲除-冉欣如 （2025重制版）"
+              "title": "Email-Events"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,12 +94,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "分子生物学/基因敲除-冉欣如 （2025重制版）.pdf",
+                "file": "calendar/Email-Events.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "基因敲除-冉欣如 （2025重制版） 的出链列表"
+              "title": "Email-Events 的出链列表"
             }
           },
           {
@@ -234,12 +217,22 @@
       }
     ]
   },
-  "active": "46cc79afc8de480b",
+  "active": "1904bac584ecf293",
   "lastOpenFiles": [
-    "笔记同步助手/2026-06-04/https---www.docs.csg.ed.ac.uk-Safety-general-safe_storage.pdf.md.bak",
-    "笔记同步助手/2026-06-04/Fw- SEMINAR SERIES- Wednesday 10th June 2026.md.bak",
-    "笔记同步助手/2026-06-04/Fw- Next LivSCt@RI meeting- Thursday 4th June @ 14.30 Rm 1-003 - Ubiquitin and regulation of mito....md.bak",
-    "笔记同步助手/2026-06-04/Fw- Fancy Imaging demo- Zeiss Lightfield and LSM 990 Airyscan demo.md.bak",
+    "笔记同步助手/2026-06-04/attachments",
+    "析径极简版/99 GENERAL/版权声明",
+    "析径极简版/99 GENERAL/_附件_",
+    "析径极简版/99 GENERAL/Templates",
+    "析径极简版/99 GENERAL/Scripts",
+    "析径极简版/99 GENERAL/Copilot Prompts",
+    "析径极简版/99 GENERAL",
+    "析径极简版/03 行动管理/01 家庭/00 家庭灵感库/愿望清单",
+    "析径极简版/03 行动管理/04 工作/03 日常工作任务",
+    "析径极简版/03 行动管理/04 工作/02 工作计划",
+    "析径极简版/03 行动管理/04 工作/01 工作规划",
+    "课题相关技术/回答2.md",
+    "分子生物学/ATAC-seq.md",
+    "课题相关技术/生信PBL.md",
     "析径极简版/拿到知识库第一件要做的事！.md",
     "析径极简版/4. 沉淀输出.md",
     "析径极简版/3. 内容创作.md",
@@ -257,14 +250,11 @@
     "media/280a83d2569f1c61d0fbfb815f406ff3_MD5.png",
     "Inhibition of arterial medial calcification and bone mineralization by extracellular nucleotides：The same functional effect mediated by different cellular mechanism.md",
     "分子生物学/基因敲除技术.md",
-    "分子生物学/基因敲除-冉欣如 （2025重制版）.pdf",
     "复习/实验诊断学/Claude血液病冲刺讲义：血液系统疾病 + 止血与血栓性疾病.md",
     "分子生物学/基因诊断.md",
     "分子生物学复习/分子生物学考试内容目录.md",
     "分子生物学/Illumina High-thoroughput Sequencing.md",
-    "课题相关技术/回答2.md",
     "课题相关技术/找师姐前的问题312.md",
-    "课题相关技术/生信PBL.md",
     "笔记同步助手/2026-06-15/我在 Claude Code 装了 3 个 Skill，它们合起来是一套完整的脑子.md",
     "笔记同步助手/2026-06-15/还在手动调文档样式？这个 AI 开源工具 5 天拿下 3.2k Star，输出即专业级.md",
     "笔记同步助手/2026-06-05/同步助手_2026-06-05.md",
@@ -273,15 +263,8 @@
     "calendar/Email-Events.md",
     "calendar/Seminars.md",
     "未命名.md",
-    "HONOR Share",
-    "copilot/copilot-custom-prompts",
-    "copilot",
     "CLAUDE.md",
     "CLAUDE 2.md",
-    "笔记同步助手/2026-06-18/sedzYHptK",
-    "笔记同步助手/2026-06-18/sedpPaMbI",
-    "笔记同步助手/2026-06-18/sedB47z4Q",
-    "笔记同步助手/2026-06-04/Fw- Next LivSCt@RI meeting- Thursday 4th June @ 14.30 Rm 1-003 - Ubiquitin and regulation of mito....md",
     "任务管理/任务看板.canvas",
     "任务管理/2026-06-05 工作看板.canvas",
     "GPT画图测试260227/GPT画图测试260227.canvas",
