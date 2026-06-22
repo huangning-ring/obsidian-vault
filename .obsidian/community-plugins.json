@@ -10,5 +10,6 @@
   "obsidian-local-rest-api",
   "obsidian-git",
   "obsidian-hover-editor",
-  "notehelper"
+  "notehelper",
+  "obsidian-excalidraw-plugin"
 ]

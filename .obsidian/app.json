@@ -12,6 +12,7 @@
   },
   "trashOption": "system",
   "userIgnoreFilters": [
-    "node_modules/"
+    "node_modules/**",
+    "26医创/"
   ]
 }
