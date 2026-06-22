@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/Bilibili/2026-06-22-别用Obsidian搞个人知识库了，真没用.md",
+                "file": "CLAUDE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-06-22-别用Obsidian搞个人知识库了，真没用"
+              "title": "CLAUDE"
             }
           }
         ]
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Clippings/Bilibili/2026-06-22-别用Obsidian搞个人知识库了，真没用.md",
+                "file": "CLAUDE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2026-06-22-别用Obsidian搞个人知识库了，真没用 的反向链接列表"
+              "title": "CLAUDE 的反向链接列表"
             }
           },
           {
@@ -194,8 +194,9 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "8b3f01beab0cb80d",
+  "active": "8ed2c05eb0498218",
   "lastOpenFiles": [
+    "Clippings/Bilibili/2026-06-22-别用Obsidian搞个人知识库了，真没用.md",
     "笔记同步助手/images/0ac5339b1a3802332e6dcacb2e11ad61_MD5.png",
     "笔记同步助手/2026-06-22/Claude Code 十个最值得装的 Skills，不是越多越好而是这十个最能打.md",
     "Clippions/Bilibili/2026-06-22-别用Obsidian搞个人知识库了，真没用.md",
@@ -205,7 +206,6 @@
     "Clippings/Bilibili/2026-06-22-别用Obsidian搞个人知识库了，真没用.md.tmp.11300.4ec8452db1d6",
     "Clippings/Bilibili/2026-06-22-别用Obsidian搞个人知识库了，真没用.md.bak",
     "Clippings/别用Obsidian搞个人知识库了，真没用_哔哩哔哩_bilibili.md",
-    "Clippings/Bilibili/2026-06-22-别用Obsidian搞个人知识库了，真没用.md",
     "Clippings/Bilibili/2026-06-04-Obsidian+AI 知识库搭建，把 claude code 和 DeepSeek 装进来.md",
     "26医创/医创赛反思.md",
     "26医创/9.项目创新性.md",
@@ -230,7 +230,6 @@
     "笔记同步助手/images/21a72e31dbee3941b0591c7a39da6681_MD5.jpg",
     "笔记同步助手/images/da18f5af3ff9460876fa9f01efc56f57_MD5.jpg",
     "笔记同步助手/images/fbdd119d46a742b47f1c234e8c1b69b4_MD5.jpg",
-    "笔记同步助手/images/88220981a1966defa644cc6f6e7a8f5c_MD5.jpg",
     "笔记同步助手/2026-06-22/这个 GitHub 项目火了：30.9k Star，把你的提示词从“随便写写”变成“可测试、可复用、可迭代”.md",
     "笔记同步助手/2026-06-22/Obsidian 的 10 大 AI Skill.md",
     "笔记同步助手/2026-06-22",
