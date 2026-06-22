@@ -193,8 +193,48 @@
       "notehelper:tongbuzhushou": false
     }
   },
-  "active": "320416940aa567ac",
+  "floating": {
+    "id": "97e80919d2425f1f",
+    "type": "floating",
+    "children": [
+      {
+        "id": "576ef326f74793cc",
+        "type": "window",
+        "children": [
+          {
+            "id": "51d39b448a80e820",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "11c0c067ec039713",
+                "type": "leaf",
+                "state": {
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://obsidian.md/help/data-storage#Metadata+cache",
+                    "title": "How Obsidian stores data - Obsidian Help",
+                    "mode": "webview"
+                  },
+                  "icon": "globe-2",
+                  "title": "How Obsidian stores data - Obsidian Help"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 256,
+        "y": 56,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "11c0c067ec039713",
   "lastOpenFiles": [
+    "calendar/Seminars.md",
     "calendar/Email-Events.md",
     "calendar/邮件活动日历.md",
     "免疫/Antiviral strategy in virus infection.md",
@@ -240,7 +280,6 @@
     "笔记同步助手/2026-06-15/我在 Claude Code 装了 3 个 Skill，它们合起来是一套完整的脑子.md",
     "笔记同步助手/2026-06-15/还在手动调文档样式？这个 AI 开源工具 5 天拿下 3.2k Star，输出即专业级.md",
     "Clippings/Claude Code Plan 模式完全指南：从入门到精通.md",
-    "calendar/Seminars.md",
     "任务管理/任务看板.canvas",
     "任务管理/2026-06-05 工作看板.canvas",
     "GPT画图测试260227/GPT画图测试260227.canvas",
