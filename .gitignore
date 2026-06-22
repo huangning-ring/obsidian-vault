@@ -3,3 +3,5 @@ node_modules/
 .obsidian_WIN/
 
 .obsidian/plugins/*/logs/
+
+.claudian/sessions/
