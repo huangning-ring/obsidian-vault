@@ -14,10 +14,9 @@
 # 调用命令
 **调用最小必要的工具，走最短路径。优先用已知可靠的通道。**
 ## 抓取优先级
-1. **bb-browser site 命令**（首选）— 登录态、反爬、动态内容。
-2. **defuddle skill** — 静态网页：`defuddle parse <URL> --md`
+1. **defuddle skill** — 静态网页：`defuddle parse <URL> --md`
+2. **WebFetch** — 备用，注意可能报错
 3. **Bash + curl** — 原始抓取，搭配手动分析
-4. **WebFetch** — 最终后备，不可依赖（400报错频发，原因：`options type cannot be disabled when reasoning_effort is set`）
 ## 识图
 系统 vision skill 已禁用，使用 vision.js：
 ```
@@ -25,10 +24,10 @@ node vision.js "<图片路径>" "用中文描述这张图片"
 node vision.js --url "<图片链接>" "用中文描述这张图片"
 ```
 ## 邮件
-QQ邮箱（foxmail）已接入 IMAP，优先于浏览器：
+QQ邮箱（foxmail）通过 IMAP 读取：
 - 地址：`huangning.ring@foxmail.com` / 服务器：`imap.qq.com:993`（SSL）
 - 授权码：`icjrnupcfxbbdcfj`
-- 读取：`node "C:\Users\29731\.bb-browser\fetch-email.js"`
+- 脚本位置：`.bb-browser/fetch-email.js`（该目录已清空，如需恢复邮件抓取功能需重新部署）
 ## .jsp 动态下载
 高校教务系统附件必须带 Referer，否则拿到的是错误页（3-4K）：
 ```
@@ -52,7 +51,7 @@ curl -sL -o "文件名.docx" -e "https://来源页面URL" "https://.../download.
 **仅在用户提供他人写的笔记/文章并要求内化为自己知识时触发。**
 每条信息区分三层：
 - **他人描述**：原始说法。
-- **已验证** ✅：通过 bb-browser / defuddle / curl 确认属实。
+- **已验证** ✅：通过 defuddle / curl 确认属实。
 - **未验证** ❌⚠️：无法确认或发现不符。
 文档末尾标注验证日期与验证方式。明显错误（数字、额度等）必须指出并纠正。
 ## 文档格式偏好
