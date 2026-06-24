@@ -1,38 +1,70 @@
 # 邮件活动日历
 ## 摘要
-**即将到来 (6)**
-- **20260622** 12:00-13:00 | CVS Seminar: Non-animal models to study regenerative medicine for diabetes
-  📍 Wellcome Theatre, QMRI
-  🗣️ Prof Victoria Salem (King's College London)
-  🍕 Social: Pizza in The Larder 13:00-13:30
-  📄 [[calendar/upcoming-20260622-20260626.ics]]
-- **20260622** 12:00 | CIR Seminar: Fine tuning the neutrophil response for improved infection outcome
-  📍 IRR South seminar room
-  🗣️ Dr Borko Amulic (Univ of Bristol)
-  Host: Dr Sonja Vermeren
-  📄 [[calendar/upcoming-20260622-20260626.ics]]
+**即将到来 (7)**
 - **20260624** 12:00 | CIR Seminar: Critical Roles of Nerve and Airway Associated Interstitial Macrophages (NAMs) in Respiratory Immunity
   📍 IRR South seminar room
   🗣️ Prof Kamal Khanna (NYU School of Medicine)
   Host: Professor Chris Lucas
-  📄 [[calendar/upcoming-20260622-20260626.ics]]
+  📄 [[calendar/upcoming-20260622-20260703.ics]]
+- **20260624** 12:00-13:00 | CVS Seminar: There's a cost to everything — Why Low energy light bulbs might be bad for your health? The vascular benefits of sunlight
+  📍 Wellcome Theatre, QMRI
+  🗣️ Richard Weller (Medical Dermatology, UoE) & Andrew Gow (Rutgers University)
+  Host: Mark Miller
+  🍕 Social: Pizza in The Larder 13:00-13:30
+  📄 [[calendar/upcoming-20260622-20260703.ics]]
 - **20260625** | Genetics Society Anniversary Day - Edinburgh
   📍 Edinburgh
   💰 Payment pending (£30.00, Order Ref: 27293)
-  📄 [[calendar/upcoming-20260622-20260626.ics]]
+  📄 [[calendar/upcoming-20260622-20260703.ics]]
 - **20260626** 10:00 | Deadline: Submit second webinar + paper summary to Vicky
   📄 (email assignment)
-  📄 [[calendar/upcoming-20260622-20260626.ics]]
+  📄 [[calendar/upcoming-20260622-20260703.ics]]
 - **20260626** 13:00 | CIR Seminar: The role of a scientific editor and the editorial process
   📍 IRR North seminar room
   🗣️ Dr Ioannis Tsagakis (Scientific Editor, Cell)
   Host: Dr Chengcan Yao
-  📄 [[calendar/upcoming-20260622-20260626.ics]]
-**已过 (19)**
+  📄 [[calendar/upcoming-20260622-20260703.ics]]
+- **20260703** 12:30-17:00 | Physiological Society Hodgkin Huxley Katz Prize Lecture & Mary Pickford Lecture
+  📍 Anatomy Lecture Theatre, Old Medical School, Teviot Place, Edinburgh, EH8 9AG
+  🗣️ Professor Kristen Harris (University of Texas)
+  Title: Structural synaptic plasticity during long-term potentiation (LTP)
+  Host: Professor David Wyllie
+  Includes lunch, early-career researcher talks, drinks reception
+  📄 [[calendar/upcoming-20260622-20260703.ics]]
+- **20260907** | Clinical Genomes Scotland
+  📍 Royal College of Physicians of Edinburgh (RCPE), Edinburgh
+  Forum on implementing clinical genomics in Scottish healthcare
+  Free registration for University researchers, NHS staff, patients and patient groups
+  📄 [[calendar/upcoming-20260622-20260703.ics]]
+**已过 (18)**
+- **20260622** 12:00-13:00 | CVS Seminar: Non-animal models to study regenerative medicine for diabetes
+  📍 Wellcome Theatre, QMRI
+  🗣️ Prof Victoria Salem (King's College London)
+  🍕 Social: Pizza in The Larder 13:00-13:30
+  📄 [[calendar/upcoming-20260616-20260618.ics]]
+- **20260622** 12:00 | CIR Seminar: Fine tuning the neutrophil response for improved infection outcome
+  📍 IRR South seminar room
+  🗣️ Dr Borko Amulic (Univ of Bristol)
+  Host: Dr Sonja Vermeren
+  📄 [[calendar/upcoming-20260616-20260618.ics]]
+- **20260618** 13:00-14:00 | IGC Seminar: How the BAF (SWI/SNF) chromatin remodeling complexes regulate the nucleosomal and subnucleosomal organization of cis regulatory elements in mammalian cells
+  📍 IGC Lecture Theatre (online via Teams)
+  🗣️ Matthieu Gérard (CNRS, I2BC)
+  Host: Nick Gilbert
+  📄 [[calendar/upcoming-20260616-20260618.ics]]
 - **20260618** 10:30 | Group Tutorial with Vicky MacRae — study assignment feedback discussion
   📍 Office area (Vicky booked a meeting room)
   📝 Bring your written summaries; Vicky assigned literature review titles
-  📄 [[calendar/upcoming-20260622-20260626.ics]]
+  📄 [[calendar/upcoming-20260616-20260618.ics]]
+- **20260617** 12:00-13:00 | CVS Seminar: The Siege of Biological Barriers — From Pulmonary Insult to Blood-Brain Barrier Dysfunction
+  📍 Wellcome Theatre, QMRI
+  🗣️ Dr Ian Mudway (Imperial College London)
+  Host: Sari Pennings
+  🍕 Social: Pizza in The Larder 13:00-13:30
+  📄 [[calendar/upcoming-20260616-20260618.ics]]
+- **20260616** 09:00 | One Health Genomics Edinburgh (OHGE) Community Meeting
+  📍 Appleton Tower
+  📄 [[calendar/upcoming-20260616-20260618.ics]]
 - **20260615** 15:00-16:00 | Special Condensate Seminar: Imaging, Quantifying and Mapping Chromatin Remodeler Dynamics
   📍 Swann 7.20, Kings Buildings
   📄 [[calendar/zhao-20260615-condensate.ics]]
@@ -88,4 +120,4 @@
   📍 Cult Coffee Roasters, Buccleuch Street, EH8 9NG
   📄 [[calendar/paul-welcome-20260525.ics]]
 ***
-*提取来源: IMAP + AI 分析邮件 | 2026-06-19*
+*提取来源: IMAP + AI 分析邮件 | 2026-06-23*

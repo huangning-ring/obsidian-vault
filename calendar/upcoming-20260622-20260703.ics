@@ -1,0 +1,85 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//bb-browser//Email Scan//EN
+BEGIN:VEVENT
+UID:cvs-seminar-salem-20260622
+DTSTART:20260622T120000
+DTEND:20260622T130000
+SUMMARY:CVS Seminar: Non-animal models to study regenerative medicine for diabetes
+DESCRIPTION:Speaker: Prof Victoria Salem (King's College London). Title: Non-animal models to study regenerative medicine for diabetes.\nHost: Ahmad Al-Mrabeh.\nShort Bio: Vicky Salem is the RD Lawrence Professor of Diabetic Medicine at King's College London. Her lab explores immunomodulatory scaffolds for beta cell transplantation and non-animal models of pancreatic islet biology.\nSocial: Pizza in The Larder 13:00-13:30.
+LOCATION:Wellcome Theatre, QMRI
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:cir-seminar-amulic-20260622
+DTSTART:20260622T120000
+DTEND:20260622T130000
+SUMMARY:CIR Seminar: Fine tuning the neutrophil response for improved infection outcome
+DESCRIPTION:Speaker: Dr Borko Amulic (Univ of Bristol). Title: Fine tuning the neutrophil response for improved infection outcome.\nHost: Dr Sonja Vermeren.
+LOCATION:IRR South seminar room
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:cir-seminar-khanna-20260624
+DTSTART:20260624T120000
+DTEND:20260624T130000
+SUMMARY:CIR Seminar: Critical Roles of Nerve and Airway Associated Interstitial Macrophages (NAMs) in Respiratory Immunity
+DESCRIPTION:Speaker: Prof Kamal Khanna (NYU School of Medicine). Title: Critical Roles of Nerve and Airway Associated Interstitial Macrophages (NAMs) in Respiratory Immunity: Balancing Immunity, Disease Tolerance, and Inflammation.\nHost: Professor Chris Lucas.
+LOCATION:IRR South seminar room
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:cvs-seminar-weller-gow-20260624
+DTSTART:20260624T120000
+DTEND:20260624T130000
+SUMMARY:CVS Seminar: There's a cost to everything — Why Low energy light bulbs might be bad for your health? The vascular benefits of sunlight
+DESCRIPTION:Joint talk from Richard Weller (Medical Dermatology, UoE) and Andrew Gow (Rutgers University). Title: There's a cost to everything. Why Low energy light bulbs might be bad for your health? The vascular benefits of sunlight.\nHost: Mark Miller.\nRichard Weller made the first description of large stores of nitrogen oxides in the skin and showed how solar UV radiation releases NO to the circulation and lowers BP. Andrew Gow will show recent data from their collaboration on how different properties of light affect the vasculature and NO system in human studies.\nSocial: Pizza in The Larder 13:00-13:30.
+LOCATION:Wellcome Theatre, QMRI
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:genetics-society-anniversary-20260625
+DTSTART:20260625
+DTEND:20260626
+SUMMARY:Genetics Society Anniversary Day - Edinburgh
+DESCRIPTION:Booking confirmed. Payment pending: £30.00 (Order Ref: 27293). Pay via mySociety portal.\nContact: theteam@genetics.org.uk
+LOCATION:Edinburgh
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:deadline-second-summary-20260626
+DTSTART:20260626T100000
+DTEND:20260626T100000
+SUMMARY:Deadline: Submit second webinar + paper summary to Vicky
+DESCRIPTION:Submit second seminar summary and paper summary (max 2 pages each) to Vicky MacRae by 10:00 AM.
+LOCATION:Email
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:cir-seminar-tsagakis-20260626
+DTSTART:20260626T130000
+DTEND:20260626T140000
+SUMMARY:CIR Seminar: The role of a scientific editor and the editorial process
+DESCRIPTION:Speaker: Dr Ioannis Tsagakis (Scientific Editor, Cell). Title: The role of a scientific editor and the editorial process.\nHost: Dr Chengcan Yao.
+LOCATION:IRR North seminar room
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:physio-hodgkin-harris-20260703
+DTSTART:20260703T123000
+DTEND:20260703T170000
+SUMMARY:Physiological Society Hodgkin Huxley Katz Prize Lecture & Mary Pickford Lecture
+DESCRIPTION:Speaker: Professor Kristen Harris (University of Texas). Title: Structural synaptic plasticity during long-term potentiation (LTP).\nHost: Professor David Wyllie.\nThis event includes lunch, early-career researcher talks, the main lecture, and a drinks reception.\nProgramme: https://uoe.sharepoint.com/sites/INCReventssite/_layouts/15/Event.aspx?ListGuid=71819a03-17be-423a-92f4-3a09e6c88b96&ItemId=404
+LOCATION:Anatomy Lecture Theatre, Old Medical School, Teviot Place, Edinburgh, EH8 9AG
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:clinical-genomes-scotland-20260907
+DTSTART:20260907
+DTEND:20260908
+SUMMARY:Clinical Genomes Scotland
+DESCRIPTION:Forum on implementing clinical genomics in Scottish healthcare.\nTopics: genome sequencing technology in healthcare, genome-based patient care, genomic data and IT systems, innovation pathways.\nRegistration free for University researchers, NHS staff, patients and patient groups.\nProgramme: https://onehealthgenomics.ed.ac.uk/clinical.genomes.scotland
+LOCATION:Royal College of Physicians of Edinburgh (RCPE), Edinburgh
+STATUS:TENTATIVE
+END:VEVENT
+END:VCALENDAR

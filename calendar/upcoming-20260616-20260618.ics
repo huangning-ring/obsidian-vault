@@ -1,0 +1,49 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//bb-browser//Email Scan//EN
+BEGIN:VEVENT
+UID:ohge-20260616
+DTSTART:20260616T090000
+DTEND:20260616T170000
+SUMMARY:One Health Genomics Edinburgh (OHGE) Community Meeting
+DESCRIPTION:Full-day community meeting bringing together genetics and genomics researchers.\nKeynotes: Mirte Bosse (Wageningen), Pete Hollingsworth (RBGE), Didier Trono (EPFL)\nEMS300 lecture: Wendy Bickmore\nPlus talks from Dan McQueen, Ross Fitzgerald, Emily Humble, Chumeng Zhu, Kyle Ewart and many more.\nRegister: https://forms.office.com/e/pksbT9quJX
+LOCATION:Appleton Tower, George Square
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:zeiss-demo-20260617
+DTSTART:20260617T100000
+DTEND:20260617T160000
+SUMMARY:Zeiss Lightfield 4D and LSM 990 Airyscan Demo
+DESCRIPTION:From Paul Tang: Zeiss demonstrating Lightfield 4D imaging system - captures fast 3D images from thick fluorescent samples.\nOrganised by Matthieu Vermeren. Demo by Daniel Soong.\nZeiss bringing Krispy Kreme donuts!\nContact Daniel Soong to test the system.
+LOCATION:Zebrafish Imaging Facility, Chancellors Building
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cvs-seminar-mudway-20260617
+DTSTART:20260617T120000
+DTEND:20260617T130000
+SUMMARY:CVS Seminar: The Siege of Biological Barriers — From Pulmonary Insult to Blood-Brain Barrier Dysfunction
+DESCRIPTION:Speaker: Dr Ian Mudway (Imperial College London). Title: The Siege of Biological Barriers: From Pulmonary Insult to Blood-Brain Barrier Dysfunction.\nHost: Sari Pennings.\nDr Mudway is Associate Professor of Environmental Toxicology, head of Environmental Toxicology group at Imperial College London. Gresham College Visiting Professor for Environmental Health. 30+ years experience researching air pollution impacts on human health. Published 200+ papers.\nSocial: Pizza in The Larder 13:00-13:30.
+LOCATION:Wellcome Theatre, QMRI
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:igc-seminar-gerard-20260618
+DTSTART:20260618T130000
+DTEND:20260618T140000
+SUMMARY:IGC Seminar: How the BAF (SWI/SNF) chromatin remodeling complexes regulate the nucleosomal and subnucleosomal organization of cis regulatory elements in mammalian cells
+DESCRIPTION:Speaker: Matthieu Gérard (CNRS, I2BC). Title: How the BAF (SWI/SNF) chromatin remodeling complexes regulate the nucleosomal and subnucleosomal organization of cis regulatory elements in mammalian cells.\nHost: Nick Gilbert.\nMatthieu Gérard leads the Mammalian Epigenomics group at I2BC. Research focuses on ATP-dependent chromatin remodelling complexes regulating genome accessibility, enhancer activity, and cell identity.\nOnline via Teams: https://teams.microsoft.com/meet/31448993431281?p=zWVmgVqf3x1VpPgLxn Meeting ID: 314 489 934 312 81 Passcode: Xf7Fw6ds
+LOCATION:IGC Lecture Theatre (online via Teams)
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:vicky-tutorial-20260618
+DTSTART:20260618T103000
+DTEND:20260618T113000
+SUMMARY:Group Tutorial with Vicky MacRae — study assignment feedback discussion
+DESCRIPTION:Study assignment feedback discussion. Written summaries reviewed. Literature review titles assigned.\nBring your written summaries.
+LOCATION:Office area (meeting room booked by Vicky)
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
