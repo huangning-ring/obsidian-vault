@@ -162,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -194,8 +194,11 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "537a55e1480f2e24",
+  "active": "c89df8e9c77d0234",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2026-06-24 23.34.19.excalidraw.md",
+    "cartilage_calcification_seminar.md",
+    "Excalidraw",
     "cartilage_calcification_seminar.md.tmp.33468.802d813c023e",
     "cartilage_calcification_seminar.md.tmp.33468.395fad1bd573",
     "cartilage_calcification_seminar.md.tmp.33468.ae1cb97b65d6",
@@ -214,10 +217,7 @@
     "笔记同步助手/2026-06-24/Claude How To：34.4k+ Star 的 Claude Code 教程，GitHub 霸榜的-从入门到精通-.md.bak",
     "笔记同步助手/2026-06-23/GitHub 8.7K星的开源项目，能拿聊天记录训了个自己，效果有点上头.md.bak",
     "笔记同步助手/2026-06-23/16.5K+ Star！彻底治好 Claude Code 失忆！告别重复上下文，Token 直省 92%.md.bak",
-    "笔记同步助手/2026-06-22/这个 GitHub 项目火了：30.9k Star，把你的提示词从“随便写写”变成“可测试、可复用、可迭代”.md.bak",
-    "笔记同步助手/2026-06-22/Obsidian 的 10 大 AI Skill.md.bak",
     "Summary-Epigenetic Calcification Lecture.md",
-    "cartilage_calcification_seminar.md",
     "笔记同步助手/2026-06-22/Claude Code 十个最值得装的 Skills，不是越多越好而是这十个最能打.md",
     "笔记同步助手/2026-06-18/面试官皱眉：“Claude Code 你用了半年，你懂 Skills 吗？”我反问：“不就是写了步骤的 markdown 吗”，他：今天就到这吧.md",
     "笔记同步助手/2026-06-23/GitHub 8.7K星的开源项目，能拿聊天记录训了个自己，效果有点上头.md",
