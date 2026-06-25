@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 239.5
+    "width": 239.5,
+    "collapsed": true
   },
   "right": {
     "id": "e8af24c642dba675",
@@ -166,7 +167,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 348.5
+    "width": 348.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,6 +198,11 @@
   },
   "active": "8ed2c05eb0498218",
   "lastOpenFiles": [
+    "笔记同步助手/images/bbbc8760d4523ef0e0c330c2d8ae78b6_MD5.jpg",
+    "笔记同步助手/images/c730cd45a48656d235b1971f9ae2f583_MD5.jpg",
+    "笔记同步助手/images/6d8b98172d4f9aaeb3d4c3d4882dd7a1_MD5.jpg",
+    "笔记同步助手/images/c8d37c88ca31a1e85f226d3c2b180537_MD5.jpg",
+    "笔记同步助手/2026-06-25/把 PDF 丢给 AI，自动帮你建一个 知识库！.md",
     "文献检索/汇报检索方案.md",
     "文献检索/背景知识检索.md",
     "Clippings/如何深度交流.md",
@@ -235,13 +242,8 @@
     "笔记同步助手/2026-06-22/Claude Code 十个最值得装的 Skills，不是越多越好而是这十个最能打.md",
     "笔记同步助手/2026-06-18/面试官皱眉：“Claude Code 你用了半年，你懂 Skills 吗？”我反问：“不就是写了步骤的 markdown 吗”，他：今天就到这吧.md",
     "笔记同步助手/2026-06-23/GitHub 8.7K星的开源项目，能拿聊天记录训了个自己，效果有点上头.md",
-    "笔记同步助手/images/5ce3d60f1e734eebd88b1cc139e8ee6d_MD5.png",
     "calendar/邮件活动日历.md",
-    "笔记同步助手/images/663b3aa22e0daf9310a6bf1e5d1930cb_MD5.png",
-    "笔记同步助手/images/66d33827d44a51f8f69199f1b13f3ae7_MD5.png",
     "CLAUDE.md",
-    "Clippings/Bilibili/2026-06-22-别用Obsidian搞个人知识库了，真没用.md",
-    "Clippions/Bilibili/2026-06-22-别用Obsidian搞个人知识库了，真没用.md",
     "任务管理/任务看板.canvas",
     "任务管理/2026-06-05 工作看板.canvas",
     "GPT画图测试260227/GPT画图测试260227.canvas",
