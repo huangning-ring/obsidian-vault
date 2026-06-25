@@ -6,7 +6,23 @@
     "allow": [
       "PowerShell",
       "Bash(python -)",
-      "Bash(python - <<'PY'\nfrom pathlib import Path\nimport json\np=Path\('笔记同步助手/2026-06-05/2026-06-05 工作看板.canvas'\)\ndata=json.loads\(p.read_text\(encoding='utf-8'\)\)\nids={n['id'] for n in data['nodes']}\nmissing_files=[]\nfor n in data['nodes']:\n    if n.get\('type'\)=='file':\n        path=Path\(n['file']\)\n        if not path.exists\(\):\n            missing_files.append\(n['file']\)\nmissing_edges=[]\nfor e in data['edges']:\n    if e['fromNode'] not in ids or e['toNode'] not in ids:\n        missing_edges.append\(e['id']\)\nif missing_files:\n    raise SystemExit\('Missing files: '+', '.join\(missing_files\)\)\nif missing_edges:\n    raise SystemExit\('Missing edge nodes: '+', '.join\(missing_edges\)\)\nprint\('Canvas JSON valid. File nodes checked:', sum\(1 for n in data['nodes'] if n.get\('type'\)=='file'\), 'Edges checked:', len\(data['edges']\)\)\nPY)"
+      "Bash(python - <<'PY'\nfrom pathlib import Path\nimport json\np=Path('笔记同步助手/2026-06-05/2026-06-05 工作看板.canvas')\ndata=json.loads(p.read_text(encoding='utf-8'))\nids={n['id'] for n in data['nodes']}\nmissing_files=[]\nfor n in data['nodes']:\n    if n.get('type')=='file':\n        path=Path(n['file'])\n        if not path.exists():\n            missing_files.append(n['file'])\nmissing_edges=[]\nfor e in data['edges']:\n    if e['fromNode'] not in ids or e['toNode'] not in ids:\n        missing_edges.append(e['id'])\nif missing_files:\n    raise SystemExit('Missing files: '+', '.join(missing_files))\nif missing_edges:\n    raise SystemExit('Missing edge nodes: '+', '.join(missing_edges))\nprint('Canvas JSON valid. File nodes checked:', sum(1 for n in data['nodes'] if n.get('type')=='file'), 'Edges checked:', len(data['edges']))\nPY)"
+    ]
+  },
+  "hooks": {
+    "PostToolUse": [
+      {
+        "matcher": "Write",
+        "hooks": [
+          {
+            "type": "command",
+            "shell": "bash",
+            "command": "f=$(python -c \"import sys,json; d=json.load(sys.stdin); print(d.get(\\\"tool_input\\\",{}).get(\\\"file_path\\\",\\\"\\\"))\"); case \"$f\" in *.md) python \"C:/Users/29731/.claude/skills/personal-format/scripts/personal_format.py\" \"$f\" --backup 2>/dev/null || true;; esac;",
+            "timeout": 120,
+            "statusMessage": "自动格式化笔记..."
+          }
+        ]
+      }
     ]
   }
 }

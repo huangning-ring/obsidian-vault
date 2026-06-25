@@ -1,6 +1,6 @@
 {
   "userName": "黄宁",
-  "permissionMode": "yolo",
+  "permissionMode": "plan",
   "model": "opus[1m]",
   "thinkingBudget": "off",
   "effortLevel": "max",
@@ -157,7 +157,7 @@
   "savedProviderServiceTier": {},
   "savedProviderThinkingBudget": {},
   "savedProviderPermissionMode": {
-    "claude": "yolo"
+    "claude": "plan"
   },
   "lastCustomModel": "Pro/MiniMaxAI/MiniMax-M2.5",
   "maxTabs": 5,
