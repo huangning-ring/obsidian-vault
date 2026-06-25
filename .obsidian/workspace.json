@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/linshenkxprompt-optimizer An AI prompt optimizer for writing better prompts and getting better AI results.md",
+                "file": "calendar/Email-Events.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "linshenkxprompt-optimizer An AI prompt optimizer for writing better prompts and getting better AI results"
-            }
-          },
-          {
-            "id": "aa142ca4a15a2f1d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "笔记同步助手/2026-06-25/Skill配方｜我用三个skill 实现了skill 自由.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Skill配方｜我用三个skill 实现了skill 自由"
+              "title": "Email-Events"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,20 +194,24 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "aa142ca4a15a2f1d",
+  "active": "8ed2c05eb0498218",
   "lastOpenFiles": [
-    "笔记同步助手/2026-06-24/Skill配方｜我用三个skill 实现了skill 自由.md",
+    "cartilage_calcification_seminar.md",
+    "复习/PPT大纲.md",
+    "Clippings/linshenkxprompt-optimizer An AI prompt optimizer for writing better prompts and getting better AI results.md",
+    "笔记同步助手/2026-06-25/我让组里 3 位博士用 AI 工具 6 个月。真实数据让我后悔一件事。.md",
     "笔记同步助手/2026-06-25/Skill配方｜我用三个skill 实现了skill 自由.md",
+    "笔记同步助手/2026-06-24/Claude How To：34.4k+ Star 的 Claude Code 教程，GitHub 霸榜的-从入门到精通-.md",
+    "笔记同步助手/2026-06-24/Skill配方｜我用三个skill 实现了skill 自由.md",
+    "笔记同步助手/2026-06-24/obsidian最强管理文档的方式（0基础友好）.md",
+    "笔记同步助手/2026-06-23/16.5K+ Star！彻底治好 Claude Code 失忆！告别重复上下文，Token 直省 92%.md",
     "Clippings/hook-verify-test.md.bak",
     "Clippings/hook-verify-test.md",
-    "笔记同步助手/2026-06-25/我让组里 3 位博士用 AI 工具 6 个月。真实数据让我后悔一件事。.md",
     "笔记同步助手/2026-06-25",
     "Clippings/hook-test-temp.md.bak",
     "Clippings/hook-test-temp.md",
-    "Clippings/linshenkxprompt-optimizer An AI prompt optimizer for writing better prompts and getting better AI results.md",
     "Clippings/linshenkxprompt-optimizer An AI prompt optimizer for writing better prompts and getting better AI results.md.bak",
     "笔记同步助手/2026-06-22/这个 GitHub 项目火了：30.9k Star，把你的提示词从“随便写写”变成“可测试、可复用、可迭代”.md",
-    "cartilage_calcification_seminar.md",
     "Excalidraw/Drawing 2026-06-24 23.34.19.excalidraw.md",
     "Excalidraw",
     "cartilage_calcification_seminar.md.tmp.33468.802d813c023e",
@@ -237,13 +226,10 @@
     "笔记同步助手/images/0e94f9900676bdeac94da4b804f71d99_MD5.jpg",
     "笔记同步助手/images/2bd760962f4b97a6d80262e468b53dee_MD5.jpg",
     "笔记同步助手/images/3ef091fe2fceb69dec461d0a94ed4495_MD5.jpg",
-    "笔记同步助手/2026-06-24/obsidian最强管理文档的方式（0基础友好）.md",
     "Summary-Epigenetic Calcification Lecture.md",
     "笔记同步助手/2026-06-22/Claude Code 十个最值得装的 Skills，不是越多越好而是这十个最能打.md",
     "笔记同步助手/2026-06-18/面试官皱眉：“Claude Code 你用了半年，你懂 Skills 吗？”我反问：“不就是写了步骤的 markdown 吗”，他：今天就到这吧.md",
     "笔记同步助手/2026-06-23/GitHub 8.7K星的开源项目，能拿聊天记录训了个自己，效果有点上头.md",
-    "笔记同步助手/2026-06-23/16.5K+ Star！彻底治好 Claude Code 失忆！告别重复上下文，Token 直省 92%.md",
-    "笔记同步助手/2026-06-24/Claude How To：34.4k+ Star 的 Claude Code 教程，GitHub 霸榜的-从入门到精通-.md",
     "calendar/Email-Events.md",
     "笔记同步助手/images/5ce3d60f1e734eebd88b1cc139e8ee6d_MD5.png",
     "calendar/邮件活动日历.md",
@@ -256,7 +242,6 @@
     "Clippings/Bilibili/2026-06-04-Obsidian+AI 知识库搭建，把 claude code 和 DeepSeek 装进来.md",
     "26医创/医创赛反思.md",
     "26医创/9.项目创新性.md",
-    "分子生物学/分子生物学考试内容目录.md",
     "任务管理/任务看板.canvas",
     "任务管理/2026-06-05 工作看板.canvas",
     "GPT画图测试260227/GPT画图测试260227.canvas",
