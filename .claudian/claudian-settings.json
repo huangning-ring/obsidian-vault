@@ -1,6 +1,6 @@
 {
   "userName": "黄宁",
-  "permissionMode": "plan",
+  "permissionMode": "normal",
   "model": "haiku",
   "thinkingBudget": "off",
   "effortLevel": "high",
@@ -77,6 +77,14 @@
       "envVars": "ANTHROPIC_AUTH_TOKEN=sk-e3b17b6db42944628f70f8bf983ccdc2\nANTHROPIC_BASE_URL=https://api.deepseek.com/anthropic\nANTHROPIC_MODEL=\"deepseek-v4-pro[1m]\"\nANTHROPIC_DEFAULT_OPUS_MODEL=\"deepseek-v4-pro[1m]\"\nANTHROPIC_DEFAULT_SONNET_MODEL=\"deepseek-v4-pro[1m]\"\nANTHROPIC_DEFAULT_HAIKU_MODEL=\"deepseek-v4-flash[1m]\"\nCLAUDE_CODE_DISABLE_NONESSENTIAL_TRAFFIC=\"1\"\nCLAUDE_CODE_EFFORT_LEVEL=\"max\"",
       "scope": "provider:claude",
       "modelAliases": {}
+    },
+    {
+      "id": "snippet-1782512350719",
+      "name": "Agnes",
+      "description": "",
+      "envVars": "OPENAI_API_KEY=\"sk-dOXhmysfnZDSJkIUaoOuzB10APisToASxgwQILeu0XOdwGeX\"\nOPENAI_BASE_URL=\"https://apihub.agnes-ai.com/v1\"\nOPENAI_MODEL=\"agnes-2.0-flash\"",
+      "scope": "provider:codex",
+      "modelAliases": {}
     }
   ],
   "customContextLimits": {
@@ -115,8 +123,8 @@
       "cliPathsByHost": {},
       "customModels": "",
       "reasoningSummary": "detailed",
-      "environmentVariables": "",
-      "environmentHash": "",
+      "environmentVariables": "OPENAI_API_KEY=\"sk-dOXhmysfnZDSJkIUaoOuzB10APisToASxgwQILeu0XOdwGeX\"\nOPENAI_BASE_URL=\"https://apihub.agnes-ai.com/v1\"\nOPENAI_MODEL=\"agnes-2.0-flash\"",
+      "environmentHash": "OPENAI_API_KEY=sk-dOXhmysfnZDSJkIUaoOuzB10APisToASxgwQILeu0XOdwGeX|OPENAI_BASE_URL=https://apihub.agnes-ai.com/v1|OPENAI_MODEL=agnes-2.0-flash",
       "installationMethodsByHost": {
         "device:f29a69ec-12d4-4fdf-b5c5-d737c6f14bdb": "native-windows"
       },
@@ -149,15 +157,20 @@
   },
   "settingsProvider": "claude",
   "savedProviderModel": {
-    "claude": "haiku"
+    "claude": "haiku",
+    "codex": "openai-codex/agnes-2.0-flash"
   },
   "savedProviderEffort": {
-    "claude": "high"
+    "claude": "high",
+    "codex": "xhigh"
   },
-  "savedProviderServiceTier": {},
+  "savedProviderServiceTier": {
+    "codex": "default"
+  },
   "savedProviderThinkingBudget": {},
   "savedProviderPermissionMode": {
-    "claude": "plan"
+    "claude": "normal",
+    "codex": "normal"
   },
   "lastCustomModel": "Pro/MiniMaxAI/MiniMax-M2.5",
   "maxTabs": 10,
