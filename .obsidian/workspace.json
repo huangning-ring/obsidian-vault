@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "笔记同步助手/2026-06-25/把 PDF 丢给 AI，自动帮你建一个 知识库！.md",
+                "file": "笔记同步助手/2026-06-25/我让组里 3 位博士用 AI 工具 6 个月。真实数据让我后悔一件事。.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "把 PDF 丢给 AI，自动帮你建一个 知识库！"
+              "title": "我让组里 3 位博士用 AI 工具 6 个月。真实数据让我后悔一件事。"
             }
           },
           {
@@ -35,7 +35,8 @@
               "title": "16.5K+ Star！彻底治好 Claude Code 失忆！告别重复上下文，Token 直省 92%"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -164,9 +165,19 @@
               "icon": "lucide-tags",
               "title": "标签"
             }
+          },
+          {
+            "id": "9f9122b9f01b3f75",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-view",
+              "state": {},
+              "icon": "bot",
+              "title": "Claudian"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -198,8 +209,11 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "8ed2c05eb0498218",
+  "active": "9f9122b9f01b3f75",
   "lastOpenFiles": [
+    "笔记同步助手/2026-06-25/我让组里 3 位博士用 AI 工具 6 个月。真实数据让我后悔一件事。.md",
+    "AGENTS.md",
+    "笔记同步助手/2026-06-25/把 PDF 丢给 AI，自动帮你建一个 知识库！.md",
     "笔记同步助手/2026-06-16/136k Star！微软开源了一个「AI 喂食工具」——PDF、Word、PPT、Excel、视频、音频一行命令全变 Markdown，LLM 真正读懂你的文档.md",
     "笔记同步助手/2026-06-24/Skill配方｜我用三个skill 实现了skill 自由.md",
     "笔记同步助手/2026-06-24/Claude How To：34.4k+ Star 的 Claude Code 教程，GitHub 霸榜的-从入门到精通-.md",
@@ -212,8 +226,6 @@
     "笔记同步助手/2026-06-18/AI下文献别再提心吊胆了：正门比你想的多.md",
     "笔记同步助手/2026-06-18/一个12万星的Skill帮助你学会任何东西.md",
     "笔记同步助手/2026-06-18/我挖到一个学AI的宝藏网站，Claude Code、Obsidian、Agent 全都讲透了.md",
-    "笔记同步助手/2026-06-25/我让组里 3 位博士用 AI 工具 6 个月。真实数据让我后悔一件事。.md",
-    "笔记同步助手/2026-06-25/把 PDF 丢给 AI，自动帮你建一个 知识库！.md",
     "笔记同步助手/2026-06-15/我在 Claude Code 装了 3 个 Skill，它们合起来是一套完整的脑子.md",
     "笔记同步助手/2026-06-15/还在手动调文档样式？这个 AI 开源工具 5 天拿下 3.2k Star，输出即专业级.md",
     "笔记同步助手/2026-06-25/把 PDF 丢给 AI，自动帮你建一个 知识库！.md.bak",
@@ -229,7 +241,6 @@
     "笔记同步助手/2026-06-12/中国版Codex来了，Qwen3.7-Max免费用！.md",
     "笔记同步助手/2026-06-12/同步助手_2026-06-12.md",
     "笔记同步助手/2026-06-12/在你微信里用爽 Claude Code，我的开源 Skill 又更新了。.md",
-    "笔记同步助手/2026-06-12/我发现一个 26.5k 星的开源 Claude Skill——它把博士整个研究流程做完了.md",
     "笔记同步助手/images/bbbc8760d4523ef0e0c330c2d8ae78b6_MD5.jpg",
     "笔记同步助手/images/c730cd45a48656d235b1971f9ae2f583_MD5.jpg",
     "笔记同步助手/images/6d8b98172d4f9aaeb3d4c3d4882dd7a1_MD5.jpg",
