@@ -1,4 +1,4 @@
-﻿---
+---
 author: 阿泽的ai手记
 source: AI整理 - 小红书
 url: https://www.xiaohongshu.com/discovery/item/6a37b8d000000000070227cb?app_platform=android&ignoreEngage=true&app_version=9.34.4&share_from_user_hidden=true&xsec_source=app_share&type=normal&xsec_token=CBNQBadzTCBjChlwj7nMEb3dMFLvyC5q4WfPeC21G_gOE%3D&author_share=1&xhsshare=&shareRedId=ODZGREU7Nz82NzUyOTgwNjgzOTlJNjk9&apptime=1782121496&share_id=bd4d46af7aeb40bab53474ae007dc81c&share_channel=wechat
@@ -281,7 +281,7 @@ defuddle 的作用是把网页提取成干净内容。
 #### 3\. defuddle 或 clipper-template
 如果你经常收藏网页，优先装网页清洗和剪藏模板。
 Skill 不是越多越好，先解决读写、格式、剪藏这三个高频问题。
-![[笔记同步助手/images/38edf0d457cc8988cb8d4ed1d9928bd6_MD5.jpg|Image]]![[笔记同步助手/images/ea7a200ac4cde0bf3c19fa998d9c75fa_MD5.jpg|Image]]![[笔记同步助手/images/c86a565286fba7a61fd2e3785868af27_MD5.jpg|Image]]![[笔记同步助手/images/94e4f0c2d892dac300200e1c5d056b8e_MD5.jpg|Image]]![[笔记同步助手/images/c88176311035e21ce467ccae2f2f3abf_MD5.jpg|Image]]![[笔记同步助手/images/d73ab5dba67572efd21d54feb9f8ea26_MD5.jpg|Image]]![[笔记同步助手/images/0a876b63b170eec1789e049b4fcd1465_MD5.jpg|Image]]![[笔记同步助手/images/88220981a1966defa644cc6f6e7a8f5c_MD5.jpg|Image]]![[笔记同步助手/images/fbdd119d46a742b47f1c234e8c1b69b4_MD5.jpg|Image]]![[笔记同步助手/images/da18f5af3ff9460876fa9f01efc56f57_MD5.jpg|Image]]![[笔记同步助手/images/21a72e31dbee3941b0591c7a39da6681_MD5.jpg|Image]]![[笔记同步助手/images/ccf03bbba9c9e1ed643dc6299dcd0369_MD5.jpg|Image]]![[笔记同步助手/images/d60f8d812e3093e18ccd13dcc1e94ccf_MD5.jpg|Image]]![[笔记同步助手/images/2d5b65dcf9cc4b776aebbbadfe25f283_MD5.jpg|Image]]![[笔记同步助手/images/0dd30aab0f0da64984441de5fb1993ea_MD5.jpg|Image]]![[笔记同步助手/images/638daab4f9b04f0977980d06f2ed6765_MD5.jpg|Image]]
+
 Obsidian 真正厉害的地方不是能写笔记，而是它可以变成 AI Agent 能读、能搜、能整理、能维护的本地知识库。  
 很多人用 Obsidian 是这样：  
 收藏了一堆文章。  

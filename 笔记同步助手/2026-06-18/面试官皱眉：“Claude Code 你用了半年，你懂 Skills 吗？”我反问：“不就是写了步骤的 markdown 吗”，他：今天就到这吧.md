@@ -1,16 +1,5 @@
-﻿﻿---
-author: 小林coding
-source: 微信公众号
-url: https://mp.weixin.qq.com/s?__biz=MzUxODAzNDg4NQ==&mid=2247558967&idx=1&sn=bb508feae2a5a5cfd28a12f4ab4130df&chksm=f8e18100cb4c94fad8e4a7f3b224a3ac18fc920fbbec300d464ed3f0ea5fa36dec285f42f747&mpshare=1&scene=1&srcid=0618PMIHQ61HffQo1BaRG6Eb&sharer_shareinfo=04e7756aa145e6ccbe4e05dc999f4cee&sharer_shareinfo_first=04e7756aa145e6ccbe4e05dc999f4cee#rd
-saved: 2026-06-18 13:31:05
-tags:
-  - 笔记同步助手
-id: 15ddebd2-1e9e-4698-a917-fa360858d1c7
-***
-公众号名称：小林coding
-作者名称：小林coding
-发布时间：2026-06-18 14:12
-原文链接：[https://xiaolincoding.com](https://xiaolincoding.com)
+
+---
 大家好，我是小林。
 不知道你有没有这种体验，兴冲冲给 Claude Code 装了一堆 skill，或者自己照着教程写了几个，结果用了一个月，Claude 压根没主动调用过几次。
 skill 就这么安静地躺在目录里，像极了你收藏夹里那些「以后一定看」的文章。

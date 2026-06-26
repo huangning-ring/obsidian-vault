@@ -50,7 +50,7 @@ AI 很快给你一篇。
 它可以帮助用户写出更好的 AI prompts，并提升 AI 输出质量。
 截至我查看时，GitHub 页面显示：
 `linshenkx/prompt-optimizer` 当前约 **30.9k Star / 3.6k Fork**。
-![[笔记同步助手/images/227f998c3713adc72c93f02632276111_MD5.png]]
+
 这个数据已经不是小工具级别。
 它说明一件事：
 Prompt 这件事，正在从“玄学手艺”变成“工程流程”。

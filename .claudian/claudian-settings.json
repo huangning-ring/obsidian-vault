@@ -1,9 +1,9 @@
 {
   "userName": "黄宁",
-  "permissionMode": "plan",
-  "model": "opus[1m]",
+  "permissionMode": "normal",
+  "model": "haiku",
   "thinkingBudget": "off",
-  "effortLevel": "max",
+  "effortLevel": "high",
   "serviceTier": "default",
   "enableAutoTitleGeneration": true,
   "titleGenerationModel": "",
@@ -95,22 +95,22 @@
   "locale": "zh-CN",
   "providerConfigs": {
     "claude": {
-      "safeMode": "acceptEdits",
+      "safeMode": "default",
       "cliPath": "",
       "cliPathsByHost": {},
       "loadUserSettings": true,
       "enableChrome": true,
       "enableBangBash": true,
-      "enableOpus1M": true,
-      "enableSonnet1M": true,
+      "enableOpus1M": false,
+      "enableSonnet1M": false,
       "customModels": "",
-      "lastModel": "opus[1m]",
+      "lastModel": "haiku",
       "environmentVariables": "",
       "environmentHash": ""
     },
     "codex": {
-      "enabled": false,
-      "safeMode": "workspace-write",
+      "enabled": true,
+      "safeMode": "read-only",
       "cliPath": "",
       "cliPathsByHost": {},
       "customModels": "",
@@ -149,18 +149,18 @@
   },
   "settingsProvider": "claude",
   "savedProviderModel": {
-    "claude": "opus[1m]"
+    "claude": "haiku"
   },
   "savedProviderEffort": {
-    "claude": "max"
+    "claude": "high"
   },
   "savedProviderServiceTier": {},
   "savedProviderThinkingBudget": {},
   "savedProviderPermissionMode": {
-    "claude": "plan"
+    "claude": "normal"
   },
   "lastCustomModel": "Pro/MiniMaxAI/MiniMax-M2.5",
-  "maxTabs": 5,
+  "maxTabs": 10,
   "tabBarPosition": "input",
   "enableAutoScroll": true,
   "deferMathRenderingDuringStreaming": true,

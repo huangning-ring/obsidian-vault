@@ -1,4 +1,4 @@
-﻿---
+---
 author: 啥都懂的小灰
 source: 微信公众号
 url: https://mp.weixin.qq.com/s?__biz=MzI3ODI5MjMxMw==&mid=2247489006&idx=1&sn=91f1e88250e76fd41c522e36fd4cca48&chksm=ea8448879e1f47a45a8283ee64d27dab434827b5774e5e018e0823d53b5bc79c31f7510da9e4&mpshare=1&scene=1&srcid=0623DVJ9f1kvJAYilw6AZn5d&sharer_shareinfo=f10c7c333c5074958f61212082a588dd&sharer_shareinfo_first=f10c7c333c5074958f61212082a588dd#rd
@@ -33,7 +33,7 @@ Skills 的生态已经爆炸了。光社区仓库就有 **1200+** 个，Anthropi
 gstack 解决的是上游那一层——**该不该做、做什么、做成什么样。**
 它是 Y Combinator CEO Garry Tan 自己做的，思路很野：不是给 Claude 加工具，而是给它加角色。装上之后，Claude 会模拟一个 **23 人团队**——CEO、产品经理、工程主管、QA、设计、安全审计——每个角色在各自的环节审查你的方案。
 核心命令是 `/office-hours` 和 `/plan-ceo-review`。在你动手写代码之前，先从产品视角过一遍：这个功能真的需要吗？用户场景对不对？有没有更简单的方案？
-![[笔记同步助手/images/0ac5339b1a3802332e6dcacb2e11ad61_MD5.png]]
+
 **简单讲：**
 -   superpowers 像一个严格的工程 leader，盯着你把代码写对
 -   gstack 像一个产品合伙人，先帮你确认方向没跑偏
