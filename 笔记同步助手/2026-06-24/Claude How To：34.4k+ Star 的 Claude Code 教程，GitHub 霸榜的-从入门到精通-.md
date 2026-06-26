@@ -1,4 +1,4 @@
-﻿---
+﻿﻿---
 author: 新世界圆圆圆
 source: 微信公众号
 url: https://mp.weixin.qq.com/s?__biz=MzYzNDI1MTg0Nw==&mid=2247484035&idx=1&sn=50f9922aff304bff779736f1f732b7f9&chksm=f11b0734c8b900a08c1a5c580ca80408a1c0290ed3ff41e4e92e46822a1c5e6ec34103e1287d&mpshare=1&scene=1&srcid=0624TzXaJ1A7vRlQMyjWluUn&sharer_shareinfo=82babf51021c547fc530b5fd3fbdb730&sharer_shareinfo_first=82babf51021c547fc530b5fd3fbdb730#rd
@@ -15,10 +15,8 @@ id: 5250fe3d-c862-4e88-a240-932da4053026
 > 版本：v2.1.145（同步最新 Claude Code 发行版）
 
 **不是一份 API 文档。是一个完整的 Cluade Code 学习体系——10 个模块、从 slash command 到 Agents 全栈、每个功能配合 Mermaid 图解和可直接复制的模板配置。** 适合零基础，也适合用了半年但没用全的人。
-
 ***
  这个项目为什么有 34,000+ Star
-# 先看它解决的问题
 Claude Code 发布一年多了。如果你安装过、跑过几条 prompt，大概率卡在这些地方：
 -   • 知道 slash commands 存在，不知道哪些命令能一起用
 -   • 知道有 Skills，但自己的 skill 总是触发的时机不对
@@ -51,7 +49,7 @@ Claude Code 发布一年多了。如果你安装过、跑过几条 prompt，大�
 全文下来大约 11-13 小时，但每次你只需要学一个模块，5 分钟就能开始用。
 ***
  和其他教程最不一样的地方
-# 1\. 内置自测系统
+ 1\. 内置自测系统
 每个模块学完之后，可以在 Claude Code 里直接跑一条命令：
 ```
 /lesson-quiz hooks
@@ -62,7 +60,7 @@ Claude Code 发布一年多了。如果你安装过、跑过几条 prompt，大�
 /self-assessment
 ```
 不问"讲一下 Agent Teams 是什么"。问"你的项目里最近用过哪些功能"、"你能不能说清楚 Skills 和 Command 的区别"、"配过几次 hook"。选择题形式，选完给你推荐一个学习路径。
-# 2\. 不是"给代码"——是"给可复制的模板"
+ 2\. 不是"给代码"——是"给可复制的模板"
 大多数技术教程给的代码是**展示用例**你看了知道"哦，原来这样"。然后关掉文档，自己手动配一遍，出错了，再回来查。
 Claude How To 给的配置是**可以直接复制到你项目里用的**：
 ```
@@ -71,10 +69,10 @@ cp claude-howto/02-memory/project-CLAUDE.md → ./CLAUDE.md
 cp -r claude-howto/03-skills/code-review-specialist → ～/.claude/skills/
 ```
 不需要改。直接跑。跑通了再理解为什么这么写。
-# 3\. Mermaid 图解每个功能
+ 3\. Mermaid 图解每个功能
 每个功能配了一张 Mermaid 图，展示它内部的调用链。
 知识不是文字。是图。看完图再去看配置，知道"这行配置对应图上的哪个部分"。
-# 4\. 同步最新发行版
+ 4\. 同步最新发行版
 版本号 `v2.1.145` 对应 Claude Code 的发行版号。不是"2025 年之前更新的教程"。Claude Code 出了新版本，教程同步更新。这比你网上搜到的很多"Claude Code 教程"靠谱很多。
 ***
  不是英文教程——支持 5 种语言

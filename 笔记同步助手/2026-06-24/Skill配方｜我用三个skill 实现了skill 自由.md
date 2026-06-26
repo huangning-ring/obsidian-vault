@@ -1,4 +1,4 @@
----
+﻿---
 author: 阿t学习
 source: 微信公众号
 url: https://mp.weixin.qq.com/s?__biz=MzcwOTIxOTY4Mw==&mid=2247484030&idx=1&sn=154f3f63e796226215528f8c83bb62bf&chksm=f454f64704424a03983f41c87705bb9279df22fe17f09901d6aa4d1c61990811a0efa95ec531&mpshare=1&scene=1&srcid=0625Pg3AInHjy9C5N6MSpIh8&sharer_shareinfo=266c7f2fb406e17d07f69cb09e0e69ae&sharer_shareinfo_first=266c7f2fb406e17d07f69cb09e0e69ae#rd
@@ -54,8 +54,6 @@ https://clawhub.ai/skills/superpowers
 • 第一步判断这件事值得做：频率高、耗时高、自动化收益大
 • 第二步设计完整 skill 包：字幕获取 → Whisper ASR → AI 分析 → Markdown 生成
 • 第三步把 Whisper、下载、分析模块逐个写出来
-
-
 总结
 Skill 是生产资料，不是通用商品。别人的 skill 再好，放到你的上下文里总是差那么一点。
 • workflow-analyzer 帮你判断值不值得做

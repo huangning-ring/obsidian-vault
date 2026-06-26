@@ -84,7 +84,6 @@ claude
 资料 → 学习库 → 掌握，AI 帮你闭环学习。
 **StudyVault + 自适应测验 = 真掌握。**
 装了这个 Skill，学什么都高效。
-
 还在"读完就忘，学了白学"？  
 今天安利一个 Claude Code Skill——tutor-skills（977⭐）  
 它的逻辑很简单：输入资料 → 自动建学习库 → AI 出题考你  

@@ -1,4 +1,4 @@
----
+﻿---
 author: 大乐AI实验室
 source: AI整理 - 小红书
 url: https://www.xiaohongshu.com/discovery/item/6a3baca30000000007025353?app_platform=android&ignoreEngage=true&app_version=9.34.4&share_from_user_hidden=true&xsec_source=app_share&type=normal&xsec_token=CBUTtHc2eMrpuO79wfOhLqmAWrdRj8vuAkB7Li-IJS4hY%3D&author_share=1&xhsshare=&shareRedId=ODZGREU7Nz82NzUyOTgwNjgzOTlJNjk9&apptime=1782330814&share_id=c2e90cb619a84188ad8fd4a652d69249&share_channel=wechat
@@ -119,7 +119,6 @@ Tips：每 3-6 个月复盘一次整个系统，持续优化。
 1.  第 1 周：搭建文件夹结构 + Inbox + Properties（1、2、5）。
 2.  第 2-3 周：原子笔记 + MOCs + 核心插件（3、4、6）。
 3.  后续：逐步加入任务、自动化和第二大脑功能（7-10）。
-
 #obsidian #howto手搓skill #AI工具  
 #生产力提升 #文档管理 #howto入门vibecoding  
 #howto用好AI #SOP框架课代表 #ai关键词  
