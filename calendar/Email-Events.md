@@ -1,1 +1,123 @@
-# 邮件活动日历\n生成于 2026-06-27\n***\n## 已过\n- **2026-06-22** 10:00–11:00 | Edinburgh Diabetes Day 2026\n  📍 QMRI which would be interesting to you\n  ⚠️  Registration required\n  📁 [[calendar/edinburgh-diabetes-day-2026-2026-06-22-22.ics]]\n- **2026-06-16** 10:00–11:00 | One Health Genomics Edinburgh Community Meeting - Registration now open - 16th June 2026\n  📍 June | 🔗 [https://forms.office.com/e/pksbT9quJX](https://forms.office.com/e/pksbT9quJX)\n  ⚠️  Registration required; Includes lunch; Online (Zoom)\n  📁 [[calendar/one-health-genomics-edinburgh--2026-06-16-26.ics]]\n- **2026-06-10** 13:00–14:00 | SEMINAR SERIES:  Wednesday 10th June 2026\n  📍 heart disease” | 🔗 [https://medicine-vet-medicine.ed.ac.uk/institute-for-neuroscience-and-cardiovascular-research>](https://medicine-vet-medicine.ed.ac.uk/institute-for-neuroscience-and-cardiovascular-research>)\n  ⚠️  Pizza provided; Registration required\n  📁 [[calendar/seminar-series---wednesday-10t-2026-06-10-19.ics]]\n- **2026-06-08** 12:00–13:00 | Fw: CIR seminar TODAY Monday 8th June 12pm - Professor Chris Seymour\n  📍 12pm in the IRR South large seminar room. Following the seminar\n  ⚠️  Registration required; Includes lunch; Student lunch available\n  📁 [[calendar/fw--cir-seminar-today-monday-8-2026-06-08-16.ics]]\n- **2026-06-08** 12:00–13:00 | CIR seminar TODAY Monday 8th June 12pm - Professor Chris Seymour\n  📍 12pm in the IRR South large seminar room. Following the seminar | 🔗 [https://www.emergencymedicine.pitt.edu/people/christopher-seymour>](https://www.emergencymedicine.pitt.edu/people/christopher-seymour>)\n  ⚠️  Registration required; Includes lunch; Student lunch available\n  📁 [[calendar/cir-seminar-today-monday-8th-j-2026-06-08-17.ics]]\n- **2026-06-08** 12:00–13:00 | CIR seminar MONDAY 8th June 12pm - Professor Chris Seymour\n  📍 12pm in the IRR South large seminar room. Following the seminar | 🔗 [https://www.emergencymedicine.pitt.edu/people/christopher-seymour>](https://www.emergencymedicine.pitt.edu/people/christopher-seymour>)\n  ⚠️  Registration required; Includes lunch; Student lunch available\n  📁 [[calendar/cir-seminar-monday-8th-june-12-2026-06-08-21.ics]]\n- **2026-06-05** 15:00–16:00 | Meeting & Summer School arrangements\n  📍 Edinburgh | 🔗 [https://www.rbge.org.uk/>](https://www.rbge.org.uk/>)\n  ⚠️  Registration required\n  📁 [[calendar/meeting---summer-school-arrang-2026-06-05-34.ics]]\n- **2026-06-04** 09:00–17:00 | Fancy Imaging demo: Zeiss Lightfield and LSM 990 Airyscan demo\n  📍 the Zebrafish Imaging Facility at the Chancellor’s Building\n  ⚠️  Registration required; Online (Zoom); Krispy Kreme donuts provided\n  📁 [[calendar/fancy-imaging-demo--zeiss-ligh-2026-06-04-18.ics]]\n- **2026-06-04** 09:30–10:30 | MacRae lab meeting\n  📍 TBC\n  📁 [[calendar/macrae-lab-meeting-2026-06-04-20.ics]]\n- **2026-06-04** 14:30–15:00 | Next LivSCt@RI meeting: Thursday 4th June @ 14.30 Rm 1-003  " Ubiquitin and regulation of mitochondrial health"\n  📍 and regulation of mitochondrial health" | 🔗 [https://pcwww.liv.ac.uk/~clague/).](https://pcwww.liv.ac.uk/~clague/).)\n  ⚠️  Registration required\n  📁 [[calendar/next-livsct-ri-meeting--thursd-2026-06-04-27.ics]]\n- **2026-06-03** 13:00–14:00 | SEMINAR SERIES:  Wednesday 3rd June 2026\n  📍 Are Catapult?” | 🔗 [https://medicine-vet-medicine.ed.ac.uk/institute-for-neuroscience-and-cardiovascular-research>](https://medicine-vet-medicine.ed.ac.uk/institute-for-neuroscience-and-cardiovascular-research>)\n  ⚠️  Pizza provided; Registration required\n  📁 [[calendar/seminar-series---wednesday-3rd-2026-06-03-30.ics]]\n- **2026-06-02** 09:00–17:00 | Induction Day for New Starts - Tuesday 2nd June\n  📍 the Roslin Institute outside room B-006 at 9am for coffee | 🔗 [https://uoe.sharepoint.com/sites/collegemvm/easterbush/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2Fcollegemvm%2Feasterbush%2FShared%20Documents%2Fdownloads%2FHumanResourcesAndCareers%2FEB%20Staff%20Handbook%2DFebruary%202026%2Epdf&parent=%2Fsites%2Fcollegemvm%2Feasterbush%2FShared%20Documents%2Fdownloads%2FHumanResourcesAndCareers&p=true&ga=1>](https://uoe.sharepoint.com/sites/collegemvm/easterbush/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2Fcollegemvm%2Feasterbush%2FShared%20Documents%2Fdownloads%2FHumanResourcesAndCareers%2FEB%20Staff%20Handbook%2DFebruary%202026%2Epdf&parent=%2Fsites%2Fcollegemvm%2Feasterbush%2FShared%20Documents%2Fdownloads%2FHumanResourcesAndCareers&p=true&ga=1>)\n  ⚠️  Registration required; Bring bottled water\n  📁 [[calendar/induction-day-for-new-starts---2026-06-02-29.ics]]\n- **2026-06-01** 13:30–14:30 | VIP Seminar today (13:30-14:30)\n  📍 maximum. | 🔗 [https://www.research.ed.ac.uk/en/persons/douglas-vernimmen/>.](https://www.research.ed.ac.uk/en/persons/douglas-vernimmen/>.)\n  ⚠️  Registration required\n  📁 [[calendar/vip-seminar-today--13-30-14-30-2026-06-01-23.ics]]\n- **2026-06-01** 10:00–17:00 | Lab induction at 10 am\n  📍 10 am Hi Seungmee\n  ⚠️  Registration required\n  📁 [[calendar/lab-induction-at-10-am-2026-06-01-24.ics]]\n- **2026-06-01** 13:30–14:30 | Fw: VIP Seminar today (13:30-14:30)\n  📍 case you are free and interested.\n  ⚠️  Registration required\n  📁 [[calendar/fw--vip-seminar-today--13-30-1-2026-06-01-25.ics]]\n- **2026-05-29** 14:00–15:00 | CRH SEMINAR - *FRIDAY*,29 MAY 2026 - Professor Sarah Martins da Silva, Reproduction and Fertility Medicine, University of Dundee\n  📍 (1.05) | 🔗 [https://uoe.sharepoint.com/sites/IRR/SitePages/Seminars-and-Events.aspx?csf=1&web=1&e=hHsGDr&CID=3acf6206-ea05-44dc-95f5-a1894abeabca>](https://uoe.sharepoint.com/sites/IRR/SitePages/Seminars-and-Events.aspx?csf=1&web=1&e=hHsGDr&CID=3acf6206-ea05-44dc-95f5-a1894abeabca>)\n  ⚠️  Registration required\n  📁 [[calendar/crh-seminar----friday--29-may--2026-05-29-28.ics]]\n- **2026-05-29** 14:00–15:00 | Re:RE: CRH SEMINAR - *FRIDAY*,29 MAY 2026 - Professor Sarah Martins da Silva, Reproduction and Fertility Medicine, University of Dundee\n  📍 Starbucks – my mobile is  44 7434 771588 if any issues 😊 | 🔗 [https://uoe.sharepoint.com/sites/IRR/SitePages/Seminars-and-Events.aspx?csf=1&web=1&e=hHsGDr&CID=3acf6206-ea05-44dc-95f5-a1894abeabca>](https://uoe.sharepoint.com/sites/IRR/SitePages/Seminars-and-Events.aspx?csf=1&web=1&e=hHsGDr&CID=3acf6206-ea05-44dc-95f5-a1894abeabca>)\n  ⚠️  Registration required\n  📁 [[calendar/re-re--crh-seminar----friday---2026-05-29-32.ics]]\n- **2026-05-29** 14:00–15:00 | RE: CRH SEMINAR - *FRIDAY*,29 MAY 2026 - Professor Sarah Martins da Silva, Reproduction and Fertility Medicine, University of Dundee\n  📍 your last email. It’s great to have such interesting topics in reproductive medicine coming up at Roslin.\n  ⚠️  Registration required\n  📁 [[calendar/re--crh-seminar----friday--29--2026-05-29-33.ics]]\n- **2026-05-26** 11:30–12:00 | Today's CIR seminar\n  📍 QMRI reception at 11:30am?  So that I can guide you all together there | 🔗 [https://labs.icahn.mssm.edu/ghaffarilab/>](https://labs.icahn.mssm.edu/ghaffarilab/>)\n  ⚠️  Registration required; Includes lunch; Student lunch available\n  📁 [[calendar/today-s-cir-seminar-2026-05-26-31.ics]]\n- **2026-05-26** 14:17–15:00 | Fw: CIR seminar TUESDAY 26th May - Professor Saghi Ghaffari\n  📍 IRR about the Stem cell and Aging. Free to go if anyone want to come!\n  ⚠️  Registration required; Includes lunch; Student lunch available\n  📁 [[calendar/fw--cir-seminar-tuesday-26th-m-2026-05-26-36.ics]]\n- **2026-05-26** 12:00–13:00 | CIR seminar TUESDAY 26th May - Professor Saghi Ghaffari\n  📍 seminar to go to 😊 | 🔗 [https://labs.icahn.mssm.edu/ghaffarilab/>](https://labs.icahn.mssm.edu/ghaffarilab/>)\n  ⚠️  Registration required; Includes lunch; Student lunch available\n  📁 [[calendar/cir-seminar-tuesday-26th-may---2026-05-26-37.ics]]\n- **2026-05-20** 15:00–16:00 | Special condensate seminar Winston Zhao from NUS on June 15 at 3 pm\n  📍 3 pm | 🔗 [https://biology.ed.ac.uk/schirmer](https://biology.ed.ac.uk/schirmer)\n  ⚠️  Registration required\n  📁 [[calendar/special-condensate-seminar-win-2026-05-20-35.ics]]\n- **2025-03-16** 10:00–11:00 | Join Our BioRender 101 Webinar!\n  📍 Our BioRender 101 Webinar! Hi Ring | 🔗 [https://www.biorender.com/webinar](https://www.biorender.com/webinar)\n  ⚠️  Online (Zoom)\n  📁 [[calendar/join-our-biorender-101-webinar-2025-03-16-38.ics]]\n***\n*来源: IMAP + AI 分析 | 2026-06-27*
+# 邮件活动日历
+## 摘要
+**即将到来 (7)**
+- **20260624** 12:00 | CIR Seminar: Critical Roles of Nerve and Airway Associated Interstitial Macrophages (NAMs) in Respiratory Immunity
+  📍 IRR South seminar room
+  🗣️ Prof Kamal Khanna (NYU School of Medicine)
+  Host: Professor Chris Lucas
+  📄 [[calendar/upcoming-20260622-20260703.ics]]
+- **20260624** 12:00-13:00 | CVS Seminar: There's a cost to everything — Why Low energy light bulbs might be bad for your health? The vascular benefits of sunlight
+  📍 Wellcome Theatre, QMRI
+  🗣️ Richard Weller (Medical Dermatology, UoE) & Andrew Gow (Rutgers University)
+  Host: Mark Miller
+  🍕 Social: Pizza in The Larder 13:00-13:30
+  📄 [[calendar/upcoming-20260622-20260703.ics]]
+- **20260625** | Genetics Society Anniversary Day - Edinburgh
+  📍 Edinburgh
+  💰 Payment pending (£30.00, Order Ref: 27293)
+  📄 [[calendar/upcoming-20260622-20260703.ics]]
+- **20260626** 10:00 | Deadline: Submit second webinar + paper summary to Vicky
+  📄 (email assignment)
+  📄 [[calendar/upcoming-20260622-20260703.ics]]
+- **20260626** 13:00 | CIR Seminar: The role of a scientific editor and the editorial process
+  📍 IRR North seminar room
+  🗣️ Dr Ioannis Tsagakis (Scientific Editor, Cell)
+  Host: Dr Chengcan Yao
+  📄 [[calendar/upcoming-20260622-20260703.ics]]
+- **20260703** 12:30-17:00 | Physiological Society Hodgkin Huxley Katz Prize Lecture & Mary Pickford Lecture
+  📍 Anatomy Lecture Theatre, Old Medical School, Teviot Place, Edinburgh, EH8 9AG
+  🗣️ Professor Kristen Harris (University of Texas)
+  Title: Structural synaptic plasticity during long-term potentiation (LTP)
+  Host: Professor David Wyllie
+  Includes lunch, early-career researcher talks, drinks reception
+  📄 [[calendar/upcoming-20260622-20260703.ics]]
+- **20260907** | Clinical Genomes Scotland
+  📍 Royal College of Physicians of Edinburgh (RCPE), Edinburgh
+  Forum on implementing clinical genomics in Scottish healthcare
+  Free registration for University researchers, NHS staff, patients and patient groups
+  📄 [[calendar/upcoming-20260622-20260703.ics]]
+**已过 (18)**
+- **20260622** 12:00-13:00 | CVS Seminar: Non-animal models to study regenerative medicine for diabetes
+  📍 Wellcome Theatre, QMRI
+  🗣️ Prof Victoria Salem (King's College London)
+  🍕 Social: Pizza in The Larder 13:00-13:30
+  📄 [[calendar/upcoming-20260616-20260618.ics]]
+- **20260622** 12:00 | CIR Seminar: Fine tuning the neutrophil response for improved infection outcome
+  📍 IRR South seminar room
+  🗣️ Dr Borko Amulic (Univ of Bristol)
+  Host: Dr Sonja Vermeren
+  📄 [[calendar/upcoming-20260616-20260618.ics]]
+- **20260618** 13:00-14:00 | IGC Seminar: How the BAF (SWI/SNF) chromatin remodeling complexes regulate the nucleosomal and subnucleosomal organization of cis regulatory elements in mammalian cells
+  📍 IGC Lecture Theatre (online via Teams)
+  🗣️ Matthieu Gérard (CNRS, I2BC)
+  Host: Nick Gilbert
+  📄 [[calendar/upcoming-20260616-20260618.ics]]
+- **20260618** 10:30 | Group Tutorial with Vicky MacRae — study assignment feedback discussion
+  📍 Office area (Vicky booked a meeting room)
+  📝 Bring your written summaries; Vicky assigned literature review titles
+  📄 [[calendar/upcoming-20260616-20260618.ics]]
+- **20260617** 12:00-13:00 | CVS Seminar: The Siege of Biological Barriers — From Pulmonary Insult to Blood-Brain Barrier Dysfunction
+  📍 Wellcome Theatre, QMRI
+  🗣️ Dr Ian Mudway (Imperial College London)
+  Host: Sari Pennings
+  🍕 Social: Pizza in The Larder 13:00-13:30
+  📄 [[calendar/upcoming-20260616-20260618.ics]]
+- **20260616** 09:00 | One Health Genomics Edinburgh (OHGE) Community Meeting
+  📍 Appleton Tower
+  📄 [[calendar/upcoming-20260616-20260618.ics]]
+- **20260615** 15:00-16:00 | Special Condensate Seminar: Imaging, Quantifying and Mapping Chromatin Remodeler Dynamics
+  📍 Swann 7.20, Kings Buildings
+  📄 [[calendar/zhao-20260615-condensate.ics]]
+- **20260612** 14:00-15:00 | CRH Seminar: FROM INHERITANCE TO INTERVENTION - Reprogramming the Sperm Epigenome
+  📍 IRR SOUTH, SEMINAR ROOM (1.05)
+  📄 [[calendar/crh-20260612-kimmins.ics]]
+- **20260610** 12:00-13:00 | SEMINAR SERIES: A tale of two metabolites - Creatine and Homoarginine in Heart Disease
+  📍 Auditorium A, Shirley Hall, Chancellors Building
+  📄 [[calendar/cvs-20260610-lygate.ics]]
+- **20260610** 09:15-10:20 | Lab Visit: Screening for in vivo modifiers of muscle repair in ageing and disease
+  📍 Room 2.003
+  📄 [[calendar/knight-20260610.ics]]
+- **20260608** 12:00-13:00 | CIR Seminar: The Challenges for Precision Medicine in Acute Illness
+  📍 IRR South large seminar room
+  📄 [[calendar/cir-20260608-seymour.ics]]
+- **20260604** 14:30-15:30 | LivSCt@RI: Ubiquitin and regulation of mitochondrial health
+  📍 Rm 1-003, Roslin Institute
+  📄 [[calendar/livsct-20260604-clague.ics]]
+- **20260603** 12:00-13:00 | SEMINAR SERIES: My Journey Through Science / Who and What Are Catapult?
+  📍 Auditorium A, Shirley Hall, Chancellors Building
+  📄 [[calendar/cvs-20260603-catapult.ics]]
+- **20260602** 00:00-01:00 | ONLINE: In a post-Ozempic world, have we cured obesity? (Pre-recorded)
+  📍 Online (recorded link)
+  📄 [[calendar/giles-yeo-ondemand.ics]]
+- **20260602** 09:00-16:00 | Easter Bush Campus Induction Day for New Starts
+  📍 Roslin Institute, Room B-006
+  📄 [[calendar/induction-20260602.ics]]
+- **20260601** 13:30-14:30 | EBR Seminar: Unlocking the Female Ribosome and the Epigenetic Androgen Clock
+  📍 Roslin Institute Auditorium
+  📄 [[calendar/ebr-20260601-hore.ics]]
+- **20260529** 14:00-15:00 | IRR SPECIAL SEMINAR: Drug Discovery for Womens Health
+  📍 IRR SOUTH, SEMINAR ROOM (1.05)
+  📄 [[calendar/crh-20260529-martins.ics]]
+- **20260529** 10:00-11:00 | MacRae Lab Meeting
+  📍 Roslin Institute
+  📄 [[calendar/lab-meeting-20260529.ics]]
+- **20260528** 09:30-10:00 | First arrival at Roslin Campus
+  📍 Roslin Institute, Easter Bush Campus
+  📄 [[calendar/first-roslin-20260528.ics]]
+- **20260528** 10:00-11:30 | MacRae Lab Meeting
+  📍 Roslin Institute
+  📄 [[calendar/lab-meeting-20260528.ics]]
+- **20260528** 16:00-17:00 | MITOtalks: Insights into the metabolic regulation of de novo peroxisome biogenesis
+  📍 Online (Zoom)
+  📄 [[calendar/mitotalks-20260528.ics]]
+- **20260526** 12:00-13:00 | CIR Seminar: Lysosomes in Reversing Hematopoietic Stem Cell Aging
+  📍 IRR South large seminar room
+  📄 [[calendar/cir-20260526-ghaffari.ics]]
+- **20260526** 09:30-10:30 | Welcome meeting with Vicky - Starbucks
+  📍 Starbucks, Middle Meadow Walk, Edinburgh
+  📄 [[calendar/starbucks-meet-20260526.ics]]
+- **20260525** 17:30-19:00 | Welcome coffee with Paul Tang
+  📍 Cult Coffee Roasters, Buccleuch Street, EH8 9NG
+  📄 [[calendar/paul-welcome-20260525.ics]]
+***
+*提取来源: IMAP + AI 分析邮件 | 2026-06-23*
