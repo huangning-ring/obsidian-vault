@@ -253,3 +253,596 @@ STATUS:TENTATIVE
 END:VEVENT
 
 END:VCALENDAR
+\nBEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:-//email-scan//All Events//EN\r\nCALSCALE:GREGORIAN\r\nMETHOD:PUBLISH\r\nBEGIN:VEVENT\r\nUID:clinical-genomes-scotland---7t-2026-09-07-3\r\nDTSTAMP:20260627T144241Z\r\nDTSTART:2026-09-T7T1000\r\nDTEND:2026-09-T7T1100\r\nSUMMARY:Clinical Genomes Scotland - 7th September 2026 - RCPE\, Edinburgh - Save the Date!\r\nLOCATION:the Clinical Genomes Scotland meeting\r\nEND:VEVENT\r\nEND:VCALENDAR\nBEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:-//email-scan//All Events//EN\r\nCALSCALE:GREGORIAN\r\nMETHOD:PUBLISH\r\nBEGIN:VEVENT\r\nUID:the-physiological-society-hodg-2026-07-03-1\r\nDTSTAMP:20260627T144241Z\r\nDTSTART:2026-07-T3T1200\r\nDTEND:2026-07-T3T1700\r\nSUMMARY:The Physiological Society Hodgkin Huxley Katz Prize Lecture and Mary Pickford Lecture with Professor Kristen Harris\, Friday 3rd July at 12.30pm\r\nDESCRIPTION:Kristen Harris | Host: Professor David Wyllie<https://www.research.ed.ac.uk/en/persons/david-wyllie/>\r\nLOCATION:Anatomy Lecture Theatre at Teviot delivered by Professor Kristen Harris<https://neuroscience.utexas.edu/directory/kristen-harris>.\r\nORGANIZER;CN=Professor David Wyllie<https://www.research.ed.ac.uk/en/persons/david-wyllie/>:mailto:https://www.research.ed.ac.uk/en/persons/david-wyllie/\r\nEND:VEVENT\r\nEND:VCALENDAR\nBEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:-//email-scan//All Events//EN\r\nCALSCALE:GREGORIAN\r\nMETHOD:PUBLISH\r\nBEGIN:VEVENT\r\nUID:fw--the-physiological-society--2026-07-03-4\r\nDTSTAMP:20260627T144241Z\r\nDTSTART:2026-07-T3T1200\r\nDTEND:2026-07-T3T1700\r\nSUMMARY:FW: The Physiological Society Hodgkin Huxley Katz Prize Lecture and Mary Pickford Lecture with Professor Kristen Harris\, Friday 3rd July at 12.30pm\r\nDESCRIPTION:Kristen Harris | Host: Professor David Wyllie\r\nLOCATION:Anatomy Lecture Theatre at Teviot delivered by Professor Kristen Harris.\r\nORGANIZER;CN=Professor David Wyllie:mailto:\r\nEND:VEVENT\r\nEND:VCALENDAR\nBEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:-//email-scan//All Events//EN\r\nCALSCALE:GREGORIAN\r\nMETHOD:PUBLISH\r\nBEGIN:VEVENT\r\nUID:cir-seminar-friday-26th-june-1-2026-06-26-0\r\nDTSTAMP:20260627T144241Z\r\nDTSTART:2026-06-T6T1300\r\nDTEND:2026-06-T6T1400\r\nSUMMARY:CIR seminar Friday 26th June 1pm - Dr Ioannis Tsagakis\r\nDESCRIPTION:Ioannis Tsagakis
+
+Dear All | Host: Dr Chengcan Yao\r\nLOCATION:Scotland\r\nORGANIZER;CN=Dr Chengcan Yao:mailto:\r\nEND:VEVENT\r\nEND:VCALENDAR\nBEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:-//email-scan//All Events//EN\r\nCALSCALE:GREGORIAN\r\nMETHOD:PUBLISH\r\nBEGIN:VEVENT\r\nUID:genetics-society-anniversary-d-2026-06-25-2\r\nDTSTAMP:20260627T144241Z\r\nDTSTART:2026-06-T5T1000\r\nDTEND:2026-06-T5T1100\r\nSUMMARY:Genetics Society Anniversary Day - Edinburgh Final Information\r\nLOCATION:Edinburgh\r\nEND:VEVENT\r\nEND:VCALENDAR\nBEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:-//email-scan//All Events//EN\r\nCALSCALE:GREGORIAN\r\nMETHOD:PUBLISH\r\nBEGIN:VEVENT\r\nUID:seminar-series---wednesday-24t-2026-06-24-5\r\nDTSTAMP:20260627T144241Z\r\nDTSTART:2026-06-T4T1300\r\nDTEND:2026-06-T4T1400\r\nSUMMARY:SEMINAR SERIES:  WEDNESDAY 24TH JUNE 2026\r\nDESCRIPTION: | Host: Mark Miller\r\nLOCATION:human studies.\r\nORGANIZER;CN=Mark Miller:mailto:\r\nEND:VEVENT\r\nEND:VCALENDAR\nBEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:-//email-scan//All Events//EN\r\nCALSCALE:GREGORIAN\r\nMETHOD:PUBLISH\r\nBEGIN:VEVENT\r\nUID:minder-for-edinburgh-diabetes--2026-06-22-6\r\nDTSTAMP:20260627T144241Z\r\nDTSTART:2026-06-T2T0900\r\nDTEND:2026-06-T2T1600\r\nSUMMARY:minder for Edinburgh Diabetes Day 2026\r\nLOCATION:your phone's digital wallet for the fastest entry!\r\nEND:VEVENT\r\nEND:VCALENDAR\nBEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:-//email-scan//All Events//EN\r\nCALSCALE:GREGORIAN\r\nMETHOD:PUBLISH\r\nBEGIN:VEVENT\r\nUID:seminar-series---monday-22nd-j-2026-06-22-7\r\nDTSTAMP:20260627T144241Z\r\nDTSTART:2026-06-T2T1300\r\nDTEND:2026-06-T2T1400\r\nSUMMARY:SEMINAR SERIES:  Monday 22nd June 2026\r\nDESCRIPTION:Victoria Salem
+
+Title | Host: Ahmad Al-Mrabeh\r\nLOCATION:The Larder:  1300-1330\r\nORGANIZER;CN=Ahmad Al-Mrabeh:mailto:\r\nEND:VEVENT\r\nEND:VCALENDAR\nBEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:-//email-scan//All Events//EN\r\nCALSCALE:GREGORIAN\r\nMETHOD:PUBLISH\r\nBEGIN:VEVENT\r\nUID:cir-seminars-week-of-22nd-june-2026-06-22-8\r\nDTSTAMP:20260627T144241Z\r\nDTSTART:2026-06-T2T1200\r\nDTEND:2026-06-T2T1300\r\nSUMMARY:CIR seminars week of 22nd June\r\nDESCRIPTION:Borko Amulic | Host: Dr Sonja Vermeren\r\nLOCATION:Immunology\r\nORGANIZER;CN=Dr Sonja Vermeren:mailto:\r\nEND:VEVENT\r\nEND:VCALENDAR\nBEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:-//email-scan//All Events//EN\r\nCALSCALE:GREGORIAN\r\nMETHOD:PUBLISH\r\nBEGIN:VEVENT\r\nUID:edinburgh-diabetes-day-2026-2026-06-22-22\r\nDTSTAMP:20260627T144241Z\r\nDTSTART:2026-06-T2T1000\r\nDTEND:2026-06-T2T1100\r\nSUMMARY:Edinburgh Diabetes Day 2026\r\nDESCRIPTION:Victoria Salem\r\nLOCATION:QMRI which would be interesting to you\r\nEND:VEVENT\r\nEND:VCALENDAR\nBEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:-//email-scan//All Events//EN\r\nCALSCALE:GREGORIAN\r\nMETHOD:PUBLISH\r\nBEGIN:VEVENT\r\nUID:seminar-series---wednesday-17t-2026-06-17-10\r\nDTSTAMP:20260627T144241Z\r\nDTSTART:2026-06-T7T1300\r\nDTEND:2026-06-T7T1400\r\nSUMMARY:SEMINAR SERIES:  Wednesday 17th June 2026\r\nDESCRIPTION:Ian Mudway | Host: Sari Pennings:\r\nLOCATION:Barrier Dysfunction"\r\nORGANIZER;CN=Sari Pennings::mailto:\r\nEND:VEVENT\r\nEND:VCALENDAR\nBEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:-//email-scan//All Events//EN\r\nCALSCALE:GREGORIAN\r\nMETHOD:PUBLISH\r\nBEGIN:VEVENT\r\nUID:one-health-genomics-edinburgh--2026-06-16-26\r\nDTSTAMP:20260627T144241Z\r\nDTSTART:2026-06-T6T1000\r\nDTEND:2026-06-T6T1100\r\nSUMMARY:One Health Genomics Edinburgh Community Meeting - Registration now open - 16th June 2026\r\nDESCRIPTION:Wendy Bickmore\r\nLOCATION:June\r\nEND:VEVENT\r\nEND:VCALENDAR\nBEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:-//email-scan//All Events//EN\r\nCALSCALE:GREGORIAN\r\nMETHOD:PUBLISH\r\nBEGIN:VEVENT\r\nUID:ohge-community-meeting---june--2026-06-12-9\r\nDTSTAMP:20260627T144241Z\r\nDTSTART:2026-06-T2T1000\r\nDTEND:2026-06-T2T1100\r\nSUMMARY:OHGE Community Meeting - June 16th - Appleton Tower\r\nLOCATION:the OHGE Community Meeting tomorrow.\r\nEND:VEVENT\r\nEND:VCALENDAR\nBEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:-//email-scan//All Events//EN\r\nCALSCALE:GREGORIAN\r\nMETHOD:PUBLISH\r\nBEGIN:VEVENT\r\nUID:fw--igc-seminar-2026-06-12-11\r\nDTSTAMP:20260627T144241Z\r\nDTSTART:2026-06-T2T1300\r\nDTEND:2026-06-T2T1400\r\nSUMMARY:Fw: IGC Seminar\r\nDESCRIPTION: | Host: &nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\; Nick Gilbert\r\nLOCATION:mammalian cells.&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;\r\nORGANIZER;CN=&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\; Nick Gilbert:mailto:\r\nEND:VEVENT\r\nEND:VCALENDAR\nBEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:-//email-scan//All Events//EN\r\nCALSCALE:GREGORIAN\r\nMETHOD:PUBLISH\r\nBEGIN:VEVENT\r\nUID:igc-seminar-2026-06-12-12\r\nDTSTAMP:20260627T144241Z\r\nDTSTART:2026-06-T2T1300\r\nDTEND:2026-06-T2T1400\r\nSUMMARY:IGC Seminar\r\nDESCRIPTION: | Host: Nick Gilbert\r\nLOCATION:mammalian cells.\r\nORGANIZER;CN=Nick Gilbert:mailto:\r\nEND:VEVENT\r\nEND:VCALENDAR\nBEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:-//email-scan//All Events//EN\r\nCALSCALE:GREGORIAN\r\nMETHOD:PUBLISH\r\nBEGIN:VEVENT\r\nUID:crh-seminar----friday---12-jun-2026-06-12-15\r\nDTSTAMP:20260627T144241Z\r\nDTSTART:2026-06-T2T1400\r\nDTEND:2026-06-T2T1500\r\nSUMMARY:CRH SEMINAR - *FRIDAY*\, 12 JUNE 2026 - PROFESSOR SARAH KIMMINS\, DEPARTMENT OF PATHOLOGY AND CELL BIOLOGY\, UNIVERSITY OF MONTREAL\, CANADA\r\nDESCRIPTION:Sarah Kimmins | Host: NIAMH FORDE\r\nLOCATION:McGill University. She completed her PhD at Dalhousie University (Nova Scotia\r\nORGANIZER;CN=NIAMH FORDE:mailto:\r\nEND:VEVENT\r\nEND:VCALENDAR\nBEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:-//email-scan//All Events//EN\r\nCALSCALE:GREGORIAN\r\nMETHOD:PUBLISH\r\nBEGIN:VEVENT\r\nUID:summer-eig-symposium-on-thursd-2026-06-11-14\r\nDTSTAMP:20260627T144241Z\r\nDTSTART:2026-06-T1T1300\r\nDTEND:2026-06-T1T1400\r\nSUMMARY:Summer EIG symposium on Thursday\r\nDESCRIPTION:Juan Quintana\r\nLOCATION:us on Thursday 11th June\r\nEND:VEVENT\r\nEND:VCALENDAR\nBEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:-//email-scan//All Events//EN\r\nCALSCALE:GREGORIAN\r\nMETHOD:PUBLISH\r\nBEGIN:VEVENT\r\nUID:seminar-series---wednesday-10t-2026-06-10-19\r\nDTSTAMP:20260627T144241Z\r\nDTSTART:2026-06-T0T1300\r\nDTEND:2026-06-T0T1400\r\nSUMMARY:SEMINAR SERIES:  Wednesday 10th June 2026\r\nDESCRIPTION: | Host: Cecile Benezech\r\nLOCATION:heart disease”\r\nORGANIZER;CN=Cecile Benezech:mailto:\r\nEND:VEVENT\r\nEND:VCALENDAR\nBEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:-//email-scan//All Events//EN\r\nCALSCALE:GREGORIAN\r\nMETHOD:PUBLISH\r\nBEGIN:VEVENT\r\nUID:winston-zhao-condensate-semina-2026-06-09-13\r\nDTSTAMP:20260627T144241Z\r\nDTSTART:2026-06-T9T1500\r\nDTEND:2026-06-T9T1600\r\nSUMMARY:Winston Zhao Condensate seminar Monday June 15 at 3 pm\r\nLOCATION:Remodeler Dynamics\r\nEND:VEVENT\r\nEND:VCALENDAR\nBEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:-//email-scan//All Events//EN\r\nCALSCALE:GREGORIAN\r\nMETHOD:PUBLISH\r\nBEGIN:VEVENT\r\nUID:fw--cir-seminar-today-monday-8-2026-06-08-16\r\nDTSTAMP:20260627T144241Z\r\nDTSTART:2026-06-T8T1200\r\nDTEND:2026-06-T8T1300\r\nSUMMARY:Fw: CIR seminar TODAY Monday 8th June 12pm - Professor Chris Seymour\r\nDESCRIPTION:Chris Seymour
+
+
+  
+ 
+   
+ 
+ 
+  
+ 
+ From | Host: Professor Kenny Baillie\r\nLOCATION:the IRR South large seminar room. Following the seminar\r\nORGANIZER;CN=Professor Kenny Baillie:mailto:\r\nEND:VEVENT\r\nEND:VCALENDAR\nBEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:-//email-scan//All Events//EN\r\nCALSCALE:GREGORIAN\r\nMETHOD:PUBLISH\r\nBEGIN:VEVENT\r\nUID:cir-seminar-today-monday-8th-j-2026-06-08-17\r\nDTSTAMP:20260627T144241Z\r\nDTSTART:2026-06-T8T1200\r\nDTEND:2026-06-T8T1300\r\nSUMMARY:CIR seminar TODAY Monday 8th June 12pm - Professor Chris Seymour\r\nDESCRIPTION:Chris Seymour
+
+
+Dear All | Host: Professor Kenny Baillie\r\nLOCATION:the IRR South large seminar room. Following the seminar\r\nORGANIZER;CN=Professor Kenny Baillie:mailto:\r\nEND:VEVENT\r\nEND:VCALENDAR\nBEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:-//email-scan//All Events//EN\r\nCALSCALE:GREGORIAN\r\nMETHOD:PUBLISH\r\nBEGIN:VEVENT\r\nUID:cir-seminar-monday-8th-june-12-2026-06-08-21\r\nDTSTAMP:20260627T144241Z\r\nDTSTART:2026-06-T8T1200\r\nDTEND:2026-06-T8T1300\r\nSUMMARY:CIR seminar MONDAY 8th June 12pm - Professor Chris Seymour\r\nDESCRIPTION:Chris Seymour
+
+Dear All
+
+The | Host: Professor Kenny Baillie\r\nLOCATION:the IRR South large seminar room. Following the seminar\r\nORGANIZER;CN=Professor Kenny Baillie:mailto:\r\nEND:VEVENT\r\nEND:VCALENDAR\nBEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:-//email-scan//All Events//EN\r\nCALSCALE:GREGORIAN\r\nMETHOD:PUBLISH\r\nBEGIN:VEVENT\r\nUID:meeting---summer-school-arrang-2026-06-05-34\r\nDTSTAMP:20260627T144241Z\r\nDTSTART:2026-06-T5T1500\r\nDTEND:2026-06-T5T1600\r\nSUMMARY:Meeting & Summer School arrangements\r\nLOCATION:Edinburgh\r\nEND:VEVENT\r\nEND:VCALENDAR\nBEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:-//email-scan//All Events//EN\r\nCALSCALE:GREGORIAN\r\nMETHOD:PUBLISH\r\nBEGIN:VEVENT\r\nUID:fancy-imaging-demo--zeiss-ligh-2026-06-04-18\r\nDTSTAMP:20260627T144241Z\r\nDTSTART:2026-06-T4T0900\r\nDTEND:2026-06-T4T1700\r\nSUMMARY:Fancy Imaging demo: Zeiss Lightfield and LSM 990 Airyscan demo\r\nLOCATION:the Zebrafish Imaging Facility at the Chancellor’s Building\r\nEND:VEVENT\r\nEND:VCALENDAR\nBEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:-//email-scan//All Events//EN\r\nCALSCALE:GREGORIAN\r\nMETHOD:PUBLISH\r\nBEGIN:VEVENT\r\nUID:macrae-lab-meeting-2026-06-04-20\r\nDTSTAMP:20260627T144241Z\r\nDTSTART:2026-06-T4T0900\r\nDTEND:2026-06-T4T1000\r\nSUMMARY:MacRae lab meeting\r\nEND:VEVENT\r\nEND:VCALENDAR\nBEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:-//email-scan//All Events//EN\r\nCALSCALE:GREGORIAN\r\nMETHOD:PUBLISH\r\nBEGIN:VEVENT\r\nUID:next-livsct-ri-meeting--thursd-2026-06-04-27\r\nDTSTAMP:20260627T144241Z\r\nDTSTART:2026-06-T4T1400\r\nDTEND:2026-06-T4T1500\r\nSUMMARY:Next LivSCt@RI meeting: Thursday 4th June @ 14.30 Rm 1-003  " Ubiquitin and regulation of mitochondrial health"\r\nDESCRIPTION:Mike Clague\r\nLOCATION:and regulation of mitochondrial health"\r\nEND:VEVENT\r\nEND:VCALENDAR\nBEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:-//email-scan//All Events//EN\r\nCALSCALE:GREGORIAN\r\nMETHOD:PUBLISH\r\nBEGIN:VEVENT\r\nUID:seminar-series---wednesday-3rd-2026-06-03-30\r\nDTSTAMP:20260627T144241Z\r\nDTSTART:2026-06-T3T1300\r\nDTEND:2026-06-T3T1400\r\nSUMMARY:SEMINAR SERIES:  Wednesday 3rd June 2026\r\nDESCRIPTION: | Host: Angus Comerford\r\nLOCATION:Are Catapult?”\r\nORGANIZER;CN=Angus Comerford:mailto:\r\nEND:VEVENT\r\nEND:VCALENDAR\nBEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:-//email-scan//All Events//EN\r\nCALSCALE:GREGORIAN\r\nMETHOD:PUBLISH\r\nBEGIN:VEVENT\r\nUID:induction-day-for-new-starts---2026-06-02-29\r\nDTSTAMP:20260627T144241Z\r\nDTSTART:2026-06-T2T0900\r\nDTEND:2026-06-T2T1700\r\nSUMMARY:Induction Day for New Starts - Tuesday 2nd June\r\nLOCATION:the Roslin Institute outside room B-006 at 9am for coffee\r\nEND:VEVENT\r\nEND:VCALENDAR\nBEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:-//email-scan//All Events//EN\r\nCALSCALE:GREGORIAN\r\nMETHOD:PUBLISH\r\nBEGIN:VEVENT\r\nUID:vip-seminar-today--13-30-14-30-2026-06-01-23\r\nDTSTAMP:20260627T144241Z\r\nDTSTART:2026-06-T1T1300\r\nDTEND:2026-06-T1T1400\r\nSUMMARY:VIP Seminar today (13:30-14:30)\r\nDESCRIPTION:Tim Hore
+
+University | Host: a speaker travelling all the way from New Zealand — a truly special occasion given the distance involved.\r\nLOCATION:maximum.\r\nORGANIZER;CN=a speaker travelling all the way from New Zealand — a truly special occasion given the distance involved.:mailto:\r\nEND:VEVENT\r\nEND:VCALENDAR\nBEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:-//email-scan//All Events//EN\r\nCALSCALE:GREGORIAN\r\nMETHOD:PUBLISH\r\nBEGIN:VEVENT\r\nUID:lab-induction-at-10-am-2026-06-01-24\r\nDTSTAMP:20260627T144241Z\r\nDTSTART:2026-06-T1T1000\r\nDTEND:2026-06-T1T1700\r\nSUMMARY:Lab induction at 10 am\r\nLOCATION:the afternoon as suggested.\r\nEND:VEVENT\r\nEND:VCALENDAR\nBEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:-//email-scan//All Events//EN\r\nCALSCALE:GREGORIAN\r\nMETHOD:PUBLISH\r\nBEGIN:VEVENT\r\nUID:fw--vip-seminar-today--13-30-1-2026-06-01-25\r\nDTSTAMP:20260627T144241Z\r\nDTSTART:2026-06-T1T1300\r\nDTEND:2026-06-T1T1400\r\nSUMMARY:Fw: VIP Seminar today (13:30-14:30)\r\nDESCRIPTION:Tim Hore
+ 
+ University | Host: a speaker travelling all the way from New Zealand — a truly special occasion given the distance involved.\r\nLOCATION:case you are free and interested.\r\nORGANIZER;CN=a speaker travelling all the way from New Zealand — a truly special occasion given the distance involved.:mailto:\r\nEND:VEVENT\r\nEND:VCALENDAR\nBEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:-//email-scan//All Events//EN\r\nCALSCALE:GREGORIAN\r\nMETHOD:PUBLISH\r\nBEGIN:VEVENT\r\nUID:crh-seminar----friday--29-may--2026-05-29-28\r\nDTSTAMP:20260627T144241Z\r\nDTSTART:2026-05-T9T1400\r\nDTEND:2026-05-T9T1500\r\nSUMMARY:CRH SEMINAR - *FRIDAY*\,29 MAY 2026 - Professor Sarah Martins da Silva\, Reproduction and Fertility Medicine\, University of Dundee\r\nDESCRIPTION:Sarah Martins | Host: Andrew Horne\r\nLOCATION:Scotland\r\nORGANIZER;CN=Andrew Horne:mailto:\r\nEND:VEVENT\r\nEND:VCALENDAR\nBEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:-//email-scan//All Events//EN\r\nCALSCALE:GREGORIAN\r\nMETHOD:PUBLISH\r\nBEGIN:VEVENT\r\nUID:re-re--crh-seminar----friday---2026-05-29-32\r\nDTSTAMP:20260627T144241Z\r\nDTSTART:2026-05-T9T1400\r\nDTEND:2026-05-T9T1500\r\nSUMMARY:Re:RE: CRH SEMINAR - *FRIDAY*\,29 MAY 2026 - Professor Sarah Martins da Silva\, Reproduction and Fertility Medicine\, University of Dundee\r\nDESCRIPTION:Sarah Martins | Host: Andrew Horne\r\nLOCATION:Starbucks – my mobile is  44 7434 771588 if any issues 😊\r\nORGANIZER;CN=Andrew Horne:mailto:\r\nEND:VEVENT\r\nEND:VCALENDAR\nBEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:-//email-scan//All Events//EN\r\nCALSCALE:GREGORIAN\r\nMETHOD:PUBLISH\r\nBEGIN:VEVENT\r\nUID:re--crh-seminar----friday--29--2026-05-29-33\r\nDTSTAMP:20260627T144241Z\r\nDTSTART:2026-05-T9T1400\r\nDTEND:2026-05-T9T1500\r\nSUMMARY:RE: CRH SEMINAR - *FRIDAY*\,29 MAY 2026 - Professor Sarah Martins da Silva\, Reproduction and Fertility Medicine\, University of Dundee\r\nDESCRIPTION:Tim Hore | Host: Andrew Horne\r\nLOCATION:to have such interesting topics in reproductive medicine coming up at Roslin.\r\nORGANIZER;CN=Andrew Horne:mailto:\r\nEND:VEVENT\r\nEND:VCALENDAR\nBEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:-//email-scan//All Events//EN\r\nCALSCALE:GREGORIAN\r\nMETHOD:PUBLISH\r\nBEGIN:VEVENT\r\nUID:today-s-cir-seminar-2026-05-26-31\r\nDTSTAMP:20260627T144241Z\r\nDTSTART:2026-05-T6T1100\r\nDTEND:2026-05-T6T1200\r\nSUMMARY:Today's CIR seminar\r\nDESCRIPTION:Saghi Ghaffari
+
+Hi All | Host: Professor Chris Lucas\r\nLOCATION:QMRI reception at 11:30am?  So that I can guide you all together there\r\nORGANIZER;CN=Professor Chris Lucas:mailto:\r\nEND:VEVENT\r\nEND:VCALENDAR\nBEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:-//email-scan//All Events//EN\r\nCALSCALE:GREGORIAN\r\nMETHOD:PUBLISH\r\nBEGIN:VEVENT\r\nUID:fw--cir-seminar-tuesday-26th-m-2026-05-26-36\r\nDTSTAMP:20260627T144241Z\r\nDTSTART:2026-05-T6T1400\r\nDTEND:2026-05-T6T1500\r\nSUMMARY:Fw: CIR seminar TUESDAY 26th May - Professor Saghi Ghaffari\r\nDESCRIPTION:Saghi Ghaffari
+
+
+
+  Hi All | Host: Professor Chris Lucas\r\nLOCATION:IRR about the Stem cell and Aging. Free to go if anyone want to come!\r\nORGANIZER;CN=Professor Chris Lucas:mailto:\r\nEND:VEVENT\r\nEND:VCALENDAR\nBEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:-//email-scan//All Events//EN\r\nCALSCALE:GREGORIAN\r\nMETHOD:PUBLISH\r\nBEGIN:VEVENT\r\nUID:cir-seminar-tuesday-26th-may---2026-05-26-37\r\nDTSTAMP:20260627T144241Z\r\nDTSTART:2026-05-T6T1200\r\nDTEND:2026-05-T6T1300\r\nSUMMARY:CIR seminar TUESDAY 26th May - Professor Saghi Ghaffari\r\nDESCRIPTION:Saghi Ghaffari
+
+Hi All | Host: Professor Chris Lucas\r\nLOCATION:seminar to go to 😊\r\nORGANIZER;CN=Professor Chris Lucas:mailto:\r\nEND:VEVENT\r\nEND:VCALENDAR\nBEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:-//email-scan//All Events//EN\r\nCALSCALE:GREGORIAN\r\nMETHOD:PUBLISH\r\nBEGIN:VEVENT\r\nUID:special-condensate-seminar-win-2026-05-20-35\r\nDTSTAMP:20260627T144241Z\r\nDTSTART:2026-05-T0T1500\r\nDTEND:2026-05-T0T1600\r\nSUMMARY:Special condensate seminar Winston Zhao from NUS on June 15 at 3 pm\r\nLOCATION:June – its at our science and engineering campus\r\nEND:VEVENT\r\nEND:VCALENDAR
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//email-scan//All Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:clinical-genomes-scotland---7t-2026-09-07-3
+DTSTAMP:20260627T144659Z
+DTSTART:2026-09-T7T1000
+DTEND:2026-09-T7T1100
+SUMMARY:Clinical Genomes Scotland - 7th September 2026 - RCPE\, Edinburgh - Save the Date!
+LOCATION:the Clinical Genomes Scotland meeting
+END:VEVENT
+END:VCALENDAR
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//email-scan//All Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:the-physiological-society-hodg-2026-07-03-1
+DTSTAMP:20260627T144659Z
+DTSTART:2026-07-T3T1200
+DTEND:2026-07-T3T1700
+SUMMARY:The Physiological Society Hodgkin Huxley Katz Prize Lecture and Mary Pickford Lecture with Professor Kristen Harris\, Friday 3rd July at 12.30pm
+DESCRIPTION:Kristen Harris | Host: Professor David Wyllie<https://www.research.ed.ac.uk/en/persons/david-wyllie/>
+LOCATION:Anatomy Lecture Theatre at Teviot delivered by Professor Kristen Harris<https://neuroscience.utexas.edu/directory/kristen-harris>.
+ORGANIZER;CN=Professor David Wyllie<https://www.research.ed.ac.uk/en/persons/david-wyllie/>:mailto:https://www.research.ed.ac.uk/en/persons/david-wyllie/
+END:VEVENT
+END:VCALENDAR
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//email-scan//All Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:fw--the-physiological-society--2026-07-03-4
+DTSTAMP:20260627T144659Z
+DTSTART:2026-07-T3T1200
+DTEND:2026-07-T3T1700
+SUMMARY:FW: The Physiological Society Hodgkin Huxley Katz Prize Lecture and Mary Pickford Lecture with Professor Kristen Harris\, Friday 3rd July at 12.30pm
+DESCRIPTION:Kristen Harris | Host: Professor David Wyllie
+LOCATION:Anatomy Lecture Theatre at Teviot delivered by Professor Kristen Harris.
+END:VEVENT
+END:VCALENDAR
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//email-scan//All Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:cir-seminar-friday-26th-june-1-2026-06-26-0
+DTSTAMP:20260627T144659Z
+DTSTART:2026-06-T6T1300
+DTEND:2026-06-T6T1400
+SUMMARY:CIR seminar Friday 26th June 1pm - Dr Ioannis Tsagakis
+DESCRIPTION:Ioannis Tsagakis\n\nDear All | Host: Dr Chengcan Yao
+LOCATION:Scotland
+END:VEVENT
+END:VCALENDAR
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//email-scan//All Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:genetics-society-anniversary-d-2026-06-25-2
+DTSTAMP:20260627T144659Z
+DTSTART:2026-06-T5T1000
+DTEND:2026-06-T5T1100
+SUMMARY:Genetics Society Anniversary Day - Edinburgh Final Information
+LOCATION:Edinburgh
+END:VEVENT
+END:VCALENDAR
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//email-scan//All Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:seminar-series---wednesday-24t-2026-06-24-5
+DTSTAMP:20260627T144659Z
+DTSTART:2026-06-T4T1300
+DTEND:2026-06-T4T1400
+SUMMARY:SEMINAR SERIES:  WEDNESDAY 24TH JUNE 2026
+DESCRIPTION: | Host: Mark Miller
+LOCATION:human studies.
+END:VEVENT
+END:VCALENDAR
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//email-scan//All Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:minder-for-edinburgh-diabetes--2026-06-22-6
+DTSTAMP:20260627T144659Z
+DTSTART:2026-06-T2T0900
+DTEND:2026-06-T2T1600
+SUMMARY:minder for Edinburgh Diabetes Day 2026
+LOCATION:your phone's digital wallet for the fastest entry!
+END:VEVENT
+END:VCALENDAR
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//email-scan//All Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:seminar-series---monday-22nd-j-2026-06-22-7
+DTSTAMP:20260627T144659Z
+DTSTART:2026-06-T2T1300
+DTEND:2026-06-T2T1400
+SUMMARY:SEMINAR SERIES:  Monday 22nd June 2026
+DESCRIPTION:Victoria Salem\n\nTitle | Host: Ahmad Al-Mrabeh
+LOCATION:The Larder:  1300-1330
+END:VEVENT
+END:VCALENDAR
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//email-scan//All Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:cir-seminars-week-of-22nd-june-2026-06-22-8
+DTSTAMP:20260627T144659Z
+DTSTART:2026-06-T2T1200
+DTEND:2026-06-T2T1300
+SUMMARY:CIR seminars week of 22nd June
+DESCRIPTION:Borko Amulic | Host: Dr Sonja Vermeren
+LOCATION:Immunology
+END:VEVENT
+END:VCALENDAR
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//email-scan//All Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:edinburgh-diabetes-day-2026-2026-06-22-22
+DTSTAMP:20260627T144659Z
+DTSTART:2026-06-T2T1000
+DTEND:2026-06-T2T1100
+SUMMARY:Edinburgh Diabetes Day 2026
+DESCRIPTION:Victoria Salem
+LOCATION:QMRI which would be interesting to you
+END:VEVENT
+END:VCALENDAR
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//email-scan//All Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:seminar-series---wednesday-17t-2026-06-17-10
+DTSTAMP:20260627T144659Z
+DTSTART:2026-06-T7T1300
+DTEND:2026-06-T7T1400
+SUMMARY:SEMINAR SERIES:  Wednesday 17th June 2026
+DESCRIPTION:Ian Mudway | Host: Sari Pennings:
+LOCATION:Barrier Dysfunction"
+END:VEVENT
+END:VCALENDAR
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//email-scan//All Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:one-health-genomics-edinburgh--2026-06-16-26
+DTSTAMP:20260627T144659Z
+DTSTART:2026-06-T6T1000
+DTEND:2026-06-T6T1100
+SUMMARY:One Health Genomics Edinburgh Community Meeting - Registration now open - 16th June 2026
+DESCRIPTION:Wendy Bickmore
+LOCATION:June
+END:VEVENT
+END:VCALENDAR
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//email-scan//All Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ohge-community-meeting---june--2026-06-12-9
+DTSTAMP:20260627T144659Z
+DTSTART:2026-06-T2T1000
+DTEND:2026-06-T2T1100
+SUMMARY:OHGE Community Meeting - June 16th - Appleton Tower
+LOCATION:the OHGE Community Meeting tomorrow.
+END:VEVENT
+END:VCALENDAR
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//email-scan//All Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:fw--igc-seminar-2026-06-12-11
+DTSTAMP:20260627T144659Z
+DTSTART:2026-06-T2T1300
+DTEND:2026-06-T2T1400
+SUMMARY:Fw: IGC Seminar
+DESCRIPTION: | Host: &nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\; Nick Gilbert
+LOCATION:mammalian cells.&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;
+END:VEVENT
+END:VCALENDAR
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//email-scan//All Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:igc-seminar-2026-06-12-12
+DTSTAMP:20260627T144659Z
+DTSTART:2026-06-T2T1300
+DTEND:2026-06-T2T1400
+SUMMARY:IGC Seminar
+DESCRIPTION: | Host: Nick Gilbert
+LOCATION:mammalian cells.
+END:VEVENT
+END:VCALENDAR
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//email-scan//All Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:crh-seminar----friday---12-jun-2026-06-12-15
+DTSTAMP:20260627T144659Z
+DTSTART:2026-06-T2T1400
+DTEND:2026-06-T2T1500
+SUMMARY:CRH SEMINAR - *FRIDAY*\, 12 JUNE 2026 - PROFESSOR SARAH KIMMINS\, DEPARTMENT OF PATHOLOGY AND CELL BIOLOGY\, UNIVERSITY OF MONTREAL\, CANADA
+DESCRIPTION:Sarah Kimmins | Host: NIAMH FORDE
+LOCATION:McGill University. She completed her PhD at Dalhousie University (Nova Scotia
+END:VEVENT
+END:VCALENDAR
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//email-scan//All Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:summer-eig-symposium-on-thursd-2026-06-11-14
+DTSTAMP:20260627T144659Z
+DTSTART:2026-06-T1T1300
+DTEND:2026-06-T1T1400
+SUMMARY:Summer EIG symposium on Thursday
+DESCRIPTION:Juan Quintana
+LOCATION:us on Thursday 11th June
+END:VEVENT
+END:VCALENDAR
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//email-scan//All Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:seminar-series---wednesday-10t-2026-06-10-19
+DTSTAMP:20260627T144659Z
+DTSTART:2026-06-T0T1300
+DTEND:2026-06-T0T1400
+SUMMARY:SEMINAR SERIES:  Wednesday 10th June 2026
+DESCRIPTION: | Host: Cecile Benezech
+LOCATION:heart disease”
+END:VEVENT
+END:VCALENDAR
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//email-scan//All Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:winston-zhao-condensate-semina-2026-06-09-13
+DTSTAMP:20260627T144659Z
+DTSTART:2026-06-T9T1500
+DTEND:2026-06-T9T1600
+SUMMARY:Winston Zhao Condensate seminar Monday June 15 at 3 pm
+LOCATION:Remodeler Dynamics
+END:VEVENT
+END:VCALENDAR
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//email-scan//All Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:fw--cir-seminar-today-monday-8-2026-06-08-16
+DTSTAMP:20260627T144659Z
+DTSTART:2026-06-T8T1200
+DTEND:2026-06-T8T1300
+SUMMARY:Fw: CIR seminar TODAY Monday 8th June 12pm - Professor Chris Seymour
+DESCRIPTION:Chris Seymour\n\n\n  \n \n   \n \n \n  \n \n From | Host: Professor Kenny Baillie
+LOCATION:the IRR South large seminar room. Following the seminar
+END:VEVENT
+END:VCALENDAR
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//email-scan//All Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:cir-seminar-today-monday-8th-j-2026-06-08-17
+DTSTAMP:20260627T144659Z
+DTSTART:2026-06-T8T1200
+DTEND:2026-06-T8T1300
+SUMMARY:CIR seminar TODAY Monday 8th June 12pm - Professor Chris Seymour
+DESCRIPTION:Chris Seymour\n\n\nDear All | Host: Professor Kenny Baillie
+LOCATION:the IRR South large seminar room. Following the seminar
+END:VEVENT
+END:VCALENDAR
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//email-scan//All Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:cir-seminar-monday-8th-june-12-2026-06-08-21
+DTSTAMP:20260627T144659Z
+DTSTART:2026-06-T8T1200
+DTEND:2026-06-T8T1300
+SUMMARY:CIR seminar MONDAY 8th June 12pm - Professor Chris Seymour
+DESCRIPTION:Chris Seymour\n\nDear All\n\nThe | Host: Professor Kenny Baillie
+LOCATION:the IRR South large seminar room. Following the seminar
+END:VEVENT
+END:VCALENDAR
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//email-scan//All Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:meeting---summer-school-arrang-2026-06-05-34
+DTSTAMP:20260627T144659Z
+DTSTART:2026-06-T5T1500
+DTEND:2026-06-T5T1600
+SUMMARY:Meeting & Summer School arrangements
+LOCATION:Edinburgh
+END:VEVENT
+END:VCALENDAR
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//email-scan//All Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:fancy-imaging-demo--zeiss-ligh-2026-06-04-18
+DTSTAMP:20260627T144659Z
+DTSTART:2026-06-T4T0900
+DTEND:2026-06-T4T1700
+SUMMARY:Fancy Imaging demo: Zeiss Lightfield and LSM 990 Airyscan demo
+LOCATION:the Zebrafish Imaging Facility at the Chancellor’s Building
+END:VEVENT
+END:VCALENDAR
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//email-scan//All Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:macrae-lab-meeting-2026-06-04-20
+DTSTAMP:20260627T144659Z
+DTSTART:2026-06-T4T0900
+DTEND:2026-06-T4T1000
+SUMMARY:MacRae lab meeting
+END:VEVENT
+END:VCALENDAR
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//email-scan//All Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:next-livsct-ri-meeting--thursd-2026-06-04-27
+DTSTAMP:20260627T144659Z
+DTSTART:2026-06-T4T1400
+DTEND:2026-06-T4T1500
+SUMMARY:Next LivSCt@RI meeting: Thursday 4th June @ 14.30 Rm 1-003  " Ubiquitin and regulation of mitochondrial health"
+DESCRIPTION:Mike Clague
+LOCATION:and regulation of mitochondrial health"
+END:VEVENT
+END:VCALENDAR
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//email-scan//All Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:seminar-series---wednesday-3rd-2026-06-03-30
+DTSTAMP:20260627T144659Z
+DTSTART:2026-06-T3T1300
+DTEND:2026-06-T3T1400
+SUMMARY:SEMINAR SERIES:  Wednesday 3rd June 2026
+DESCRIPTION: | Host: Angus Comerford
+LOCATION:Are Catapult?”
+END:VEVENT
+END:VCALENDAR
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//email-scan//All Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:induction-day-for-new-starts---2026-06-02-29
+DTSTAMP:20260627T144659Z
+DTSTART:2026-06-T2T0900
+DTEND:2026-06-T2T1700
+SUMMARY:Induction Day for New Starts - Tuesday 2nd June
+LOCATION:the Roslin Institute outside room B-006 at 9am for coffee
+END:VEVENT
+END:VCALENDAR
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//email-scan//All Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:vip-seminar-today--13-30-14-30-2026-06-01-23
+DTSTAMP:20260627T144659Z
+DTSTART:2026-06-T1T1300
+DTEND:2026-06-T1T1400
+SUMMARY:VIP Seminar today (13:30-14:30)
+DESCRIPTION:Tim Hore\n\nUniversity | Host: a speaker travelling all the way from New Zealand — a truly special occasion given the distance involved.
+LOCATION:maximum.
+END:VEVENT
+END:VCALENDAR
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//email-scan//All Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:lab-induction-at-10-am-2026-06-01-24
+DTSTAMP:20260627T144659Z
+DTSTART:2026-06-T1T1000
+DTEND:2026-06-T1T1700
+SUMMARY:Lab induction at 10 am
+LOCATION:the afternoon as suggested.
+END:VEVENT
+END:VCALENDAR
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//email-scan//All Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:fw--vip-seminar-today--13-30-1-2026-06-01-25
+DTSTAMP:20260627T144659Z
+DTSTART:2026-06-T1T1300
+DTEND:2026-06-T1T1400
+SUMMARY:Fw: VIP Seminar today (13:30-14:30)
+DESCRIPTION:Tim Hore\n \n University | Host: a speaker travelling all the way from New Zealand — a truly special occasion given the distance involved.
+LOCATION:case you are free and interested.
+END:VEVENT
+END:VCALENDAR
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//email-scan//All Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:crh-seminar----friday--29-may--2026-05-29-28
+DTSTAMP:20260627T144659Z
+DTSTART:2026-05-T9T1400
+DTEND:2026-05-T9T1500
+SUMMARY:CRH SEMINAR - *FRIDAY*\,29 MAY 2026 - Professor Sarah Martins da Silva\, Reproduction and Fertility Medicine\, University of Dundee
+DESCRIPTION:Sarah Martins | Host: Andrew Horne
+LOCATION:Scotland
+END:VEVENT
+END:VCALENDAR
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//email-scan//All Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:re-re--crh-seminar----friday---2026-05-29-32
+DTSTAMP:20260627T144659Z
+DTSTART:2026-05-T9T1400
+DTEND:2026-05-T9T1500
+SUMMARY:Re:RE: CRH SEMINAR - *FRIDAY*\,29 MAY 2026 - Professor Sarah Martins da Silva\, Reproduction and Fertility Medicine\, University of Dundee
+DESCRIPTION:Sarah Martins | Host: Andrew Horne
+LOCATION:Starbucks – my mobile is  44 7434 771588 if any issues 😊
+END:VEVENT
+END:VCALENDAR
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//email-scan//All Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:re--crh-seminar----friday--29--2026-05-29-33
+DTSTAMP:20260627T144659Z
+DTSTART:2026-05-T9T1400
+DTEND:2026-05-T9T1500
+SUMMARY:RE: CRH SEMINAR - *FRIDAY*\,29 MAY 2026 - Professor Sarah Martins da Silva\, Reproduction and Fertility Medicine\, University of Dundee
+DESCRIPTION:Tim Hore | Host: Andrew Horne
+LOCATION:to have such interesting topics in reproductive medicine coming up at Roslin.
+END:VEVENT
+END:VCALENDAR
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//email-scan//All Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:today-s-cir-seminar-2026-05-26-31
+DTSTAMP:20260627T144659Z
+DTSTART:2026-05-T6T1100
+DTEND:2026-05-T6T1200
+SUMMARY:Today's CIR seminar
+DESCRIPTION:Saghi Ghaffari\n\nHi All | Host: Professor Chris Lucas
+LOCATION:QMRI reception at 11:30am?  So that I can guide you all together there
+END:VEVENT
+END:VCALENDAR
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//email-scan//All Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:fw--cir-seminar-tuesday-26th-m-2026-05-26-36
+DTSTAMP:20260627T144659Z
+DTSTART:2026-05-T6T1400
+DTEND:2026-05-T6T1500
+SUMMARY:Fw: CIR seminar TUESDAY 26th May - Professor Saghi Ghaffari
+DESCRIPTION:Saghi Ghaffari\n\n\n\n  Hi All | Host: Professor Chris Lucas
+LOCATION:IRR about the Stem cell and Aging. Free to go if anyone want to come!
+END:VEVENT
+END:VCALENDAR
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//email-scan//All Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:cir-seminar-tuesday-26th-may---2026-05-26-37
+DTSTAMP:20260627T144659Z
+DTSTART:2026-05-T6T1200
+DTEND:2026-05-T6T1300
+SUMMARY:CIR seminar TUESDAY 26th May - Professor Saghi Ghaffari
+DESCRIPTION:Saghi Ghaffari\n\nHi All | Host: Professor Chris Lucas
+LOCATION:seminar to go to 😊
+END:VEVENT
+END:VCALENDAR
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//email-scan//All Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:special-condensate-seminar-win-2026-05-20-35
+DTSTAMP:20260627T144659Z
+DTSTART:2026-05-T0T1500
+DTEND:2026-05-T0T1600
+SUMMARY:Special condensate seminar Winston Zhao from NUS on June 15 at 3 pm
+LOCATION:June – its at our science and engineering campus
+END:VEVENT
+END:VCALENDAR
