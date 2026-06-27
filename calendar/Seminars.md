@@ -3,19 +3,17 @@
 
 **即将到来 (3)**
 - **20260907** 10:00-11:00 | Clinical Genomes Scotland - 7th September 2026 - RCPE, Edinburgh - Save the Date!
-📍 Royal College of Physicians of Edinburgh.
 🍕 Registration required
 💰 Free
 📝 forum to consider and inform the opportunities and challenges of implementing clinical genomics in Scottish healthcare
   📁 [[calendar/upcoming-20260907.ics]]
 - **20260703** 12:30-17:00 | The Physiological Society Hodgkin Huxley Katz Prize Lecture and Mary Pickford Lecture with Professor Kristen Harris, Friday 3rd July at 12.30pm
 🗣️ Kristen Harris
-Host: Professor David Wyllie<https://www.research.ed.ac.uk/en/persons/david-wyllie/>
+Host: Professor David Wyllie
 Title: ‘Structural synaptic plasticity during long-term potentiation (LTP)’ – Professor Kristen Harris
 🍕 Includes lunch; Drinks reception; Registration required
   📁 [[calendar/upcoming-20260703.ics]]
 - **20260703** 12:30-17:00 | FW: The Physiological Society Hodgkin Huxley Katz Prize Lecture and Mary Pickford Lecture with Professor Kristen Harris, Friday 3rd July at 12.30pm
-📍 Anatomy Lecture Theatre at Teviot delivered by Professor Kristen Harris.
 🗣️ Kristen Harris
 Host: Professor David Wyllie
 Title: ‘Structural synaptic plasticity during long-term potentiation (LTP)’ –  Professor Kristen Harris
@@ -23,10 +21,8 @@ Title: ‘Structural synaptic plasticity during long-term potentiation (LTP)’ 
   📁 [[calendar/upcoming-20260703.ics]]
 
 **已过 (32)**
-- **20260626** 13:00-11:00 | CIR seminar Friday 26th June 1pm - Dr Ioannis Tsagakis
+- **20260626** 13:00-14:00 | CIR seminar Friday 26th June 1pm - Dr Ioannis Tsagakis
 🗣️ Ioannis Tsagakis
-
-Dear All
 Host: Dr Chengcan Yao
 🍕 No student meet-and-greet after talk; Registration required
   📁 [[calendar/upcoming-20260626.ics]]
@@ -44,13 +40,11 @@ Title: There’s a cost to everything.  Why Low energy light bulbs might be bad 
 - **20260622** 13:00-14:00 | SEMINAR SERIES:  Monday 22nd June 2026
 📍 WELLCOME THEATRE
 🗣️ Victoria Salem
-
-Title
 Host: Ahmad Al-Mrabeh
 Title: Non-animal models to study regenerative medicine for diabetes
 🍕 Pizza social:  pizza in the larder:  1300-1330; Registration required
   📁 [[calendar/upcoming-20260622.ics]]
-- **20260622** 12:00-11:00 | CIR seminars week of 22nd June
+- **20260622** 12:00-13:00 | CIR seminars week of 22nd June
 📍 IRR South seminar room
 🗣️ Kamal Khanna
 Host: Dr Sonja Vermeren
@@ -124,13 +118,8 @@ Title: “A tale of two metabolites: the therapeutic potential of creatine and h
 📍 Swann 7.20
 🍕 Registration required
   📁 [[calendar/upcoming-20260609.ics]]
-- **20260608** 12:00-11:00 | CIR seminar MONDAY 8th June 12pm - Professor Chris Seymour
-📍 IRR South large seminar room. Following the seminar
+- **20260608** 12:00-13:00 | CIR seminar MONDAY 8th June 12pm - Professor Chris Seymour
 🗣️ Chris Seymour
-
-Dear All
-
-The
 Host: Professor Kenny Baillie
 🍕 Includes lunch; Student lunch available; Registration required
 📝 Following the seminar
@@ -146,7 +135,7 @@ Host: Professor Kenny Baillie
   📁 [[calendar/upcoming-20260604.ics]]
 - **20260604** 09:30-10:30 | MacRae lab meeting
   📁 [[calendar/upcoming-20260604.ics]]
-- **20260604** 14:30-11:00 | Next LivSCt@RI meeting: Thursday 4th June @ 14.30 Rm 1-003  " Ubiquitin and regulation of mitochondrial health"
+- **20260604** 14:30-15:30 | Next LivSCt@RI meeting: Thursday 4th June @ 14.30 Rm 1-003  " Ubiquitin and regulation of mitochondrial health"
 📍 Roslin Institute
 🗣️ Mike Clague
 🍕 Registration required
@@ -157,8 +146,7 @@ Host: Angus Comerford
 Title: “My Journey Through Science So Far”
 🍕 Pizza social:  pizza - 1300-1330 - the larder; Registration required
   📁 [[calendar/upcoming-20260603.ics]]
-- **20260602** 09:00-11:00 | Induction Day for New Starts - Tuesday 2nd June
-📍 Roslin Institute outside room B-006 at 9am for coffee
+- **20260602** 09:00-10:00 | Induction Day for New Starts - Tuesday 2nd June
 🍕 Bring bottled water; Registration required
   📁 [[calendar/upcoming-20260602.ics]]
 - **20260601** 10:00-11:00 | Lab induction at 10 am
@@ -185,31 +173,23 @@ Host: Andrew Horne
 Title: Drug Discovery for Women’s Health
 🍕 Registration required
   📁 [[calendar/upcoming-20260529.ics]]
-- **20260526** 11:30-11:00 | Today's CIR seminar
+- **20260526** 11:30-12:30 | Today's CIR seminar
 📍 IRR South large seminar room.
 🗣️ Saghi Ghaffari
-
-Hi All
 Host: Professor Chris Lucas
 🍕 Includes lunch; Student lunch available; Registration required
 💰 Free
 📝 following the seminar at 1pm. If you would like to attend the student session
   📁 [[calendar/upcoming-20260526.ics]]
-- **20260526** 14:17-11:00 | Fw: CIR seminar TUESDAY 26th May - Professor Saghi Ghaffari
+- **20260526** 14:17-15:17 | Fw: CIR seminar TUESDAY 26th May - Professor Saghi Ghaffari
 🗣️ Saghi Ghaffari
-
-
-
-  Hi All
 Host: Professor Chris Lucas
 🍕 Includes lunch; Student lunch available; Registration required
 💰 Free
 📝 following the seminar at 1pm. If you would like to attend the student session
   📁 [[calendar/upcoming-20260526.ics]]
-- **20260526** 12:00-11:00 | CIR seminar TUESDAY 26th May - Professor Saghi Ghaffari
+- **20260526** 12:00-13:00 | CIR seminar TUESDAY 26th May - Professor Saghi Ghaffari
 🗣️ Saghi Ghaffari
-
-Hi All
 Host: Professor Chris Lucas
 🍕 Includes lunch; Student lunch available; Registration required
 💰 Free
