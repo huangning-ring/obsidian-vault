@@ -1,0 +1,46 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Codex//Email Scan//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTART:20260626T130000
+DTEND:20260626T140000
+SUMMARY:CIR seminar: The role of a scientific editor and the editorial process
+DESCRIPTION:Dr Ioannis Tsagakis, Scientific Editor, Cell. Host: Dr Chengcan Yao. No student meet the speaker session after this talk.\nLocation: IRR North seminar room, Institute for Regeneration and Repair, University of Edinburgh\nOrganizer: CIR Seminars | Special: No meet the speaker session
+LOCATION:IRR North seminar room, Institute for Regeneration and Repair, University of Edinburgh
+UID:cir-20260626-tsagakis@codex
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260703T123000
+DTEND:20260703T170000
+SUMMARY:Physiological Society Hodgkin Huxley Katz Prize Lecture & Mary Pickford Lecture
+DESCRIPTION:Professor Kristen Harris, University of Texas. Title: Structural synaptic plasticity during long-term potentiation (LTP). Host: Professor David Wyllie. Includes lunch, early-career researcher talks, drinks reception.\nLocation: Anatomy Lecture Theatre, Old Medical School, Teviot Place, Edinburgh, EH8 9AG\nOrganizer: CVS / Physiological Society | Special: Includes lunch and drinks reception
+LOCATION:Anatomy Lecture Theatre, Old Medical School, Teviot Place, Edinburgh, EH8 9AG
+UID:physiol-20260703-harris@codex
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260703T123000
+DTEND:20260703T170000
+SUMMARY:The Challenges for Precision Medicine in Acute Illness
+DESCRIPTION:Professor Christopher W. Seymour, MD, MSc. Director, TraCS Program, CRISMA, University of Pittsburgh. Associate Editor, JAMA.\nLocation: Anatomy Lecture Theatre, Old Medical School, Teviot Place, Edinburgh, EH8 9AG\nOrganizer: CVS / Physiological Society | Special: Part of same event as Harris lecture
+LOCATION:Anatomy Lecture Theatre, Old Medical School, Teviot Place, Edinburgh, EH8 9AG
+UID:physiol-20260703-seymour@codex
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260610T091500
+DTEND:20260610T102000
+SUMMARY:Screening for in vivo modifiers of muscle repair in ageing and disease
+DESCRIPTION:Dr Robert Knight. Host: Vicky MacRae. Lab to arrive early to set up.\nLocation: Room 2.003, Roslin Institute\nOrganizer: MacRae Lab | Special: Arrive by 9:15am
+LOCATION:Room 2.003, Roslin Institute
+UID:sem-20260610-knight@codex
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260601T133000
+DTEND:20260601T143000
+SUMMARY:VIP Seminar: Unlocking the Female Ribosome and the Epigenetic Androgen Clock
+DESCRIPTION:Professor Tim Hore, University of Otago, New Zealand. Host: Dr Doug Vernimmen. Topics: fem-rDNA knockout in vertebrate (Danio rerio), Androgen Clock based on DNA methylation profiles.\nLocation: Roslin Institute Auditorium\nOrganizer: EBR Seminar / Doug Vernimmen | Special: Speaker travelled from New Zealand
+LOCATION:Roslin Institute Auditorium
+UID:vip-20260601-hore@codex
+END:VEVENT
+END:VCALENDAR
