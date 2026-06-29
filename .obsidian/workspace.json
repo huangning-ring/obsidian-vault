@@ -13,32 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "calendar/Email-Events.md",
-                "mode": "source",
+                "file": "raw/专业英语汇报/专业英语汇报.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Email-Events"
-            }
-          }
-        ]
-      },
-      {
-        "id": "d675061c0f70bb60",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "647c47f3e0e378d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "calendar/Seminars.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Seminars"
+              "title": "专业英语汇报"
             }
           }
         ]
@@ -205,20 +185,29 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "647c47f3e0e378d4",
+  "active": "8ed2c05eb0498218",
   "lastOpenFiles": [
-    "calendar/Seminars 1.md",
     "calendar/Email-Events.md",
+    "raw/专业英语汇报/media/image15.png",
+    "raw/专业英语汇报/media/image8.png",
+    "raw/专业英语汇报/media/image19.png",
+    "raw/专业英语汇报/media/image18.svg",
+    "raw/专业英语汇报/media/image17.png",
+    "raw/专业英语汇报/media/image16.svg",
+    "raw/专业英语汇报/media/image14.png",
+    "raw/专业英语汇报/media/image13.png",
+    "raw/专业英语汇报/media/image12.png",
+    "raw/专业英语汇报/media/image11.png",
+    "raw/专业英语汇报/专业英语汇报.pptx",
+    "raw/专业英语汇报/专业英语汇报.md",
+    "raw/专业英语汇报/media",
+    "raw/专业英语汇报",
     "calendar/Seminars.md",
+    "calendar/Seminars 1.md",
     "calendar/all-events.ics",
     "笔记同步助手/2026-06-25/我让组里 3 位博士用 AI 工具 6 个月。真实数据让我后悔一件事。.md",
     "calendar/邮件活动日历.md",
     "calendar/scan-log.md",
-    "笔记同步助手/images/d12a8d5df2527052cda051ddc0cd2b91_MD5.png",
-    "笔记同步助手/images/ad42d6ca6e5c7aa1dfd452359b53d5b1_MD5.png",
-    "笔记同步助手/images/e91392e3b8bb489be2daedd87c719b9a_MD5.png",
-    "笔记同步助手/images/4cb5937934b5d51b32770c224e775fa2_MD5.png",
-    "笔记同步助手/images/82f53988ffbbf8e60d3d1b9fe8c6b87c_MD5.jpg",
     "笔记同步助手/2026-06-27/Cell重磅综述 - 全面解读cGAS–STING通路如何连接免疫、衰老与癌症.md",
     "笔记同步助手/2026-06-27",
     "calendar/join-our-biorender-101-webinar-2025-03-16-38.ics",
@@ -226,9 +215,6 @@
     "calendar/cir-seminar-tuesday-26th-may---2026-05-26-37.ics",
     "calendar/fw--cir-seminar-tuesday-26th-m-2026-05-26-36.ics",
     "calendar/today-s-cir-seminar-2026-05-26-31.ics",
-    "calendar/re--crh-seminar----friday--29--2026-05-29-33.ics",
-    "calendar/re-re--crh-seminar----friday---2026-05-29-32.ics",
-    "calendar/crh-seminar----friday--29-may--2026-05-29-28.ics",
     "笔记同步助手/2026-06-23/16.5K+ Star！彻底治好 Claude Code 失忆！告别重复上下文，Token 直省 92%.md",
     "AGENTS.md",
     "笔记同步助手/2026-06-25/把 PDF 丢给 AI，自动帮你建一个 知识库！.md",
@@ -246,12 +232,6 @@
     "笔记同步助手/2026-06-15/我在 Claude Code 装了 3 个 Skill，它们合起来是一套完整的脑子.md",
     "笔记同步助手/2026-06-15/还在手动调文档样式？这个 AI 开源工具 5 天拿下 3.2k Star，输出即专业级.md",
     "笔记同步助手/2026-06-25/Skill配方｜我用三个skill 实现了skill 自由.md",
-    "笔记同步助手/2026-06-18/面试官皱眉：“Claude Code 你用了半年，你懂 Skills 吗？”我反问：“不就是写了步骤的 markdown 吗”，他：今天就到这吧.md",
-    "笔记同步助手/images/bbbc8760d4523ef0e0c330c2d8ae78b6_MD5.jpg",
-    "笔记同步助手/images/c730cd45a48656d235b1971f9ae2f583_MD5.jpg",
-    "笔记同步助手/images/6d8b98172d4f9aaeb3d4c3d4882dd7a1_MD5.jpg",
-    "笔记同步助手/images/c8d37c88ca31a1e85f226d3c2b180537_MD5.jpg",
-    "笔记同步助手/images/cf69b238b2904d828a73df254bd66285_MD5.jpg",
     "任务管理/任务看板.canvas",
     "任务管理/2026-06-05 工作看板.canvas",
     "GPT画图测试260227/GPT画图测试260227.canvas",
