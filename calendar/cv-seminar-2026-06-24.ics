@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Email Scanner//EN
+BEGIN:VEVENT
+UID:cv-seminar-2026-06-24
+DTSTAMP:20260630T171554Z
+DTSTART;TZID=Asia/Shanghai:20260624T120000
+DTEND;TZID=Asia/Shanghai:20260624T130000
+SUMMARY:CV Seminar Series: 'Last Seminar before Summer' — Richard Weller & Andrew Gow
+LOCATION:Wellcome Theatre\, QMRI
+DESCRIPTION:Richard Weller (Dermatology/IRR) & Andrew Gow (Rutgers University, New Jersey) — 'There's a cost to everything. Why Low energy light bulbs might be bad for your health? The vascular benefits of sunlight'. Joint talk on nitric oxide (NO) in the cardiovascular system and how different properties of light affect the vasculature and NO system.
+ORGANIZER;CN=Lorraine Vaughan:mailto:Lorraine.Vaughan@ed.ac.uk
+END:VEVENT
+END:VCALENDAR

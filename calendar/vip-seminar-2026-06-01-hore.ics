@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Email Scanner//EN
+BEGIN:VEVENT
+UID:vip-seminar-2026-06-01-hore
+DTSTAMP:20260630T171554Z
+DTSTART;TZID=Asia/Shanghai:20260601T133000
+DTEND;TZID=Asia/Shanghai:20260601T143000
+SUMMARY:EBR/VIP Seminar: Professor Tim Hore — Unlocking the Female Ribosome
+LOCATION:Roslin Institute Auditorium
+DESCRIPTION:Professor Tim Hore, University of Otago, New Zealand — 'Unlocking the Female Ribosome and the Epigenetic Androgen Clock'. Work on feminine ribosomal DNA (fem-rDNA) and the first successful knockout of rDNA in a vertebrate (Danio rerio). Host: Dr Doug Vernimmen.
+ORGANIZER;CN=Douglas Vernimmen:mailto:douglas.vernimmen@roslin.ed.ac.uk
+END:VEVENT
+END:VCALENDAR

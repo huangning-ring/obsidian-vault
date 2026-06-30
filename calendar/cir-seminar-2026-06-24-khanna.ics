@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Email Scanner//EN
+BEGIN:VEVENT
+UID:cir-seminar-2026-06-24-khanna
+DTSTAMP:20260630T171554Z
+DTSTART;TZID=Asia/Shanghai:20260624T120000
+DTEND;TZID=Asia/Shanghai:20260624T130000
+SUMMARY:CIR Seminar: Professor Kamal Khanna — Critical Roles of NAMs in Respiratory Immunity
+LOCATION:IRR South seminar room
+DESCRIPTION:Professor Kamal Khanna, Department of Microbiology, NYU School of Medicine — 'Critical Roles of Nerve and Airway Associated Interstitial Macrophages (NAMs) in Respiratory Immunity: Balancing Immunity, Disease Tolerance, and Inflammation'.
+URL;VALUE=URI:https://khannalab.weebly.com/kamal-m-khanna.html
+ORGANIZER;CN=CIR Seminars:mailto:CIR.Seminars@ed.ac.uk
+END:VEVENT
+END:VCALENDAR

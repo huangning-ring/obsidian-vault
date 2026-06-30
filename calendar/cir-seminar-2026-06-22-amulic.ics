@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Email Scanner//EN
+BEGIN:VEVENT
+UID:cir-seminar-2026-06-22-amulic
+DTSTAMP:20260630T171554Z
+DTSTART;TZID=Asia/Shanghai:20260622T120000
+DTEND;TZID=Asia/Shanghai:20260622T130000
+SUMMARY:CIR Seminar: Dr Borko Amulic — Fine tuning the neutrophil response
+LOCATION:IRR South seminar room
+DESCRIPTION:Dr Borko Amulic, Associate Professor in Immunology, University of Bristol — 'Fine tuning the neutrophil response for improved infection outcome'. Host: Dr Sonja Vermeren.
+URL;VALUE=URI:https://regeneration-repair.ed.ac.uk/event
+ORGANIZER;CN=CIR Seminars:mailto:CIR.Seminars@ed.ac.uk
+END:VEVENT
+END:VCALENDAR

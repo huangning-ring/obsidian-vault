@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Email Scanner//EN
+BEGIN:VEVENT
+UID:livsct-2026-06-04
+DTSTAMP:20260630T171554Z
+DTSTART;TZID=Asia/Shanghai:20260604T143000
+DTEND;TZID=Asia/Shanghai:20260604T160000
+SUMMARY:LivSCt@RI Meeting: Ubiquitin and Regulation of Mitochondrial Health
+LOCATION:Room 1-003\, Roslin Institute
+DESCRIPTION:Next LivSCt@RI (Liver Stem Cell) meeting. Title: 'Ubiquitin and regulation of mitochondrial health'. Organised by Tom Burdon.
+ORGANIZER;CN=Tom Burdon:mailto:tom.burdon@roslin.ed.ac.uk
+END:VEVENT
+END:VCALENDAR

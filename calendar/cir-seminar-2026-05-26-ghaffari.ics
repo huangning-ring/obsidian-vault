@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Email Scanner//EN
+BEGIN:VEVENT
+UID:cir-seminar-2026-05-26-ghaffari
+DTSTAMP:20260630T171554Z
+DTSTART;TZID=Asia/Shanghai:20260526T120000
+DTEND;TZID=Asia/Shanghai:20260526T130000
+SUMMARY:CIR Seminar: Professor Saghi Ghaffari — Lysosomes in Reversing HSC Aging
+LOCATION:IRR South large seminar room
+DESCRIPTION:Professor Saghi Ghaffari — 'Lysosomes in Reversing Hematopoietic Stem Cell Aging'. CIR student meet-the-speaker session following the seminar at 1pm (lunch provided, contact V.E.Cowell@sms.ed.ac.uk for dietary requirements). Attendance compulsory for CIR-registered students.
+ORGANIZER;CN=CIR Seminars:mailto:CIR.seminars@ed.ac.uk
+END:VEVENT
+END:VCALENDAR

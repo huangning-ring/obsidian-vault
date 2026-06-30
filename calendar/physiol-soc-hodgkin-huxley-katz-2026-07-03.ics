@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Email Scanner//EN
+BEGIN:VEVENT
+UID:physiol-soc-hodgkin-huxley-katz-2026-07-03
+DTSTAMP:20260630T171554Z
+DTSTART;TZID=Asia/Shanghai:20260703T123000
+DTEND;TZID=Asia/Shanghai:20260703T170000
+SUMMARY:Physiological Society Hodgkin Huxley Katz Prize Lecture & Mary Pickford Lecture
+LOCATION:Anatomy Lecture Theatre\, Old Medical School\, Teviot Place\, Edinburgh\, EH8 9AG
+DESCRIPTION:Professor Kristen Harris (University of Texas) — 'Structural synaptic plasticity during long-term potentiation (LTP)'. Host: Professor David Wyllie. Includes lunch, early-career researcher talks, lecture, and drinks reception.
+ORGANIZER;CN=Lorraine Vaughan:mailto:Lorraine.Vaughan@ed.ac.uk
+END:VEVENT
+END:VCALENDAR

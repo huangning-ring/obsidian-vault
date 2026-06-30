@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Email Scanner//EN
+BEGIN:VEVENT
+UID:online-seminar-2026-06-02-giles-yeo
+DTSTAMP:20260630T171554Z
+DTSTART;TZID=Asia/Shanghai:20260602T120000
+DTEND;TZID=Asia/Shanghai:20260602T130000
+SUMMARY:Online (pre-recorded) Seminar: Professor Giles Yeo — Have We Cured Obesity?
+LOCATION:Online (pre-recorded)
+DESCRIPTION:Professor Giles Yeo — 'In a post-Ozempic world, have we cured obesity?'. Recommended by Vicky MacRae, especially relevant for the muscle project.
+ORGANIZER;CN=Vicky MacRae:mailto:vicky.macrae@roslin.ed.ac.uk
+END:VEVENT
+END:VCALENDAR

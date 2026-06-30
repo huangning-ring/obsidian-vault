@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Email Scanner//EN
+BEGIN:VEVENT
+UID:igc-seminar-2026-06-18-gerard
+DTSTAMP:20260630T171554Z
+DTSTART;TZID=Asia/Shanghai:20260618T130000
+DTEND;TZID=Asia/Shanghai:20260618T140000
+SUMMARY:IGC Seminar: Matthieu Gerard — BAF (SWI/SNF) chromatin remodeling complexes
+LOCATION:IGC Lecture Theatre (also via Teams)
+DESCRIPTION:Matthieu Gerard — 'How the BAF (SWI/SNF) chromatin remodeling complexes regulate the nucleosomal and subnucleosomal organization of cis regulatory elements in mammalian cells'. Hybrid: in-person at IGC Lecture Theatre + Teams online.
+URL;VALUE=URI:https://teams.microsoft.com/meet/31448993431281?p=zWVmgVqf3x1VpPgLxn
+ORGANIZER;CN=Ailsa Chaff:mailto:achaff@ed.ac.uk
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Email Scanner//EN
+BEGIN:VEVENT
+UID:cir-seminar-2026-06-08-seymour
+DTSTAMP:20260630T171554Z
+DTSTART;TZID=Asia/Shanghai:20260608T120000
+DTEND;TZID=Asia/Shanghai:20260608T130000
+SUMMARY:CIR Seminar: Professor Chris Seymour — Precision Medicine in Acute Illness
+LOCATION:IRR South large seminar room
+DESCRIPTION:Professor Christopher W. Seymour, MD, MSc, Professor of Critical Care Medicine and Emergency Medicine — 'The Challenges for Precision Medicine in Acute Illness'. Student lunch session after seminar — contact Adam Truelove (v1atruel@ed.ac.uk) for food requirements.
+ORGANIZER;CN=Sonia Rafferty:mailto:Sonia.Rafferty@ed.ac.uk
+END:VEVENT
+END:VCALENDAR

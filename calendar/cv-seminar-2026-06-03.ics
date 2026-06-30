@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Email Scanner//EN
+BEGIN:VEVENT
+UID:cv-seminar-2026-06-03
+DTSTAMP:20260630T171554Z
+DTSTART;TZID=Asia/Shanghai:20260603T120000
+DTEND;TZID=Asia/Shanghai:20260603T130000
+SUMMARY:CV Seminar Series: Alison Daniels & Francis Acklam — Catapult & Science Career Journey
+LOCATION:Auditorium A\, Shirley Hall\, Chancellors' Building
+DESCRIPTION:Two speakers from Cell and Gene Therapy Catapult, IRR: Alison Daniels — 'My Journey Through Science So Far' (moving between academia and industry); Francis Acklam — 'Who And What Are Catapult?' (how Catapult turns research into real treatments).
+ORGANIZER;CN=Lorraine Vaughan:mailto:Lorraine.Vaughan@ed.ac.uk
+END:VEVENT
+END:VCALENDAR
