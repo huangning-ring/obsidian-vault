@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "calendar/邮件活动日历模板.md",
+                "file": "课题相关技术/找师姐前的问题312.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "邮件活动日历模板"
+              "title": "找师姐前的问题312"
             }
           }
         ]
@@ -73,12 +73,22 @@
               "icon": "lucide-bookmark",
               "title": "书签"
             }
+          },
+          {
+            "id": "aff4bdb1d5434ebe",
+            "type": "leaf",
+            "state": {
+              "type": "notebook-navigator",
+              "state": {},
+              "icon": "notebook-navigator",
+              "title": "笔记本导航器"
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 239.5
+    "width": 482.5
   },
   "right": {
     "id": "e8af24c642dba675",
@@ -182,14 +192,15 @@
       "realclaudian:Open Claudian": false,
       "obsidian-git:Open Git source control": false,
       "notehelper:tongbuzhushou": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "notebook-navigator:笔记本导航器": false
     }
   },
   "active": "8ed2c05eb0498218",
   "lastOpenFiles": [
+    "calendar/邮件活动日历模板.md",
     "calendar/未命名.md",
     "calendar/Email-Events.md",
-    "calendar/邮件活动日历模板.md",
     "calendar/Email-Events-2026-06-23-to-2026-06-30.md",
     "26出国灵感/2026-06-29 文献检索 - SARS-CoV-2受体条形码突变库/下载状态清单.md",
     "calendar/mitotalks-2026-05-28-mcbride.ics",
