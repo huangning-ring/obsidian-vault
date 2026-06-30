@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Genome-wide bidirectional CRISPR screens identify mucins as host factors modulating SARS-CoV-2 infection"
 authors: "Scott B. Biering, Sylvia A. Sarnik, Eleanor Wang, James R. Zengel, Sarah R. Leist, Alexandra Schäfer, Varun Sathyan, Padraig Hawkins, Kenichi Okuda, Cyrus Tau, Aditya R. Jangid, Connor V. Duffy, Jin Wei, Rodney C. Gilmore, Mia Madel Alfajaro, Madison S. Strine, Xammy Huu Wrynla, Erik Van Dis, Carmelle Catamura, Livia H. Yamashiro, Julia A. Belk, Adam Begeman, Jessica C. Stark, D. Judy Shon, Douglas M. Fox, Shahrzad Ezzatpour, Emily Huang, Nico Olegario, Arjun Rustagi, Allison S. Volmer, Alessandra Livraghi-Butrico, Eddie Wehri, Richard R. Behringer, Dong-Joo Cheon, Julia Schaletzky, Hector C. Aguilar, Andreas S. Puschnik, Brian Button, Benjamin A. Pinsky, Catherine A. Blish, Ralph S. Baric, Wanda K. O’Neal, Carolyn R. Bertozzi, Craig B. Wilen, Richard C. Boucher, Jan E. Carette, Sarah A. Stanley, Eva Harris, Silvana Konermann, Patrick D. Hsu"
 journal: "Nature Genetics"

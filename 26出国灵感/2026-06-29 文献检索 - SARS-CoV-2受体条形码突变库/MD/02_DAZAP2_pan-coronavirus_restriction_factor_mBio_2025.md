@@ -1,4 +1,4 @@
-﻿| Virology | Research Article
+| Virology | Research Article
 DAZAP2 functions as a pan-coronavirus restriction factor by
 inhibiting viral entry and genomic replication
 Fei Feng,1 Jiannan Chen,1,2 Rong Li,3 Yunkai Zhu,1 Yanlong Ma,1 Ziqiao Wang,1 Yuyan Wang,1 Zhichao Gao,1 Lulu Yang,1 Yin Yu,1

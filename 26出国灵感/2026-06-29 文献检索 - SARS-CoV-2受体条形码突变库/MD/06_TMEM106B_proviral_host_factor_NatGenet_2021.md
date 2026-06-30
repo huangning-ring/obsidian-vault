@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Genome-wide CRISPR screening identifies TMEM106B as a proviral host factor for SARS-CoV-2"
 authors: "Jim Baggen, Leentje Persoons, Els Vanstreels, Sander Jansen, Dominique Van Looveren, Bram Boeckx, Vincent Geudens, Julie De Man, Dirk Jochmans, Joost Wauters, Els Wauters, Bart M. Vanaudenaerde, Diether Lambrechts, Johan Neyts, Kai Dallmeier, Hendrik Jan Thibaut, Maarten Jacquemyn, Piet Maes, Dirk Daelemans"
 journal: "Nature Genetics"

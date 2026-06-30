@@ -1,12 +1,12 @@
-﻿---
-title: "Systematic functional interrogation of SARS-CoV-2 host factors using Perturb-seq"
-authors: "Sara Sunshine, Andreas S. Puschnik, Joseph M. Replogle, Matthew T. Laurie, Jamin Liu, Beth Shoshana Zha, James K. Nuñez, Janie R. Byrum, Aidan H. McMorrow, Matthew B. Frieman, Juliane Winkler, Xiaojie Qiu, Oren S. Rosenberg, Manuel D. Leonetti, Chun Jimmie Ye, Jonathan S. Weissman, Joseph L. DeRisi, Marco Y. Hein"
-journal: "Nature Communications"
-doi: "10.1038/s41467-023-41788-4"
-published: "2023-10-6"
-source: "springer_html"
+---
+title: Systematic functional interrogation of SARS-CoV-2 host factors using Perturb-seq
+authors: Sara Sunshine, Andreas S. Puschnik, Joseph M. Replogle, Matthew T. Laurie, Jamin Liu, Beth Shoshana Zha, James K. Nuñez, Janie R. Byrum, Aidan H. McMorrow, Matthew B. Frieman, Juliane Winkler, Xiaojie Qiu, Oren S. Rosenberg, Manuel D. Leonetti, Chun Jimmie Ye, Jonathan S. Weissman, Joseph L. DeRisi, Marco Y. Hein
+journal: Nature Communications
+doi: 10.1038/s41467-023-41788-4
+published: 2023-10-6
+source: springer_html
 has_fulltext: true
-content_kind: "fulltext"
+content_kind: fulltext
 has_abstract: true
 token_estimate: 12779
 ---

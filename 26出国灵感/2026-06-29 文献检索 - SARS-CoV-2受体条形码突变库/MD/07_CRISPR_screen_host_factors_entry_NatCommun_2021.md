@@ -1,4 +1,4 @@
-﻿---
+---
 title: "A genome-wide CRISPR screen identifies host factors that regulate SARS-CoV-2 entry"
 authors: "Yunkai Zhu, Fei Feng, Gaowei Hu, Yuyan Wang, Yin Yu, Yuanfei Zhu, Wei Xu, Xia Cai, Zhiping Sun, Wendong Han, Rong Ye, Di Qu, Qiang Ding, Xinxin Huang, Hongjun Chen, Youhua Xie, Qiliang Cai, Zhenghong Yuan, Rong Zhang"
 journal: "Nature Communications"

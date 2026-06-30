@@ -1,4 +1,4 @@
-﻿---
+---
 title: "A CRISPR/Cas9 genetically engineered organoid biobank reveals essential host factors for coronaviruses"
 authors: "Joep Beumer, Maarten H. Geurts, Mart M. Lamers, Jens Puschhof, Jingshu Zhang, Jelte van der Vaart, Anna Z. Mykytyn, Tim I. Breugem, Samra Riesebosch, Debby Schipper, Petra B. van den Doel, Wim de Lau, Cayetano Pleguezuelos-Manzano, Georg Busslinger, Bart L. Haagmans, Hans Clevers"
 journal: "Nature Communications"
