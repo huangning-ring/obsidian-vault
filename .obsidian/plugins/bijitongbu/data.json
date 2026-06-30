@@ -13,12 +13,12 @@
   "filename": "{{{title}}}",
   "filenameDateFormat": "yyyy-MM-dd",
   "attachmentFolder": "笔记同步助手/attachments",
-  "version": "3.0.1",
+  "version": "3.1.0",
   "mergeMode": "messages",
   "messageSortOrder": "desc",
   "messageFolder": "",
   "frequency": 300,
-  "intervalId": 213,
+  "intervalId": 409,
   "frontMatterVariables": [],
   "frontMatterTemplate": "author: {{{author}}}\nsource: {{{siteName}}}\nurl: {{{originalUrl}}}\nsaved: {{{dateSaved}}}\ntags: [笔记同步助手{{#labels}}, {{{name}}}{{/labels}}]",
   "syncOnStart": true,
@@ -53,6 +53,7 @@
     "desktop-mpy8c9bs-ufi0": "2026-06-27T15:36:44.806+01:00"
   },
   "initialSyncCompleted": true,
+  "firstSyncAutoOpened": true,
   "deviceAutoSync": {
     "desktop-mpy8c9bs-ufi0": {
       "frequency": 300,
