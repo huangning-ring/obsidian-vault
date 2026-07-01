@@ -5,7 +5,9 @@
       "name": "默认",
       "fileVisibility": "supported",
       "propertyKeys": [],
-      "hiddenFolders": [],
+      "hiddenFolders": [
+        "/_scripts"
+      ],
       "hiddenTags": [],
       "hiddenFileNames": [],
       "hiddenFileTags": [],
