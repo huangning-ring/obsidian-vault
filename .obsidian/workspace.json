@@ -80,8 +80,8 @@
             "state": {
               "type": "notebook-navigator",
               "state": {},
-              "icon": "notebook-navigator",
-              "title": "笔记本导航器"
+              "icon": "lucide-ghost",
+              "title": "notebook-navigator"
             }
           }
         ],
@@ -193,8 +193,7 @@
       "realclaudian:Open Claudian": false,
       "obsidian-git:Open Git source control": false,
       "notehelper:tongbuzhushou": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "notebook-navigator:笔记本导航器": false
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
   "active": "aff4bdb1d5434ebe",
