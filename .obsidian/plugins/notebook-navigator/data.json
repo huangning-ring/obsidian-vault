@@ -6,7 +6,9 @@
       "fileVisibility": "supported",
       "propertyKeys": [],
       "hiddenFolders": [
-        "/_scripts"
+        "/_scripts",
+        "/node_modules",
+        "/scripts"
       ],
       "hiddenTags": [],
       "hiddenFileNames": [],
