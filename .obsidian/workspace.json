@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "笔记同步助手/2026-07-02/我用Andrej Karpathy的LLM wiki思路实现了“活”的个人知识库（附模板）.md",
-                "mode": "source",
+                "file": "复习/实验诊断学/DeepSeek实验诊断学：代谢与内分泌疾病考前冲刺讲义.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "我用Andrej Karpathy的LLM wiki思路实现了“活”的个人知识库（附模板）"
+              "title": "DeepSeek实验诊断学：代谢与内分泌疾病考前冲刺讲义"
             }
           }
         ]
@@ -194,8 +194,12 @@
       "notebook-navigator:笔记本导航器": false
     }
   },
-  "active": "aff4bdb1d5434ebe",
+  "active": "8ed2c05eb0498218",
   "lastOpenFiles": [
+    "复习/实验诊断学/Qwen代谢与内分泌疾病·考前冲刺讲义.md",
+    "复习/实验诊断学/心血管疾病的实验室诊断 — 考前3天冲刺复习讲义.md",
+    "复习/实验诊断学/消化系统疾病实验室诊断_讲义.md",
+    "笔记同步助手/2026-07-02/我用Andrej Karpathy的LLM wiki思路实现了“活”的个人知识库（附模板）.md",
     "笔记同步助手/bak/我用Andrej Karpathy的LLM wiki思路实现了“活”的个人知识库（附模板）.md.bak",
     "笔记同步助手/bak/这可能是目前 Obsidian 生态中最好用的 LLM-Wiki 插件了——Karpathy LLM Wiki.md.bak",
     "笔记同步助手/bak/这可能是目前 Obsidian 生态中最好用的 LLM-Wiki 插件了——Karpathy LLM Wiki 2.md.bak",
@@ -206,14 +210,12 @@
     "笔记同步助手/bak/我让组里 3 位博士用 AI 工具 6 个月。真实数据让我后悔一件事。.md.bak",
     "笔记同步助手/bak/Skill配方｜我用三个skill 实现了skill 自由.md.bak",
     "笔记同步助手/bak/obsidian最强管理文档的方式（0基础友好）.md.bak",
-    "笔记同步助手/bak/Claude How To：34.4k+ Star 的 Claude Code 教程，GitHub 霸榜的-从入门到精通-.md.bak",
     "毛概作业.md",
     "笔记同步助手/2026-06-27/Cell重磅综述 - 全面解读cGAS–STING通路如何连接免疫、衰老与癌症.md",
     "笔记同步助手/2026-06-25/把 PDF 丢给 AI，自动帮你建一个 知识库！.md",
     "笔记同步助手/2026-06-24/Skill配方｜我用三个skill 实现了skill 自由.md",
     "251216课题汇报/汇报检索方案.md",
     "251216课题汇报/背景知识检索.md",
-    "复习/实验诊断学/消化系统疾病实验室诊断_讲义.md",
     "26医创/6.将稳株进行转录组测序发现基因下游通路.md",
     "26医创/找师姐前的问题312.md",
     "26医创/医创赛反思.md",
@@ -229,9 +231,7 @@
     "复习/分子生物学/分子生物学考试内容目录.md",
     "复习/分子生物学/转录组等组学分析技术.md",
     "笔记同步助手/2026-07-01/Obsidian 入门65：把笔记一键转 Word.md",
-    "笔记同步助手/2026-07-02/我用Andrej Karpathy的LLM wiki思路实现了“活”的个人知识库（附模板）.md",
     "251216课题汇报/重要表观遗传因子对冠状病毒呼吸道感染的调控机理研究及可成药靶点开发-汇报大纲.md",
-    "251216课题汇报/表观遗传修饰剂调控免疫以防治呼吸道病毒感染的可行性评估.md",
     "笔记同步助手/images/b4f784b4fd622fdc1843dbfe92107fc0_MD5.jpg",
     "笔记同步助手/images/22ae48fd11355ed8d6e73799fb5f317a_MD5.jpg",
     "笔记同步助手/images/9ee806b903f47074ebf284d053d7b680_MD5.jpg",
