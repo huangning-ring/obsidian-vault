@@ -12,8 +12,7 @@ id: d3d30ffa-1e73-4db1-ba43-e2763ef87d57
 发布时间：2026-04-23 20:02
 原文链接：[https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f)
 > “知识只需要整理一次，之后一直维护更新，不用每次提问都重新推导。这个wiki是个能不断生长的知识库。”
-
-![[笔记同步助手/images/b7fd725c23c7e09ff7f5082657ab6307_MD5.png||19]]
+![[笔记同步助手/images/b7fd725c23c7e09ff7f5082657ab6307_MD5.png||848]]
 4步带你复刻大神思路，构建属于自己的“活”知识库。
 OpenAI联合创始人，Andrej Karpathy在4月初发了个推特，非常火爆，内容是用LLM管理个人知识库的方法论 (llm-wiki)，目前已经有2000万的浏览量。
 ![[笔记同步助手/images/c1054fb2bc273b6a3037d7593a9c52dc_MD5.png]]
