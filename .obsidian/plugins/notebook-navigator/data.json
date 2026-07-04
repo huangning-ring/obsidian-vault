@@ -8,7 +8,8 @@
       "hiddenFolders": [
         "/_scripts",
         "/node_modules",
-        "/scripts"
+        "/scripts",
+        "/skills"
       ],
       "hiddenTags": [],
       "hiddenFileNames": [],
