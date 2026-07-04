@@ -3,7 +3,7 @@
     {
       "id": "default",
       "name": "默认",
-      "fileVisibility": "supported",
+      "fileVisibility": "all",
       "propertyKeys": [],
       "hiddenFolders": [
         "/_scripts",
