@@ -11,16 +11,14 @@
             "id": "8ed2c05eb0498218",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Vicky/PALMD regulates aortic valve calcification via altered glycolysis and NF-κB-mediated inflammation.pdf",
-                "page": 1,
-                "left": -13,
-                "top": 846,
-                "zoom": 1.16659945631594
+                "file": "Vicky/PALMD_演讲稿_中英双语.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "PALMD regulates aortic valve calcification via altered glycolysis and NF-κB-mediated inflammation"
+              "icon": "lucide-file",
+              "title": "PALMD_演讲稿_中英双语"
             }
           }
         ]
@@ -169,8 +167,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5,
-    "collapsed": true
+    "width": 269.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,12 +193,12 @@
       "notebook-navigator:笔记本导航器": false
     }
   },
-  "active": "aff4bdb1d5434ebe",
+  "active": "8ed2c05eb0498218",
   "lastOpenFiles": [
+    "Vicky/PALMD regulates aortic valve calcification via altered glycolysis and NF-κB-mediated inflammation.pdf",
+    "Vicky/Wang 2022 - PALMD regulates aortic valve calcification via altered glycolysis and NF-kB-mediated inflammation.md",
     "Vicky/PALMD_演讲稿_中英双语.md",
     "Vicky/Wang 2022 PALMD NF-kB inflammation PMC9065630.pdf",
-    "Vicky/Wang 2022 - PALMD regulates aortic valve calcification via altered glycolysis and NF-kB-mediated inflammation.md",
-    "Vicky/PALMD regulates aortic valve calcification via altered glycolysis and NF-κB-mediated inflammation.pdf",
     "笔记同步助手/2026-07-06/如何使用DeepSeek进行图表解读和图表绘制？.md",
     "Vicky/Wang 2022 - PALMD regulates aortic valve calcification via altered glycolysis and NF-kB-mediated inflammation.pdf",
     "笔记同步助手/2026-07-06/科研画图新王，scipilot-figure-skill.md",
@@ -243,7 +240,6 @@
     "251216课题汇报/背景知识检索.md",
     "26医创/6.将稳株进行转录组测序发现基因下游通路.md",
     "26医创/找师姐前的问题312.md",
-    "26医创/医创赛反思.md",
     "任务管理/任务看板.canvas",
     "任务管理/2026-06-05 工作看板.canvas",
     "GPT画图测试260227/GPT画图测试260227.canvas",
