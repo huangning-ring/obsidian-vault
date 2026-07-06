@@ -119,13 +119,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "笔记同步助手/2026-06-16/136k Star！微软开源了一个「AI 喂食工具」——PDF、Word、PPT、Excel、视频、音频一行命令全变 Markdown，LLM 真正读懂你的文档.md",
+                "file": "Vicky/PALMD_演讲稿_中英双语.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "136k Star！微软开源了一个「AI 喂食工具」——PDF、Word、PPT、Excel、视频、音频一行命令全变 Markdown，LLM 真正读懂你的文档 的大纲"
+              "title": "PALMD_演讲稿_中英双语 的大纲"
             }
           },
           {
@@ -163,11 +163,12 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 269.5
+    "width": 269.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
