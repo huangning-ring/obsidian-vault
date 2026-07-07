@@ -11,14 +11,12 @@
             "id": "8ed2c05eb0498218",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Vicky/PALMD_演讲稿_中英双语.md",
-                "mode": "source",
-                "source": false
+                "file": "Vicky/PALMD regulates aortic valve calcification via altered glycolysis and NF-κB-mediated inflammation.pdf"
               },
-              "icon": "lucide-file",
-              "title": "PALMD_演讲稿_中英双语"
+              "icon": "lucide-file-text",
+              "title": "PALMD regulates aortic valve calcification via altered glycolysis and NF-κB-mediated inflammation"
             }
           }
         ]
@@ -119,13 +117,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vicky/PALMD_演讲稿_中英双语.md",
+                "file": "Vicky/PALMD regulates aortic valve calcification via altered glycolysis and NF-κB-mediated inflammation.pdf",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "PALMD_演讲稿_中英双语 的大纲"
+              "title": "PALMD regulates aortic valve calcification via altered glycolysis and NF-κB-mediated inflammation 的大纲"
             }
           },
           {
@@ -196,9 +194,9 @@
   },
   "active": "8ed2c05eb0498218",
   "lastOpenFiles": [
+    "Vicky/PALMD_演讲稿_中英双语.md",
     "Vicky/PALMD regulates aortic valve calcification via altered glycolysis and NF-κB-mediated inflammation.pdf",
     "Vicky/Wang 2022 - PALMD regulates aortic valve calcification via altered glycolysis and NF-kB-mediated inflammation.md",
-    "Vicky/PALMD_演讲稿_中英双语.md",
     "Vicky/Wang 2022 PALMD NF-kB inflammation PMC9065630.pdf",
     "笔记同步助手/2026-07-06/如何使用DeepSeek进行图表解读和图表绘制？.md",
     "Vicky/Wang 2022 - PALMD regulates aortic valve calcification via altered glycolysis and NF-kB-mediated inflammation.pdf",
