@@ -11,12 +11,14 @@
             "id": "8ed2c05eb0498218",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Vicky/PALMD regulates aortic valve calcification via altered glycolysis and NF-κB-mediated inflammation.pdf"
+                "file": "AGENTS全局.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "PALMD regulates aortic valve calcification via altered glycolysis and NF-κB-mediated inflammation"
+              "icon": "lucide-file",
+              "title": "AGENTS全局"
             }
           }
         ]
@@ -117,13 +119,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vicky/PALMD regulates aortic valve calcification via altered glycolysis and NF-κB-mediated inflammation.pdf",
+                "file": "AGENTS全局.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "PALMD regulates aortic valve calcification via altered glycolysis and NF-κB-mediated inflammation 的大纲"
+              "title": "AGENTS全局 的大纲"
             }
           },
           {
@@ -165,8 +167,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5,
-    "collapsed": true
+    "width": 269.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,8 +195,12 @@
   },
   "active": "8ed2c05eb0498218",
   "lastOpenFiles": [
-    "Vicky/PALMD_演讲稿_中英双语.md",
+    "AGENTS-视觉.md",
+    "AGENTS全局.md",
+    "AGENTS-Obsidian.md",
+    "AGENTS-R.md",
     "Vicky/PALMD regulates aortic valve calcification via altered glycolysis and NF-κB-mediated inflammation.pdf",
+    "Vicky/PALMD_演讲稿_中英双语.md",
     "Vicky/Wang 2022 - PALMD regulates aortic valve calcification via altered glycolysis and NF-kB-mediated inflammation.md",
     "Vicky/Wang 2022 PALMD NF-kB inflammation PMC9065630.pdf",
     "笔记同步助手/2026-07-06/如何使用DeepSeek进行图表解读和图表绘制？.md",
@@ -236,9 +241,6 @@
     "笔记同步助手/2026-06-25/把 PDF 丢给 AI，自动帮你建一个 知识库！.md",
     "笔记同步助手/2026-06-24/Skill配方｜我用三个skill 实现了skill 自由.md",
     "251216课题汇报/汇报检索方案.md",
-    "251216课题汇报/背景知识检索.md",
-    "26医创/6.将稳株进行转录组测序发现基因下游通路.md",
-    "26医创/找师姐前的问题312.md",
     "任务管理/任务看板.canvas",
     "任务管理/2026-06-05 工作看板.canvas",
     "GPT画图测试260227/GPT画图测试260227.canvas",
