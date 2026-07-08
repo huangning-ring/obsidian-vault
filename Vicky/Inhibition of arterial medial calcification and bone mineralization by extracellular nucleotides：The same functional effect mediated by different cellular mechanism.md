@@ -6,11 +6,10 @@ Finally, the researchers came up with a molecular machanism which is shown below
 It's clear that the two pathways happening in two different cells have some part in common but different, which means that we could develop some useful, effective and targeted drugs targeting the differents, by which we can treat AMC without damage to osteoblasts mineralization.
 # Background
 Vascular calcification is a clinically important and common complication of aging, diabetes, and chronic kidney disease, but the clinical field didn't get effective treatment or targeted drugs ever.
-When the calcifacation happens, it will secrete 羟基磷灰石 which the osteoblasts will also secrete when bones are growing or recovering. Former reserches also found that the VSMCs will transdifferentiate to a osteoblast-like phenotype. 
-It's well-known that extracellular 核苷酸 with triphosphate 基团 such as ATP and UTP are effective inhibitors against AMC and VSMC calcification. But the robusty and molecular machanisms are still unclear. And the 
+When the calcifacation happens, it will secrete 羟基磷灰石 which the osteoblasts will also secrete when bones are growing or recovering. Former reserches also found that the VSMCs will transdifferentiate to a osteoblast-like phenotype.
+It's well-known that extracellular 核苷酸 with triphosphate 基团 such as ATP and UTP are effective inhibitors against AMC and VSMC calcification. But the robusty and molecular machanisms are still unclear. And the
 Based on those evidences above, the reserchers came up with some questions: what molecular connects extracellular 核苷酸 and what's the potential difference between that in VSMCs and osteoblasts?
 We all know that
-
 # 问题
 ## 背景
 1. AMC是什么？
@@ -29,7 +28,6 @@ qPCR，（只能检测转录活跃度）
 未知
 ### 作者为什么要比较两种细胞的P2受体表达？两种细胞本来就不一样
 开头的转分化假说：AMC被认为与**VSMCs向成骨样表型**的转分化有关
-
 ## 核苷酸抑制VSMC钙化
 作用挺像是怎么看出来的？
 钙化本身对细胞凋亡的影响？
@@ -37,7 +35,6 @@ qPCR，（只能检测转录活跃度）
 LDH释放法：乳酸脱氢酶存在于细胞内，死亡后会释放到培养基中
 流式细胞术（Annexin V染色）
 ### 如何想到核苷酸是通过防止细胞凋亡而不是其他什么死亡途径来保护VSMC？
-
 ## 核苷酸影响OB TNAP活性
 ATP、UTP抑制OB的TNAP活性
 P2Y2R缺陷的OB，TNAP基线更高，且核苷酸的抑制作用完全消失。
