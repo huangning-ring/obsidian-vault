@@ -1,3 +1,6 @@
+---
+sort_index: 8000
+---
 # PART I — English Lecture Script
 ## 1. Opening: The Disease We Set Out to Study
 Good day, everyone. It is almost exactly 20 years since I first began working on a rare genetic disorder called pseudoxanthoma elasticum, or PXE — and today I want to take you through the intellectual journey of those two decades, from understanding a single gene's function, to uncovering the molecular logic of ectopic calcification, and ultimately to recognising the pivotal role of epigenetics in that process.

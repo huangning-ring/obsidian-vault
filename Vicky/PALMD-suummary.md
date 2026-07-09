@@ -1,3 +1,6 @@
+---
+sort_index: 4000
+---
 # PALMD regulates aortic valve calcification via altered glycolysis and NF-κB-mediated inflammation
 # Background
 CAVD(Calcific aortic valve disease), is the most common heart valvular disease, which usually happens when heart valvular get thick, 纤维化, and eventually calcific. The only way to treat the disease is surgical, but it remains high risk with thrombus, infection and heart failure. Therefore, it's urgent for us to find out the way that CAVD happens and the potential molecular pathway to block in.
@@ -7,5 +10,5 @@ We got aortic valve tissues from CAVD patients after surgery, and confirmed the 
 # Mechanism exploration: how does PALMD affect calcification?
 First, we used siRNA to knock down PALMD, and upregulated PALMD using AAV overexpression as well. The results showed that PALMD's knock down can dramatically upregulate calcification deposition, the expression of bone formation genes (MSX2、RUNX2、BMP2) and apotosis marker (caspase3) , while its overexpression resulted totally the opposite.
 Second, we explored the molecular mechanism that PALMD works. We chose RNA-sequencing to independantly investivate the genome expression change. We found 751 differently  expression genes, and the degration dramatically enriched in 2 pathways: glycolysis and TNFα signal pathway, whose downstream is NF-κB signal to mediate inflammation.
-RNA-seq gave us the assumption, so we need to verify them in protein and functional level. We verified the downregulates of key enzymes in glycolysis, while overexpressing PALMD led to upregulation. Then we measured its glucose 摄取ability, 得到 the same result.
-At this point, we can conclude that PALMD can regulate glycosis in hVIC, so we assume we could block glycosis to inhibit PALMD 引起的
+RNA-seq gave us the assumption, so we need to verify them in protein and functional level. We verified the downregulates of key enzymes in glycolysis, while overexpressing PALMD led to upregulation. Then we measured its glucose absorbing capability, finding the same result.
+At this point, we can conclude that PALMD can regulate glycosis in hVIC, so we assume we could block glycosis to inhibit calcification and inflammation caused by PALMD. We knocked down PFKFB3, one of the key limiting factors of the glycolysis process,  finding that PFKFB3 could 

@@ -505,7 +505,12 @@
   "folderIcons": {},
   "folderColors": {},
   "folderBackgroundColors": {},
-  "folderSortOverrides": {},
+  "folderSortOverrides": {
+    "Vicky": {
+      "option": "property-asc",
+      "propertyKey": "sort_index"
+    }
+  },
   "folderTreeSortOverrides": {},
   "folderAppearances": {},
   "tagIcons": {},

@@ -1,3 +1,6 @@
+---
+sort_index: 3000
+---
 # Abstract
 AMC has something in common with skeletal mineralization, and it has been associated with transdifferentiation of VSMCs to osteoblast-like phenotype.
 These 2 phenomena seems to have little association in my thought, but they are both influenced by extracelluar nucleotides, for example, ATP and UTP has previously been shown to inhibit bone mineralization, and the two phenomena effects are studied in detail, and the down stream pathways are clarified in the research.

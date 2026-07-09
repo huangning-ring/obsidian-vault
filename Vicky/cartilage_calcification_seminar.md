@@ -1,3 +1,6 @@
+---
+sort_index: 6000
+---
 # 软骨钙化与骨关节炎 Seminar 整理稿
 > 说明：原始材料是两段语音转写文件（一段较完整，一段是结尾部分），内容前后相接，本文已按演讲的真实顺序合并整理。第一段转写文字质量较好；第二段（AI 字幕）存在较多语音识别错误（如 "Andrew Carlsonosis" = chondrocalcinosis，"Tina/Tina app" = TNAP，"polylycerine red" = Alizarin Red 等），已在整理时校正为正确的专业术语。少数人名因识别错误严重、无法确认，致谢部分未强行还原具体姓名。
 

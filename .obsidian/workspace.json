@@ -8,17 +8,37 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8ed2c05eb0498218",
+            "id": "e45689aab6a75dfe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vicky/小胶质细胞与脑血管钙化(下)：TREM2抗体疗效检验及XPR1模型新证据.md",
+                "file": "Vicky/PALMD_演讲稿_中英双语.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "小胶质细胞与脑血管钙化(下)：TREM2抗体疗效检验及XPR1模型新证据"
+              "title": "PALMD_演讲稿_中英双语"
+            }
+          }
+        ]
+      },
+      {
+        "id": "8e5a9947e5a5354b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "38030b1ce5a8d985",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vicky/PALMD-suummary.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PALMD-suummary"
             }
           }
         ]
@@ -89,7 +109,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 482.5
+    "width": 482.5,
+    "collapsed": true
   },
   "right": {
     "id": "e8af24c642dba675",
@@ -194,19 +215,22 @@
       "notebook-navigator:笔记本导航器": false
     }
   },
-  "active": "8ed2c05eb0498218",
+  "active": "38030b1ce5a8d985",
   "lastOpenFiles": [
+    "Vicky/PALMD_演讲稿_中英双语.md",
+    "Vicky/PALMD-suummary.md",
+    "Vicky/Summary-Epigenetic Calcification Lecture.md",
+    "Vicky/速读文献skill.md",
+    "Vicky/小胶质细胞与脑血管钙化(下)：TREM2抗体疗效检验及XPR1模型新证据.md",
+    "Vicky/Inhibition of arterial medial calcification and bone mineralization by extracellular nucleotides：The same functional effect mediated by different cellular mechanism.md",
+    "AGENTS全局.md",
+    "AGENTS-视觉.md",
+    "未命名.md",
     "笔记同步助手/images/cced457b62330c2c13c2f578c60bc426_MD5.jpg",
     "笔记同步助手/images/81b26748cfe8399f3cfe314515c6e48c_MD5.jpg",
     "笔记同步助手/images/7328b144662ecdfc685c0eed79362ebf_MD5.jpg",
     "笔记同步助手/2026-07-08/文献综述写得很差，真心建议看看这篇文章.md",
     "笔记同步助手/2026-07-08",
-    "Vicky/Inhibition of arterial medial calcification and bone mineralization by extracellular nucleotides：The same functional effect mediated by different cellular mechanism.md",
-    "Vicky/小胶质细胞与脑血管钙化(下)：TREM2抗体疗效检验及XPR1模型新证据.md",
-    "Vicky/速读文献skill.md",
-    "Vicky/Summary-Epigenetic Calcification Lecture.md",
-    "Vicky/PALMD-suummary.md",
-    "Vicky/PALMD_演讲稿_中英双语.md",
     "26出国灵感/2026-06-29 文献检索 - SARS-CoV-2受体条形码突变库/PDF/06_TMEM106B_proviral_host_factor_NatGenet_2021.pdf",
     "26出国灵感/2026-06-29 文献检索 - SARS-CoV-2受体条形码突变库/PDF/02_DAZAP2_pan-coronavirus_restriction_factor_mBio_2025.pdf",
     "26出国灵感/2026-06-29 文献检索 - SARS-CoV-2受体条形码突变库/PDF/03_Mucins_host_factors_NatGenet_2022.pdf",
@@ -222,8 +246,6 @@
     "Vicky/Wang 2022 PALMD JBC/Wang 2022 PALMD JBC.pdf",
     "Vicky/Wang 2022 PALMD JBC",
     "Vicky/PALMD regulates aortic valve calcification via altered glycolysis and NF-κB-mediated inflammation.pdf",
-    "AGENTS全局.md",
-    "AGENTS-视觉.md",
     "AGENTS-Obsidian.md",
     "AGENTS-R.md",
     "Vicky/Wang 2022 - PALMD regulates aortic valve calcification via altered glycolysis and NF-kB-mediated inflammation.md",
@@ -241,7 +263,6 @@
     "笔记同步助手/images/cb40e0066f6b8b110a05af9181efd871_MD5.jpg",
     "笔记同步助手/images/f19e73756cc03cdcd6b7e3dff1287884_MD5.jpg",
     "笔记同步助手/images/ee060d8c3a2b6ddc56d16229e488900b_MD5.jpg",
-    "笔记同步助手/images/e8f08084a222ce3fdeddfa8170d20b2f_MD5.jpg",
     "任务管理/任务看板.canvas",
     "任务管理/2026-06-05 工作看板.canvas",
     "GPT画图测试260227/GPT画图测试260227.canvas",
