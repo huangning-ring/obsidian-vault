@@ -28,7 +28,7 @@ id: b8655c49-7476-450c-9708-999e85b7ff0b
 
 之前就是只能点仅授权一次，不能点击始终允许，点了就会ChatGPT 弹出授权页。
 
-![](https://relay-1.bijitongbu.site/p/0e44dab3fd4f8591c59722f0f8a99c94.png)
+![[笔记同步助手/images/a6bc616051f5562dd514ee36ffd6003c_MD5.png]]
 
 还有之前 OAuth Client、授权记录、Token 等信息没有完整持久化。服务一重启，ChatGPT 还拿着之前的 Client ID 来连接，本地服务却已经不认识了。
 
@@ -46,7 +46,7 @@ devspace config 【你的自定义认证密码】
 
 之前呢，你只能点击允许一次，只要点了始终允许就会反复跳Auth 验证，之后就是烦人的应用加载失败，又重新弹出让你授权，现在只要服务重启 → 正常重连就能继续使用。
 
-![](https://relay-1.bijitongbu.site/p/5942abba6d258593ff24d22e901a94ae.png)
+![[笔记同步助手/images/3e79acd4e617acf5ed900a86e98b9a94_MD5.png]]
 
 ## 一、 Plan 和 Goal 使用
 
@@ -344,7 +344,7 @@ devspace --version
 -   公网 HTTPS 地址，没有的话就先随便填一个，下面会教大家如何设置域名，填[https://github.com](https://github.com) 都可以，后面改。
     
 
-![](https://relay-1.bijitongbu.site/p/8123f4e6c613e57aa796a466f2647ae4.png)
+![[笔记同步助手/images/3987001bd281f71a2f1ab29b2ed7d4dc_MD5.png]]
 
 ### 2.申请域名
 
@@ -355,7 +355,7 @@ devspace --version
 https://spaceship.sjv.io/c/7338998/1794549/21274
 ```
 
-![](https://relay-1.bijitongbu.site/p/9c6ecdbc9c2bdbbd7e792f15eead5d17.png)
+![[笔记同步助手/images/0dee50168adcf1d63edff21a854b5d0a_MD5.png]]
 
 2.  或者可以去`digitalplat`官网申请一个，免费的后缀`.qzz.io`或者`.dpdns.org`
     
@@ -380,35 +380,35 @@ https://dashboard.katabump.com/auth/register
 -   官网地址：https://www.cloudflare.com/
     
 
-![](https://relay-1.bijitongbu.site/p/1960bf538ff9eb55565e4f3adc2b588d.png)
+![[笔记同步助手/images/17c9d018101b170e1e146179a06a1f89_MD5.png]]
 
 Cloudflare 注册完成、通过邮箱验证后，会直接跳转到面板页，点击域名—>概览—>加入域。
 
-![](https://relay-1.bijitongbu.site/p/5298abac8d7a0aba952a778b9d0ad4eb.png)
+![[笔记同步助手/images/6519f29945bd1f10d5467c6cb6c2b634_MD5.png]]
 
 输入我们要注册的域名添加。
 
-![](https://relay-1.bijitongbu.site/p/4d03d66a7083818566abcd69e88b940d.png)
+![[笔记同步助手/images/76ba1df8b8fb8f9ccb12291d431e2538_MD5.png]]
 
 选择免费计划，继续选择前往激活。
 
-![](https://relay-1.bijitongbu.site/p/94b7633d00cd62631d22b44e8a42a4eb.png)
+![[笔记同步助手/images/f74d0f9c6e66eed30bb0f56f784c64a5_MD5.png]]
 
-![](https://relay-1.bijitongbu.site/p/6f18f693b18cfa1c2e8f9e08fcf0db6f.png)
+![[笔记同步助手/images/80a7d7dfbb194deed125e66081a02dfb_MD5.png]]
 
-![](https://relay-1.bijitongbu.site/p/5eb4fc5ed15dceddc1a1988ad1df19ad.png)
+![[笔记同步助手/images/61ecbcc1663f36562dc23ccea669b1c9_MD5.png]]
 
 复制`cloudflare`生成的DNS解析
 
-![](https://relay-1.bijitongbu.site/p/b85a555855027e8bbaac0ddcf3162a7f.png)
+![[笔记同步助手/images/3b3ff8257893d53e9899c649dae606be_MD5.png]]
 
 填写DNS地址到注册域名服务商对应的名称服务器。
 
-![](https://relay-1.bijitongbu.site/p/b2186ec2d9b5aaa480cb9606451f0471.png)
+![[笔记同步助手/images/22b34aee28a50621e493104f70b9d993_MD5.png]]
 
 回到 Cloudflare，点击底部**我已更新名称服务器**，接下来，就只需要等待很短的时间，一般为 3-5 分钟添加托管到 Cloudflare 的域名就会生效。
 
-![](https://relay-1.bijitongbu.site/p/25a9c8278eedcc6738247850385e6f11.png)
+![[笔记同步助手/images/c3a08df024df8fc813959c8271f3a3c2_MD5.png]]
 
 ### 4\. 访问方式：
 
@@ -423,41 +423,41 @@ Cloudflare 注册完成、通过邮箱验证后，会直接跳转到面板页，
 
 在`Cloudflare` 搜索`Zero Trust`，第一次使用会让你绑定银行卡，你没有的话可以自己搜一下**万里汇**，注册一个账号申请一个免费的卡，里面余额也没有，不用担心额外扣费啥的。
 
-![](https://relay-1.bijitongbu.site/p/ad86c1f98e76673e1d5634e8756da75b.png)
+![[笔记同步助手/images/85e3f74b55f24d5e8eb7cfbd3d5ae9ff_MD5.png]]
 
 进来后点击`网络→连接→创建隧道`
 
-![](https://relay-1.bijitongbu.site/p/cc759edc5cce7ecedcfcc4fc1b9e732a.png)
+![[笔记同步助手/images/0e5b524e42b6597a83c9fd97b6c7f5e2_MD5.png]]
 
 选择隧道类型，选择第一个
 
-![](https://relay-1.bijitongbu.site/p/99e49e3eaee14df2c4a79310e2cdd0f2.png)
+![[笔记同步助手/images/da6bbb8364d52dadeb0941f4f014aa16_MD5.png]]
 
 为隧道命名并且保存隧道
 
-![](https://relay-1.bijitongbu.site/p/005187b11a0f94d1ae71fc32ab7cfabd.png)
+![[笔记同步助手/images/82ad3b6a4d362b0ab87b3802c483cc4b_MD5.png]]
 
 在本地电脑下载对应客户端并且按照提示执行启动隧道，Token仅显示一次，记得找地方保存下来。
 
-![](https://relay-1.bijitongbu.site/p/830fd4b7cf46b407ec82d1367c6c6b20.png)
+![[笔记同步助手/images/0eafcf6723879ad352bb10ea34860bf7_MD5.png]]
 
 填写域名解析记录与隧道代理地址和端口，最后保存就行了。
 
-![](https://relay-1.bijitongbu.site/p/526926cd9ab70a252d22ec098d8d0ace.png)
+![[笔记同步助手/images/754670a9e0da56afc6489ef18145c222_MD5.png]]
 
 #### 4.2 HTTPS + Nginx 反代
 
 设置解析A解析记录，选中你的域名，点击进入DNS解析：
 
-![](https://relay-1.bijitongbu.site/p/a3926df536027403af6bfb09d59055b3.png)
+![[笔记同步助手/images/9abceaeadf1caace95733c125027c2c0_MD5.png]]
 
 点击添加记录
 
-![](https://relay-1.bijitongbu.site/p/6ee09685105ddd4a741279272f2b1e67.png)
+![[笔记同步助手/images/f94ebd9e118a89e64f7f47e537db4916_MD5.png]]
 
 添加解析记录，记得放开80和443 端口。
 
-![](https://relay-1.bijitongbu.site/p/ca3c6f99c8d13962805103d8ce5bc548.png)
+![[笔记同步助手/images/afa5479f590c4e89a8927a08787867cb_MD5.png]]
 
 Nginx 反代和HTTPS 部署就给Codex 帮做吧，使用如下提示词，记得替换你的域名与代理端口：
 
@@ -688,7 +688,7 @@ devspace config show
 
 打开设置，找到应用，开启开发者模式，点击创建应用。
 
-![](https://relay-1.bijitongbu.site/p/830706967df3d64f3f981d78474a2be5.png)
+![[笔记同步助手/images/bb31ab9cb970bd2bf0ec8410d4b04e60_MD5.png]]
 
 把 MCP 地址配置成：
 
@@ -696,15 +696,15 @@ devspace config show
 https://your-tunnel-host.example.com/mcp
 ```
 
-![](https://relay-1.bijitongbu.site/p/bd405af8b8825f5c78147cb7cddd868c.png)
+![[笔记同步助手/images/ebe52aa0d2efc7a207364a68881d026b_MD5.png]]
 
 创建好以后点击应用，然后连接到应用。
 
-![](https://relay-1.bijitongbu.site/p/0c7ec773d99893f8cff75a46815c0268.png)
+![[笔记同步助手/images/8099aecd6b13130eded45ae461ba37cf_MD5.png]]
 
-![](https://relay-1.bijitongbu.site/p/011c8c85b38337d5f4cdaeafd6a0742c.png)
+![[笔记同步助手/images/ca33908ce1eaa8244abe1415195bf2b7_MD5.png]]
 
-![](https://relay-1.bijitongbu.site/p/308b46c9995ca0a44ac50c815f0c508c.png)
+![[笔记同步助手/images/da1a9ac2655adad6ddbb5ae22fc43dd3_MD5.png]]
 
 打开本地如下文件查看登录密钥，输入即可。
 
@@ -714,7 +714,7 @@ cat ～/.devspace/auth.json
 
 然后就在网页端点击更多，选中我们的APP 使用即可。
 
-![](https://relay-1.bijitongbu.site/p/9a128ace13a2b246dd3639790298e8db.png)
+![[笔记同步助手/images/8ee366b4a29e247f2c41e4dc7c821a41_MD5.png]]
 
 #### 4.6 手机上远程操控
 
@@ -724,7 +724,7 @@ cat ～/.devspace/auth.json
 @devspace 帮我提交git，推送到gitlab 仓库
 ```
 
-![](https://relay-1.bijitongbu.site/p/b0d9c7cfc67ae68406410240dfb4fdf4.png)
+![[笔记同步助手/images/790bbdab6b1aaa9f7d4ed3b3c3a98e20_MD5.png]]
 
 如果你有多台服务器的话可以实现ChatGPT 帮你管理服务器，你可以创建多个MCP 服务，创建多个APP。
 
@@ -760,7 +760,7 @@ DevSpace 使用后台服务运行
 
 对了，如果你遇到什么安全审查给你拦截了，如图：
 
-![](https://relay-1.bijitongbu.site/p/8333257aa95886c1dc84b746b320228d.png)
+![[笔记同步助手/images/4b0542def509f60fa1aba726f9de2c5a_MD5.png]]
 
 你可以使用如下提示词：
 
@@ -770,21 +770,21 @@ DevSpace 使用后台服务运行
 
 然后ChatGPT 就开始酷酷帮你干活了，如图：
 
-![](https://relay-1.bijitongbu.site/p/71b41932d195a12bf5d7412b1ea80b33.png)
+![[笔记同步助手/images/7176a226f42165f811702cc6fc2832f9_MD5.png]]
 
 还有你想要获得更加丝滑的体验，不想每次审核权限，就到应用 设置请求许可，改为从不询问即可：
 
-![](https://relay-1.bijitongbu.site/p/7f35c0af421036e41c613bdbabae7c38.png)
+![[笔记同步助手/images/db371648dd50df03d94ae0ad117e3638_MD5.png]]
 
 就和Codex 的这个类似差不多：
 
-![](https://relay-1.bijitongbu.site/p/17b785af28999a9c8cccd2c0b278f22c.png)
+![[笔记同步助手/images/51496ab61e96ef344214c6d02c1ce186_MD5.png]]
 
 还有就是你网页上提交了你的需求，ChatGPT就会帮你酷酷干货你可以不用去等，直接关掉网页去干别的也是可以的，等过一会再来看。
 
 还有就是当前网页当前会话聊天内容多了，变卡了怎么办，实测刷新一下网页就好了，试下不行就点击在新的聊天分支继续聊，再不行就**让ChatGPT 帮你蒸馏当前会话或者压缩当前会话存储到ChatGPT 记忆里面**，你是可以看到的。
 
-![](https://relay-1.bijitongbu.site/p/bde221dd0f609e43b6b248c8889457cf.png)
+![[笔记同步助手/images/c45b7efe9c5c133c4919f4bae4f24567_MD5.png]]
 
 ## 总结
 
@@ -792,7 +792,7 @@ DevSpace 使用后台服务运行
 
 对于额度，我个人感觉ChatGPT 网页上的额度更多，我用网页聊一天使用ChatGPT 5.5 高级`thinking`模式都不会触发限流，本来是准备搞个Pro 的，现在Plus 网页版额度完全足够对我来说，**相比Codex ，网页版的ChatGPT 更具有性价比**！
 
-![](https://relay-1.bijitongbu.site/p/3260e48dff03b5f11acaa9610437c6b0.png)
+![[笔记同步助手/images/93ce39517dc99e886c2021da8f12bb8c_MD5.png]]
 
 现在呢，**ChatGPT可以完全变成你的使用的 编程工作台**，甚至有点像**之前爆火的小龙虾的味道了**。
 
