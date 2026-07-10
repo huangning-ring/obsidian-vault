@@ -12,5 +12,10 @@ Now I'm talking about some published research about XPR1. It's considered to be 
 The calcification focus was wrapped by astrocytes and microglia.There are also sexual differences that female mice's calcification is much smaller than that of male mice. 3D imaging and type IV collagen also confirmed the calcification focuses were wholly wrapped by vascular basement membrane, implying the locations inside the layer of vascular smooth muscle.
 We also found microangiopathy: the capillary's basement menbrane also occured unusual thickness, although the blood capillary itself dosen't get calcifiated. This implied different mice model types will lead to different pathology changes.
 # Functional evalutation: macrophage experiments
-After the microglia cells' functional research and gene level research, we need to figure out whether the macrophages' or microglia's phagocytic ability is normal. Because of the difficulty of  primary microglia seperation, we switched to bone arrow-derived macrophage as the alternative model. We clearly saw macrophages 内吞 the hydroxyapatite crystal marked by risedronate, while the contrast group showed no difference.
-This 
+After the microglia cells' functional research and gene level research, we need to figure out whether the macrophages' or microglia's phagocytic ability is normal. Because of the difficulty of  primary microglia seperation, we switched to bone arrow-derived macrophage as the alternative model. We clearly saw macrophages endocytosis the hydroxyapatite crystal marked by risedronate, while the contrast group showed no difference. Accordingly, the reason why calcification kept existing is more likely to be in recognition, recruitment or microenrironment. 
+# Conclusion
+In the end, I want to propose some open questions.
+1. Do the different types of gene mutation cause vascular calcification by different machenisms?
+2. Why is it precisely that blood vessels in the deep brain regions are more likely to calcification, while cortical vessels are almost unaffected?
+3. Is vascular calcification the direct reason of neurodegenerative diseases in PFBC(Primary familial cerebral calcification)?
+Those questions are the arrays our lab's going to investigate. Thank you for all the colaborators in the lab, thank you for listening.
