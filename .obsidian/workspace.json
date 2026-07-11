@@ -11,14 +11,16 @@
             "id": "e45689aab6a75dfe",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "笔记同步助手/2026-07-11/两周疯传！6个Claude新神Skill.md",
-                "mode": "preview",
-                "source": false
+                "file": "走在前列/永庆坊传统文化街区活化实践报告.pdf",
+                "page": 1,
+                "left": -13,
+                "top": 796,
+                "zoom": 1.1348039215686274
               },
-              "icon": "lucide-file",
-              "title": "两周疯传！6个Claude新神Skill"
+              "icon": "lucide-file-text",
+              "title": "永庆坊传统文化街区活化实践报告"
             }
           }
         ]
@@ -196,6 +198,9 @@
   },
   "active": "aff4bdb1d5434ebe",
   "lastOpenFiles": [
+    "走在前列/~WRL0005.tmp",
+    "走在前列/~WRD0004.tmp",
+    "笔记同步助手/2026-07-11/两周疯传！6个Claude新神Skill.md",
     "走在前列/永庆坊传统文化街区活化实践报告.pdf",
     "走在前列/~$坊传统文化街区活化实践报告.docx",
     "走在前列/永庆坊传统文化街区活化实践报告.docx",
@@ -216,10 +221,7 @@
     "笔记同步助手/images/9540f3514d8def4d60837185017f2a0e_MD5.jpg",
     "笔记同步助手/images/f16a2387fe581bfdb05549add238d561_MD5.jpg",
     "笔记同步助手/images/159d81148363b1b442210363011069fd_MD5.jpg",
-    "笔记同步助手/2026-07-11/两周疯传！6个Claude新神Skill.md",
-    "笔记同步助手/2026-07-11",
     "笔记同步助手/images/58afae79bf9dc9f08edb25e2079bfac9_MD5.jpg",
-    "笔记同步助手/2026-07-10",
     "Vicky/webinars/小胶质细胞与脑血管钙化(下)：TREM2抗体疗效检验及XPR1模型新证据.md",
     "Vicky/webinars/Microglia and cerebrovascular calcification.md",
     "AGENTS全局.md",
