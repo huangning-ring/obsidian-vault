@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "走在前列/2010年的永庆坊，你还认得吗？.md",
+                "file": "26出国灵感/IMA云端知识库—Codex—Obsidian工作流.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2010年的永庆坊，你还认得吗？"
+              "title": "IMA云端知识库—Codex—Obsidian工作流"
             }
           }
         ]
@@ -89,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 482.5
+    "width": 482.5,
+    "collapsed": true
   },
   "right": {
     "id": "e8af24c642dba675",
@@ -194,8 +195,9 @@
       "notebook-navigator:笔记本导航器": false
     }
   },
-  "active": "aff4bdb1d5434ebe",
+  "active": "e45689aab6a75dfe",
   "lastOpenFiles": [
+    "走在前列/2010年的永庆坊，你还认得吗？.md",
     "走在前列/2024125007黄宁-永庆坊传统文化街区活化实践报告.docx",
     "走在前列/永庆坊传统文化街区活化实践报告.pdf",
     "走在前列/~WRL0934.tmp",
@@ -207,9 +209,7 @@
     "走在前列/~$坊传统文化街区活化实践报告.docx",
     "走在前列/永庆坊传统文化街区活化实践报告.docx",
     "走在前列/2026年春季学期《走在前列的广东实践》课程实践教学任务安排.docx",
-    "走在前列/PDF_20260711_210636.pdf",
     "笔记同步助手/2026-07-10/手机也能远程写代码？ChatGPT 秒变 Codex，彻底榨干网页版 ChatGPT 额度！.md",
-    "走在前列/2010年的永庆坊，你还认得吗？.md",
     "笔记同步助手/images/662f5f5d9f0c115dd8076b816f0255b4_MD5.jpg",
     "笔记同步助手/images/7fa20af633e40d439b6d40d6f6e5f248_MD5.jpg",
     "笔记同步助手/images/033a6d813689cfe89aeccb276ebaffa9_MD5.jpg",

@@ -44,7 +44,7 @@ status: idea
 7. Codex 将最终内容写入 Obsidian，按个人格式完成标题、层级、链接、重点、来源和复习结构整理。
 8. 用户在 Obsidian 中阅读、修改、回顾和复习，形成长期可积累的个人知识。
 ```mermaid
-flowchart LR
+flowchart TD
     A["用户提出题目"] --> B["Codex 优化为 RAG 提示词"]
     B --> C["IMA 检索云端知识库"]
     C --> D["Codex 分析结果质量"]
