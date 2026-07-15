@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "复习/运动系统ob-note/04-手外伤与断肢再植.md",
-                "mode": "source",
+                "file": "CLAUDE记忆.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04-手外伤与断肢再植"
+              "title": "CLAUDE记忆"
             }
           }
         ]
@@ -119,13 +119,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "复习/运动系统ob-note/04-手外伤与断肢再植.md",
+                "file": "CLAUDE记忆.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "04-手外伤与断肢再植 的大纲"
+              "title": "CLAUDE记忆 的大纲"
             }
           },
           {
@@ -195,8 +195,12 @@
   },
   "active": "e45689aab6a75dfe",
   "lastOpenFiles": [
-    "复习/运动系统handout/01 运动系统畸形与骨折概述.md",
+    "AGENTS全局.md",
+    "AGENTS-视觉.md",
+    "CLAUDE记忆.md",
     "复习/运动系统ob-note/15-骨肿瘤.md",
+    "复习/运动系统ob-note/04-手外伤与断肢再植.md",
+    "复习/运动系统handout/01 运动系统畸形与骨折概述.md",
     "复习/运动系统ob-note/14-非化脓性关节炎.md",
     "复习/运动系统ob-note/13-骨与关节结核.md",
     "复习/运动系统ob-note/12-骨与关节化脓性感染.md",
@@ -204,7 +208,6 @@
     "复习/运动系统ob-note/05-下肢骨关节损伤.md",
     "复习/运动系统ob-note/09-运动系统慢性损伤.md",
     "复习/运动系统ob-note/00-运动系统疾病索引.md",
-    "复习/运动系统ob-note/04-手外伤与断肢再植.md",
     "复习/运动系统ob-note/11-颈腰椎退行性疾病.md",
     "复习/运动系统ob-note/08-周围神经损伤.md",
     "复习/运动系统ob-note/03-上肢骨关节损伤.md",
@@ -234,9 +237,6 @@
     "work/surgery10_toc",
     "work",
     "_tmp_ima_query.cjs",
-    "复习/运动系统/02 上肢、手与下肢损伤.md",
-    "复习/运动系统/01 运动系统畸形与骨折概述.md",
-    "复习/运动系统/00 运动系统复习总纲.md",
     "笔记同步助手/2026-07-14",
     "走在前列/2024125007黄宁-永庆坊传统文化街区活化实践报告.docx",
     "走在前列/永庆坊传统文化街区活化实践报告.pdf",
