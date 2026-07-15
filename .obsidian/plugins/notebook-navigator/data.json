@@ -511,7 +511,8 @@
     "Vicky": {
       "option": "property-asc",
       "propertyKey": "sort_index"
-    }
+    },
+    "复习/运动系统": "filename-asc"
   },
   "folderTreeSortOverrides": {},
   "folderAppearances": {},
