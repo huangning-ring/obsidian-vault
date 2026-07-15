@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "复习/运动系统/00 运动系统复习总纲.md",
+                "file": "复习/运动系统/03 脊柱脊髓、骨盆与周围神经损伤.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00 运动系统复习总纲"
+              "title": "03 脊柱脊髓、骨盆与周围神经损伤"
             }
           }
         ]
@@ -89,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 482.5,
-    "collapsed": true
+    "width": 482.5
   },
   "right": {
     "id": "e8af24c642dba675",
@@ -120,13 +119,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "复习/运动系统/00 运动系统复习总纲.md",
+                "file": "复习/运动系统/03 脊柱脊髓、骨盆与周围神经损伤.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "00 运动系统复习总纲 的大纲"
+              "title": "03 脊柱脊髓、骨盆与周围神经损伤 的大纲"
             }
           },
           {
@@ -196,12 +195,31 @@
   },
   "active": "e45689aab6a75dfe",
   "lastOpenFiles": [
+    "复习/运动系统handout/05 骨关节感染关节炎与骨肿瘤.md",
+    "复习/运动系统handout/04 慢性损伤股骨头坏死与颈腰椎退变.md",
+    "复习/运动系统handout/03 脊柱脊髓骨盆与周围神经损伤.md",
+    "复习/运动系统handout/02 上肢手部与下肢损伤.md",
+    "复习/运动系统handout/01 运动系统畸形与骨折概述.md",
+    "复习/运动系统handout/00 阅读导航.md",
+    "复习/运动系统handout",
+    "work/surgery10_chapter_starts/pdf-797.jpg",
+    "work/surgery10_chapter_starts/pdf-789.jpg",
+    "work/surgery10_chapter_starts/pdf-778.jpg",
+    "work/surgery10_chapter_starts/pdf-769.jpg",
+    "work/surgery10_chapter_starts/pdf-757.jpg",
+    "work/surgery10_chapter_starts/pdf-754.jpg",
+    "work/surgery10_chapter_starts/pdf-739.jpg",
+    "work/surgery10_chapter_starts/pdf-730.jpg",
+    "work/surgery10_chapter_starts/pdf-724.jpg",
+    "work/surgery10_chapter_starts/pdf-715.jpg",
+    "work/surgery10_chapter_starts",
+    "work/surgery10_toc",
+    "work",
+    "_tmp_ima_query.cjs",
+    "复习/运动系统/02 上肢、手与下肢损伤.md",
+    "复习/运动系统/01 运动系统畸形与骨折概述.md",
+    "复习/运动系统/00 运动系统复习总纲.md",
     "26出国灵感/2026-06-29 文献检索 - SARS-CoV-2受体条形码突变库/医学科研文献检索汇报.md",
-    "笔记同步助手/images/80e5186ec548a1e407989c910749a4ff_MD5.jpg",
-    "笔记同步助手/images/847374410028fb10707b867af59b6587_MD5.jpg",
-    "笔记同步助手/images/fb9386f9b3f689be17b64d5d4d5882f9_MD5.jpg",
-    "笔记同步助手/images/53238238e774712f020ce51d023f18e7_MD5.jpg",
-    "笔记同步助手/images/6d4950190d8c3263f324eb32f8c48b41_MD5.jpg",
     "笔记同步助手/2026-07-14/Zotero 科研狗的“屎山”清理指南.md",
     "笔记同步助手/2026-07-14",
     "26出国灵感/2026-06-29 文献检索 - SARS-CoV-2受体条形码突变库/研究计划_方案二_宿主受体易感性决定因素筛选.md",
@@ -213,18 +231,8 @@
     "走在前列/永庆坊传统文化街区活化实践报告.pdf",
     "走在前列/~WRL0934.tmp",
     "走在前列/~WRD0852.tmp",
-    "走在前列/~$26年春季学期《走在前列的广东实践》课程实践教学任务安排.docx",
-    "走在前列/~WRL0005.tmp",
-    "走在前列/~WRD0004.tmp",
     "笔记同步助手/2026-07-11/两周疯传！6个Claude新神Skill.md",
-    "走在前列/~$坊传统文化街区活化实践报告.docx",
-    "走在前列/永庆坊传统文化街区活化实践报告.docx",
     "笔记同步助手/2026-07-10/手机也能远程写代码？ChatGPT 秒变 Codex，彻底榨干网页版 ChatGPT 额度！.md",
-    "笔记同步助手/images/662f5f5d9f0c115dd8076b816f0255b4_MD5.jpg",
-    "笔记同步助手/images/7fa20af633e40d439b6d40d6f6e5f248_MD5.jpg",
-    "笔记同步助手/images/033a6d813689cfe89aeccb276ebaffa9_MD5.jpg",
-    "笔记同步助手/images/468f25a418c66b824f35099b35fdf5de_MD5.jpg",
-    "笔记同步助手/images/2949cb46b8581e227ff50200d02ccbb5_MD5.jpg",
     "Vicky/webinars/小胶质细胞与脑血管钙化(下)：TREM2抗体疗效检验及XPR1模型新证据.md",
     "Vicky/webinars/Microglia and cerebrovascular calcification.md",
     "AGENTS全局.md",
@@ -233,15 +241,6 @@
     "Vicky/papers/Inhibition of arterial medial calcification and bone mineralization by extracellular nucleotides：The same functional effect mediated by different cellular mechanism.md",
     "Vicky/papers/PALMD-suummary.md",
     "Vicky/webinars/cartilage_calcification_seminar.md",
-    "Vicky/webinars/Epigenetic_Calcification_Lecture.md",
-    "Vicky/webinars/Summary-Epigenetic Calcification Lecture.md",
-    "Vicky/PALMD_演讲稿_中英双语.md",
-    "Vicky/PALMD-suummary.md",
-    "Vicky/Summary-Epigenetic Calcification Lecture.md",
-    "Vicky/速读文献skill.md",
-    "Vicky/Inhibition of arterial medial calcification and bone mineralization by extracellular nucleotides：The same functional effect mediated by different cellular mechanism.md",
-    "笔记同步助手/2026-07-08/文献综述写得很差，真心建议看看这篇文章.md",
-    "26出国灵感/2026-06-29 文献检索 - SARS-CoV-2受体条形码突变库/下载状态清单.md",
     "任务管理/任务看板.canvas",
     "任务管理/2026-06-05 工作看板.canvas",
     "GPT画图测试260227/GPT画图测试260227.canvas",
