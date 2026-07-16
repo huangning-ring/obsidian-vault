@@ -11,14 +11,16 @@
             "id": "e45689aab6a75dfe",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "CLAUDE记忆.md",
-                "mode": "preview",
-                "source": false
+                "file": "复习/课本/41.第8版《医学统计学》.pdf",
+                "page": 1,
+                "left": -18,
+                "top": 798,
+                "zoom": 0.8340283569641369
               },
-              "icon": "lucide-file",
-              "title": "CLAUDE记忆"
+              "icon": "lucide-file-text",
+              "title": "41.第8版《医学统计学》"
             }
           }
         ]
@@ -119,13 +121,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CLAUDE记忆.md",
+                "file": "复习/课本/41.第8版《医学统计学》.pdf",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "CLAUDE记忆 的大纲"
+              "title": "41.第8版《医学统计学》 的大纲"
             }
           },
           {
@@ -193,22 +195,22 @@
       "notebook-navigator:笔记本导航器": false
     }
   },
-  "active": "aff4bdb1d5434ebe",
+  "active": "e45689aab6a75dfe",
   "lastOpenFiles": [
-    "复习/课本/医学免疫学 (曹雪涛) (Z-Library).pdf",
+    "复习/课本/21.内科学 第10版_书签.pdf",
+    "复习/课本/41.第8版《医学统计学》.pdf",
+    "复习/课本/10.《生理学（第10版）》.pdf",
     "复习/课本/代谢生化途径大串讲-b站生化老头.pdf",
+    "CLAUDE记忆.md",
+    "复习/课本/医学免疫学 (曹雪涛) (Z-Library).pdf",
     "复习/课本/39.《医学遗传学（第8版）》.pdf",
     "复习/课本/22.《外科学（第十版）》.pdf",
-    "复习/课本/21.内科学 第10版_书签.pdf",
     "复习/课本/15.《病理生理学（第10版）》.pdf",
     "复习/课本/14.《病理学（第10版）》.pdf",
     "复习/课本/12.人体寄生虫学（第10版）.pdf",
-    "复习/课本/10.《生理学（第10版）》.pdf",
     "复习/课本/11.《医学微生物学》.pdf",
-    "复习/课本/09.《生物化学与分子生物学（第10版）》.pdf",
     "AGENTS全局.md",
     "AGENTS-视觉.md",
-    "CLAUDE记忆.md",
     "复习/运动系统ob-note/15-骨肿瘤.md",
     "复习/运动系统ob-note/04-手外伤与断肢再植.md",
     "复习/运动系统handout/01 运动系统畸形与骨折概述.md",

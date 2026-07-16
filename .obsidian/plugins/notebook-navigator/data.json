@@ -512,7 +512,8 @@
       "option": "property-asc",
       "propertyKey": "sort_index"
     },
-    "复习/运动系统": "filename-asc"
+    "复习/运动系统": "filename-asc",
+    "复习/课本": "title-desc"
   },
   "folderTreeSortOverrides": {},
   "folderAppearances": {},
