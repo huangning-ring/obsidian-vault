@@ -514,7 +514,8 @@
     },
     "复习/运动系统": "filename-asc",
     "复习/课本": "title-desc",
-    "复习/统计": "filename-asc"
+    "复习/统计": "filename-asc",
+    "费曼学习法提示词": "title-asc"
   },
   "folderTreeSortOverrides": {},
   "folderAppearances": {},
