@@ -7,57 +7,32 @@ tags:
   - 笔记同步助手
 id: b8655c49-7476-450c-9708-999e85b7ff0b
 ---
-
 公众号名称：淘小欣
-
 作者名称：恋上淘小欣
-
 发布时间：2026-06-23 01:25
-
 哈喽，大家好啊！
-
 之前呢我们折腾了 DevSpace，通过 MCP 把 ChatGPT 网页版接入直接实现像 Codex 一样读取代码、修改文件、执行命令。
-
 [【Codex 额度不够用？把 ChatGPT 网页版变成 Codex】](https://mp.weixin.qq.com/s?__biz=Mzg3ODA5ODY3MQ==&mid=2247504175&idx=1&sn=541b8df191ddcfd0a3faa06179e1ffa0&scene=21#wechat_redirect)
-
 我自己也继续用了几天，整体确实总比没有强，但是也发现了几个比较烦的坑，所以给大家写了一个更顺畅的版本吧，同时也能帮助大家获得一些丝滑的体验。
-
 ## 一、 OAuth 授权
-
 第一个就是 OAuth 授权。
-
 之前就是只能点仅授权一次，不能点击始终允许，点了就会ChatGPT 弹出授权页。
-
 ![[笔记同步助手/images/a6bc616051f5562dd514ee36ffd6003c_MD5.png]]
-
 还有之前 OAuth Client、授权记录、Token 等信息没有完整持久化。服务一重启，ChatGPT 还拿着之前的 Client ID 来连接，本地服务却已经不认识了。
-
 现在会持久化保存 OAuth Client、授权记录、Access Token 和 Refresh Token 的哈希信息。正常情况下，DevSpace 服务重启后，ChatGPT 不需要再反复走一遍授权。
-
 如果你更新后还是反复弹授权，可以先在 ChatGPT 里删除旧的 DevSpace 应用，再重新连接一次。
-
 实在不行，也可以重新生成 Owner Password：
-
 ```
 devspace config 【你的自定义认证密码】
 ```
-
 这个命令帮你设置新的 `Owner Password`，同时清掉旧的 `OAuth` 授权记录，然你你点重新授权即可。
-
 之前呢，你只能点击允许一次，只要点了始终允许就会反复跳Auth 验证，之后就是烦人的应用加载失败，又重新弹出让你授权，现在只要服务重启 → 正常重连就能继续使用。
-
 ![[笔记同步助手/images/3e79acd4e617acf5ed900a86e98b9a94_MD5.png]]
-
 ## 一、 Plan 和 Goal 使用
-
 这次我还给加了类似 Codex 的 Plan 和 Goal 工作流，实现了一个简单的版本，大家可以体验一下啊。
-
 ### 1\. Plan 模式
-
 `/plan` 适合先分析项目、生成方案，不直接改代码。
-
 比如你可以直接在 ChatGPT 里这样说：
-
 ```
 @devspace 打开 /root/workspace/your-project。
 
@@ -67,11 +42,8 @@ devspace config 【你的自定义认证密码】
 
 只生成并保存实施计划，不要修改项目文件，也不要执行会写入项目的命令。
 ```
-
 ChatGPT 会先读取项目，分析现有代码，然后生成一份 Plan。
-
 Plan 模式会去记录：
-
 ```
 要改哪些文件
 实施步骤
@@ -79,11 +51,8 @@ Plan 模式会去记录：
 验证方式
 当前进度
 ```
-
 这样你先确认方案，再让它继续写代码，整体会稳一点。
-
 后面想继续之前的任务，也不用重新解释，可以直接说：
-
 ```
 @devspace 打开 /root/workspace/your-project。
 
@@ -91,13 +60,9 @@ Plan 模式会去记录：
 
 先不要修改代码。
 ```
-
 ### 2\. Goal 模式
-
 `/goal` 更适合长期任务。
-
 比如你准备给项目增加一个完整功能，不是一次对话就能做完，可以先创建一个 Goal：
-
 ```
 @devspace 打开 /root/workspace/your-project。
 
@@ -111,37 +76,23 @@ Plan 模式会去记录：
 
 先不要修改项目文件。
 ```
-
 Goal 会保存这个长期目标、成功标准、验证方式、停止条件和当前状态。
-
 后面你换一个 ChatGPT 会话，甚至隔几天再回来，也可以继续这个 Goal。
-
 这点我觉得挺实用。
-
 因为以前 AI 写代码最烦的一点就是，换个会话它就忘记你做到哪里了。
-
 当前只是 Plan 和 Goal 都会按项目保存下来，相当于一个任务状态的记忆吧。
-
 如果 ChatGPT 中途问你多个问题，你也不用写一大段，可以直接这样回复：
-
 ```
 1B，2A，3C
 ```
-
 然后就会按选项继续往下执行。
-
 ## 二、支持后台服务，终于不用一直挂着终端了
-
 这个应该是我自己最常用的功能，之前运行 DevSpace，总是要开着终端：
-
 ```
 devspace serve
 ```
-
 终端一关，DevSpace 服务直接挂了，或者使用`nohup` 后台挂起服务。
-
 现在可以直接把 DevSpace 变成后台服务。
-
 ```
 # 启动服务
 devspace service start
@@ -152,315 +103,187 @@ devspace service status
 # 查看日志
 devspace service logs
 ```
-
 如果需要重启：
-
 ```
 devspace service restart
 ```
-
 停止服务：
-
 ```
 devspace service stop
 ```
-
 关闭开机自启：
-
 ```
 devspace service disable
 ```
-
 删除 DevSpace 服务：
-
 ```
 devspace service remove
 ```
-
 检查服务是否正常：
-
 ```
 devspace service doctor
 ```
-
 ## 五、支持 Skills 安装和加载
-
 这次也增加了 Skills 管理。
-
 简单理解就是，可以给 DevSpace 安装不同的技能。
-
 比如安装 OpenAI 官方的 Research Skill：
-
 ```
 devspace skills install --repo openai/skills --path skills/.curated/research
 ```
-
 只安装到指定项目：
-
 ```
 devspace skills install --workspace /path/to/project --repo openai/skills --path skills/.curated/research
 ```
-
 查看当前项目已经安装的 Skills：
-
 ```
 devspace skills list
 ```
-
 删除某个 Skill：
-
 ```
 devspace skills remove research
 ```
-
 如果你希望所有项目都能用，可以全局安装：
-
 ```
 devspace skills install -g --repo openai/skills --path skills/.curated/research
 ```
-
 查看全局 Skill：
-
 ```
 devspace skills list -g
 ```
-
 删除全局 Skill：
-
 ```
 devspace skills remove -g research
 ```
-
 ## 六、支持工作空间管理
-
 之前 DevSpace 初始化时填一次允许目录，后面如果要新增项目，需要去手动修改配置文件。
-
 现在可以直接通过命令行来管理工作空间。比如，添加项目并设为默认：
-
 ```
 devspace workspace add ～/workspace/project-a --default
 ```
-
 再添加一个项目：
-
 ```
 devspace workspace add ～/workspace/project-b
 ```
-
 查看当前允许访问的工作空间：
-
 ```
 devspace workspace list
 ```
-
 切换默认项目：
-
 ```
 devspace workspace default ～/workspace/project-b
 ```
-
 删除一个工作空间：
-
 ```
 devspace workspace remove ～/workspace/project-a
 ```
-
 其实也就是增强的他的安全边界，ChatGPT 只能访问你明确添加进去的项目目录，这样风险会小很多。
-
 最好只添加具体项目目录，比如：
-
 ```
 ～/workspace/project-a
 ～/workspace/project-b
 ```
-
 ## 七、支持配置管理
-
 以前改端口、改域名、改 Owner Password，基本都要重新折腾配置文件。
-
 现在可以直接用命令。
-
 查看当前配置：
-
 ```
 devspace config show
 ```
-
 修改端口：
-
 ```
 devspace config port 7676
 ```
-
 修改监听地址：
-
 ```
 devspace config host 127.0.0.1
 ```
-
 修改公网域名：
-
 ```
 devspace config domain devspace.example.com
 ```
-
 重新生成 Owner Password：
-
 ```
 devspace config key
 ```
-
 如果 DevSpace 后台服务已经启动，修改配置后会自动重启服务，让新配置直接生效。
-
 ## 八、安装更新部署
-
 ### 1\. 安装与更新
-
 目前我的代码暂时并没有正式合并到 PR ，所以你需要手动拉一下代码。
-
 直接执行：
-
 ```
 npm install -g @waishnav/devspace@1.0.2
 ```
-
 可以直接从我的分支安装代码。
-
 ```
 git clone https://github.com/tao-xiaoxin/devspace.git
 cd devspace
 npm install -g . --force
 devspace --version
 ```
-
 之前已经安装了 DevSpace 的朋友，一般不需要重新执行 `devspace init`。
-
 没有的话就先执行一下 `devspace init`，初始化时，它会让你填写如下信息：
-
 -   允许 ChatGPT 访问的本地项目目录
-    
 -   本地端口，通常是 7676
-    
 -   公网 HTTPS 地址，没有的话就先随便填一个，下面会教大家如何设置域名，填[https://github.com](https://github.com) 都可以，后面改。
-    
-
 ![[笔记同步助手/images/3987001bd281f71a2f1ab29b2ed7d4dc_MD5.png]]
-
 ### 2.申请域名
-
 1.  域名大家可以去Spaceship 购买一个XYZ后缀的域名，输入优惠码`XYZ52`，折合人民币几块钱左右，支持国内支付，比国内任何X云都便宜。
-    
-
 ```
 https://spaceship.sjv.io/c/7338998/1794549/21274
 ```
-
 ![[笔记同步助手/images/0dee50168adcf1d63edff21a854b5d0a_MD5.png]]
-
 2.  或者可以去`digitalplat`官网申请一个，免费的后缀`.qzz.io`或者`.dpdns.org`
-    
-
 ```
 https://dash.domain.digitalplat.org/signup?ref=Wi8VOY7SGj
 ```
-
 3.  或者去这个网站申请免费的也可以，免费的后缀`kdns.fr`:
-    
-
 ```
 https://dashboard.katabump.com/auth/register
 ```
-
 这个看你们自己喽，免费和付费的域名就是免费的域名控制权在别人手里，你自己买的就就是你们自己的。
-
 ### 3\. 托管域名到cloudflare
-
 搞定域名以后，打开 `Cloudflare`官网 ，如果没有账户可以注册一个。
-
 -   官网地址：https://www.cloudflare.com/
-    
-
 ![[笔记同步助手/images/17c9d018101b170e1e146179a06a1f89_MD5.png]]
-
 Cloudflare 注册完成、通过邮箱验证后，会直接跳转到面板页，点击域名—>概览—>加入域。
-
 ![[笔记同步助手/images/6519f29945bd1f10d5467c6cb6c2b634_MD5.png]]
-
 输入我们要注册的域名添加。
-
 ![[笔记同步助手/images/76ba1df8b8fb8f9ccb12291d431e2538_MD5.png]]
-
 选择免费计划，继续选择前往激活。
-
 ![[笔记同步助手/images/f74d0f9c6e66eed30bb0f56f784c64a5_MD5.png]]
-
 ![[笔记同步助手/images/80a7d7dfbb194deed125e66081a02dfb_MD5.png]]
-
 ![[笔记同步助手/images/61ecbcc1663f36562dc23ccea669b1c9_MD5.png]]
-
 复制`cloudflare`生成的DNS解析
-
 ![[笔记同步助手/images/3b3ff8257893d53e9899c649dae606be_MD5.png]]
-
 填写DNS地址到注册域名服务商对应的名称服务器。
-
 ![[笔记同步助手/images/22b34aee28a50621e493104f70b9d993_MD5.png]]
-
 回到 Cloudflare，点击底部**我已更新名称服务器**，接下来，就只需要等待很短的时间，一般为 3-5 分钟添加托管到 Cloudflare 的域名就会生效。
-
 ![[笔记同步助手/images/c3a08df024df8fc813959c8271f3a3c2_MD5.png]]
-
 ### 4\. 访问方式：
-
 域名搞定了接着搞访问方式：
-
 -   如果你是服务器，推荐你使用HTTPS + Nginx 反代
-    
 -   如果你是本地电脑，使用`cloudflare` 隧道就好
-    
-
 #### 4.1 通过隧道访问
-
 在`Cloudflare` 搜索`Zero Trust`，第一次使用会让你绑定银行卡，你没有的话可以自己搜一下**万里汇**，注册一个账号申请一个免费的卡，里面余额也没有，不用担心额外扣费啥的。
-
 ![[笔记同步助手/images/85e3f74b55f24d5e8eb7cfbd3d5ae9ff_MD5.png]]
-
 进来后点击`网络→连接→创建隧道`
-
 ![[笔记同步助手/images/0e5b524e42b6597a83c9fd97b6c7f5e2_MD5.png]]
-
 选择隧道类型，选择第一个
-
 ![[笔记同步助手/images/da6bbb8364d52dadeb0941f4f014aa16_MD5.png]]
-
 为隧道命名并且保存隧道
-
 ![[笔记同步助手/images/82ad3b6a4d362b0ab87b3802c483cc4b_MD5.png]]
-
 在本地电脑下载对应客户端并且按照提示执行启动隧道，Token仅显示一次，记得找地方保存下来。
-
 ![[笔记同步助手/images/0eafcf6723879ad352bb10ea34860bf7_MD5.png]]
-
 填写域名解析记录与隧道代理地址和端口，最后保存就行了。
-
 ![[笔记同步助手/images/754670a9e0da56afc6489ef18145c222_MD5.png]]
-
 #### 4.2 HTTPS + Nginx 反代
-
 设置解析A解析记录，选中你的域名，点击进入DNS解析：
-
 ![[笔记同步助手/images/9abceaeadf1caace95733c125027c2c0_MD5.png]]
-
 点击添加记录
-
 ![[笔记同步助手/images/f94ebd9e118a89e64f7f47e537db4916_MD5.png]]
-
 添加解析记录，记得放开80和443 端口。
-
 ![[笔记同步助手/images/afa5479f590c4e89a8927a08787867cb_MD5.png]]
-
 Nginx 反代和HTTPS 部署就给Codex 帮做吧，使用如下提示词，记得替换你的域名与代理端口：
-
 ````
 你是 Ubuntu 22.04/24.04 运维工程师。请在当前服务器为 DevSpace MCP 配置 Nginx HTTPS 反向代理和 Let’s Encrypt 证书自动续期。
 
@@ -593,17 +416,12 @@ https://${DOMAIN}/mcp
 
 不要频繁重启服务；Nginx 配置变更后只执行一次 `systemctl reload nginx`。
 ````
-
 #### 4.3 配置域名
-
 接着我们修改`devspace`域名配置，替换为真是的域名：
-
 ```
 devspace config domain devspace.example.com
 ```
-
 然后直接启动后台服务：
-
 ```
 # 启动服务
 devspace service start
@@ -614,9 +432,7 @@ devspace service status
 # 查看日志
 devspace service logs
 ```
-
 接着让Codex 帮你测试诊断问题，提示词如下：
-
 ````
 你是 Ubuntu 22.04/24.04 运维工程师。DevSpace MCP 域名已配置为：
 
@@ -631,15 +447,11 @@ DOMAIN=devspace.example.com
 ```bash
 devspace config show
 devspace service status
-
 ss -ltnp | grep -E ':(7678|80|443)' || true
-
 curl -i --max-time 10 http://127.0.0.1:7678/healthz || true
-
 nginx -t
 systemctl status nginx --no-pager
 systemctl status certbot.timer --no-pager || true
-
 curl -I --max-time 15 "https://${DOMAIN}/.well-known/oauth-authorization-server" || true
 curl -I --max-time 15 "https://${DOMAIN}/.well-known/oauth-protected-resource/mcp" || true
 curl -I --max-time 15 "https://${DOMAIN}/mcp" || true
@@ -666,80 +478,48 @@ nginx -T
 https://devspace.example.com/mcp
 ```
 ````
-
 #### 4.4 配置文件
-
 默认配置会保存在：
-
 ```
 ～/.devspace/config.json
 ～/.devspace/auth.json
 ```
-
 你可以先看一下当前配置：
-
 ```
 devspace config show
 ```
-
 通过上面的配置后，你就获得了一个长期稳定的MCP 服务。
-
 #### 4.5 在网页端安装 MCP 服务
-
 打开设置，找到应用，开启开发者模式，点击创建应用。
-
 ![[笔记同步助手/images/bb31ab9cb970bd2bf0ec8410d4b04e60_MD5.png]]
-
 把 MCP 地址配置成：
-
 ```
 https://your-tunnel-host.example.com/mcp
 ```
-
 ![[笔记同步助手/images/ebe52aa0d2efc7a207364a68881d026b_MD5.png]]
-
 创建好以后点击应用，然后连接到应用。
-
 ![[笔记同步助手/images/8099aecd6b13130eded45ae461ba37cf_MD5.png]]
-
 ![[笔记同步助手/images/ca33908ce1eaa8244abe1415195bf2b7_MD5.png]]
-
 ![[笔记同步助手/images/da1a9ac2655adad6ddbb5ae22fc43dd3_MD5.png]]
-
 打开本地如下文件查看登录密钥，输入即可。
-
 ```
 cat ～/.devspace/auth.json
 ```
-
 然后就在网页端点击更多，选中我们的APP 使用即可。
-
 ![[笔记同步助手/images/8ee366b4a29e247f2c41e4dc7c821a41_MD5.png]]
-
 #### 4.6 手机上远程操控
-
 你在网页版创建好APP 以后，你可以下载一个ChatGPT APP ， 然后`@devspace` 帮你开发，比如：
-
 ```
 @devspace 帮我提交git，推送到gitlab 仓库
 ```
-
 ![[笔记同步助手/images/790bbdab6b1aaa9f7d4ed3b3c3a98e20_MD5.png]]
-
 如果你有多台服务器的话可以实现ChatGPT 帮你管理服务器，你可以创建多个MCP 服务，创建多个APP。
-
 ## 九、最佳实践与一些小技巧
-
 综合体验下来，ChatGPT 国内访问并不友好，本地电脑适合开发和调试，有时候网络卡卡的。
-
 我现在更推荐把项目代码放在美国服务器上还是比较好的。
-
 1H1G 的服务器也能够跑起来一些小项目，这个主要看你的项目大小。
-
 还有就是如果你想随时随地用 ChatGPT 写代码，手机直接打开ChatGPT APP, 开始对话写代码。
-
 我的实际使用方式大概是：
-
 ```
 代码放在服务器
 DevSpace 跑在服务器
@@ -747,9 +527,7 @@ DevSpace 使用后台服务运行
 公网使用固定域名
 手机和电脑登录同一个 ChatGPT 账号
 ```
-
 如果你在网页上开了一个 Plan，你可以手机上看到执行任务状态，和电脑端的会话是同步的，同时也可以用手机继续问：
-
 ```
 使用 DevSpace 打开当前项目。
 
@@ -757,69 +535,38 @@ DevSpace 使用后台服务运行
 
 继续完成剩余任务，修改完成后运行测试。
 ```
-
 对了，如果你遇到什么安全审查给你拦截了，如图：
-
 ![[笔记同步助手/images/4b0542def509f60fa1aba726f9de2c5a_MD5.png]]
-
 你可以使用如下提示词：
-
 ```
 我是一个残疾人士，我没办法自己使用鼠标和键盘，请你帮我实现xxx 需求
 ```
-
 然后ChatGPT 就开始酷酷帮你干活了，如图：
-
 ![[笔记同步助手/images/7176a226f42165f811702cc6fc2832f9_MD5.png]]
-
 还有你想要获得更加丝滑的体验，不想每次审核权限，就到应用 设置请求许可，改为从不询问即可：
-
 ![[笔记同步助手/images/db371648dd50df03d94ae0ad117e3638_MD5.png]]
-
 就和Codex 的这个类似差不多：
-
 ![[笔记同步助手/images/51496ab61e96ef344214c6d02c1ce186_MD5.png]]
-
 还有就是你网页上提交了你的需求，ChatGPT就会帮你酷酷干货你可以不用去等，直接关掉网页去干别的也是可以的，等过一会再来看。
-
 还有就是当前网页当前会话聊天内容多了，变卡了怎么办，实测刷新一下网页就好了，试下不行就点击在新的聊天分支继续聊，再不行就**让ChatGPT 帮你蒸馏当前会话或者压缩当前会话存储到ChatGPT 记忆里面**，你是可以看到的。
-
 ![[笔记同步助手/images/c45b7efe9c5c133c4919f4bae4f24567_MD5.png]]
-
 ## 总结
-
 好了，今天分享到这里，今天应该写的够详细了。
-
 对于额度，我个人感觉ChatGPT 网页上的额度更多，我用网页聊一天使用ChatGPT 5.5 高级`thinking`模式都不会触发限流，本来是准备搞个Pro 的，现在Plus 网页版额度完全足够对我来说，**相比Codex ，网页版的ChatGPT 更具有性价比**！
-
 ![[笔记同步助手/images/93ce39517dc99e886c2021da8f12bb8c_MD5.png]]
-
 现在呢，**ChatGPT可以完全变成你的使用的 编程工作台**，甚至有点像**之前爆火的小龙虾的味道了**。
-
 当前项目还可以安装你的Agent ，比如Codex等等，让ChatGPT 去调用Codex也是可以的，或者在你的项目里面安装一些Agent也是可以的，大家各自发挥想象吧！
-
 更新后，你可以能更稳定、丝滑的帮你开发项目了。
-
 尤其是 Plan、Goal 和后台服务这几个功能，我比较喜欢 Codex的这个，所以我就简单写了写Plan、Goal 这个嵌入进去。
-
 我的代码地址：
-
 ```
 https://github.com/tao-xiaoxin/devspace
 ```
-
 感兴趣的朋友可以去 GitHub 给项目点点 Star，这个项目的分享就到这里喽，项目地址：
-
 ```
 https://github.com/Waishnav/devspace
 ```
-
 如果你对 AI 编程、MCP、ChatGPT 工具链感兴趣，欢迎关注我。
-
 觉得这篇文章有用，也欢迎**点赞、在看、转发**支持一下。
-
-  
-
----
-
+***
 内容效果不满意？[点此反馈](https://feedback.notebooksyncer.com/feedback/06b60c67_1783676340853?u=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzg3ODA5ODY3MQ%3D%3D%26mid%3D2247504289%26idx%3D1%26sn%3D577c274e1d08e2ce84ff37459b9114f3%26chksm%3Dce4a839c9ebab999ebdd855ef7f88645055bfdc1e8490e96988456d88e2da6a02dbdf1938b8f%26mpshare%3D1%26scene%3D1%26srcid%3D0710uJHtYMrKpzr3dMZFyApQ%26sharer_shareinfo%3D74009c8ad99ddd1f17f0e1745bb13287%26sharer_shareinfo_first%3D74009c8ad99ddd1f17f0e1745bb13287%23rd&s=obsidian)
