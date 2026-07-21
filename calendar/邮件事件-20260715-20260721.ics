@@ -5,14 +5,34 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:过去7天邮件事件 2026-07-15 至 2026-07-21
 X-WR-TIMEZONE:Europe/London
+BEGIN:VTIMEZONE
+TZID:Europe/London
+X-LIC-LOCATION:Europe/London
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:BST
+DTSTART:19700329T010000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:GMT
+DTSTART:19701025T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
 BEGIN:VEVENT
 UID:email-1016-crh-seminar-20260721@codex.local
 DTSTAMP:20260721T121905Z
 DTSTART;TZID=Europe/London:20260721T140000
 DTEND;TZID=Europe/London:20260721T150000
-SUMMARY:CRH Seminar: The Neuronal/Endometrial Axis in Endometriosis
+SUMMARY:CRH Seminar：The Neuronal/Endometrial Axis in Endometriosis\, and
+  other Problems
 LOCATION:IRR South Seminar Room 1.05
-DESCRIPTION:Speaker: Dr Thomas Tapmeier\nSource: INBOX UID 1016\nConflicts with the CRISPR webinar at 14:00.
+DESCRIPTION:Speaker: Dr Thomas Tapmeier\nSource: INBOX UID 1016\nConflicts
+  with the CRISPR webinar at 14:00.
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -20,9 +40,14 @@ BEGIN:VEVENT
 UID:email-1004-crispr-webinar-20260721@codex.local
 DTSTAMP:20260721T121905Z
 DTSTART;TZID=Europe/London:20260721T140000
-SUMMARY:Webinar: Combinatorial CRISPR screening in human iPSCs
+DTEND;TZID=Europe/London:20260721T150000
+SUMMARY:Webinar：Combinatorial CRISPR screening in human iPSCs at single c
+ ell resolution
 LOCATION:Online
-DESCRIPTION:Speakers: Sejla Salic-Hainzl and Alessandro Bertero\nTwo approximately 25-minute talks followed by live Q&A.\nSource: INBOX UID 1004\nConflicts with the CRH seminar at 14:00.
+DESCRIPTION:Speakers: Sejla Salic-Hainzl and Alessandro Bertero\nTwo approx
+ imately 25-minute talks followed by live Q&A. End time 15:00 is a one-hour
+  display placeholder because the email did not specify an end time.\nSourc
+ e: INBOX UID 1004\nConflicts with the CRH seminar at 14:00.
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -30,9 +55,13 @@ BEGIN:VEVENT
 UID:email-1024-protein-assay-20260722@codex.local
 DTSTAMP:20260721T121905Z
 DTSTART;TZID=Europe/London:20260722T110000
-SUMMARY:Protein assay with Seungmee Lee
+DTEND;TZID=Europe/London:20260722T120000
+SUMMARY:蛋白定量实验（protein assay）
 LOCATION:Roslin Institute
-DESCRIPTION:Review the attached DC protein assay.pdf beforehand. End time was not specified. This replaces the previous 21 July afternoon lab plan.\nSource: INBOX UIDs 1024 and 1025.
+DESCRIPTION:With Seungmee Lee. Review the attached DC protein assay.pdf bef
+ orehand. This replaces the previous 21 July afternoon lab plan. End time 1
+ 2:00 is a one-hour display placeholder because the email did not specify a
+ n end time.\nSource: INBOX UIDs 1024 and 1025.
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -40,21 +69,25 @@ BEGIN:VEVENT
 UID:email-1023-github-2fa-deadline-20260728@codex.local
 DTSTAMP:20260721T121905Z
 DTSTART:20260728T000000Z
-SUMMARY:Deadline: Enable GitHub 2FA for huangning-ring
+SUMMARY:GitHub 账户启用双重验证截止时间
 URL:https://github.com/settings/security
-DESCRIPTION:Enable 2FA before 2026-07-28 00:00 UTC. Configure at least two methods and save recovery codes.\nSource: INBOX UID 1023.
+DESCRIPTION:Enable 2FA before 2026-07-28 00:00 UTC. Configure at least two
+  methods and save recovery codes.\nSource: INBOX UID 1023.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:040000008200E00074C5B7101A82E00800000000203BBB500816DD010000000000000000100000009A5D6FA5E9411C48B38E3D18D5D57721
+UID:040000008200E00074C5B7101A82E00800000000203BBB500816DD01000000000000000
+ 0100000009A5D6FA5E9411C48B38E3D18D5D57721
 DTSTAMP:20260721T121905Z
 DTSTART;TZID=Europe/London:20260728T130000
 DTEND;TZID=Europe/London:20260728T140000
 SUMMARY:MacRae lab meeting
 LOCATION:Roslin 2-002 (10 person meeting room)
 URL:https://teams.microsoft.com/meet/391474788286646?p=gQjnTG5bMRVnFmUf59
-DESCRIPTION:Paul\, Seungmee and Xiong will share the workshop they attended in France. A visitor from Paddy's team will attend. Microsoft Teams option available.\nSource: INBOX UID 1008.
+DESCRIPTION:Paul\, Seungmee and Xiong will share the workshop they attended
+  in France. A visitor from Paddy's team will attend. Microsoft Teams optio
+ n available.\nSource: INBOX UID 1008.
 ORGANIZER;CN=Vicky MacRae:mailto:vicky.macrae@roslin.ed.ac.uk
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -67,7 +100,9 @@ DTEND;VALUE=DATE:20260908
 SUMMARY:Clinical Genomes Scotland
 LOCATION:Royal College of Physicians of Edinburgh (RCPE)
 URL:https://onehealthgenomics.ed.ac.uk/clinical.genomes.scotland
-DESCRIPTION:Forum on implementing clinical genomics in Scottish healthcare. Free registration for University researchers\, NHS staff\, patients and patient groups.\nSource: INBOX UID 1027.
+DESCRIPTION:Forum on implementing clinical genomics in Scottish healthcare.
+  Free registration for University researchers\, NHS staff\, patients and p
+ atient groups.\nSource: INBOX UID 1027.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -76,8 +111,9 @@ UID:email-1002-cell-work-western-blot-20260720@codex.local
 DTSTAMP:20260721T121905Z
 DTSTART;TZID=Europe/London:20260720T110000
 DTEND;TZID=Europe/London:20260720T140000
-SUMMARY:Cell work and Western blot practice
-DESCRIPTION:Lab work with Seungmee Lee. Location was not explicitly stated in the email.\nSource: INBOX UIDs 1002 and 1015.
+SUMMARY:细胞实验与 Western blot 实践
+DESCRIPTION:Lab work with Seungmee Lee. Location was not explicitly stated
+  in the email.\nSource: INBOX UIDs 1002 and 1015.
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -86,8 +122,11 @@ UID:email-1001-phd-dissertation-talk-20260716@codex.local
 DTSTAMP:20260721T121905Z
 DTSTART;TZID=Europe/London:20260716T100000
 DTEND;TZID=Europe/London:20260716T120000
-SUMMARY:PhD dissertation talk: Calorie Restriction and Medial Vascular Calcification
-DESCRIPTION:Investigating the Protective Role of Calorie Restriction on Medial Vascular Calcification. Location was not present in the reminder email. Time verified from embedded Unix timestamps.\nSource: INBOX UID 1001.
+SUMMARY:PhD dissertation talk：Investigating the Protective Role of Calori
+ e Restriction on Medial Vascular Calcification
+DESCRIPTION:Investigating the Protective Role of Calorie Restriction on Med
+ ial Vascular Calcification. Location was not present in the reminder email
+ . Time verified from embedded Unix timestamps.\nSource: INBOX UID 1001.
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT

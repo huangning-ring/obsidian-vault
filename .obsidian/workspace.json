@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "calendar/过去7天邮件事件-20260715-20260721.md",
+                "file": "26出国灵感/综述-气道类器官和呼吸道病毒/Total Execution Plan-manual.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "过去7天邮件事件-20260715-20260721"
+              "title": "Total Execution Plan-manual"
             }
           }
         ]
@@ -119,13 +119,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "calendar/过去7天邮件事件-20260715-20260721.md",
+                "file": "26出国灵感/综述-气道类器官和呼吸道病毒/Total Execution Plan-manual.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "过去7天邮件事件-20260715-20260721 的大纲"
+              "title": "Total Execution Plan-manual 的大纲"
             }
           },
           {
@@ -195,6 +195,13 @@
   },
   "active": "256ee45dc1af1d9f",
   "lastOpenFiles": [
+    "26出国灵感/IMA—Codex—Obsidian工作流.md",
+    "26出国灵感/综述-气道类器官和呼吸道病毒/Total Execution Plan-manual.md",
+    "26出国灵感/综述-气道类器官和呼吸道病毒",
+    "26出国灵感/未命名.md",
+    "复习/免疫/细胞因子总结.md",
+    "复习/免疫/医学免疫学 (曹雪涛) (Z-Library).pdf",
+    "calendar/过去7天邮件事件-20260715-20260721.md",
     "笔记同步助手/images/cede09e0c062b1362d7128ca563d26b4_MD5.jpg",
     "笔记同步助手/images/6446ecd776ea75350a5cb6100ddc2474_MD5.jpg",
     "笔记同步助手/images/8f3281b5e270d18062823a59e3d11ac1_MD5.jpg",
@@ -205,10 +212,8 @@
     "笔记同步助手/images/41425560462e16ab2f25d11ca76d7ade_MD5.jpg",
     "笔记同步助手/images/a10e13ee6e9e985a6ca68b6f30c87332_MD5.jpg",
     "笔记同步助手/images/a7fcffcccffbcc840542875b3052b63c_MD5.jpg",
-    "笔记同步助手/images/6061a5cfd23df117f6846938a7e2dcab_MD5.jpg",
     "笔记同步助手/2026-07-21/从四面八方偷来的好习惯tips.md",
     "笔记同步助手/2026-07-21",
-    "calendar/过去7天邮件事件-20260715-20260721.md",
     "复习/统计/03-正态分布与医学参考值范围.md",
     "calendar/邮件事件-20260715-20260721.ics",
     "复习/统计/02-定量数据的统计描述.md",
@@ -219,8 +224,6 @@
     "复习/实验诊断学/原始课件/南山2026血液病诊断.pptx",
     "复习/实验诊断学/原始课件/2026贫血血小板.pptx",
     "复习/毛概/原始课件/第三章：社会主义改造理论.pdf",
-    "复习/毛概/原始课件/第二章：新民主主义革命理论.pdf",
-    "复习/毛概/原始课件/马克思主义中国化时代化的历史进程.pdf",
     "复习/统计/01-统计思维与数据类型.md",
     "笔记同步助手/2026-07-11/两周疯传！6个Claude新神Skill.md",
     "笔记同步助手/2026-07-14/Zotero 科研狗的“屎山”清理指南.md",
@@ -238,9 +241,6 @@
     "费曼学习法提示词/00 README.md",
     "未命名.md",
     "复习/统计/14-统计方法选择与公式速查.md",
-    "复习/专业英语汇报大纲.md",
-    "复习/统计/00-医学统计学索引.md",
-    "复习/统计/05-参数估计与假设检验.md",
     "任务管理/任务看板.canvas",
     "任务管理/2026-06-05 工作看板.canvas",
     "GPT画图测试260227/GPT画图测试260227.canvas",
