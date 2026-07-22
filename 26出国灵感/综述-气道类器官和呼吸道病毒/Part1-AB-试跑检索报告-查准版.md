@@ -30,7 +30,6 @@
 |预印本—正式版合并后|222|正式版为主记录|
 |题名/摘要筛选|222|全部唯一记录均检查主题、文献类型与用途|
 |强候选|20|与概念、一般技术史或 B1 锚定节点直接对应|
-
 主要排除规则：器官特异但不能支持一般概念史；只讨论疾病应用而未建立或改变模型；肺泡专属且不能转译到气道节点；芯片/肿瘤模型偏离本轮边界；评论、社论、会议摘要；与已入池综述高度重复且无新增用途；B2 中的综述或协议若不能证明原始技术优先权。
 ***
 # B1 锚定综述与质量信号
@@ -42,18 +41,17 @@
 |Vazquez-Armendariz AI、Tata PR，2023，JCI，[DOI](https://doi.org/10.1172/JCI170500)|开放全文；按成人、胎儿与 iPSC 来源梳理培养条件、细胞组成和限制；OpenAlex 记录 159 条参考文献|长期人气道类器官、TGF-β/FGF/WNT、NKX2-1、SMAD/ROCK、成熟度与标准化|同时覆盖肺泡与疾病应用；并非系统综述，需防止把综述选择偏好当成全领域共识|
 |Wang D 等，2025 在线/2026 卷期，Nature Reviews Drug Discovery，[DOI](https://doi.org/10.1038/s41573-025-01317-y)|用户指定且已有本地全文；概念、来源路线、药物研发机会与局限覆盖完整；OpenAlex 记录 248 条参考文献|A1 概念与 A2 一般技术史|药物研发框架较强，不替代气道专门综述|
 |Kim J 等，2020，Nature Reviews Molecular Cell Biology，[DOI](https://doi.org/10.1038/s41580-020-0259-3)|独立于指定综述；覆盖自组织、组织特异细胞、成人干细胞与 PSC 路线；PMC 可读|概念交叉核对与两条来源路线|同为叙述性综述，不能单独证明技术优先权|
-
 有限引文链已执行到“综述→原始论文”一层，未超过方案规定的两层。OpenAlex 元数据确认：Wang 综述引用 Sato、Eiraku、Lancaster、Takebe、McCauley、Sachs；Barkauskas 综述引用 Rock、Dye、Hild、Mou；Vazquez-Armendariz/Tata 综述引用 Rock、Hild、Mou、McCauley、Sachs。所有 20 篇强候选均完成 references、related works 与 cited-by 元数据探测；被引次数只作检索质量信号，不作纳入标准。
 ***
 # B1 综述锚定后生成的 B2 技术节点
 
-|节点|综述中的自然语言描述与位置|旧瓶颈|新增能力|实际检索标签|对应原始候选|当前判断|
-|---|---|---|---|---|---|---|
-|N1 原代基底细胞三维球体与 ECM|Barkauskas 2017“Basal stem cells”段落比较 tracheosphere/bronchosphere；Vazquez-Armendariz 2023“Optimization of culture media components and cell composition”说明气管、支气管和鼻来源基底细胞可形成含 basal/club/ciliated/goblet 细胞的球体|二维培养难保留空间组织、克隆性与多谱系分化读出|在 Matrigel/BME 三维环境中量化自我更新和分化|airway basal cell、tracheosphere、bronchosphere、nasosphere、Matrigel、BME、3D culture|Rock 2009；Hild & Jaffe 2016|已被两篇综述支持；“首个”仍待原文核验|
-|N2 dual-SMAD 与 ROCK/Y-27632 扩增|Barkauskas 2017 的 basal cell 方法与参考文献簇列出 Mou；Vazquez-Armendariz 2023 在 NKX2-1+TP63+ 细胞段落明确记录 SMAD/ROCK 抑制与后续克隆扩增|原代基底细胞传代后衰老或丢失分化能力|扩大细胞量并保留后续 3D/ALI 分化潜能|dual SMAD、SMAD inhibition、ROCK inhibitor、Y-27632、basal cell expansion|Mou 2016|已支持为“扩增使能节点”；它本身不是完整气道类器官终点|
-|N3 成人组织来源气道类器官长期扩增|Barkauskas 2017“Moving forward”把长期自我更新与成熟分化列为待解问题；Vazquez-Armendariz 2023 在“Additional efforts…”段落记录 Sachs 通过 TGF-β、FGF、WNT 调控使人气道类器官维持一年以上|短期培养、难以连续传代、难以建立患者纵向模型|长期扩增、冻存、重复分化与患者特异疾病建模|long-term expansion、adult human airway organoid、BAL、TGF-beta、FGF、WNT、BMP|Sachs 2019|强节点；待全文核实“一年以上”和具体培养条件|
-|N4 hPSC/iPSC→NKX2-1 肺祖细胞→气道|Barkauskas 2017“Derivation of lung organoids from hPSCs”；Vazquez-Armendariz 2023 的 iPSC 段落描述 definitive endoderm→AFE/VAFE→NKX2-1+ progenitor，并记录 FGF、WNT、BMP、RA 与 reporter/表面标记纯化|成人组织来源受限，难研究人肺发育阶段与遗传背景|可重复发育轨迹、基因编辑、患者 iPSC 与气道/肺泡定向分化|pluripotent stem cell-derived airway、iPSC-derived airway、NKX2-1、WNT、FGF、BMP、retinoic acid|Dye 2015；McCauley 2017|已支持为独立来源路线；成熟度与非肺谱系污染仍是限制|
-|N5 ALI、极性与顶端可及性|Barkauskas 2017“Moving forward”指出 ALI 可形成成熟、极化、假复层近端气道上皮但本质是二维 Transwell；Vazquez-Armendariz 2023 记录类器官来源 basal 细胞在 ALI 中多谱系分化|传统 ECM 内嵌类器官多为 apical-in，病原体或药物难直接接触顶端面；浸没 3D 的黏液纤毛成熟有限|ALI 提升极化/黏液纤毛成熟；apical-out 保留 3D 同时提供顶端面暴露|air-liquid interface、ALI polarization、apical-basal polarity、apical-in、apical-out|McCauley 2017；Stroulios 2022|标签成立，但 ALI 不是类器官同义词；二者必须分开叙述|
+| 节点                             | 综述中的自然语言描述与位置                                                                                                                                                                                                 | 旧瓶颈                                                     | 新增能力                                       | 实际检索标签                                                                                    | 对应原始候选                       | 当前判断                         |
+| ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- | ------------------------------------------ | ----------------------------------------------------------------------------------------- | ---------------------------- | ---------------------------- |
+| N1 原代基底细胞三维球体与 ECM             | Barkauskas 2017“Basal stem cells”段落比较 tracheosphere/bronchosphere；Vazquez-Armendariz 2023“Optimization of culture media components and cell composition”说明气管、支气管和鼻来源基底细胞可形成含 basal/club/ciliated/goblet 细胞的球体 | 二维培养难保留空间组织、克隆性与多谱系分化读出                                 | 在 Matrigel/BME 三维环境中量化自我更新和分化              | airway basal cell、tracheosphere、bronchosphere、nasosphere、Matrigel、BME、3D culture          | Rock 2009；Hild & Jaffe 2016  | 已被两篇综述支持；“首个”仍待原文核验          |
+| N2 dual-SMAD 与 ROCK/Y-27632 扩增 | Barkauskas 2017 的 basal cell 方法与参考文献簇列出 Mou；Vazquez-Armendariz 2023 在 NKX2-1+TP63+ 细胞段落明确记录 SMAD/ROCK 抑制与后续克隆扩增                                                                                               | 原代基底细胞传代后衰老或丢失分化能力                                      | 扩大细胞量并保留后续 3D/ALI 分化潜能                     | dual SMAD、SMAD inhibition、ROCK inhibitor、Y-27632、basal cell expansion                     | Mou 2016                     | 已支持为“扩增使能节点”；它本身不是完整气道类器官终点  |
+| N3 成人组织来源气道类器官长期扩增             | Barkauskas 2017“Moving forward”把长期自我更新与成熟分化列为待解问题；Vazquez-Armendariz 2023 在“Additional efforts…”段落记录 Sachs 通过 TGF-β、FGF、WNT 调控使人气道类器官维持一年以上                                                                   | 短期培养、难以连续传代、难以建立患者纵向模型                                  | 长期扩增、冻存、重复分化与患者特异疾病建模                      | long-term expansion、adult human airway organoid、BAL、TGF-beta、FGF、WNT、BMP                  | Sachs 2019                   | 强节点；待全文核实“一年以上”和具体培养条件       |
+| N4 hPSC/iPSC→NKX2-1 肺祖细胞→气道    | Barkauskas 2017“Derivation of lung organoids from hPSCs”；Vazquez-Armendariz 2023 的 iPSC 段落描述 definitive endoderm→AFE/VAFE→NKX2-1+ progenitor，并记录 FGF、WNT、BMP、RA 与 reporter/表面标记纯化                             | 成人组织来源受限，难研究人肺发育阶段与遗传背景                                 | 可重复发育轨迹、基因编辑、患者 iPSC 与气道/肺泡定向分化            | pluripotent stem cell-derived airway、iPSC-derived airway、NKX2-1、WNT、FGF、BMP、retinoic acid | Dye 2015；McCauley 2017       | 已支持为独立来源路线；成熟度与非肺谱系污染仍是限制    |
+| N5 ALI、极性与顶端可及性                | Barkauskas 2017“Moving forward”指出 ALI 可形成成熟、极化、假复层近端气道上皮但本质是二维 Transwell；Vazquez-Armendariz 2023 记录类器官来源 basal 细胞在 ALI 中多谱系分化                                                                                 | 传统 ECM 内嵌类器官多为 apical-in，病原体或药物难直接接触顶端面；浸没 3D 的黏液纤毛成熟有限 | ALI 提升极化/黏液纤毛成熟；apical-out 保留 3D 同时提供顶端面暴露 | air-liquid interface、ALI polarization、apical-basal polarity、apical-in、apical-out          | McCauley 2017；Stroulios 2022 | 标签成立，但 ALI 不是类器官同义词；二者必须分开叙述 |
 
 对初始标签的审查结论：`basal cell expansion`、`ROCK inhibition`、`Y-27632`、`Matrigel/BME`、`long-term expansion`、`PSC/iPSC-derived airway`、`NKX2-1 progenitor`均获 B1 直接支持；`ALI/polarity`获支持但只能作为类器官衍生或互补策略，不能写成类器官定义要件。
 ***
