@@ -34,9 +34,22 @@
               "icon": "lucide-file",
               "title": "Part1-AB-试跑检索方案"
             }
+          },
+          {
+            "id": "be5d71b51c079f3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "26出国灵感/综述-气道类器官和呼吸道病毒/Part1-AB-试跑检索报告-查准版.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Part1-AB-试跑检索报告-查准版"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,8 +117,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 482.5,
-    "collapsed": true
+    "width": 482.5
   },
   "right": {
     "id": "e8af24c642dba675",
@@ -135,13 +147,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "26出国灵感/综述-气道类器官和呼吸道病毒/Part1-AB-试跑检索方案.md",
+                "file": "26出国灵感/综述-气道类器官和呼吸道病毒/Total_Execution_Plan-manual-v2-AB.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Part1-AB-试跑检索方案 的大纲"
+              "title": "Total_Execution_Plan-manual-v2-AB 的大纲"
             }
           },
           {
@@ -150,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "26出国灵感/综述-气道类器官和呼吸道病毒/Part1-AB-试跑检索方案.md",
+                "file": "26出国灵感/综述-气道类器官和呼吸道病毒/Total_Execution_Plan-manual-v2-AB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +172,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Part1-AB-试跑检索方案 的反向链接列表"
+              "title": "Total_Execution_Plan-manual-v2-AB 的反向链接列表"
             }
           },
           {
@@ -179,7 +191,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -210,11 +222,18 @@
       "obsidian-table-x:编辑模式表格操作": false
     }
   },
-  "active": "91fddd3d20742a3b",
+  "active": "c19e4fc48fd43c5d",
   "lastOpenFiles": [
-    "26出国灵感/综述-气道类器官和呼吸道病毒/Total_Execution_Plan-manual-v2-AB.md",
+    "笔记同步助手/images/a0812c6fa335c3765b7d71b3b750ab0f_MD5.jpg",
+    "笔记同步助手/images/afb6c42da3afcec83970ced6700b7f3d_MD5.jpg",
+    "笔记同步助手/images/cf607447eb9c8bcecf96e88ab0a84a36_MD5.jpg",
+    "笔记同步助手/images/f491027276433a6b01bbfcd9e0998232_MD5.jpg",
+    "笔记同步助手/images/c8ee52bf5ebedbd36bcceb7efdd1155b_MD5.jpg",
+    "笔记同步助手/2026-07-23/AI Coding套餐太乱，我做了个比价站.md",
+    "笔记同步助手/2026-07-23",
     "26出国灵感/综述-气道类器官和呼吸道病毒/Part1-AB-试跑检索方案.md",
     "26出国灵感/综述-气道类器官和呼吸道病毒/Part1-AB-试跑检索报告-查准版.md",
+    "26出国灵感/综述-气道类器官和呼吸道病毒/Total_Execution_Plan-manual-v2-AB.md",
     "package-lock.json",
     "26出国灵感/综述-气道类器官和呼吸道病毒/s41573-025-01317-y.pdf",
     "26出国灵感/综述-气道类器官和呼吸道病毒/deepseek审阅意见.md",
@@ -235,16 +254,11 @@
     "笔记同步助手/images/8f3281b5e270d18062823a59e3d11ac1_MD5.jpg",
     "笔记同步助手/images/775b9ceeabd013bc31da4315f596ec6d_MD5.jpg",
     "笔记同步助手/images/4b8b0089ec1ace05686877432d37eac6_MD5.jpg",
-    "笔记同步助手/images/4fae8ea52af5bc6b3c5bcdfd79ba410a_MD5.jpg",
-    "笔记同步助手/images/c7940c346830119488f82cc218fdfdeb_MD5.jpg",
-    "笔记同步助手/images/41425560462e16ab2f25d11ca76d7ade_MD5.jpg",
-    "笔记同步助手/images/a10e13ee6e9e985a6ca68b6f30c87332_MD5.jpg",
     "笔记同步助手/2026-07-21",
     "复习/统计/03-正态分布与医学参考值范围.md",
     "calendar/邮件事件-20260715-20260721.ics",
     "复习/统计/02-定量数据的统计描述.md",
     "复习/毛概/原始课件/毛泽东思想及其历史地位（一）.pdf",
-    "复习/实验诊断学/原始课件/心血管疾病的实验室诊断 - 2026.pptx",
     "复习/统计/01-统计思维与数据类型.md",
     "笔记同步助手/2026-07-11/两周疯传！6个Claude新神Skill.md",
     "笔记同步助手/2026-07-14/Zotero 科研狗的“屎山”清理指南.md",
@@ -256,7 +270,6 @@
     "笔记同步助手/2026-07-01/这可能是目前 Obsidian 生态中最好用的 LLM-Wiki 插件了——Karpathy LLM Wiki.md",
     "费曼学习法提示词/03 讲解前大纲拆分.md",
     "费曼学习法提示词/04 八岁小学生测试官.md",
-    "费曼学习法提示词/01 SMART原则目标拆解.md",
     "任务管理/任务看板.canvas",
     "任务管理/2026-06-05 工作看板.canvas",
     "GPT画图测试260227/GPT画图测试260227.canvas",

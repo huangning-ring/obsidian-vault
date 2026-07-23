@@ -6,7 +6,7 @@
   "enableTableIds": true,
   "idPrefix": "tbl",
   "autoCenterMergedCells": true,
-  "toolbarEnabled": true,
+  "toolbarEnabled": false,
   "enableEditModeOperations": true,
   "useTableWrapperComments": true,
   "featureSimilarityThreshold": 0.7,
