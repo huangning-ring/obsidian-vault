@@ -7,16 +7,16 @@
 # 可复现检索记录
 检索式版本：[[Part1-AB-试跑检索方案]] 当前版本，SHA-256：`394517F52CDFD96370C3589744BA579E37C525C5960D0AFD2E9F5264E8F85AB8`。A1、A2、B1 按方案中的 PubMed 与 Europe PMC 完整式原样执行；OpenAlex 使用方案规定的主题词补漏式。每库 A1/A2/B1 最多取相关度前 20 条进入筛选；B2 每个标签每库最多取前 8 条。原始命中数来自各官方接口，不是取回上限。
 
-|检索线|PubMed 原始/取回|Europe PMC 原始/取回|OpenAlex 原始/取回|用途|
-|---|---:|---:|---:|---|
-|A1 概念与边界|933 / 20|667 / 20|9,138 / 20|独立概念综述、边界与定义|
-|A2 一般技术史|2,740 / 20|2,503 / 20|1,499 / 20|3D、ECM、成人干细胞与 PSC 路线|
-|B1 气道/肺综述|99 / 20|30 / 20|414 / 20|选择两篇锚定综述并生成 B2 标签|
-|B2-T1 基底细胞三维球体/ECM|6 / 6|0 / 0|36 / 8|tracheosphere、bronchosphere、Matrigel/BME|
-|B2-T2 dual-SMAD/ROCK 扩增|2 / 2|2 / 2|107 / 8|SMAD 抑制、Y-27632、长期扩增|
-|B2-T3 成人来源气道类器官长期扩增|11 / 8|9 / 8|430 / 8|成人组织、BAL、长期传代|
-|B2-T4 hPSC/iPSC→NKX2-1 气道路线|6 / 6|6 / 6|104 / 8|定向分化与功能性气道上皮|
-|B2-T5 ALI/极性/顶端可及性|30 / 8|41 / 8|296 / 8|ALI、apical-in、apical-out|
+| 检索线                         | PubMed 原始/取回 | Europe PMC 原始/取回 | OpenAlex 原始/取回 | 用途                                       |
+| --------------------------- | -----------: | ---------------: | -------------: | ---------------------------------------- |
+| A1 概念与边界                    |     933 / 20 |         667 / 20 |     9,138 / 20 | 独立概念综述、边界与定义                             |
+| A2 一般技术史                    |   2,740 / 20 |       2,503 / 20 |     1,499 / 20 | 3D、ECM、成人干细胞与 PSC 路线                     |
+| B1 气道/肺综述                   |      99 / 20 |          30 / 20 |       414 / 20 | 选择两篇锚定综述并生成 B2 标签                        |
+| B2-T1 基底细胞三维球体/ECM          |        6 / 6 |            0 / 0 |         36 / 8 | tracheosphere、bronchosphere、Matrigel/BME |
+| B2-T2 dual-SMAD/ROCK 扩增     |        2 / 2 |            2 / 2 |        107 / 8 | SMAD 抑制、Y-27632、长期扩增                     |
+| B2-T3 成人来源气道类器官长期扩增         |       11 / 8 |            9 / 8 |        430 / 8 | 成人组织、BAL、长期传代                            |
+| B2-T4 hPSC/iPSC→NKX2-1 气道路线 |        6 / 6 |            6 / 6 |        104 / 8 | 定向分化与功能性气道上皮                             |
+| B2-T5 ALI/极性/顶端可及性          |       30 / 8 |           41 / 8 |        296 / 8 | ALI、apical-in、apical-out                 |
 
 说明：不同数据库的索引字段与检索语义不同，尤其 OpenAlex 使用全文相关度搜索，命中数不可与 PubMed/Europe PMC 直接比较或相加；表内数字只用于记录各入口的真实执行结果。Europe PMC 的 T1 零命中不等于该节点没有文献，PubMed 与 OpenAlex 已命中 Hild、Sachs 等记录，且锚定综述明确给出该节点的原始引文。
 ***
@@ -135,3 +135,7 @@ A1、A2、B1 的完整式见并锁定于 [[Part1-AB-试跑检索方案]] 的上�
 ***
 # 当前暂停点
 需要用户确认以下两项后才进入下一阶段：是否批准上述 10 篇为全文试跑集；是否把 Mou 2016 与 Stroulios 2022 作为第 11、12 篇一并加入。未获确认前不调用 paper-fetch/scansci 批量获取，不导入 Zotero，不写 Part 1 A/B 正文，不把 N1–N5 升级为正式里程碑。
+
+```table-data
+tbl-20260723-pawigxag|rows:6|cols:7|headers:true|width:173px,20px,342px,auto,auto,auto,auto|height:58px,auto,auto,auto,auto,auto|align:left,left,left,left,left,left,left|cellStyles:[{"row":1,"col":1,"textAlign":"center","verticalAlign":"middle"},{"row":1,"col":0,"textAlign":"left","verticalAlign":"top"}]|loc:26出国灵感/综述-气道类器官和呼吸道病毒/Part1-AB-试跑检索报告-查准版.md:true
+```
