@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "笔记同步助手/2026-07-23/AI Coding套餐太乱，我做了个比价站.md",
+                "file": "笔记同步助手/2026-07-14/Zotero 科研狗的“屎山”清理指南.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AI Coding套餐太乱，我做了个比价站"
+              "title": "Zotero 科研狗的“屎山”清理指南"
             }
           },
           {
@@ -147,13 +147,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "笔记同步助手/2026-07-23/AI Coding套餐太乱，我做了个比价站.md",
+                "file": "笔记同步助手/2026-07-14/Zotero 科研狗的“屎山”清理指南.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "AI Coding套餐太乱，我做了个比价站 的大纲"
+              "title": "Zotero 科研狗的“屎山”清理指南 的大纲"
             }
           },
           {
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "笔记同步助手/2026-07-23/AI Coding套餐太乱，我做了个比价站.md",
+                "file": "笔记同步助手/2026-07-14/Zotero 科研狗的“屎山”清理指南.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "AI Coding套餐太乱，我做了个比价站 的反向链接列表"
+              "title": "Zotero 科研狗的“屎山”清理指南 的反向链接列表"
             }
           },
           {
@@ -222,8 +222,21 @@
       "obsidian-table-x:编辑模式表格操作": false
     }
   },
-  "active": "aff4bdb1d5434ebe",
+  "active": "c19e4fc48fd43c5d",
   "lastOpenFiles": [
+    "笔记同步助手/2026-07-18/GitHub 上 9000 收藏的 Codex 皮肤定制神器，咸鱼上卖 199。.md",
+    "笔记同步助手/2026-07-21/从四面八方偷来的好习惯tips.md",
+    "笔记同步助手/2026-07-23/AI Coding套餐太乱，我做了个比价站.md",
+    "2026新年祝福.md",
+    "CLAUDE.md",
+    "AGENTS-R.md",
+    "AGENTS-Obsidian.md",
+    "毛概作业.md",
+    "CLAUDE记忆.md",
+    "未命名 1.md",
+    "未命名.md",
+    "AGENTS-视觉.md",
+    "AGENTS全局.md",
     "笔记同步助手/2026-07-23/AI Coding套餐太乱，我做了个比价站.md.bak",
     "26出国灵感/综述-气道类器官和呼吸道病毒/Total_Execution_Plan-manual-v2-AB.md",
     "笔记同步助手/images/a0812c6fa335c3765b7d71b3b750ab0f_MD5.jpg",
@@ -231,7 +244,6 @@
     "笔记同步助手/images/cf607447eb9c8bcecf96e88ab0a84a36_MD5.jpg",
     "笔记同步助手/images/f491027276433a6b01bbfcd9e0998232_MD5.jpg",
     "笔记同步助手/images/c8ee52bf5ebedbd36bcceb7efdd1155b_MD5.jpg",
-    "笔记同步助手/2026-07-23/AI Coding套餐太乱，我做了个比价站.md",
     "笔记同步助手/2026-07-23",
     "26出国灵感/综述-气道类器官和呼吸道病毒/Part1-AB-试跑检索方案.md",
     "26出国灵感/综述-气道类器官和呼吸道病毒/Part1-AB-试跑检索报告-查准版.md",
@@ -243,8 +255,6 @@
     "26出国灵感/综述-气道类器官和呼吸道病毒/tmp",
     "26出国灵感/综述-气道类器官和呼吸道病毒/Total Execution Plan-manual.md",
     "26出国灵感/IMA—Codex—Obsidian工作流.md",
-    "笔记同步助手/2026-07-18/GitHub 上 9000 收藏的 Codex 皮肤定制神器，咸鱼上卖 199。.md",
-    "笔记同步助手/2026-07-21/从四面八方偷来的好习惯tips.md",
     "calendar/过去7天邮件事件-20260715-20260721.md",
     "26出国灵感/综述-气道类器官和呼吸道病毒",
     "26出国灵感/未命名.md",
@@ -258,18 +268,8 @@
     "复习/统计/03-正态分布与医学参考值范围.md",
     "calendar/邮件事件-20260715-20260721.ics",
     "复习/统计/02-定量数据的统计描述.md",
-    "复习/毛概/原始课件/毛泽东思想及其历史地位（一）.pdf",
     "复习/统计/01-统计思维与数据类型.md",
     "笔记同步助手/2026-07-11/两周疯传！6个Claude新神Skill.md",
-    "笔记同步助手/2026-07-14/Zotero 科研狗的“屎山”清理指南.md",
-    "笔记同步助手/2026-07-10/手机也能远程写代码？ChatGPT 秒变 Codex，彻底榨干网页版 ChatGPT 额度！.md",
-    "笔记同步助手/2026-07-08/文献综述写得很差，真心建议看看这篇文章.md",
-    "笔记同步助手/2026-07-06/如何使用DeepSeek进行图表解读和图表绘制？.md",
-    "笔记同步助手/2026-07-05/用 Codex 读 DeepSeek 最新论文 DSpark，AI 改变了读书方式.md",
-    "笔记同步助手/2026-07-02/我用Andrej Karpathy的LLM wiki思路实现了“活”的个人知识库（附模板）.md",
-    "笔记同步助手/2026-07-01/这可能是目前 Obsidian 生态中最好用的 LLM-Wiki 插件了——Karpathy LLM Wiki.md",
-    "费曼学习法提示词/03 讲解前大纲拆分.md",
-    "费曼学习法提示词/04 八岁小学生测试官.md",
     "任务管理/任务看板.canvas",
     "任务管理/2026-06-05 工作看板.canvas",
     "GPT画图测试260227/GPT画图测试260227.canvas",
