@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -118,8 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 482.5,
-    "collapsed": true
+    "width": 482.5
   },
   "right": {
     "id": "e8af24c642dba675",
@@ -149,13 +148,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "26出国灵感/综述-气道类器官和呼吸道病毒/Part1-AB-试跑材料检索方案.md",
+                "file": "26出国灵感/综述-气道类器官和呼吸道病毒/Part1-AB-试跑检索报告-查准版.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Part1-AB-试跑材料检索方案 的大纲"
+              "title": "Part1-AB-试跑检索报告-查准版 的大纲"
             }
           },
           {
@@ -164,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "26出国灵感/综述-气道类器官和呼吸道病毒/Part1-AB-试跑材料检索方案.md",
+                "file": "26出国灵感/综述-气道类器官和呼吸道病毒/Part1-AB-试跑检索报告-查准版.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +173,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Part1-AB-试跑材料检索方案 的反向链接列表"
+              "title": "Part1-AB-试跑检索报告-查准版 的反向链接列表"
             }
           },
           {
@@ -224,11 +223,21 @@
       "obsidian-table-x:编辑模式表格操作": false
     }
   },
-  "active": "91fddd3d20742a3b",
+  "active": "be5d71b51c079f3b",
   "lastOpenFiles": [
+    "26出国灵感/综述-气道类器官和呼吸道病毒/AB试跑材料全文/fphar-13-1083017.pdf",
+    "26出国灵感/综述-气道类器官和呼吸道病毒/AB试跑材料全文/nature12517.pdf",
+    "26出国灵感/综述-气道类器官和呼吸道病毒/AB试跑材料全文/dev140103.pdf",
+    "26出国灵感/综述-气道类器官和呼吸道病毒/AB试跑材料全文/170500.1-20231109235407-covered-4fa089109ce452e764bbb8648b44a723.pdf",
+    "26出国灵感/综述-气道类器官和呼吸道病毒/AB试跑材料全文/rock-et-al-2009-basal-cells-as-stem-cells-of-the-mouse-trachea-and-human-airway-epithelium.pdf",
+    "26出国灵感/综述-气道类器官和呼吸道病毒/AB试跑材料全文/PIIS1934590917300723.pdf",
+    "26出国灵感/综述-气道类器官和呼吸道病毒/AB试跑材料全文/embj.2018100300.pdf",
+    "26出国灵感/综述-气道类器官和呼吸道病毒/deepseek.md",
+    "26出国灵感/综述-气道类器官和呼吸道病毒/Part1-AB-试跑检索报告-查准版.md",
+    "26出国灵感/综述-气道类器官和呼吸道病毒/新建文件夹",
+    "26出国灵感/综述-气道类器官和呼吸道病毒/AB试跑材料全文",
     "26出国灵感/综述-气道类器官和呼吸道病毒/Part1-AB-试跑材料检索方案.md",
     "26出国灵感/综述-气道类器官和呼吸道病毒/Total_Execution_Plan-manual-v2-AB.md",
-    "26出国灵感/综述-气道类器官和呼吸道病毒/Part1-AB-试跑检索报告-查准版.md",
     "笔记同步助手/images/c48dd6618e52d2b92e5d258da724dc44_MD5.jpg",
     "笔记同步助手/images/29cc5df9a67655294eac7e5a4ad53f35_MD5.png",
     "笔记同步助手/2026-07-23/Nature发文呼吁！“走出动物模型时代：期刊编辑、资助机构与科研社群应及早调整评审机制、资助战略与发表标准.md",
@@ -253,24 +262,15 @@
     "笔记同步助手/images/f491027276433a6b01bbfcd9e0998232_MD5.jpg",
     "笔记同步助手/images/c8ee52bf5ebedbd36bcceb7efdd1155b_MD5.jpg",
     "笔记同步助手/2026-07-23",
-    "package-lock.json",
-    "26出国灵感/综述-气道类器官和呼吸道病毒/s41573-025-01317-y.pdf",
     "26出国灵感/综述-气道类器官和呼吸道病毒/deepseek审阅意见.md",
     "26出国灵感/综述-气道类器官和呼吸道病毒/tmp/pdfs/airway-review-page1.png",
-    "26出国灵感/综述-气道类器官和呼吸道病毒/tmp/pdfs",
-    "26出国灵感/综述-气道类器官和呼吸道病毒/tmp",
     "26出国灵感/综述-气道类器官和呼吸道病毒/Total Execution Plan-manual.md",
     "26出国灵感/IMA—Codex—Obsidian工作流.md",
     "calendar/过去7天邮件事件-20260715-20260721.md",
-    "26出国灵感/综述-气道类器官和呼吸道病毒",
     "26出国灵感/未命名.md",
     "复习/免疫/细胞因子总结.md",
-    "复习/免疫/医学免疫学 (曹雪涛) (Z-Library).pdf",
     "笔记同步助手/images/cede09e0c062b1362d7128ca563d26b4_MD5.jpg",
     "笔记同步助手/images/6446ecd776ea75350a5cb6100ddc2474_MD5.jpg",
-    "笔记同步助手/2026-07-21",
-    "复习/统计/03-正态分布与医学参考值范围.md",
-    "calendar/邮件事件-20260715-20260721.ics",
     "任务管理/任务看板.canvas",
     "任务管理/2026-06-05 工作看板.canvas",
     "GPT画图测试260227/GPT画图测试260227.canvas",
