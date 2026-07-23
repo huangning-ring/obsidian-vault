@@ -2951,6 +2951,62 @@
           }
         ]
       }
+    },
+    "tbl-20260723-parlxusl": {
+      "id": "tbl-20260723-parlxusl",
+      "locations": [
+        {
+          "path": "26出国灵感/综述-气道类器官和呼吸道病毒/Part1-AB-试跑检索报告-查准版.md",
+          "isActive": true
+        }
+      ],
+      "structure": {
+        "rowCount": 6,
+        "colCount": 7,
+        "hasHeaders": true
+      },
+      "styling": {
+        "rowHeights": [
+          "auto",
+          "auto",
+          "auto",
+          "auto",
+          "auto",
+          "auto"
+        ],
+        "colWidths": [
+          "auto",
+          "auto",
+          "auto",
+          "auto",
+          "auto",
+          "auto",
+          "auto"
+        ],
+        "alignment": [
+          "left",
+          "left",
+          "left",
+          "left",
+          "left",
+          "left",
+          "left"
+        ],
+        "cellStyles": [
+          {
+            "row": 1,
+            "col": 1,
+            "textAlign": "left",
+            "verticalAlign": "top"
+          },
+          {
+            "row": 0,
+            "col": 0,
+            "textAlign": "left",
+            "verticalAlign": "top"
+          }
+        ]
+      }
     }
   }
 }
