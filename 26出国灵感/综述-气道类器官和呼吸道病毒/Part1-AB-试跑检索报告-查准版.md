@@ -1,11 +1,11 @@
 # 执行结论与下载闸门
 状态：查准版已完成，当前停在全文下载闸门前。
-执行范围严格限定为 [[Part1-AB-试跑检索方案]] 的 A1、A2、B1、B2；未进入 Part 1 模型评估矩阵，未进入 Part 2，未写正文，未冻结技术里程碑或 YAML 字段，未新下载任何全文。现有 [[s41573-025-01317-y.pdf]] 只作为用户已提供的概念锚点使用。
+执行范围严格限定为 [[Part1-AB-试跑材料检索方案]] 的 A1、A2、B1、B2；未进入 Part 1 模型评估矩阵，未进入 Part 2，未写正文，未冻结技术里程碑或 YAML 字段，未新下载任何全文。现有 [[s41573-025-01317-y.pdf]] 只作为用户已提供的概念锚点使用。
 检索日期：2026-07-22；覆盖时段：各数据库建库至 2026-07-22；语言：不限；B2 物种：不限但逐篇标注；数据库：PubMed、Europe PMC、OpenAlex；Agent Reach/Exa 仅用于网页与全文段落补核，不计入数据库命中数。
 本轮实际取回 274 条记录；按 DOI、PMID、标准化题名加年份做传递式去重后 226 条；再合并 4 组预印本—正式版后 222 条。222 条均进入题名/摘要筛选，经过综述锚定、用途评估和有限引文链核验后形成 20 篇强候选池。此处的 20 篇是候选，不是已确认下载集或正式里程碑。
 ***
 # 可复现检索记录
-检索式版本：[[Part1-AB-试跑检索方案]] 当前版本，SHA-256：`394517F52CDFD96370C3589744BA579E37C525C5960D0AFD2E9F5264E8F85AB8`。A1、A2、B1 按方案中的 PubMed 与 Europe PMC 完整式原样执行；OpenAlex 使用方案规定的主题词补漏式。每库 A1/A2/B1 最多取相关度前 20 条进入筛选；B2 每个标签每库最多取前 8 条。原始命中数来自各官方接口，不是取回上限。
+检索式版本：[[Part1-AB-试跑材料检索方案]] 当前版本，SHA-256：`394517F52CDFD96370C3589744BA579E37C525C5960D0AFD2E9F5264E8F85AB8`。A1、A2、B1 按方案中的 PubMed 与 Europe PMC 完整式原样执行；OpenAlex 使用方案规定的主题词补漏式。每库 A1/A2/B1 最多取相关度前 20 条进入筛选；B2 每个标签每库最多取前 8 条。原始命中数来自各官方接口，不是取回上限。
 
 | 检索线                         | PubMed 原始/取回 | Europe PMC 原始/取回 | OpenAlex 原始/取回 | 用途                                       |
 | --------------------------- | -----------: | ---------------: | -------------: | ---------------------------------------- |
@@ -116,7 +116,7 @@
 首位候补：Mou 等 2016（dual-SMAD，PMC4975684）；第二候补：Stroulios 等 2022（apical-out，PMC9089294）。若下一步允许 12 篇而非 10 篇，应优先把这两篇一并纳入，以免扩增与顶端可及性节点只依赖综述摘要。
 ***
 # B2 实际检索式补录
-A1、A2、B1 的完整式见并锁定于 [[Part1-AB-试跑检索方案]] 的上述 SHA-256 版本。B2 未把标签合并成一个 OR 大式，而是逐标签执行：
+A1、A2、B1 的完整式见并锁定于 [[Part1-AB-试跑材料检索方案]] 的上述 SHA-256 版本。B2 未把标签合并成一个 OR 大式，而是逐标签执行：
 **T1 PubMed：** `(("airway basal cell"[Title/Abstract] OR "airway basal cells"[Title/Abstract] OR "tracheal basal cell"[Title/Abstract] OR "bronchial basal cell"[Title/Abstract]) AND (organoid*[Title/Abstract] OR tracheosphere*[Title/Abstract] OR bronchosphere*[Title/Abstract] OR "3D culture"[Title/Abstract]) AND (Matrigel[Title/Abstract] OR "basement membrane"[Title/Abstract] OR "three-dimensional"[Title/Abstract]))`
 **T1 Europe PMC：** `(TITLE_ABS:"airway basal cell" OR TITLE_ABS:"tracheal basal cell" OR TITLE_ABS:"bronchial basal cell") AND (TITLE_ABS:organoid* OR TITLE_ABS:tracheosphere* OR TITLE_ABS:bronchosphere* OR TITLE_ABS:"3D culture") AND (TITLE_ABS:Matrigel OR TITLE_ABS:"basement membrane" OR TITLE_ABS:"three-dimensional")`
 **T1 OpenAlex：** `airway basal cells organoid tracheosphere bronchosphere Matrigel 3D`

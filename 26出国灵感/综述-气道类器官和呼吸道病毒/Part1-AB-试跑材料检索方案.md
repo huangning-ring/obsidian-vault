@@ -1,5 +1,5 @@
-# Part 1 A/B 叙述性内容试跑的检索目标与执行边界
-本方案从 [[Total_Execution_Plan-manual-v2-AB]] 派生，使用 [[s41573-025-01317-y.pdf]] 作为暂定概念权威锚点。当前只为 Part 1 A/B“类器官基本概念”“类器官发展历程与目标”建立查准版试跑检索，并用少量气道文献测试向“气道类器官发展历程”的过渡。
+> [!attention] Abstract
+本方案从 [[Total_Execution_Plan-manual-v2-AB]] 派生，使用 [[s41573-025-01317-y.pdf]] 作为暂定概念权威锚点。当前只为 Part 1 A/B“类器官基本概念”“类器官发展历程与目标”建立**查准版试跑检索**，并用少量气道文献测试向“气道类器官发展历程”的过渡。
 本轮不检索 Part 1“现有气道类器官模型的评估”，不进入 Part 2，不建立全量矩阵，不冻结 YAML 字段，也不在检索方案确认前下载全文。
 最终要回答四个问题：类器官是什么；它与细胞球、ALI 培养、器官芯片和体内器官有什么边界；类器官技术解决了哪些旧瓶颈并形成了哪两条主要来源路线；这些一般技术目标如何转译为后续气道模型的候选评估维度。
 # 已知锚点的使用方式
@@ -7,9 +7,9 @@
 该综述可直接支撑类器官的概念性框架、PSC/TSC 两条来源路线及一般技术目标；其中“首次”“首个”“突破”以及具体模型性能只作为引文链线索，必须回溯原始论文。该综述不是气道类器官发展史专论，不能替代后续气道专门综述。
 # 检索问题分解
 检索线 A1：寻找 1 篇独立于 Wang 等综述的高水平一般类器官综述，用于交叉核对定义、自组织、结构与功能重建的边界。
-检索线 A2：围绕 3D 培养、PSC 自组织、TSC 长期扩增和个体化疾病建模，寻找一般类器官技术历程的综述及关键原始研究。
-检索线 B1：寻找 2 篇气道类器官权威综述，从其正文中提取气道技术演变的自然语言描述和所引原始论文。
-检索线 B2：把 B1 提取的转折点转化为候选技术标签，逐标签定向检索原始研究；只有与综述锚定节点直接对应的论文才优先进入候选池。
+检索线 A2：围绕 3D 培养、PSC 自组织、TSC 长期扩增和个体化疾病建模，寻找**一般类器官技术历程**的综述及关键原始研究。
+检索线 B1：寻找 2 篇**气道类器官**权威综述，从其正文中提取气道技术**演变**的自然语言描述和所引原始论文。
+检索线 B2：把 B1 提取的转折点转化为候选技术标签，**逐标签定向检索原始研究**；只有与综述锚定节点直接对应的论文才优先进入候选池。
 **执行 Q-A1 后，若检索结果中未包含以下 2 篇公认经典综述，必须将它们作为种子文献强制手工补入候选池（仅用于概念交叉核对，不改变已有检索结果）：**
 - **Lancaster MA, Knoblich JA. _Organogenesis in a dish: modeling development and disease using organoid technologies_. Science. 2014;345(6194):1247125.**
 - **Simian M, Bissell MJ. _Organoids: A historical perspective of thinking in three dimensions_. J Cell Biol. 2017;216(1):31-40.** （这篇尤其擅长定义“不是类器官”的边界）
@@ -19,7 +19,8 @@ PubMed 是主检索库，用于可复现的 MeSH 与题名/摘要检索，并承
 Europe PMC/PMC 用于补充 PubMed 未充分覆盖的记录、开放全文、预印本与参考文献线索；开放获取状态只影响全文获取路径，不作为纳入标准。
 OpenAlex 或 Semantic Scholar 用于前向被引、后向参考文献和作者团队追踪，不以其相关度排序直接裁定权威性或里程碑地位。
 如果正式查全阶段可访问 Web of Science 或 Embase，再用于被引网络和同义词补漏；本次查准试跑不以其为启动条件。
-# 关键词模块
+# 检索式设计
+## 关键词模块
 概念对象词：`organoid*`、`human organoid*`、`3D organoid*`、`stem cell-derived organoid*`。
 概念属性词：`self-organization`、`self-organisation`、`tissue architecture`、`spatial organization`、`cellular heterogeneity`、`physiological function`、`tissue-specific function`。
 一般历程词：`three-dimensional culture`、`3D culture`、`Matrigel`、`extracellular matrix`、`pluripotent stem cell`、`induced pluripotent stem cell`、`tissue stem cell`、`adult stem cell`、`long-term expansion`、`disease modeling`、`personalized medicine`。
@@ -27,7 +28,7 @@ OpenAlex 或 Semantic Scholar 用于前向被引、后向参考文献和作者�
 气道模型词：`airway organoid*`、`bronchial organoid*`、`nasal organoid*`、`tracheosphere*`、`bronchosphere*`。
 候选技术标签初始词：`basal cell expansion`、`ROCK inhibition`、`Y-27632`、`Matrigel embedding`、`basement membrane extract`、`long-term expansion`、`air-liquid interface`、`ALI polarization`、`apical-basal polarity`、`pluripotent stem cell-derived airway`、`iPSC-derived airway`、`NKX2-1 progenitor`。
 候选技术标签只是待综述验证的起始词表。若 2 篇气道专门综述未把某标签描述为技术转折或关键能力，该标签不得仅凭模型判断进入里程碑时间线。
-# PubMed 完整检索式
+## PubMed 完整检索式
 Q-A1：独立概念综述。
 ```text
 ("Organoids"[Mesh] OR organoid*[Title/Abstract])
@@ -78,7 +79,7 @@ NOT
 OR Comment[Publication Type])
 ```
 Q-B2 不预设人源限制。早期小鼠或其他物种研究若被权威综述明确视为气道类器官关键技术前驱，可以进入时间线；但必须标明物种，不能与人气道类器官结果混写。
-# Europe PMC 与引文网络检索式
+## Europe PMC 与引文网络检索式
 Europe PMC 的气道综述代表式：
 ```text
 (TITLE_ABS:organoid* OR TITLE_ABS:bronchosphere*
@@ -91,22 +92,23 @@ AND
 ```
 Europe PMC 的原始研究仍按 Q-B2 的每个技术标签分别翻译执行。检索阶段不添加 `OPEN_ACCESS:y`，以免把全文可得性误当作学术纳入条件；候选确定后再单独检查 PMC、Europe PMC 或出版社开放全文。
 OpenAlex/Semantic Scholar 使用 `airway organoid`、`bronchial organoid`、`nasal organoid` 与已确认技术标签组合检索，并对最终候选执行 cited-by、references 和 related works 追踪。此处只用于补漏和引文链，不单独决定里程碑。
-# 时间、语言与文献类型
+## 时间、语言与文献类型
 时间范围为数据库建库至 2026-07-22，不设置起始年份，以免漏掉 3D 上皮培养、干细胞建立和早期气道球体模型等前驱研究。
 检索阶段不设语言过滤。全文精读优先纳入可获得英文或中文全文的文献；其他语言文献若被权威综述用于关键优先权主张，则保留元数据并标记需要翻译或人工核验。
 检索线 A1、A2、B1 以综述为主；检索线 B2 只纳入原始研究。会议摘要、社论、评论、没有可核验方法与结果的观点文章不进入里程碑证据集。
-# 纳入标准
+# 文献库准入
+## 纳入标准
 一般综述必须明确讨论类器官的定义、来源路线、发展逻辑或技术目标，并能追踪到原始文献。期刊声誉和作者背景是质量信号，但不能替代内容相关性和证据透明度。
 气道专门综述必须以气道、支气管、气管或鼻上皮类器官为主要对象，明确讨论模型建立、技术演变或来源路线，而不是只罗列疾病应用。
 里程碑原始研究必须满足至少一项：被权威综述明确用于支撑关键转折；首次建立一种此前缺失的可持续模型能力；解决了旧方法无法解决的明确瓶颈；建立了后来被广泛沿用的来源、扩增、分化或结构路线。
 全文可得性不决定学术纳入。拿不到全文的强候选保留在候选池，记录摘要证据、获取尝试和待补动作，不用摘要支持正文中的强事实结论。
-# 排除标准
+## 排除标准
 排除只把类器官作为常规实验材料、但没有贡献定义、技术路线或模型能力变化的论文。
 排除仅报告培养基因子微调、剂量优化或局部效率提升，且权威综述未将其视为关键转折的研究；此类文献标记为“渐进性改进”，不进入试跑里程碑集。
 排除将普通细胞球、肿瘤球、组织外植体、纯 ALI 单层或不含类器官来源细胞的器官芯片直接称作类器官的记录。
 纯肺泡、肺芽、肿瘤类器官或非气道器官研究不进入气道时间线；但用于说明一般类器官概念、PSC/TSC 路线或共同前置技术时，可以保留在 Part 1 A/B 的一般证据集中，并明确其用途边界。
-# 综述锚定与技术标签生成规则
-在形成 20 篇候选池之前，先完成指定综述和 2 篇气道权威综述的锚定阅读。每个候选节点必须记录：综述中的自然语言描述；该节点解决的旧瓶颈；引入的新能力；候选技术标签及同义词；综述引用的原始论文；综述页码或段落位置。
+## 综述锚定与技术标签生成规则
+在形成 20 篇候选池之前，**先完成指定综述和 2 篇气道权威综述的锚定阅读**。每个候选节点必须记录：综述中的自然语言描述；该节点解决的旧瓶颈；引入的新能力；候选技术标签及同义词；综述引用的原始论文；综述页码或段落位置。
 技术标签不得直接来自模型常识。标签必须能追溯到至少一篇气道权威综述的明确表述；若两篇综述对节点定位不一致，保留分歧并交给用户确认，不私自合并。
 “首次”“首个”“奠基”“突破”只在原始论文和至少一篇权威综述均支持时使用。只体现连续改良的研究统一标为“渐进性改进”，不强行制造里程碑。
 # 候选池与试跑样本
