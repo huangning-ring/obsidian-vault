@@ -1,0 +1,1311 @@
+
+
+<<<PAGE 1>>>
+RESEARCH Open Access
+© The Author(s) 2026. Open Access  This article is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 
+International License, which permits any non-commercial use, sharing, distribution and reproduction in any medium or format, as long as you 
+give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if you modified the 
+licensed material. You do not have permission under this licence to share adapted material derived from this article or parts of it. The images or 
+other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the 
+material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or 
+exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit  h t t p  : / /  c r e a  t i  
+v e c  o m m  o n s .  o r  g / l  i c e  n s e s  / b  y - n c - n d / 4 . 0 /.
+Jiang et al. Stem Cell Research & Therapy           (2026) 17:93 
+https://doi.org/10.1186/s13287-026-04910-z
+Stem Cell Research & Therapy
+*Correspondence:
+Shiyue Li
+lishiyue@gird.cn
+Ning Ma
+ma_ning@gzlab.ac.cn
+1Guangzhou National Laboratory, Guangzhou 510005, China
+2Zhongshan School of Medicine, Sun Yat-Sen University,  
+Guangzhou 510080, China
+3Tsinghua Shenzhen International Graduate School (SIGS), Tsinghua 
+University, Shenzhen 518055, China
+4Guangzhou Institute of Respiratory Health, State Key Laboratory of 
+Respiratory Disease, National Clinical Research Center for Respiratory 
+Disease, National Center for Respiratory Medicine, The First Affiliated 
+Hospital of Guangzhou Medical University, Guangzhou 510000, China
+5School of Basic Medical Sciences, Guangzhou Medical University, 
+Guangzhou 511436, China
+Abstract
+Background Human basal stem cells, with their self-renewal and multilineage differentiation capacity, are essential 
+tools for modeling airway diseases and advancing regenerative medicine. However, existing culture systems often 
+rely on undefined components like serum, bovine pituitary extract, or feeder cells, limiting reproducibility and clinical 
+translation. To address this limitation, we developed a well-defined culture medium that enables the long-term 
+expansion of human airway basal stem cells while preserving their proliferative and differentiation potential.
+Methods We formulated a novel medium (sfBSC) comprising 14 defined components, including basal media, 
+supplements, growth factors (EGF, FGF10), and signaling inhibitors (Y-27632, A-83-01, DAPT, DMH1). Human bronchial 
+and small airway epithelial cells were cultured over multiple passages in sfBSC and assessed for morphology, 
+population doublings, marker expression, and differentiation capacity via air-liquid interface and organoid cultures. 
+RNA-seq was performed to explore molecular changes across passages.
+Results Bronchial and small airway epithelial cells were expanded up to 17 and 24 passages, respectively, with stable 
+morphology and consistent cell size (10–15 μm). Cells maintained expression of canonical BSC markers (TP63, KRT5, 
+NGFR) throughout long-term culture. Differentiation assays confirmed the ability to generate ciliated, goblet, and club 
+cells. Optimized concentrations of EGF (1 ng/mL) and FGF10 (0.4 ng/mL) were critical for sustained proliferation. RNA-
+seq revealed stable marker expression and metabolic changes over time.
+Conclusions sfBSC medium offers a defined, reproducible, and scalable platform for basal stem cell culture, enabling 
+applications in disease modeling, regenerative medicine, and clinical-grade cell production.
+Keywords Lung, Epithelium, Adult stem cells, Trachea, Self-renew
+A serum-free culture medium for long-term 
+expansion of human airway basal stem cells
+Mingyue Jiang1,2, Yinhong Zhu1,2, Honghui Zheng3, Huanjie Chen4, Weizhan Luo4, Zhencheng Deng4, 
+Hongbo Zhang2, Zhuquan Su4, Shiyue Li4* and Ning Ma1,5*
+
+<<<PAGE 2>>>
+Page 2 of 20
+Jiang et al. Stem Cell Research & Therapy            (2026) 17:93 
+Background
+Within the complex architecture of the respiratory sys -
+tem, basal stem cells (BSCs), a specialized type of epithe -
+lial cell, reside in the basal layer of the airway epithelium 
+[1, 2]. These cuboidal cells are distributed throughout the 
+human airways, with their abundance varying along the 
+proximal-to-distal axis. In larger airways, with diameters 
+exceeding 4 millimeters, BSCs account for approximately 
+31% of the epithelial cell population [ 3]. In contrast, in 
+airways with diameters less than 0.5 millimeters, their 
+prevalence decreases to approximately 6% [ 4]. BSCs are 
+multipotent, undifferentiated cells capable of self-renewal 
+and proliferation. They can also differentiate into various 
+specialized cell types, including ciliated cells, goblet cells, 
+and club cells, thereby playing a critical role in maintain -
+ing epithelial homeostasis. This regenerative capacity 
+is essential for preserving the integrity and function of 
+the airway epithelium, particularly following injury [ 5, 
+6]. Consequently, BSCs are indispensable for epithelial 
+repair and are central to the pathogenesis and progres -
+sion of many airway diseases, including asthma [ 7, 8], 
+chronic obstructive pulmonary disease (COPD) [ 9, 10], 
+and lung cancer [ 11]. Given their pivotal role in airway 
+homeostasis and disease progression, BSCs have become 
+an invaluable tool for studying airway development and 
+disease pathophysiology.
+The growing demand for high-quality BSCs in both 
+basic research and clinical applications has spurred 
+ongoing efforts to refine culture systems. However, 
+conventional BSC culture methods often rely on com -
+plex, undefined components, such as serum and bovine 
+pituitary extract (BPE), to sustain cellular growth and 
+composition [ 12– 16]. Additionally, these methods typi -
+cally require the use of feeder layer cells or conditioned 
+medium to maintain BSC viability and support expansion 
+[17, 18]. Despite these strategies, prolonged passaging 
+significantly diminishes the ability of BSCs to differenti -
+ate into ciliated epithelial cells [ 19]. Furthermore, the 
+complexity of these culture systems extends experimen -
+tal timelines and substantially increases costs. The reli -
+ance on undefined components also hampers efforts to 
+elucidate the molecular mechanisms underlying BSC 
+stemness, thereby limiting both fundamental research 
+and translational applications. These challenges highlight 
+the urgent need for a more advanced, simplified, and 
+compositionally defined culture system that enhances 
+the efficiency, reproducibility, and clinical utility of BSC 
+cultures.
+To address these limitations, we developed a serum- 
+and feeder-free culture system with a well-defined com -
+position that supports the long-term expansion of human 
+airway BSCs while maintaining their differentiation 
+potential and morphological integrity. This optimized 
+culture method not only increases the availability of 
+primary cells but also facilitates large-scale experimenta -
+tion and provides a more robust platform for advancing 
+the understanding of BSC biology.
+Methods
+HBEC and HSAEC culture
+Two healthy BSC lines were used in this study: human 
+bronchial epithelial cells (HBECs, Lifeline, FC-0035) and 
+human small airway epithelial cells (HSAECs, ATCC, 
+PCS-301-010). Both cell types were cultured in T25 
+flasks with sfBSC medium. For comparison, cells were 
+also cultured in the commercial PneumaCult™-Ex Plus 
+Medium (STEMCELL Technologies, 05040). No feeder 
+cells or coating treatments were necessary. The medium 
+was changed every two days, and the cells were passaged 
+when they reached 70% − 80% confluence. The cell mor -
+phology was captured via brightfield microscopy before 
+each passage. The cells were digested with accutase 
+(Sigma-Aldrich, A6964) at 37  °C for 10  min. After neu -
+tralization with an equal volume of medium, the cells 
+were collected and centrifuged at 200 × g for 3 min. Cell 
+counting and size measurement were performed via an 
+Automatic Cell Fluorescence Analyzer (Countstar).
+Patient-specific BSC isolation and culture
+A disease-specific BSC line was derived from a patient 
+with COPD via bronchoscopic brush biopsy of the airway 
+epithelium in the main bronchus. All procedures involv -
+ing cell acquisition were conducted in accordance with 
+protocols approved by the Institutional Review Board of 
+The First Affiliated Hospital of Guangzhou Medical Uni -
+versity. The subject provided full informed consent prior 
+to bronchoscopy. Following this procedure, the brush was 
+retrieved in a 50 mL centrifuge tube, and the collected 
+epithelial cells were washed with sfBSC medium under 
+sterile conditions. The wash mixture was centrifuged, 
+and the cell pellet was resuspended in culture medium. 
+The suspension was then transferred to a T25 cell culture 
+flask. The cells were cultured at 37 °C and 5% CO 2. The 
+medium was replaced daily to remove red blood cells and 
+other impurities, ensuring the purification of the BSCs. 
+The cells were maintained until they reached approxi -
+mately 50% − 70% confluence before passage.
+SfBSC medium
+The newly developed culture medium, with clearly 
+defined components, consisted of a basal medium, 
+supplements, growth factors, and inhibitors. The base 
+medium was composed of a 1:1 mixture of Iscove’s 
+Modified Dulbecco Medium (IMDM, Gibco, 12440061) 
+and Ham’s F12 (Gibco, 11765054). The complete sfBSC 
+medium was supplemented with the following com -
+ponents: 1X B27 supplement (Gibco, 17504044), 
+0.1% recombinant human serum albumin (rHSA, 
+
+<<<PAGE 3>>>
+Page 3 of 20
+Jiang et al. Stem Cell Research & Therapy            (2026) 17:93 
+Sigma-Aldrich, A9731), 2 mM Glutamax (Gibco, 
+35050061), 50  µg/mL L-ascorbic acid (Sigma-Aldrich, 
+A4544), 0.4 µM monothioglycerol (MTG, Sigma-Aldrich, 
+M6145), 1  µg/mL hydrocortisone (STEMCELL Tech -
+nologies, 07926), 1 ng/mL recombinant human EGF 
+(Sigma-Aldrich, SRP3027), 0.4 ng/mL recombinant 
+human FGF10 (R&D systems, 345-FG), 10 µM Y27632 
+(Rho-associated protein kinase (ROCK) inhibitor, Sell -
+eck, S1049), 1 µM DAPT (γ-secretase/Notch signaling 
+pathway inhibitor, Sigma-Aldrich, D5942), 1 µM A83-
+01 (ALK5 inhibitor, Sigma-Aldrich, SML0788), and 1 
+µM DMH-1 (BMP signaling inhibitor, Sigma-Aldrich, 
+D8946). Inhibitor powders were dissolved in DMSO, 
+aliquoted, and stored at -20  °C. Cytokines were diluted 
+in PBS containing 5% trehalose, aliquoted, and stored 
+at -80 °C. The complete sfBSC medium can be stored at 
+2–8 °C for up to four weeks. For comparison, other basal 
+media evaluated in this study included Dulbecco’s Modi-
+fied Eagle Medium/Nutrient Mixture F-12 (DMEM/F-12; 
+Gibco, 11320033), DMEM (Gibco, 11965092), and 
+Roswell Park Memorial Institute Medium 1640 (RPMI 
+1640; Gibco, 11875119).
+Cumulative population doublings (cPDs)
+The number of inoculated cells and the number of cells 
+harvested during the expansion culture process were 
+documented. The cumulative population doublings were 
+calculated according to the ATCC recommendation via 
+the following formula:
+ n =3 .32 (log Xe − log Xb)+ S
+where:
+  • n = the final population doubling level number at the 
+end of a given subculture.
+  • Xe = the cell yield at that point.
+  • Xb = the number of cells used as the inoculum to 
+begin subculture.
+  • S = the starting population doubling level.
+Flow cytometry
+Cells from different passages of HBECs and HSAECs 
+were harvested by enzymatic dissociation and resus -
+pended in PBS. For surface marker detection, cells were 
+incubated with APC-conjugated anti-CD271 (NGFR) 
+(mouse, BioLegend, 345108) for 30  min at 4  °C in the 
+dark. After surface staining, cells were fixed with 4% 
+paraformaldehyde (PFA; Alfa Aesar, 043368), and per -
+meabilized using an enhanced permeabilization solution 
+(Beyotime, P0097) for 10 min. For intracellular staining, 
+cells were subsequently incubated with anti-P63 (rab -
+bit, Abcam, ab124762) for 30  min, followed by FITC-
+conjugated anti-rabbit IgG secondary antibody (Abcam, 
+ab150077) for 30  min. Between each incubation step, 
+cells were washed and centrifuged to remove unbound 
+antibodies. Appropriate isotype controls were included: 
+APC-conjugated IgG1,κ isotype control (mouse, BioLe -
+gend, 400122) and IgG isotype control (rabbit, Invitro -
+gen, 31235). Samples were analyzed using a CytoFLEX S 
+flow cytometer (Beckman), and data were processed with 
+FlowJo software (version 10).
+Cell proliferation assays
+HBECs were enzymatically dissociated, centrifuged, and 
+counted prior to seeding. For the CCK-8 assay, 2000 cells 
+per well were seeded into 96-well plates, and cultured in 
+different media formulations. Plates were incubated in a 
+37  °C, CO2 incubator, and cell viability was assessed at 
+0, 1, 3, and 5 days. At each time point, 10 µL of CCK-8 
+reagent (Beyotime, C0042) was added to each well, fol -
+lowed by a 2-hour incubation. Absorbance was measured 
+at 450  nm using a SpectraMax Paradigm microplate 
+reader (Molecular Devices).
+For the growth curve analysis, 6 × 104 cells per well 
+were seeded in 12-well plates, and cultured 1, 3, 5, and 
+7 days in different media. At each time point, cells were 
+harvested and counted using an automatic cell fluores -
+cence analyzer (Countstar).
+For the colony formation assay, 200 cells were seeded 
+into 6-well plates and cultured for 8 days, with medium 
+changes every 2 days. Colonies were fixed with 4% PFA 
+for 30 min, stained with crystal violet (Beyotime, C0121) 
+for 10 min, and washed three times with PBS. Plates were 
+air-dried, imaged, and colony numbers were quantified 
+using ImageJ software [20].
+Air‒liquid interface (ALI) culture
+HBECs or HSAECs were seeded onto collagen IV-coated 
+(Sigma‒Aldrich, 35533) transwell inserts (Corning, 3460, 
+12 mm with 0.4 μm pore) at a density of 3 × 104 cells per 
+well. The upper chamber contained 500 µL of medium, 
+and the lower chamber contained 1 mL of medium. 
+Cells were maintained under submerged conditions 
+until reaching confluence, at which point the medium 
+in the upper chamber medium was removed to initi -
+ate air-liquid (ALI) culture. Differentiation was induced 
+by supplying PneumaCult™-ALI Medium (STEMCELL 
+Technologies, 05001) for HBECs and PneumaCult™-
+ALI-S Medium (STEMCELL Technologies, 05050) 
+for HSAECs to the lower chamber. The medium was 
+changed every 2 days, and mucus was cleared from the 
+upper chamber with PBS weekly. Cells were maintained 
+under ALI culture conditions for 21 days and subse -
+quently collected for analysis. The dynamic GIF images 
+of cilia presented were captured using the Eclipse Ti2 
+inverted microscope platform (Nikon).
+
+<<<PAGE 4>>>
+Page 4 of 20
+Jiang et al. Stem Cell Research & Therapy            (2026) 17:93 
+Hematoxylin and eosin (H&E) staining
+Differentiated ALI cultures were fixed with 4% PFA 
+at 4 °C for 1 h, followed by three washes with PBS. The 
+polycarbonate membrane was then carefully excised 
+and embedded in molten 4% (w/v) agarose (Biow -
+est, BY-R0100), which was allowed to solidify on ice for 
+30  min. The resulting agarose block was placed in an 
+embedding cassette and dehydrated through a graded 
+ethanol series, followed by two clearing steps in xylene 
+(Sigma-Aldrich, 534056). After clearing, the samples 
+were infiltrated with paraffin, embedded, and sectioned 
+at 5 μm thickness using a microtome (LEICA, HistoCore 
+AUTOCUT). Sections were floated on a 40  °C water 
+batch, mounted on glass slides, and baked at 65  °C in a 
+slide dryer (LEICA, HI1220). For H&E staining, paraf -
+fin sections were deparaffinized in xylene, rehydrated 
+through a graded ethanol series, and stained sequentially 
+with Harris hematoxylin (Beyotime, C0107) for 5  min 
+and eosin (Beyotime, C0109) for 3 min. After dehydration 
+and clearing, the slides were mounted with coverslips 
+and imaged using an Axio Vert A1 inverted microscope 
+(Zeiss).
+Western blotting
+Total protein was extracted from ALI monolayers using 
+RIPA lysis buffer (Beyotime, P0013B). Following the 
+guidelines of the BCA protein concentration assay kit 
+(Beyotime, P0009), total protein concentrations were 
+measured and adjusted to 2  µg/µL. The SDS-PAGE gels 
+with varying acrylamide concentrations were prepared 
+according to the molecular weights of target proteins. 
+Protein markers and samples were loaded onto the gels, 
+followed by electrophoresis, membrane transfer, block -
+ing, primary antibody incubation, and secondary anti -
+body incubation. The primary antibodies used included 
+anti-MUC5AC (rabbit; Abways, CY6826), anti-Ac-Tub 
+(mouse; Sigma-Aldrich, T7451), anti-KRT5 (mouse; 
+Invitrogen, MA5-17057), anti-NGFR (mouse; R&D Sys -
+tems, MAB367) and anti-GAPDH (mouse; Proteintech, 
+60004-1-Ig). Secondary antibodies were anti-rabbit IgG 
+H&L (HRP) (goat, Abcam, ab6721) or anti-mouse IgG 
+H&L (HRP) (goat, Abcam, ab6789). Protein signals were 
+detected by chemiluminescence using ECL substrate 
+(Abcam, ab133406) and visualized with a FUSION Solo 
+S imaging system (Tanon, 5200 Multi). The original full-
+length, uncropped Western blotting images have been 
+provided as part of the supplementary material.
+Scanning electron microscopy (SEM)
+Samples were initially fixed in 2.5% glutaraldehyde 
+(Macklin, G916054) solution at room temperature for 
+1  h, followed by treatment with 1% osmium tetroxide 
+solution (Sigma, 208868) for 1 h. Subsequently, dehydra -
+tion was performed using a graded ethanol series, after 
+which the samples were treated with anhydrous tert-
+butanol (Aladdin, T119717) for 30  min at room tem -
+perature. The specimens were then vacuum-dried and 
+mounted onto aluminum stubs. To enable electron con -
+ductivity, samples were sputter-coated with gold using 
+a high-vacuum ion sputter coater (Quorum) and subse -
+quently imaged using a GeminiSEM 500 scanning elec -
+tron microscope (Zeiss).
+Apical-out airway organoid differentiation
+HBECs and HSAECs were cultured in sfBSC medium 
+and seeded onto AggreWell™400 24-well plates (STEM -
+CELL Technologies, 34415) pre-treated with anti-adher -
+ence rinsing solution (STEMCELL Technologies, 07010) 
+at a density of 1.2 × 105 cells. The cells were cultured for 
+6 days in PneumaCult™ Apical-Out Airway Organoid 
+Medium (STEMCELL Technologies, 100–0620). After -
+ward, the cells were transferred to flat-bottom 24-well 
+plates treated with anti-adherence rinsing solution and 
+maintained for an additional 9 days with continued cul -
+ture in PneumaCult™ Apical-Out Organoid Medium.
+Immunofluorescence staining
+Cells cultured on confocal dishes or in the ALI culture 
+system were fixed with 4% PFA for 30 min, washed with 
+PBS, and permeabilized with 0.1% Triton X-100 (Sigma‒
+Aldrich, X100) for 10  min. After being blocked with 
+1% goat serum (Beyotime, C0265) and 0.1% Tween-20 
+(Sigma‒Aldrich, P1379) in PBS for 1  h, the cells were 
+incubated overnight at 4  °C with the following primary 
+antibodies: anti-P63 (rabbit, Abcam, ab124762), anti-
+KRT5 (mouse, Abcam, ab17130), anti-NGFR (mouse, 
+R&D Systems, MAB367), anti-MUC5AC (rabbit, Abways, 
+CY6826), anti-Ac-Tub (mouse, Sigma-Aldrich, T7451), 
+and anti-SCGB1A1 (rat, R&D Systems, MAB4218). 
+After washing, the samples were incubated with sec -
+ondary antibodies conjugated to Alexa Fluor 488-con -
+jugated anti-rabbit IgG (goat, Abcam, ab150077), Alexa 
+Fluor 647-conjugated anti-mouse IgG (donkey, Abcam, 
+ab150107), or Alexa Fluor 488-conjugated anti-rat IgG 
+(donkey, Invitrogen, A-21208). Nuclei were stained with 
+DAPI (Sigma-Aldrich, D9542) for 15  min. Next, the 
+samples were washed with PBS containing 0.1% Tween 
+20 and stored in antifade mounting medium (Invitrogen, 
+P36935). Images were captured via confocal microscopy.
+For 3D apical-out airway organoids, the organoids 
+were collected in 1.5 mL centrifugation tubes and treated 
+with anti-adherence rinsing solution before fixation. The 
+staining process was carried out in tubes, and the organ -
+oids and mountant suspension were dispensed onto the 
+center of the confocal dish prior to imaging.
+Images were captured via Z-stack imaging via LSM900 
+(Zeiss) and FV3000 (Olympus) confocal microscopes.
+
+<<<PAGE 5>>>
+Page 5 of 20
+Jiang et al. Stem Cell Research & Therapy            (2026) 17:93 
+Forskolin-induced swelling of organoids
+On day 15 of cell differentiation, forskolin-induced 
+organoid swelling was analyzed. One day prior to analy -
+sis, organoids were transferred to 48-well plates in 3 µL 
+Matrigel (Corning, 354277) droplets per well. For swell -
+ing induction, organoids were incubated with 10 µM 
+forskolin (Selleck, S2449) for 24 h at 37 °C and 5% CO 2. 
+Images were captured using a Axio Vert A1 inverted 
+microscope (ZEISS) and analyzed with ilastik and ImageJ 
+software [ 21]. Organoid areas were normalized to the 
+initial well area (time = 0 h set as 1) using GraphPad 
+Prism. Statistics were calculated from separate wells of 
+organoids, with each value comprising 10–20 individual 
+organoids.
+RNA sequencing (RNA-seq) and data analysis
+Total RNA was extracted from HBECs (P3, P6, P9, and 
+P13) and HSAECs (P2, P7, P14, and P21) using TRIzol 
+reagent (Invitrogen, 15596026CN) according to the man-
+ufacturer’s instructions. Briefly, approximately 1 × 106 
+cells were collected into a 1.5 mL microcentrifuge tube 
+and lysed by adding 0.5 mL of TRIzol reagent, followed by 
+incubation at room temperature for 5 min. Subsequently, 
+0.1 mL of chloroform was added, the mixture was vor -
+texed vigorously, and incubated at room temperature 
+for 3  min. After centrifugation at 12,000 x g for 15  min 
+at 4 °C, the upper colorless aqueous phase (supernatant) 
+was carefully transferred to a new microcentrifuge tube. 
+Then, 0.25 mL of isopropanol was added, mixed thor -
+oughly, and incubated at 4  °C for 10  min, followed by 
+centrifugation at 12,000 x g for 10 min at 4 °C. The super-
+natant was discarded, and the resulting white RNA pellet 
+was washed by resuspending it in 0.5 mL of 75% ethanol; 
+centrifugation was then performed at 7,500 x g for 5 min 
+at 4 °C. This washing step was repeated twice. After dis -
+carding the ethanol, the pellet was air-dried for 5 min in 
+a biosafety cabinet. Finally, the RNA pellet was dissolved 
+in 25–50 µL of DEPC-treated water. The quality and 
+concentration of the extracted total RNA were assessed 
+using a NanoDrop spectrophotometer (Thermo Fisher 
+Scientific) and a 2100 Bioanalyzer (Agilent).
+mRNA was enriched using Oligo (dT) magnetic beads 
+and subsequently fragmented. First-strand cDNA was 
+generated using random hexamer-primed reverse tran -
+scription, followed by a second-strand cDNA synthesis. 
+Afterwards, A-Tailing Mix and RNA Index Adapters were 
+added by incubating to end repair. The adapter-ligated 
+cDNA fragments were amplified by PCR. The PCR prod -
+ucts were purified using Ampure XP beads, eluted in EB 
+buffer, and quality-controlled using a 2100 Bioanalyzer. 
+The purified double-stranded PCR products were then 
+heat-denatured. Single-stranded circular DNA (ssCir 
+DNA) libraries were constructed via adapter-mediated 
+circularization. DNA Nanoballs (DNBs) were generated 
+from the circularized libraries using phi29 DNA poly -
+merase-based amplification, yielding > 300 copies per 
+template molecule. Finally, the DNBs were loaded onto a 
+patterned nanoarray and subjected to 150-bp paired-end 
+sequencing on the MGIseq-2000 platform (BGI-Wuhan, 
+China).
+The raw data were filtered via SOAPnuke (v1.4.0) to 
+obtain clean data, which were aligned to the reference 
+genome (GCF_000001405.39_GRCh38.p13) via HISAT 
+(v2.2.1) and Bowtie2 (v2.4.5). Gene expression levels in 
+each sample were quantified via the RESM (v1.3.1) soft -
+ware package. The Pearson correlation coefficients for 
+each sample of HBECs or HSAECs were computed using 
+the FPKM values of all genes present in each respec -
+tive sample. DESeq2 was used for intergroup differential 
+gene analysis, whereas the Poisson distribution was used 
+for intersample difference analysis with a threshold of 
+|log2(foldchange)| ≥ 2 and a Q value ≤ 0.05. The heatmap 
+function was applied to generate a heatmap illustrating 
+the clusters of DEGs, and TBtools-II was used for visual -
+ization [22]. According to the GO annotation results and 
+official classifications, the DEGs were functionally clas -
+sified, and the TermFinder package was used to perform 
+GO enrichment analysis.
+Seahorse metabolic flux measurements
+Seahorse XF analysis was performed using the Agilent 
+Seahorse XF Cell Mito Stress Test Kit (Agilent Tech -
+nologies) according to the manufacturer’s instructions. 
+Briefly, HBECs (P3 and P13) and HSAECs (P2 and P21) 
+were enzymatically digested and seeded onto XF96 plates 
+at a density of 2 × 104 cells/well in Seahorse assay medium 
+(phenol red-free DMEM supplemented with 10 mM glu -
+cose, 1 mM sodium pyruvate, and 2 mM L-glutamine; pH 
+7.4). Plates were incubated for 45 min at 37 °C in a to a 
+non-CO2 environment. Cells were sequentially treated 
+with 1.5 µM oligomycin, 1.0 µM FCCP , and 0.5 µM rote -
+none/antimycin A for oxygen consumption rate (OCR) 
+measurements. All OCR values were normalized to cell 
+numbers, which were quantified post-assay via nuclear 
+and viability staining with Hoechst 33342 and propidium 
+iodide using the BioTek Cytation 1 imaging reader (Agi -
+lent Technologies). Data were analyzed using Agilent 
+Wave Desktop Software (Agilent Technologies).
+Statistical analysis
+Statistical analyses were conducted using GraphPad 
+Prism (version 10). Unless otherwise indicated, data are 
+either representative of three independent experiments 
+or pooled from three independent experiments, as speci -
+fied. Results are presented as mean ± SEM. Statistical 
+comparisons were primarily performed using unpaired 
+two-tailed Student’s t-test, unless stated otherwise. A p 
+value < 0.05 was considered statistically significant.
+
+<<<PAGE 6>>>
+Page 6 of 20
+Jiang et al. Stem Cell Research & Therapy            (2026) 17:93 
+Results
+Serum-free medium for the sustained long-term expansion 
+of BSCs
+Previous studies have identified specific growth factors 
+and signaling pathways critical for the survival and func -
+tion of basal stem cells (BSCs). Epidermal growth factor 
+(EGF), for instance, is indispensable for the proliferation 
+of mouse BSCs [ 23, 24], while signaling pathways such 
+as Wnt, ROCK, TGF-β, BMP , and FGF have been shown 
+to promote proliferation or suppress differentiation in 
+human or mouse BSCs [ 6, 25– 28]. However, current cul-
+ture systems for human BSCs remain suboptimal, often 
+lacking standardization and relying on complex, unde -
+fined components, such as serum or bovine pituitary 
+extract (BPE), which compromise reproducibility and 
+translational potential.
+To address these limitations, we systematically tested 
+multiple combinations and developed a serum-free, fully 
+defined BSC culture medium (sfBSC) consisting of 14 
+characterized components. The formulation includes a 
+basal medium (IMDM and Ham’s F12) supplemented 
+with B27 supplement, recombinant human serum albu -
+min (rHSA), GlutaMAX, L-ascorbic acid, monothio -
+glycerol (MTG) and hydrocortisone. Additionally, it 
+contains specific growth factors (EGF and fibroblast 
+growth factor 10 [FGF10]) and signaling inhibitors tar -
+geting ROCK (Y-27632), Notch (DAPT), and SMAD 
+(DMH1 and A-83-01) pathways (Table  1). To assess the 
+medium’s applicability, we cultured human bronchial epi-
+thelial cells (HBECs) and human small airway epithelial 
+cells (HSAECs) in sfBSC medium. Both cell types were 
+successfully seeded on uncoated culture flasks without 
+the need for feeder cells, demonstrating the ability of 
+the medium to support cell attachment and proliferation 
+under simplified conditions.
+Continuous passaging of both cell lines in sfBSC 
+medium yielded promising results. HBECs were success -
+fully expanded to 17 passages (Fig. 1A), whereas HSAECs 
+were expanded to 24 passages (Fig.  1B). In contrast, the 
+expansion capacity of the cells cultured in a serum-free 
+commercial medium was more limited, with that of the 
+HBECs and HSAECs reaching only 8 and 11 passages, 
+respectively (see Figure S1A, S1B). Notably, extended cul-
+ture in commercial media often led to pronounced mor -
+phological heterogeneity (see Figure S1A, S1B), whereas 
+cells maintained in sfBSC media preserved a stable 
+and uniform cobblestone-like morphology throughout 
+long-term expansion (Fig.  1A and B). The cell size also 
+remained consistent, ranging from 10 to 15  μm across 
+passages (Fig.  1C). Furthermore, cumulative popula -
+tion doublings (cPDs) were calculated for both cell lines, 
+confirming sustained proliferation and growth potential 
+throughout long-term culture (Fig. 1D and E).
+To further assess the long-term maintenance of BSC 
+properties, we performed immunofluorescence stain -
+ing on HBECs and HSAECs at early, middle and late 
+passages. Even after prolonged culture, the majority of 
+cells retained the expression of canonical BSC markers, 
+including the transcription factor TP63 (P63), cytokera -
+tin 5 (KRT5), and nerve growth factor receptor (NGFR) 
+(Fig. 2A and B). Flow cytometric quantification revealed 
+relatively stable P63/NGFR expression in HBECs and 
+HSAECs, with minor variations observed between early 
+and late passages (Fig.  2C). In contrast, cells maintained 
+in the commercial medium exhibited a marked decline 
+in these marker expressions during prolonged passaging 
+(see Figure S1C, S1D).
+Initially, HBECs and HSAECs were purchased from 
+a commercial source and cultured in the commercial 
+medium for the first two (HBECs) or one (HSAECs) pas -
+sage before transitioning to sfBSC medium. To confirm 
+that sfBSC medium is also suitable for primary HBEC 
+isolation and expansion, BSCs derived from a COPD 
+patient were directly cultured from bronchial brush biop-
+sies in sfBSC medium. By day 7, P0 cells had formed well-
+defined, stem cell-like clones with distinct boundaries 
+(see Figure S2A). These clones consisted of cube- or peb -
+ble-shaped cells that formed tight intercellular connec -
+tions. After an additional 4 days of continuous culture, 
+the cell density reached approximately 70% (see Figure 
+S2B). The isolated patient-derived BSCs were successfully 
+passaged and expanded (see Figure S2C).
+Table 1 Complete formulation for SfBSC medium
+Component Final concentration 500mL
+medium
+Basal medium IMDM 50% 250 mL
+Ham’s F12 50% 250 mL
+Supplementa-
+ry components
+B27 Supplement 1X 10 mL
+rHSA 0.1% 0.5 mL
+GlutaMAX (mM) 2 1 mmol
+L-ascor-
+bic acid (µg/
+mL)
+50 25 mg
+Monothioglyc-
+erol (µM)
+0.4 0.2 µmol
+Hydrocor-
+tisone (µg/
+mL)
+1 500 µg
+Inhibitors Y-27632(µM) 10 5 µmol
+DAPT (µM) 1 0.5 µmol
+DMH-1 (µM) 1 0.5 µmol
+A-83-01 (µM) 1 0.5 µmol
+Growth factors EGF(ng/mL) 1 500 ng
+FGF10(ng/mL) 0.4 200 ng
+Inhibitor powders were dissolved in DMSO, aliquoted, and stored at -20  °C. 
+Cytokines were diluted in PBS containing 5% trehalose, aliquoted, and stored 
+at -80 °C
+The prepared complete sfBSC medium can be stored at 2–8 °C for up to four 
+weeks
+
+<<<PAGE 7>>>
+Page 7 of 20
+Jiang et al. Stem Cell Research & Therapy            (2026) 17:93 
+These findings demonstrate that the sfBSC medium 
+enables the long-term expansion of BSCs while preserv -
+ing their morphology and the expression of key BSC 
+markers, making it an effective and reproducible system.
+Analysis of the impact of each SfBSC medium component 
+on BSC growth
+To determine an optimal basal medium for BSC culture, 
+we first compared several commonly used formulations, 
+including Dulbecco’s Modified Eagle Medium/Nutrient 
+Mixture F-12 (DMEM/F12), DMEM, and Roswell Park 
+Memorial Institute Medium 1640 (RPMI 1640). Cells 
+cultured in DMEM/F12, DMEM, or RPMI 1640 exhib -
+ited markedly slower proliferation and reduced viability 
+compared with those cultured in IMDM and Ham’s F12 
+(see Figure S3). Therefore, IMDM and Ham’s F12 were 
+selected as the basal components of the sfBSC medium to 
+ensure optimal growth and maintenance of BSCs.
+We next performed a systematic evaluation of the 
+effects of 12 individual additives. Our analysis revealed 
+that these components played distinct roles in supporting 
+BSC growth and maintenance. B27 supplement, Gluta -
+MAX, L-ascorbic acid, EGF and Y-27632 were identified 
+as core components essential for maintaining cell survival 
+and promoting growth. Removing any one of these five 
+components severely impaired growth, with a marked 
+reduction in adherent cells at passage 3 (P3) and a near-
+complete loss of adhesion by passage 4 (P4) (Fig.  3A), as 
+further confirmed by quantitative CCK-8 assays (Fig. 3B).
+In contrast, removal of hydrocortisone, rHSA, or 
+FGF10 did not cause immediate cell loss but significantly 
+reduced expansion capacity, as evidenced by slower 
+growth curves (Fig.  3C) and a marked decrease in colony 
+formation (Fig.  3D, Figure S4). While Y-27632 played a 
+critical role in maintaining cell survival, the other three 
+inhibitors (A-83-01, DMH-1 and DAPT) did not directly 
+Fig. 1 HBECs and HSAECs were cultured in sfBSC medium. A Brightfield images of HBECs from passage 3 (P3) to passage 17 (P17). Scale bar = 200 μm. 
+White boxes delineate representative cellular areas. B Brightfield images of HSAECs from P2 to P24. Scale bar = 200 μm. White boxes delineate representa-
+tive cellular areas. C Cellular diameter of HBECs and HSAECs at different passages. D cPD curves for HBECs at different passages. E cPD curves for HSAECs 
+at different passages
+ 
+
+<<<PAGE 8>>>
+Page 8 of 20
+Jiang et al. Stem Cell Research & Therapy            (2026) 17:93 
+Fig. 2 Identification of canonical BSC markers for HBECs and HSAECs cultured in sfBSC medium. A Immunofluorescence images showing the expression 
+of P63, KRT5, and NGFR in expanded HBECs at P4, P7, and P17. Scale bar = 50 μm. B Immunofluorescence images showing the expression of P63, KRT5, 
+and NGFR in expanded HSAECs at P4, P7, and P24. Scale bar = 50 μm. C Flow cytometric analysis of P63 and NGFR expression in HBECs (P4 and P17) and 
+HSAECs (P4 and P24)
+ 
+
+<<<PAGE 9>>>
+Page 9 of 20
+Jiang et al. Stem Cell Research & Therapy            (2026) 17:93 
+Fig. 3 (See legend on next page.)
+ 
+
+<<<PAGE 10>>>
+Page 10 of 20
+Jiang et al. Stem Cell Research & Therapy            (2026) 17:93 
+affect viability (Fig.  3E and F). Instead, they primarily 
+prevented spontaneous differentiation of BSCs during 
+continuous passaging. The removal of any of these inhibi-
+tors led to noticeable morphological changes, indicating 
+differentiation (Fig. 3E).
+Although removal of MTG did not immediately impact 
+BSC viability; its prolonged absence compromised cel -
+lular fitness during extended culture. By P11, cells dis -
+played notable morphological changes—including 
+irregular contours, loss of uniform cobblestone morphol-
+ogy, and disrupted monolayer organization—highlighting 
+the essential role of MTG in maintaining BSC stability, 
+defined as sustained proliferative capacity and pheno -
+typic integrity over time (see Figure S5).
+Optimization of EGF and FGF10 concentrations for 
+sustained BSC growth and phenotypic stability
+The concentration of growth factors in culture media 
+is crucial for maintaining optimal cellular behavior, 
+including cell proliferation, differentiation, and survival. 
+We optimized the concentrations of EGF and FGF10 
+to support sustained BSC expansion. Consistent with 
+prior findings, cultures lacking EGF failed to progress 
+beyond the first passage, underscoring its indispensabil -
+ity (Figs.  3A and 4A). Interestingly, although low EGF 
+concentrations (e.g. 0.1 ng/mL) reduced the prolifera -
+tion rate, higher concentrations (≥ 10 ng/mL) induced an 
+elongated cell morphology, suggesting that excessive EGF 
+may adversely affect cellular phenotype (Fig. 4A).
+Similarly, insufficient FGF10 (0.04 ng/mL) reduced the 
+proliferation rate of BSCs, whereas elevated levels (≥ 4 ng/
+mL) resulted in morphological alterations and disrupted 
+intercellular junctions (Fig. 4B). Notably, at higher FGF10 
+concentrations, two morphologically distinct popula -
+tions emerged: tightly-connected and loosely-connected 
+cells. When the FGF10 concentration reached 40 ng/mL, 
+the loosely-connected population predominated. To fur -
+ther investigate these phenotypes, we performed immu -
+nofluorescence staining on BSCs cultured with 40 ng/
+mL FGF10. The results revealed that, although all BSCs 
+expressed canonical BSC markers (KRT5 and P63), only 
+the tightly connected population retained membrane-
+localized NGFR; in contrast, the loosely connected cells 
+showed cytoplasmic NGFR localization (Fig.  4C and D). 
+Notably, under low confluence conditions, BSCs main -
+tained in 0.4 ng/mL FGF10 still retained tight morphol -
+ogy and membrane NGFR localization (see Figure S6), 
+further supporting that the effect is not driven by density 
+alone. Based on these observations, we determined that 
+1 ng/mL EGF and 0.4 ng/mL FGF10 are the optimal con -
+centrations for maintaining BSC morphology, prolifera -
+tion, and marker expression in sfBSC medium.
+Overall, our analysis highlights the essential role of 
+each component in the sfBSC medium, demonstrating 
+its effectiveness as a well-defined culture system for the 
+reproducible expansion of BSCs. This optimized medium 
+not only supports long-term BSC culture but also pro -
+vides valuable insights into the molecular mechanisms 
+regulating BSC stemness and homeostasis.
+Differentiation potential of BSCs cultured in SfBSC medium
+Long-term in vitro expansion of BSCs often leads to loss 
+of stemness, resulting in reduced proliferation and dimin-
+ished differentiation capacity. To evaluate whether BSCs 
+maintain their differentiation potential in sfBSC medium, 
+early- and late-passage HBECs and HSAECs were differ -
+entiated into airway epithelial cells via air-liquid interface 
+(ALI) culture. After three weeks of differentiation, hema -
+toxylin and eosin (H&E) staining showed that HBECs 
+formed a pseudostratified epithelium resembling the 
+in vivo bronchial epithelium, whereas HSAECs formed 
+a thin, cuboidal epithelial layer representative of the in 
+vivo small airway epithelium (Fig.  5A). Immunostaining 
+revealed abundant ciliated and goblet cells in the HBEC-
+derived epithelium (Fig.  5B), while the HSAEC-derived 
+epithelium additionally exhibited club cells, indicating 
+multilineage differentiation capacity (Fig.  5C). West -
+ern blotting (WB) analysis further confirmed increased 
+expression of MUC5AC and acetylated tubulin (Ac-
+Tub) in differentiated versus undifferentiated HBECs or 
+HSAECs, at both early and late passages (Fig. 5D), accom-
+panied by a concomitant reduction in NGFR expression 
+(see Figure S7). To better visualize ciliary differentiation 
+in ALI cultures, we employed scanning electron micros -
+copy (SEM) for static cilia imaging (Fig.  5E) and Eclipse 
+Ti2 inverted microscopy for dynamic ciliary imaging (see 
+Video S1-4). Both approaches consistently demonstrated 
+well-preserved ciliogenesis across passages.
+(See figure on previous page.)
+Fig. 3 Evaluation of the effects of specific components in sfBSC medium on the growth of HBECs. A Brightfield images showing the morphology of 
+HBECs at P3 and P4 after the removal of B27 supplement, GlutaMAX, L-ascorbic acid, Y27632, or EGF from the sfBSC medium. Complete sfBSC medium 
+served as a control. Scale bar = 200 μm. B Quantitative assessment of HBEC proliferation using the CCK-8 assay following the removal of individual com-
+ponents (B27 supplement, GlutaMAX, L-ascorbic acid, Y27632, or EGF) from the sfBSC medium (n = 3 per group). C Growth curves showing changes in cell 
+numbers over time following the removal of rHSA, hydrocortisone or FGF10 from the sfBSC medium (n = 3 per group). D Quantification of colony forma-
+tion from single-cell seeding follwoing the removal of rHSA, hydrocortisone, or FGF10 (n = 3 per group). E Brightfield images showing the morphology of 
+HBECs at P3 to P6 after the removal of A-83-01, DMH1, or DAPT from the sfBSC medium. Complete sfBSC medium served as a control. Scale bar = 200 μm. 
+White boxes highlight regions containing differentiated cells. F cPD curves for HBECs at different passages following removal of A-83-01, DMH1, or DAPT 
+in sfBSC medium. Statistical significance at last day was determined by one-way ANOVA followed by Dunnett’s multiple comparisons test vs. complete 
+medium; ***p < 0.001
+
+<<<PAGE 11>>>
+Page 11 of 20
+Jiang et al. Stem Cell Research & Therapy            (2026) 17:93 
+Multilineage differentiation potential was further eval -
+uated using a 3D organoid culture system. HBECs and 
+HSAECs from early and late passages successfully formed 
+airway organoids (see Figure S8). The derived organoids 
+exhibited ciliated cells, as confirmed by the detection of 
+Ac-Tub on their outward-facing apical surface via immu-
+nofluorescence (Fig.  6A and B). Consistent with the ALI 
+differentiation results, MUC5AC was detected in both 
+the HBEC- and HSAEC-derived organoids, whereas 
+CC10 was expressed predominantly in the HSAEC-
+derived organoids. To assess functional maintenance 
+of epithelial ion transport, we evaluated cystic fibrosis 
+transmembrane conductance regulator (CFTR) activ -
+ity using a forskolin-induced swelling assay. Organoids 
+derived from early- (HBEC P7 and HSAEC P7) and late-
+passage (HBEC P13 and HSAEC P17) cells demonstrated 
+comparable swelling in response to 10 µM forskolin over 
+24  h (Fig. 6C and D), indicating preserved CFTR-medi -
+ated ion channel function over extended passaging.
+Collectively, these results demonstrate that BSCs 
+cultured in sfBSC medium retain robust multilineage 
+differentiation capacity and functional epithelial charac -
+teristics after long-term expansion.
+RNA-seq analysis of BSCs cultured in SfBSC medium
+Although HBECs and HSAECs could be expanded for 
+17 and 24 passages, respectively, in sfBSC medium, pro -
+viding sufficient cells for most basic, translational, and 
+potential clinical applications, proliferation rates eventu -
+ally declined after prolonged culture. To investigate the 
+molecular changes associated with long-term passage, 
+RNA transcriptomic sequencing (RNA-seq) was per -
+formed on HBECs at passages P3, P6, P9, and P13 and on 
+HSAECs at passages P2, P7, P14, and P21. Notably, the 
+expression of specific BSC markers for both cell types 
+remained stable over multiple passages, with no signifi -
+cant differences observed, corroborating our previous 
+immunostaining results (Fig. 7A and B). To assess the sta-
+bility of transcriptomic profiles during serial passaging in 
+both cell lines, sample correlation analysis demonstrated 
+high concordance across different passages, with all sam -
+ple pairs exhibiting Pearson correlation coefficients > 0.93 
+(range: 0.93–0.99) (Fig.  7C and D).
+A threshold of |log2|≥2 was applied to identify dif -
+ferentially expressed genes (DEGs) between early- and 
+late-passage HBECs and HSAECs. Gene Ontology (GO) 
+analysis revealed that the biological processes enriched 
+with the DEGs were highly consistent between the 
+HBECs and HSAECs. Notably, these DEGs were predom-
+inantly associated with cell proliferation, cell cycle regu -
+lation, and cell division, which aligns with the observed 
+decrease in proliferation capacity after long-term passag -
+ing. Additionally, pathways related to lipid metabolism 
+and the tricarboxylic acid (TCA) cycle were significantly 
+enriched, suggesting that metabolic adaptations occurred 
+during extended culture. Importantly, the EGF receptor 
+signaling pathway was significantly enriched, reinforcing 
+the critical role of EGF in BSC maintenance. This find -
+ing is consistent with our previous results, which demon-
+strated that EGF withdrawal severely compromised BSC 
+survival (Fig. 7E and F).
+To further investigate genes essential for maintain -
+ing the stability of both HBECs and HSAECs, we per -
+formed integrated analysis of sequencing data from both 
+cell lines. A total of 142 common DEGs were identified 
+(Fig.  7G). Among these, we focused on genes whose 
+expression gradually and consistently changed from early 
+to late passages (Fig.  7H). These genes were categorized 
+into various functional groups, including those encoding 
+transcription factors, enzymes, cell adhesion molecules, 
+and extracellular matrix proteins. Notably, many of these 
+genes were linked to metabolism regulation, particularly 
+amino acid metabolism and energy homeostasis. For 
+example, two upregulated genes were identified: phos -
+phodiesterase 3B ( PDE3B), which regulates cyclic AMP 
+(cAMP) signaling, a crucial pathway in cellular metabo -
+lism and signaling, and aspartoacylase ( ASPA), which 
+facilitates the breakdown of N-acylated aspartate and 
+plays a role in fatty acid metabolism. Conversely, three 
+downregulated metabolism-related genes were identi -
+fied: Cystathionine Beta-Synthase (CBS), a key enzyme in 
+sulfur amino acids metabolism and homocysteine regula-
+tion; branched-chain aminotransferase 1 (BC AT1), which 
+is involved in the metabolism of branched-chain amino 
+acids (valine, leucine, isoleucine), which are critical for 
+protein synthesis and energy metabolism; and glutathi -
+one peroxidase 3 ( GPX3), an antioxidant enzyme that 
+protects cells from oxidative stress and regulates cellular 
+metabolism.
+Overall, these findings suggest that while key BSC 
+markers remain stably expressed during long-term cul -
+ture, metabolic reprogramming occurs over successive 
+passages.
+BSCs exhibit dynamic metabolic changes during serial 
+passaging
+To further investigate the metabolic changes associated 
+with prolonged in vitro expansion, we performed real-
+time metabolic flux analysis using Seahorse XF tech -
+nology. HBECs (P3 and P13) and HSAECs (P2 and P21) 
+cultured in sfBSC medium were analyzed to assess oxgen 
+comsumption rate (OCR) and mitochondrial function. 
+Early-passage cells (HBEC P3 and HSAEC P2) exhibited 
+significantly higher basal respiration, increased maximal 
+respiratory capacity, and elevated mitochondrial ATP 
+production compared to their late-passage counterparts 
+(HBEC P13 and HSAEC P21) (Fig. 8). These findings sug-
+gest that early-passage BSCs maintain more oxidative 
+
+<<<PAGE 12>>>
+Page 12 of 20
+Jiang et al. Stem Cell Research & Therapy            (2026) 17:93 
+Fig. 4 (See legend on next page.)
+ 
+
+<<<PAGE 13>>>
+Page 13 of 20
+Jiang et al. Stem Cell Research & Therapy            (2026) 17:93 
+phosphorylation activity and a more robust tricarboxylic 
+acid (TCA) cycle.
+This shift in metabolic profile during serial passag -
+ing highlights the importance of cellular metabolism 
+in maintaining BSC function and supports the need for 
+further optimization of culture conditions to preserve 
+stemness and proliferative capacity over extended culture 
+periods.
+Discussion
+Previous studies have employed various strategies to 
+achieve long-term expansion of BSCs, including co-
+culturing with feeder cells, using conditioned media, 
+or incorporating undefined components such as serum 
+or BPE. For example, BSCs were cultured via the well-
+established conditional reprogramming culture (CRC) 
+technique. For this method, BSCs were co-cultured with 
+irradiated mouse embryonic fibroblasts (3T3-J2 cells) 
+in medium supplemented with Y-27632. Compared 
+with conventional bronchial epithelial growth medium 
+(BEGM) alone, the CRC approach facilitates more effi -
+cient cell expansion, enabling BSCs to maintain long-
+term growth for more than three months in vitro [ 19, 
+29– 31].
+Despite its efficacy, the complex handling of feeder 
+cells, as well as concerns regarding genetic stability and 
+safety, has limited its broader clinical application. As an 
+alternative, researchers have explored the use of condi -
+tioned media to maintain BSC stability. For example, pre-
+coating cell culture containers with conditioned medium 
+from 804G rat bladder epithelial cells, which secrete 
+laminin- and collagen-rich extracellular matrix proteins, 
+has been shown to support BSC adhesion and prolonged 
+culture [ 32– 34]. Similarly, 3T3-conditioned medium 
+in combination with Matrigel-coated culture dishes has 
+enabled the stable proliferation of mouse BSCs for up to 
+15 passages [18].
+Another widely adopted strategy for BSC culture 
+involves supplementing media with serum or BPE, which 
+contain various hormones and growth factors that sup -
+port cellular proliferation. When combined with addi -
+tional growth factors or signaling inhibitors, these 
+components can effectively sustain BSC culture. For 
+example, the addition of Y-27632 to media containing 
+serum or BPE has been reported to increase the prolif -
+eration of primary airway epithelial cells without com -
+promising their differentiation potential [ 25]. Similarly, 
+SMAD signaling inhibitors have been used to prevent 
+spontaneous differentiation and prolong BSC culture 
+time [ 26]. Although both serum and BPE have been 
+shown to promote cell growth, their practical application 
+is constrained by issues such as batch-to-batch variabil -
+ity, complex compositions, and challenges in achieving 
+standardization.
+To overcome these limitations, we developed a sim -
+plified, well-defined, serum- and BPE-free BSC culture 
+medium that supports robust long-term expansion. 
+Our sfBSC medium does not require feeder layers, con -
+ditioned media, or specialized substrate coatings but 
+enables BSCs to maintain viability, self-renewal, and 
+differentiation capacity over extended culture periods. 
+Notably, our medium is compatible with BSCs derived 
+from different airway locations, including bronchial and 
+small airway epithelial cells, and is suitable for both basal 
+cell lines and primary BSC isolation from bronchial brush 
+biopsies.
+Through a systematic evaluation of individual medium 
+components, we identified essential factors that con -
+tribute to BSC survival, proliferation, and differentiation 
+maintenance. In particular, we demonstrated the specific 
+roles of EGF and FGF10 in BSC culture and determined 
+their optimal concentrations for long-term expansion. 
+Our findings indicate that while low EGF concentrations 
+lead to cell death, excessively high concentrations induce 
+abnormal cellular morphology, highlighting the need for 
+careful concentration regulation.
+FGF10 is known to play a pivotal role in lung homeo -
+stasis and epithelial stem cell expansion [ 35, 36]. Our 
+results confirmed that adding FGF10 at an optimal 
+concentration significantly enhances BSC proliferative 
+capacity. Interestingly, we also observed that high FGF10 
+concentrations altered NGFR expression patterns in 
+BSCs, affecting their membrane localization in a subset 
+of cells. NGFR is a low-affinity receptor for nerve growth 
+factor (NGF) that plays key roles in neural, embryonic, 
+and intestinal stem cells [37, 38] and is commonly used as 
+a mature BSC marker. Under high-FGF10 conditions, we 
+identified two morphologically distinct populations: one 
+consisting tightly-connected cells with membrane-local -
+ized NGFR, and another composed of loosely-connected 
+cells exhibiting abnormal morphology and predomi -
+nantly cytoplasmic NGFR expression. These findings 
+suggest that changes in NGFR localization may be associ-
+ated with alterations in its functional activity. However, 
+(See figure on previous page.)
+Fig. 4 Optimization of EGF and FGF10 concentrations for maintaining BSC morphology. A Brightfield images showing the morphology of HBECs cul -
+tured in media supplemented with different concentrations of EGF. Scale bar = 200 μm. White boxes demarcate cells exhibiting morphological alterations. 
+B Brightfield images showing the morphology of HBECs cultured in media supplemented with different concentrations of FGF10. Scale bar = 200 μm. 
+White boxes demarcate cells exhibiting morphological alterations. C Immunofluorescence staining of P63 and KRT5 in HBECs grown in medium supple-
+mented with 40 ng/mL FGF10. Scale bar = 50 μm. D Immunofluorescence staining of NGFR in HBECs grown in media supplemented with 40 ng/mL 
+FGF10. White borders demarcate regions with altered NGFR expression patterns. Scale bar = 50 μm
+
+<<<PAGE 14>>>
+Page 14 of 20
+Jiang et al. Stem Cell Research & Therapy            (2026) 17:93 
+Fig. 5 Differentiation of expanded HBECs and HSAECs into airway epithelium via sfBSC medium. A H&E staining of HBECs (P7 and P13) and HSAECs (P7 
+and P17) following 21-day ALI differentiation. Scale bar = 100 μm. B Immunofluorescence staining of MUC5AC and Ac-Tub after ALI differentiation of P7 
+and P13 HBECs. Scale bar in the left panel = 50 μm; scale bar in the right panel = 20 μm. C Immunofluorescence staining of MUC5AC, Ac-Tub, and CC10 
+after ALI differentiation of P7 and P17 HSAECs. Scale bar in the left panel = 50 μm; scale bar in the right panel = 20 μm. D Western blotting was performed 
+to assess expression of MUC5AC and Ac-Tub in HBECs (P7 and P13) and HSAECs (P7 and P17) at days 0 and 21 of ALI differentiation. F SEM was utilized to 
+assess ciliary distribution in HBECs (P7 and P13) and HSAECs (P7 and P17) at day 21 post-ALI differentiation. Scale bar = 20 μm
+ 
+
+<<<PAGE 15>>>
+Page 15 of 20
+Jiang et al. Stem Cell Research & Therapy            (2026) 17:93 
+further in-depth investigations are needed to determine 
+how these changes influence the biological behavior of 
+BSCs.
+Finally, to further elucidate the molecular changes 
+associated with long-term BSC culture, we conducted 
+RNA-seq analysis across different passages of HBECs 
+and HSAECs. Our analysis aimed to identify key factors 
+that could improve BSC stability in prolonged culture. 
+We specifically focused on 142 common DEGs shared 
+between both cell lines, many of which were associ -
+ated with metabolism regulation. These transcriptional 
+changes indicate alterations in metabolic states that may 
+Fig. 6 Differentiation of expanded HBECs and HSAECs into organoids via sfBSC medium. A Immunofluorescence staining of MUC5AC and Ac-Tub in P7 
+and P13 HBEC-derived airway organoids. Scale bar = 20 μm. B Immunofluorescence staining of MUC5AC, Ac-Tub, and CC10 in P7 and P17 HSAEC-derived 
+airway organoids. Scale bar = 20 μm. C Bright-field microscopy images showing organoid swelling of HBECs (P3 and P7) and HSAECs (P7 and P17) fol -
+lowing 24-hour treatment with 10 µM forskolin. Scale bar = 100 μm. D Quantification of forskolin-induced organoid swelling based on normalized area 
+change at 24 h relative to 0 h (n = 3 per group). Statistical significance was determined using a two-tailed unpaired t test. *p < 0.05, **p < 0.01
+ 
+
+<<<PAGE 16>>>
+Page 16 of 20
+Jiang et al. Stem Cell Research & Therapy            (2026) 17:93 
+Fig. 7 (See legend on next page.)
+ 
+
+<<<PAGE 17>>>
+Page 17 of 20
+Jiang et al. Stem Cell Research & Therapy            (2026) 17:93 
+underlie the gradual loss of stemness during prolonged 
+culture, ultimately impairing both proliferative capacity 
+and differentiation potential.
+It is well established that cell differentiation is an 
+energy-intensive process, typically accompanied by 
+increased ATP demand and enhanced mitochondrial 
+activity during early differentiation [ 39]. Given the 
+observed metabolic attenuation in later passages, it is 
+reasonable to speculate that further extending culture 
+may exacerbate metabolic insufficiency and compromise 
+differentiation capacity. Accordingly, we used HBEC 
+P13 and HSAEC P17 for differentiation assays instead of 
+higher passages (HBEC P17 and HSAEC P24). These cells 
+retained the ability to form organized epithelial struc -
+tures; however, experimentally validating this hypothesis 
+using HBEC P17 and HSAEC P24 would be ideal. Addi -
+tionally, future in-depth investigation into these tran -
+scriptional changes and the metabolic status of BSCs will 
+help improve strategies for extending the longevity and 
+enhancing the stability of basal cells in vitro.
+Conclusions
+This study established a well-defined culture system that 
+enables long-term stable in vitro expansion of human 
+BSCs while preserving their self-renewal capacity and 
+multipotent differentiation potential.
+Unlike previous published BSC culture media, which 
+often contain undefined serum, BPE, or undisclosed 
+formulations, our custom-prepared culture system con -
+sists entirely of defined and disclosed components. This 
+transparency not only serves as a foundation for further 
+optimization but also supports three promising applica -
+tions. First, this well-defined system enables a detailed 
+investigation of the molecular mechanisms regulating 
+BSC homeostasis. Second, given the demonstrated ther -
+apeutic potential of BSC transplantation for COPD and 
+IPF patients, this serum-free medium provides a fea -
+sible approach for generating clinical-grade BSCs. Third, 
+owing to its simplified and reproducible culture proto -
+col, this system is well suited for large-scale, automated 
+expansion of BSCs, facilitating future translational and 
+industrial applications.
+(See figure on previous page.)
+Fig. 7 Transcriptomic analysis of HBECs and HSAECs. A Heatmap showing the expression patterns of BSC-specific markers in HBECs across different 
+passages. B Heatmap showing the expression patterns of BSC-specific markers in HSAECs across different passages. C Sample correlation heatmap il -
+lustrating transcriptomic similarity across different passages of HBECs. D Sample correlation heatmap illustrating transcriptomic similarity across different 
+passages of HSAECs. E GO enrichment analysis of biological processes associated with DEGs in HBECs (P3 vs. P13). F GO enrichment analysis of biological 
+processes associated with DEGs in HSAECs (P2 vs. P21). G Venn diagram depicting the overlap of DEGs between HBECs (P3 vs. P13) and HSAECs (P2 vs. 
+P21) during passaging. H Heatmap displaying 10 upregulated genes and 10 downregulated genes among commonly identified DEGs between HBECs 
+and HSAECs during long-time culture
+
+<<<PAGE 18>>>
+Page 18 of 20
+Jiang et al. Stem Cell Research & Therapy            (2026) 17:93 
+Abbreviations
+BSCs  Basal Stem Cells
+COPD  Chronic Obstructive Pulmonary Disease
+BPE  Bovine Pituitary Extract
+HBECs  Human Bronchial Epithelial Cells
+HSAECs  Human Small Airway Epithelial Cells
+rHSA  Recombinant Human Serum Albumin
+MTG  Monothioglycerol
+EGF  Epidermal Growth Factor
+FGF10  Fibroblast Growth Factor 10
+DMH1  Dorsomorphin Homolog 1
+cPDs  Cumulative Population Doublings
+KRT5  Cytokeratin 5
+NGFR  Nerve Growth Factor Receptor
+PFA  Paraformaldehyde
+ALI  Air-Liquid Interface
+Ac-Tub  Acetylated Tubulin
+H&E  Hematoxylin and eosin
+SEM  Scanning Electron Microscopy
+CFTR  Cystic fibrosis transmembrane conductance regulator
+RNA-seq  RNA Transcriptomic Sequencing
+DEGs  Differentially Expressed Genes
+GO  Gene Ontology
+OCRs  Oxygen consumption rates
+TCA  Tricarboxylic Acid
+CBS  Cystathionine Beta-Synthase
+BCAT1  Branched-Chain Aminotransferase 1
+GPX3  Glutathione Peroxidase 3
+PDE3B  Phosphodiesterase 3B
+cAMP  Cyclic AMP
+ASPA  Aspartoacylase
+CRC  Conditional Reprogramming Culture
+BEGM  Bronchial Epithelial Growth Medium
+Supplementary Information
+The online version contains supplementary material available at  h t t p  s : /  / d o i  . o  r 
+g /  1 0 .  1 1 8 6  / s  1 3 2 8 7 - 0 2 6 - 0 4 9 1 0 - z.
+Supplementary Material 1
+Supplementary Material 2
+Supplementary Material 3
+Acknowledgements
+The authors declare that they have not used AI-generated work in this 
+manuscript.
+Fig. 8 BSCs exhibited enhanced mitochondrial metabolism during early stages. A Real-time OCRs of HBEC at P3 and P13, measured using the Seahorse 
+XF96 Analyzer and normalized to cell number. B Quantification of basal respiration, maximal respiration, and ATP production in HBECs (P3 vs. HBEC P13) 
+(n = 3 per group). C Real-time OCRs of HSAECs at P2 and P21 measured using the Seahorse XF96 Analyzer and normalized to cell number. D Quantifica-
+tion of basal respiration, maximal respiration, and ATP production of HSAEC (P2 vs. P21) (n = 3 per group). Statistical significance was determined using a 
+two-tailed unpaired Student’s t test. *p < 0.05, **p < 0.01
+ 
+
+<<<PAGE 19>>>
+Page 19 of 20
+Jiang et al. Stem Cell Research & Therapy            (2026) 17:93 
+Author contributions
+N.M. conceived the idea of this work. N.M. and M.J. designed the experiments 
+and managed the project. M.J. and Y.Z. performed the experiments. H.H.Z. 
+performed the analysis of bulk RNA-seq data. S.L., H.C., and Z.S. collected the 
+patient-derived cells. M.J. wrote the manuscript draft. N.M., B.H.Z., S.L., W.L., 
+H.H.Z., M.J., and Y.Z. revised the manuscript. All the authors read and approved 
+the final manuscript.
+Funding
+This study is supported by the Major Project of Guangzhou National 
+Laboratory (Grant Nos. GZNL2023A02002, GZNL2023A02006 and 
+GZNL2025C02020), the National Natural Science Foundation of China (Grant 
+Nos. 82470243 and 82200355), the Guangzhou Basic and Applied Basic 
+Research Foundation (Grant No. 2023A04J1204), the Young Scientists Program 
+of Guangzhou National Laboratory (Grant No. QNPG23-19), and the Pearl River 
+Talent Recruitment Program (Grant No. 2021QN02Y016).
+Data availability
+The sequencing data generated and analyzed in this study have been 
+deposited in the Gene Expression Omnibus (GEO) repository under accession 
+number GSE304935. All other datasets supporting the findings of this study 
+are available from the corresponding author upon reasonable request.
+Declarations
+Ethics approval and consent to participate
+This study was conducted in accordance with the protocol approved by 
+the Institutional Review Board of The First Affiliated Hospital of Guangzhou 
+Medical University (Project Title: Construction and Application Evaluation of 
+a Standardized Animal Model for COPD; Approval No.: ES-2024-085-01; Date 
+of Approval: June 13, 2024). Written informed consent was obtained from all 
+subjects prior to bronchoscopy. The human bronchial epithelial cells (HBECs, 
+Lifeline, FC-0035) and human small airway epithelial cells (HSAECs, ATCC, 
+PCS-301-010) used in this study were purchased from commercial vendors. 
+According to the information provided by the respective manufacturers, 
+ethical approval for donor tissue collection was obtained, and informed 
+consent was secured from all donors. Relevant details can be found on the 
+ATCC website ( h t t p  s : /  / w w w  . a  t c c  . o r  g / p r  o d  u c t s / p c s - 3 0 1 - 0 1 0) and the Lifeline 
+Cell Technology website ( h t t p  s : /  / w w w  . l  i f e  l i n  e c e l  l t  e c h  . c o  m / k n  o w  l e d  g e -  b a s e  / e  
+t h i  c a l  - a n d  - l  e g a l - s t a n d a r d s /).
+Consent for publication
+Not applicable.
+Competing interests
+The authors declare no competing interests.
+Received: 12 June 2025 / Accepted: 13 January 2026
+References
+1. Rock JR, Randell SH. Hogan. Airway basal stem cells: a perspective on their 
+roles in epithelial homeostasis and remodeling. Dis Model Mech. 2010;3(9–
+10):545–56.  h t t p  s : /  / d o i  . o  r g /  1 0 .  1 2 4 2  / d  m m . 0 0 6 0 3 1.
+2. Alysandratos KD, Herriges MJ, Kotton DN. Epithelial stem and progenitor cells 
+in lung repair and regeneration. Annu Rev Physiol. 2021;83:529–50.  h t t p  s : /  / d o 
+i  . o  r g /  1 0 .  1 1 4 6  / a  n n u  r e v  - p h y  s i  o l - 0 4 1 5 2 0 - 0 9 2 9 0 4.
+3. Davis JD, Wypych TP . Cellular and functional heterogeneity of the airway 
+epithelium. Mucosal Immunol. 2021;14(5):978–90.  h t t p  s : /  / d o i  . o  r g /  1 0 .  1 0 3 8  / s  4 
+1 3 8 5 - 0 2 0 - 0 0 3 7 0 - 7.
+4. Parekh KR, Nawroth J, Pai A, Busch SM, Senger CN. Ryan. Stem cells and lung 
+regeneration. Am J Physiol Cell Physiol. 2020;319(4):C675–c.  h t t p  s : /  / d o i  . o  r g /  1 
+0 .  1 1 5 2  / a  j p c e l l . 0 0 0 3 6 . 2 0 2 0.
+5. Zepp JA, Morrisey EE. Cellular crosstalk in the development and regeneration 
+of the respiratory system. Nat Rev Mol Cell Biol. 2019;20(9):551–66.  h t t p  s : /  / d o i  
+. o  r g /  1 0 .  1 0 3 8  / s  4 1 5 8 0 - 0 1 9 - 0 1 4 1 - 3.
+6. Ma L, Thapa BR, Le Suer JA, Tilston-Lünel A, Herriges MJ, Berical A, et al. Airway 
+stem cell reconstitution by the transplantation of primary or pluripotent stem 
+cell-derived basal cells. Cell Stem Cell. 2023;30(9):1199–216.  h t t p  s : /  / d o i  . o  r g /  1 
+0 .  1 0 1 6  / j  . s t e m . 2 0 2 3 . 0 7 . 0 1 4.
+7. Hellings PW, Steelant B. Epithelial barriers in allergy and asthma. J Allergy Clin 
+Immunol. 2020;145(6):1499–509.  h t t p  s : /  / d o i  . o  r g /  1 0 .  1 0 1 6  / j  . j a c i . 2 0 2 0 . 0 4 . 0 1 0.
+8. Raby KL, Michaeloudes C, Tonkin J, Chung KF, Bhavsar PK. Mechanisms of 
+airway epithelial injury and abnormal repair in asthma and COPD. Front 
+Immunol. 2023;14:1201658.  h t t p  s : /  / d o i  . o  r g /  1 0 .  3 3 8 9  / fi    m m u . 2 0 2 3 . 1 2 0 1 6 5 8.
+9. Lange P , Ahmed E, Lahmar ZM, Martinez FJ, Bourdin A. Natural history and 
+mechanisms of COPD. Respirology. 2021;26(4):298–321.  h t t p  s : /  / d o i  . o  r g /  1 0 .  1 1 
+1 1  / r  e s p . 1 4 0 0 7.
+10. Wijk SC, Prabhala P , Michaliková B, Sommarin M, Doyle A, Lang S, et al. Human 
+primary airway basal cells display a continuum of molecular phases from 
+health to disease in chronic obstructive pulmonary disease. Am J Respir Cell 
+Mol Biol. 2021;65(1):103–13.  h t t p  s : /  / d o i  . o  r g /  1 0 .  1 1 6 5  / r  c m b . 2 0 2 0 - 0 4 6 4 O C.
+11. Gómez-López S, Alhendi ASN, Przybilla MJ, Bordeu I, Whiteman ZE, Butler T, 
+et al. Aberrant basal cell clonal dynamics shape early lung carcinogenesis. 
+Science. 2025;388(6752):eads9145.  h t t p  s : /  / d o i  . o  r g /  1 0 .  1 1 2 6  / s  c i e n c e . a d s 9 1 4 5.
+12. Lechner JF, Moira A, LaVeck. A serum-free method for culturing normal 
+human bronchial epithelial cells at clonal density. J Tissue Cult Methods. 
+1985;9:43–8.
+13. Fulcher ML, Gabriel S, Burns KA, Yankaskas JR. Randell. Well-differentiated 
+human airway epithelial cell cultures. Methods Mol Med. 2005;107:183–206.  
+h t t p  s : /  / d o i  . o  r g /  1 0 .  1 3 8 5  / 1  - 5 9 2 5 9 - 8 6 1 - 7 : 1 8 3.
+14. Shaykhiev R, Otaki F, Bonsu P , Dang DT, Teater M, Strulovici-Barel Y, et al. Ciga-
+rette smoking reprograms apical junctional complex molecular architecture 
+in the human airway epithelium in vivo. Cell Mol Life Sci. 2011;68(5):877–92.  h 
+t t p  s : /  / d o i  . o  r g /  1 0 .  1 0 0 7  / s  0 0 0 1 8 - 0 1 0 - 0 5 0 0 - x.
+15. Shaykhiev R, Zuo WL, Chao I, Fukui T, Witover B, Brekman A, et al. EGF shifts 
+human airway basal cell fate toward a smoking-associated airway epithelial 
+phenotype. Proc Natl Acad Sci U S A. 2013;110(29):12102–7.  h t t p  s : /  / d o i  . o  r g /  1 
+0 .  1 0 7 3  / p  n a s . 1 3 0 3 0 5 8 1 1 0.
+16. Kim BR, Van de Laar E, Cabanero M, Tarumi S, Hasenoeder S, Wang D, et al. 
+SOX2 and PI3K cooperate to induce and stabilize a squamous-Committed 
+stem cell injury state during lung squamous cell carcinoma pathogenesis. 
+PLoS Biol. 2016;14(11):e1002581.  h t t p  s : /  / d o i  . o  r g /  1 0 .  1 3 7 1  / j  o u r  n a l  . p b i  o .  1 0 0 2 5 8 
+1.
+17. Hong Y, Shan S, Gu Y, Huang H, Zhang Q, Han Y, et al. Malfunction of airway 
+basal stem cells plays a crucial role in pathophysiology of tracheobroncho-
+pathia osteoplastica. Nat Commun. 2022;13(1):1309.  h t t p  s : /  / d o i  . o  r g /  1 0 .  1 0 3 8  / 
+s  4 1 4 6 7 - 0 2 2 - 2 8 9 0 3 - 7.
+18. Wu M, Zhang X, Tu Y, Cheng W, Zeng Y. Culture and expansion of murine 
+proximal airway basal stem cells. Stem Cell Res Ther. 2024;15(1):26.  h t t p  s : /  / d o i  
+. o  r g /  1 0 .  1 1 8 6  / s  1 3 2 8 7 - 0 2 4 - 0 3 6 4 2 - 2.
+19. Butler CR, Hynds RE, Gowers KH, Lee Ddo H, Brown JM, Crowley C, et al. Rapid 
+expansion of human epithelial stem cells suitable for airway tissue engineer-
+ing. Am J Respir Crit Care Med. 2016;194(2):156–68.  h t t p  s : /  / d o i  . o  r g /  1 0 .  1 1 6 4  / r  
+c c m . 2 0 1 5 0 7 - 1 4 1 4 O C.
+20. Harper. Jeric and Jeric Harper. ImageJ plate count protocol. protocols.io.2016.
+21. Demchenko A, Balyasin M, Nazarova A, Grigorieva O, Panchuk I, Kondrateva 
+E, et al. Human induced lung organoids: A promising tool for cystic fibrosis 
+drug screening. Int J Mol Sci. 2025;26(2).  h t t p  s : /  / d o i  . o  r g /  1 0 .  3 3 9 0  / i  j m s 2 6 0 2 0 4 3 
+7.
+22. Chen C, Wu Y, Li J, Wang X, Zeng Z, Xu J, et al. TBtools-II: A one for all, all 
+for one bioinformatics platform for biological big-data mining. Mol Plant. 
+2023;16(11):1733–42.  h t t p  s : /  / d o i  . o  r g /  1 0 .  1 0 1 6  / j  . m o l p . 2 0 2 3 . 0 9 . 0 1 0.
+23. Thomassen DG, Saffiotti U, Kaighn ME. Clonal proliferation of rat tracheal epi-
+thelial cells in serum-free medium and their responses to hormones, growth 
+factors and carcinogens. Carcinogenesis. 1986;7(12):2033–9.  h t t p  s : /  / d o i  . o  r g /  1 
+0 .  1 0 9 3  / c  a r c i n / 7 . 1 2 . 2 0 3 3.
+24. Brechbuhl HM, Li B, Smith RW, Reynolds SD. Epidermal growth factor recep-
+tor activity is necessary for mouse basal cell proliferation. Am J Physiol Lung 
+Cell Mol Physiol. 2014;307(10):L800–810.
+25. Horani A, Nath A, Wasserman MG, Huang T, Brody SL. Rho-associated protein 
+kinase Inhibition enhances airway epithelial Basal-cell proliferation and 
+lentivirus transduction. Am J Respir Cell Mol Biol. 2013;49(3):341–7.  h t t p  s : /  / d o 
+i  . o  r g /  1 0 .  1 1 6 5  / r  c m b . 2 0 1 3 - 0 0 4 6 T E.
+26. Mou H, Vinarsky V, Tata PR, Brazauskas K, Choi SH, Crooke AK, et al. Dual SMAD 
+signaling Inhibition enables Long-Term expansion of diverse epithelial basal 
+cells. Cell Stem Cell. 2016;19(2):217–31.
+27. Balasooriya GI, Goschorska M, Piddini E, Rawlins EL. FGFR2 is required for 
+airway basal cell self-renewal and terminal differentiation. Development. 
+2017;144(9):1600–6.  h t t p  s : /  / d o i  . o  r g /  1 0 .  1 2 4 2  / d  e v . 1 3 5 6 8 1.
+
+<<<PAGE 20>>>
+Page 20 of 20
+Jiang et al. Stem Cell Research & Therapy            (2026) 17:93 
+28. Aros CJ, Vijayaraj P , Pantoja CJ, Bisht B, Meneses LK, Sandlin JM, et al. Distinct 
+Spatiotemporally dynamic Wnt-Secreting niches regulate proximal airway 
+regeneration and aging. Cell Stem Cell. 2020;27(3):413–29.  h t t p  s : /  / d o i  . o  r g /  1 0 .  
+1 0 1 6  / j  . s t e m . 2 0 2 0 . 0 6 . 0 1 9.
+29. Gentzsch M, Boyles SE, Cheluvaraju C, Chaudhry IG, Quinney NL, Cho C, et 
+al. Pharmacological rescue of conditionally reprogrammed cystic fibrosis 
+bronchial epithelial cells. Am J Respir Cell Mol Biol. 2017;56(5):568–74.  h t t p  s : /  / 
+d o i  . o  r g /  1 0 .  1 1 6 5  / r  c m b . 2 0 1 6 - 0 2 7 6 M A.
+30. Peters-Hall JR, Coquelin ML, Torres MJ, LaRanger R, Alabi BR, Sho S, et al. 
+Long-term culture and cloning of primary human bronchial basal cells that 
+maintain multipotent differentiation capacity and CFTR channel function. Am 
+J Physiol Lung Cell Mol Physiol. 2018;315(2):L313–l.  h t t p  s : /  / d o i  . o  r g /  1 0 .  1 1 5 2  / a  j 
+p l u n g . 0 0 3 5 5 . 2 0 1 7.
+31. Wu X, Wang S, Li M, Li J, Shen J, Zhao Y, et al. Conditional reprogramming: 
+next generation cell culture. Acta Pharm Sin B. 2020;10(8):1360–81.  h t t p  s : /  / d o 
+i  . o  r g /  1 0 .  1 0 1 6  / j  . a p s b . 2 0 2 0 . 0 1 . 0 1 1.
+32. Levardon H, Yonker LM, Hurley BP , Mou H. Expansion of airway basal cells and 
+generation of polarized epithelium. Bio Protoc. 2018;8(11).  h t t p  s : /  / d o i  . o  r g /  1 0 .  
+2 1 7 6  9 /  B i o P r o t o c . 2 8 7 7.
+33. Amonkar GM, Wagner R, Bankoti K, Shui JE, Ai X, Lerou PH. Primary culture 
+of tracheal aspirate-derived human airway basal stem cells. STAR Protoc. 
+2022;3(2):101390.  h t t p  s : /  / d o i  . o  r g /  1 0 .  1 0 1 6  / j  . x p r o . 2 0 2 2 . 1 0 1 3 9 0.
+34. Zhang Y, Lin T, Leung HM, Zhang C, Wilson-Mifsud B, Feldman MB, et al. STAT3 
+mutation-associated airway epithelial defects in job syndrome. J Allergy Clin 
+Immunol. 2023;152(2):538–50.  h t t p  s : /  / d o i  . o  r g /  1 0 .  1 0 1 6  / j  . j a c i . 2 0 2 2 . 1 2 . 8 2 1.
+35. Ramasamy SK, Mailleux AA, Gupte VV, Mata F, Sala FG, Veltmaat JM, et al. 
+Fgf10 dosage is critical for the amplification of epithelial cell progenitors and 
+for the formation of multiple mesenchymal lineages during lung develop-
+ment. Dev Biol. 2007;307(2):237–47.  h t t p  s : /  / d o i  . o  r g /  1 0 .  1 0 1 6  / j  . y d  b i o  . 2 0 0  7 .  0 4 . 0 
+3 3.
+36. Neptune ER. Cardoso. Unravelling the expanding role of FGF10 signalling in 
+lung homeostasis and maintenance. Eur Respir J. 2023;62(5).  h t t p  s : /  / d o i  . o  r g /  1 
+0 .  1 1 8 3  / 1  3 9 9  3 0 0  3 . 0 1  6 9  1 - 2 0 2 3.
+37. Tomellini E, Lagadec C, Polakowska R, Le Bourhis X. Role of p75 neurotrophin 
+receptor in stem cell biology: more than just a marker. Cell Mol Life Sci. 
+2014;71(13):2467–81.  h t t p  s : /  / d o i  . o  r g /  1 0 .  1 0 0 7  / s  0 0 0 1 8 - 0 1 4 - 1 5 6 4 - 9.
+38. Malik SC, Sozmen EG, Baeza-Raja B, Le Moan N. Akassoglou and C. 
+Schachtrup. In vivo functions of p75(NTR): challenges and opportunities for 
+an emerging therapeutic target. Trends Pharmacol Sci. 2021;42(9):772–88.  h t t 
+p  s : /  / d o i  . o  r g /  1 0 .  1 0 1 6  / j  . t i p s . 2 0 2 1 . 0 6 . 0 0 6.
+39. Li Y, He Y, Zheng Q, Zhang J, Pan X, Zhang X, et al. Mitochondrial pyruvate 
+carriers control airway basal progenitor cell function through glycolytic-
+epigenetic reprogramming. Cell Stem Cell. 2025;32(1):105–20.  h t t p s :   /  / d o  i .  o r  g  
+/  1 0  . 1 0   1   6 / j . s  t e m .  2 0 2  4 . 0 9 . 0 1 5.
+Publisher’s note
+Springer Nature remains neutral with regard to jurisdictional claims in 
+published maps and institutional affiliations.

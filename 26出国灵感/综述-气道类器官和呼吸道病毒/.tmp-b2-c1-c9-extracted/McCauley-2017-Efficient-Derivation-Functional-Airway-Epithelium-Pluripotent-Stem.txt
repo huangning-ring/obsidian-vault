@@ -1,0 +1,1679 @@
+
+
+<<<PAGE 1>>>
+Article
+Efﬁcient Derivation of Functional Human Airway
+Epithelium from Pluripotent Stem Cells via Temporal
+Regulation of Wnt Signaling
+Graphical Abstract
+Highlights
+d Wnt signaling regulates lung differentiation of human
+pluripotent stem cells
+d Withdrawal of Wnt signaling from lung progenitors prompts
+rapid proximal patterning
+d Puriﬁed lung progenitors differentiate to airway organoids in
+low Wnt conditions
+d Derived organoids exhibit CFTR-dependent swelling in
+response to forskolin
+Authors
+Katherine B. McCauley, Finn Hawkins,
+Maria Serra, Dylan C. Thomas,
+Anjali Jacob, Darrell N. Kotton
+Correspondence
+dkotton@bu.edu
+In Brief
+Kotton and colleagues show that
+carefully timed regulation of Wnt
+signaling can direct human pluripotent
+cells to differentiate rapidly into
+functional airway epithelial organoids
+with many potential applications in
+disease modeling, drug screening, and
+precision medicine, and for diseases
+such as cystic ﬁbrosis.
+McCauley et al., 2017, Cell Stem Cell 20, 844–857
+June 1, 2017 ª 2017 Elsevier Inc.
+http://dx.doi.org/10.1016/j.stem.2017.03.001
+
+
+<<<PAGE 2>>>
+Cell Stem Cell
+Article
+Efﬁcient Derivation of Functional Human Airway
+Epithelium from Pluripotent Stem Cells
+via Temporal Regulation of Wnt Signaling
+Katherine B. McCauley, 1,2 Finn Hawkins,1,2 Maria Serra,1,2 Dylan C. Thomas, 1 Anjali Jacob,1,2 and Darrell N. Kotton 1,2,3,*
+1Center for Regenerative Medicine of Boston University and Boston Medical Center, Boston, MA 02118, USA
+2The Pulmonary Center and Department of Medicine, Boston University School of Medicine, Boston, MA 02118, USA
+3Lead Contact
+*Correspondence: dkotton@bu.edu
+http://dx.doi.org/10.1016/j.stem.2017.03.001
+SUMMARY
+Effective derivation of functional airway organoids
+from induced pluripotent stem cells (iPSCs) would
+provide valuable models of lung disease and facili-
+tate precision therapies for airway disorders such
+as cystic ﬁbrosis. However, limited understanding
+of human airway patterning has made this goal chal-
+lenging. Here, we show that cyclical modulation
+of the canonical Wnt signaling pathway enables
+rapid directed differentiation of human iPSCs via an
+NKX2-1
++ progenitor intermediate into functional
+proximal airway organoids. We ﬁnd that human
+NKX2-1+ progenitors have high levels of Wnt activa-
+tion but respond intrinsically to decreases in Wnt
+signaling by rapidly patterning into proximal airway
+lineages at the expense of distal fates. Using this
+directed approach, we were able to generate cystic
+ﬁbrosis patient-speciﬁc iPSC-derived airway orga-
+noids with a defect in forskolin-induced swelling
+that is rescued by gene editing to correct the disease
+mutation. Our approach has many potential applica-
+tions in modeling and drug screening for airway
+diseases.
+INTRODUCTION
+Directed differentiation of functional lung epithelial cell types
+from human pluripotent stem cells (PSCs) holds promise for
+in vitro modeling of complex respiratory diseases and for future
+cell-based regenerative therapies. Recent studies, including our
+own, have demonstrated that a heterogeneous mixture of
+diverse lung epithelia accompanied by non-lung lineages
+can be simultaneously ‘‘co-derived’’ from PSCs differentiated
+in vitro for several weeks or months ( Dye et al., 2015; Firth
+et al., 2014; Gotoh et al., 2014; Green et al., 2011; Huang
+et al., 2014; Konishi et al., 2016; Longmire et al., 2012;
+Mou et al., 2012; Wong et al., 2012 ). However, many pulmonary
+diseases, such as cystic ﬁbrosis, have their primary effects
+within distinct regions of the lungs and their constituent cellular
+subtypes. The heterogeneity of current differentiation outcomes
+therefore potentially hampers attempts to apply these PSC-
+based models to recapitulate pulmonary disease and test thera-
+pies in vitro. While recent cell sorting methods have enabled the
+derivation of more homogeneous populations of lung epithelial
+progenitor cells or their differentiated progeny from human
+PSCs (hPSCs) ( Gotoh et al., 2014; Hawkins et al., 2017; Konishi
+et al., 2016 ), the consistent derivation of well-deﬁned, mature
+functional lineages from these progenitors for effective disease
+modeling has remained challenging, due in part to heteroge-
+neous or stochastic differentiation in protocols that can depend
+on many weeks or months of cell culture.
+One approach to realize the promise of hPSC model systems
+for studying diseases affecting speciﬁc cellular subtypes is to
+engineer in vitro methods that more closely mimic in vivo devel-
+opmental cell fate decisions. In contrast to current prolonged
+in vitro approaches, in vivo lung development is a tightly
+controlled process, where chaotic heterogeneity is minimized
+by signaling cascades that act cyclically in a regiospeciﬁc
+manner during narrow stage-dependent windows of time to pre-
+cisely and rapidly promote appropriate cell fates while suppress-
+ing alternate fate options. The patterning of early lung epithelial
+progenitors in vivo in mouse embryos is a classic example of
+this phenomenon, because soon after lineage speciﬁcation of
+primordial lung epithelial progenitors, indicated by emergence
+of Nkx2-1
++ endoderm, their descendants located at advancing
+distal lung bud tips are faced with the fate option of either main-
+taining a distal progenitor phenotype or surrendering this fate as
+they move away from this distal niche to assume a proximal
+airway cell fate ( Rawlins et al., 2009 ). Through these fate deci-
+sions, the branching lung airways are patterned post-speciﬁca-
+tion along a proximodistal axis, which is canonically deﬁned by
+the expression of key transcription factors Sox2 in the proximal
+developing airway and tracheal epithelium and Sox9 in the
+budding distal tips ( Hashimoto et al., 2012; Liu and Hogan,
+2002). Because this precise spatiotemporal segregation of
+Sox2 and Sox9 as canonical proximal and distal lung markers,
+respectively, has been described in developing mouse lungs it
+remains somewhat unclear whether these markers may be simi-
+larly used as equally faithful proximal-distal epithelial patterning
+markers in early human lung development. However, recent
+studies have demonstrated low levels of SOX2 in the human
+distal lung and high levels in the proximal airways ( Kim et al.,
+2016; Xu et al., 2016), and a variety of additional markers of prox-
+imal and distal epithelial differentiation in humans is emerging in
+844 Cell Stem Cell 20, 844–857, June 1, 2017 ª 2017 Elsevier Inc.
+
+<<<PAGE 3>>>
+single-cell RNA sequencing studies ( Xu et al., 2016 ) to facilitate
+the study of airway patterning in early human development.
+Recreating the tightly controlled proximodistal patterning
+of lung cells during in vitro differentiation of iPSC-derived
+NKX2-1
++ progenitors has been difﬁcult in part due to the plethora
+of developmental signaling pathways that have been described
+in mouse models as being important to this process, including
+Wnt, FGF, BMP, TGF b, RA, SHH, and Notch signaling ( Bellusci
+et al., 1997; Cardoso et al., 1997; Chen et al., 2007, 2010; Hashi-
+moto et al., 2012; Hyatt et al., 2004; Mucenski et al., 2003; Sekine
+et al., 1999; Shu et al., 2005; Weaver et al., 1999, 2000; Zemke
+et al., 2009). In particular, it has been noted that these pathways
+exhibit high levels of temporal and regional speciﬁcity by which
+they each promote the migration, differentiation, and maturation
+of speciﬁc cell types at the expense of others.
+Here, we develop an approach for modulating the cell fate de-
+cisions of hPSC-derived primordial lung progenitors in a manner
+that recapitulates in vivo development, resulting in the synchro-
+nized modulation of proximal airway versus distal alveolar
+epithelial patterning. Our method signiﬁcantly differs from prior
+attempts (Konishi et al., 2016 ) by inducing rapid airway differen-
+tiation in response to changes in canonical developmental
+signaling pathways that act intrinsically on lung progenitors. As
+predicted by in vivo mouse genetic models, in human PSC
+lung developmental model systems we ﬁnd the Wnt signaling
+pathway to be an over-arching regulator of proximodistal epithe-
+lial patterning. Withdrawal of Wnt activation promotes swift
+emergence of proximal over distal epithelial fates from primordial
+NKX2-1
++ progenitors, whereas maintenance of Wnt signaling
+promotes distal epithelial fates while suppressing proximal fates.
+The end result of this approach is the reliable production of
+‘‘epithelial-only’’ airway organoids that derive directly from
+NKX2-1
++ precursors and contain diverse airway epithelial cell
+types. Furthermore, when generated from cystic ﬁbrosis pa-
+tient-speciﬁc iPSC lines, either before or after gene editing to
+correct the CFTR genetic lesion responsible for the disease,
+these organoids allow precise interrogation of mutant versus
+corrected CFTR function through forskolin-induced epithelial
+sphere swelling assays. This human developmental model
+system thus facilitates disease modeling and drug screening
+for a variety of genetic diseases affecting the airway epithelium,
+exempliﬁed by cystic ﬁbrosis.
+RESULTS
+Screening Developmental Signaling Pathways Reveals
+Contribution from Wnt and BMP Signaling to
+Proximodistal Patterning of hPSC-Derived Lung
+Epithelium
+To screen for potential mechanisms regulating human lung
+epithelial patterning after lung lineage speciﬁcation, we sought
+to employ an in vitro lung development model system that
+uses sequential media in a stepwise, stage-speciﬁc approach
+to recapitulate the lineage speciﬁcation of relatively undifferenti-
+ated (primordial) FOXA2
++NKX2-1+ endodermal lung progenitors
+via anterior foregut endoderm from mouse or human PSCs ( Fig-
+ures 1A and S1A) (Hawkins et al., 2017; Huang et al., 2014, 2015;
+Longmire et al., 2012). Using this approach, we derived NKX2-1+
+lung epithelial progenitors at varying efﬁciencies from several
+hPSC lines, including RUES2 (untargeted) and an iPSC line
+(hereafter C17) carrying a GFP reporter targeted to NKX2-1,
+the ﬁrst gene locus activated in developing endoderm at the
+time of lung lineage speciﬁcation (hereafter NKX2-1 GFP, Figures
+1B and S1B) (Hawkins et al., 2017 ). Using these lines, we found
+that differentiated lung progenitors were enriched for NKX2-1
+and FOXA2 expression ( Figure S1 C) and did not express
+appreciable markers of other NKX2-1 + lineages (thyroid, PAX8;
+neural, OLIG2) in comparison to neuroectodermal and thyroid
+controls ( Figure S1 C). Nearly 100% of NKX2-1 GFP+ cells were
+EPCAM+ (Figure S1 D) and did not express markers of other
+non-endodermal lineages including PDGFR a, CD31, and CD45
+(Figure S1E).
+Although these NKX2-1 GFP+ progenitors are initially undiffer-
+entiated or primordial at the time of their emergence in culture
+(days 9–15) (Hawkins et al., 2017) further time in culture in media
+supplemented with CHIR99021, FGF10, and KGF results in
+their differentiation into a heterogeneous population of cells ex-
+pressing markers consistent with multiple lung lineages charac-
+teristic of both proximal airway and distal alveolar epithelia,
+including SOX2, SOX9, TP63, SFTPB, CFTR, SFTPC, FOXJ1,
+and SCGB3A2 (Hawkins et al., 2017 ).
+To test whether we could efﬁciently induce a proximal versus
+distal program in iPSC-derived lung progenitors, we modulated
+key developmental pathways beginning on day 15 of differentia-
+tion in our model system ( Figures 1 C–1E), and we monitored
+changes in SOX2 and SOX9 expression that might suggest coor-
+dinated proximal versus distal patterning changes in puriﬁed
+NKX2-1
+GFP+ cells within 4 days of treatment. At day 15, post-
+lung speciﬁcation, we cultured cells in a base media of ‘‘low
+dose’’ (10 ng/mL) FGF10 to promote proliferation without
+strongly inducing patterning ( Volckaert et al., 2013 ). From
+this base media, we stimulated the following pathways: Wnt
+signaling via the potent GSK3 b inhibitor CHIR99021, hereafter
+CHIR; FGF signaling using FGF2 or high dose (100 ng/mL)
+FGF10; BMP signaling using BMP4; and TGF b signaling us-
+ing TGFb1.
+We found that conditions containing CHIR resulted in signiﬁ-
+cantly decreased SOX2 and increased SOX9 expression in
+sorted NKX2-1
+GFP+ cells, suggesting abrogated proximal and
+increased distal patterning within 4 days (day 19; Figure 1 E).
+Suppression of proximal cell fate by CHIR was further supported
+by decreased expression of the highly speciﬁc proximal lung
+epithelial marker, SCGB3A2. BMP signaling activation also sup-
+pressed SOX2 and SCGB3A2 expression while permitting SOX9
+expression, although to a lesser extent than Wnt activation. Inhi-
+bition of BMP signaling with the SMAD1/5/8 inhibitor, dorsomor-
+phin, signiﬁcantly blocked CHIR-induced distal patterning (CHIR
+versus CHIR+Dorso p = 1 3 10
+/C06). Addition of the Wnt inhibitor,
+XAV939, had no effect in conditions without CHIR (data not
+shown), suggesting low basal Wnt signaling. High dose FGF10
+resulted in smaller but statistically signiﬁcant increased SOX9
+expression (Figure 1E). Concordantly, treatment with escalating
+doses of FGF10 together with CHIR resulted in additionally
+increased distal ( SOX9) and decreased proximal ( SOX2)
+patterning ( Figure S1 F). In contrast, we found that TGF b
+signaling had no signiﬁcant effect on patterning markers ( Fig-
+ure S1 G). Finally, to ensure the proximalization pattern was not
+reliant on FGF stimulation, we compared stimulation with versus
+Cell Stem Cell 20, 844–857, June 1, 2017 845
+
+<<<PAGE 4>>>
+without CHIR added to media alone (without addition of any
+FGF ligands) and found increased expression of SCGB3A2 in
+unsorted cells in the no CHIR condition (data not shown).
+Taken together, this initial signaling pathway screen sug-
+gested that hPSC-derived lung epithelium responds within
+4 days to signaling cues, and Wnt activation via CHIR potentially
+maintains distal over proximal epithelial patterning early post-
+lung speciﬁcation. These patterning changes in human cells
+are consistent with prior mouse genetic studies suggesting
+modulation of Wnt activity impacts lung proximodistal patterning
+during development ( De Langhe et al., 2005; Hashimoto et al.,
+2012; Mucenski et al., 2003; Ramasamy et al., 2007; Shu et al.,
+2005; Volckaert et al., 2013; Zemke et al., 2009 ).
+Wnt Signaling Is Required in a Stage-Dependent Manner
+for Normal Lung Epithelial Speciﬁcation
+Having identiﬁed Wnt signaling as a putative patterning
+pathway, we sought to understand more about the stage-
+dependent role of this pathway in hPSC lung differentiation.
+By comparing iPSC-derived anterior foregut endoderm to puri-
+ﬁed NKX2-1
+GFP+ progenitors at day 15 of differentiation through
+unbiased gene set enrichment analysis (GSEA) of their global
+transcriptomes, we identiﬁed 19/50 gene sets statistically upre-
+gulated in day 15 NKX2-1 + progenitors (false discovery rate
+[FDR] <0.1), including Wnt/ b-catenin signaling ( Table S1). Upre-
+gulation of the canonical target Wnt genes, AXIN2, NKD1, and
+LEF1 and downregulation of the Wnt inhibitor DKK1 were partic-
+ularly predictive of Wnt activity in this system ( Figure 2A). These
+changes were maintained until day 28 in NKX2-1 + cells cultured
+in media containing CHIR ( Figure S2 A). The faithfulness of
+AXIN2 as a canonical Wnt response reporter in this human sys-
+tem was further supported by separate experiments where len-
+tiviral overexpression of phosphorylation-incompetent murine
+b-catenin ( Fuerer and Nusse, 2010 ) in NKX2-1
++ progenitors re-
+sulted in upregulation of AXIN2 even in the absence of CHIR
+(Figures S2 B and S2C). Furthermore, lentiviral TCF reporters
+in FG293 cells conﬁrmed that the dose of CHIR used at this
+stage and later differentiation (3 mM) was appropriate to induce
+Wnt activation without signiﬁcant cytotoxicity ( Figures S2 D
+and S2E).
+Next, we compared the stage-dependent effects of with-
+drawal of Wnt signaling pre- versus post-lung speciﬁcation in
+our directed differentiation model using both CHIR and recombi-
+nant Wnt3a ( Figure S3A). Cells differentiated from anterior fore-
+gut endoderm in the presence of CHIR expressed signiﬁcantly
+higher levels of NKX2-1
+GFP as early as 48 hr after the initiation
+of speciﬁcation in comparison to cells cultured without this com-
+pound, and this difference was maintained until at least day 15.
+AB C
+DE
+Figure 1. Wnt and BMP4 Signaling Contribute to Proximodistal Pattering of hPSC-Derived Lung Progenitors
+(A) Schematic of directed differentiation protocol from hPSCs to NKX2-1 + endodermal lung progenitors.
+(B) Representative day 15 FACS plot showing typical NKX2-1 GFP expression in C17 cells.
+(C) Experimental approach for testing developmental pathways. BMPi, BMP inhibition using dorsomorphin; TGF bi, TGFb inhibition using SB431542.
+(D) Schematic of murine branching lung depicting key proximodistal patterning markers.
+(E) qRT-PCR measurement of fold change (2
+/C0DDCt) of mRNA expression (compared to day 19 base media) shown for day 0 iPSCs or NKX2-1 GFP+-sorted cells
+on day 19 after treatment with indicated growth factors from day 15 to day 19. Base media (day 19 control condition without supplements) is deﬁned as fol d
+change = 1. Arrows indicate conditions containing CHIR99021. Bars represent mean ± SD (Base, +CHIR: n = 6; others: n = 3 biological replicates of indepe ndent
+wells of a differentiation) *p % 0.05, **p % 0.01, ***p % 0.001, ****p % 0.0001 by unpaired two-tailed Student’s t test between test conditions and base.
+See also Figure S1.
+846 Cell Stem Cell 20, 844–857, June 1, 2017
+
+<<<PAGE 5>>>
+DKK1
+HEY2
+MYC
+WNT5B
+FRAT1
+WNT1
+HDAC5
+JAG2
+DLL1
+CSNK1E
+SKP2
+HDAC2
+ADAM17
+NOTCH4
+NCOR2
+WNT6
+DVL2
+NUMB
+NCSTN
+CTNNB1
+KAT2A
+RBPJ
+AXIN1
+PPARD
+MAML1
+CUL1
+TP53
+PTCH1
+HDAC11
+FZD1
+JAG1
+CCND2
+GNAI1
+NOTCH1
+PSEN2
+HEY1
+FZD8
+DKK4
+AXIN2
+TCF7
+NKD1
+LEF1
+Day 15
+NKX2-1GFP+AFE
+A
++CHIR-CHIR
++rmWnt3a
+0
+1
+2
+3
+4
+AXIN2
+*
++CHIR-CHIR
+0
+2
+4
+6
+NKD1
+**
++CHIR-CHIR
+0
+20
+40
+60
+80
+100
+LEF1
+Wnt Signaling Pathway
+Fold Change from hPSCs
+-CHIR
+NKX2-1 P63 K5
+D
+G H
+I
++CHIR
+-CHIR
+NKX2-1 P63 NKX2-1 P63
+B
++CHIR-CHIR
++rmWnt3a
+0
+50
+100
+150
+200
+SOX9
+***
+*
++CHIR-CHIR
+0.0
+0.5
+1.0
+1.5
+2.0
+ETV5
+*
+Distal Lung
++CHIR-CHIR
++rmWnt3a
+0.0
+0.2
+0.4
+0.6
+0.8
+SOX2
++CHIR-CHIR
+0
+4
+8
+12
+SCGB3A2
+****
++CHIR-CHIR
+0
+200
+400
+600
+800
+P63
+***
++CHIR-CHIR
+0
+25
+50
+75
+100
+125
+MUC5AC
+*
+Fold Change from hPSCs
+Proximal Lung
+C
+E
+NKX2-1+
+Lung
+Epithelium
++CHIR, +Wnt3a, or None
+Sort
+NKX2-1GFP+
+cells for analysis
+Day 15 Day 19
+F
++CHIR-CHIR
+0
+20
+40
+60
+80
+*
+%P63+NKX2-1+ / %NKX2-1+
+Day 19
+NKX2-1+ cells
+-3  -2   0     2  3
+Relative expression
++CHIR
+-CHIR
++DNANKX2-1 P63
+NKX2-1 SOX2 +DNA NKX2-1 SOX9 +DNA
+SOX2+ SOX9+
+NKX2-1+ NKX2-1+
+0
+20
+40
+60
+80
+100%Coexpression / %NKX2-1+
+*
+***
++CHIR
+-CHIR
+(legend on next page)
+Cell Stem Cell 20, 844–857, June 1, 2017 847
+
+<<<PAGE 6>>>
+NKX2-1GFP expression could not be rescued in cells differenti-
+ated without CHIR to day 15 by later CHIR addition, suggesting
+that this effect was restricted to a narrow developmental stage
+(Figure S3 B). Activation of canonical Wnt signaling in response
+to CHIR at these time points was veriﬁed using lentiviral TCF-
+driven reporters, and conditions without CHIR again exhibited
+minimal, if any, basal Wnt activity ( Figures S3 C and S3D).
+Together, these results support the conclusion that canonical
+Wnt activity is required for in vitro speciﬁcation of human lung
+epithelial progenitors in a narrow window of developmental
+competence.
+CHIR Withdrawal Post Lung Epithelial Speciﬁcation
+Results in Loss of Distal Lung Patterning and the
+Emergence of Proximal Lung Lineages, Including
+NKX2-1
++TP63+ Basal-like Cells
+Next, we tested the effect of sustained versus withdrawn
+Wnt signaling on the differentiation repertoire of hPSC-derived
+NKX2-1
++ progenitors after lung lineage speciﬁcation. We treated
+cells post-speciﬁcation with CHIR, recombinant mouse Wnt3a,
+or neither in a base media of 10 ng/mL FGF10 from day 15 to
+day 19 (Figures 2B and S3E). To ensure this treatment correlated
+with expected decreases in canonical Wnt signaling activity, we
+conﬁrmed reduced lentiviral TCF-driven reporter expression by
+day 19 ( Figure S3 F) as well as reduced expression of the
+Wnt signaling responsive genes LEF1, NKD1, and AXIN2 (Fig-
+ure 2C). An unbiased comparison between NKX2-1
+GFP+ cells at
+day 15 and at day 19 after culture without CHIR using a Wnt
+pathway-speciﬁc qRT-PCR array further conﬁrmed this ﬁnding
+(Figure S3G).
+Within 4 days, withdrawal of CHIR resulted in signiﬁcant
+changes in gene expression suggesting emergence of a
+proximal airway phenotype concordant with loss of distal cell
+fate in NKX2-1 GFP+ cells. Speciﬁcally, proximal airway markers
+SCGB3A2, TP63, and MUC5AC were upregulated and distal
+markers SOX9 and ETV5 (Liu et al., 2003 ) were downregulated
+in response to CHIR withdrawal (Figure 2D). Patterning of individ-
+ual NKX2-1+ cells in response to CHIR withdrawal was validated
+at the protein level by both immunoﬂuorescence microscopy
+and ﬂow cytometry. Triple immunostaining for NKX2-1,
+SOX2, and SOX9 nuclear proteins demonstrated that >90% of
+NKX2-1
++ cells were SOX9 + in the presence of sustained CHIR,
+whereas 4 days after the withdrawal of CHIR, <40% of NKX2-
+1+ cells maintained detectable SOX9 staining ( Figures 2 E and
+2F). Although NKX2-1 + cells in both conditions contained
+>50% SOX2 + cells, CHIR withdrawal resulted in a signiﬁcantly
+higher percentage of cells coexpressing NKX2-1 and SOX2
+and a concordant absence of SOX9 in the majority of these
+NKX2-1
++/SOX2+ cells ( Figures 2 E, 2F, and S4A). This result
+further revealed a number of cells in both outgrowth conditions
+simultaneously expressing NKX2-1, SOX2, and SOX9 ( Fig-
+ure S4 B), a triad that has not been observed to date in murine
+models of development and may represent a phenomenon
+unique to the human lung.
+Furthermore, CHIR withdrawal resulted in increased fre-
+quencies of cells co-expressing NKX2-1 and TP63 ( Figures 2 G
+and 2H) and a subset of cells co-expressing NKX2-1, TP63,
+and K5, a triad unique to airway basal cells ( Figure 2 I) ( Ikeda
+et al., 1995; Rock et al., 2009 ). Cells treated with rhWnt3a during
+this same window showed a milder distal patterning response
+relative to CHIR treatment ( Figures 2C and 2D) with only partial
+activation of canonical Wnt activity detected as measured by
+AXIN2 expression, concordant with the previously reported
+low-level response of human cells to recombinant Wnt ( Fuerer
+and Nusse, 2010 ).
+CHIR Acts Intrinsically on the Epithelium to Pattern Early
+Lung Progenitors
+Withdrawal of CHIR from day 15 to day 19 resulted in a signiﬁ-
+cantly decreased percentage of NKX2-1
+GFP+ outgrowth by day
+19 (Figures S4C and S4D), raising the question of whether non-
+lung lineages were outcompeting lung lineages and potentially
+contributing to secondary patterning effects in the NKX2-1+ pop-
+ulation in the absence of sustained Wnt. We therefore sought to
+Figure 2. Withdrawal of Wnt Signaling Activity Post-lung Speciﬁcation Leads to Increased Proximal Patterning
+(A) Gene set enrichment analysis (GSEA) of microarray data indicating the unbiased ranking of Wnt pathway genes differentially expressed comparing iPSC-
+derived day 6 (‘‘anterior foregut endoderm,’’ or ‘‘AFE’’) cells and day 15 puriﬁed NKX2.1GFP+ cells. Arrowheads, Wnt target genes anticipated to be most predictive
+of signaling activity.
+(B) Schematic of experiment showing manipulation of Wnt signaling from days 15–19.
+(C) qRT-PCR showing fold change in gene expression compared to day 0 (2
+/C0DDCt) in day 19 NKX2-1 GFP-sorted cells after 4 days treatment ± CHIR or rmWnt3a.
+Bars represent mean ± SEM. +CHIR, n = 9 biological replicates of independent wells within multiple differentiations; +rmWnt3a, n = 3. *p % 0.05, **p % 0.01,
+***p % 0.001, ****p % 0.0001 by unpaired, two-tailed Student’s t test.
+(D) Fold change of mRNA expression in NKX2-1 GFP+ cells on day 19 over undifferentiated iPSCs. Unsorted cells were cultured with or without CHIR or rmWnt3a
+(SOX2, SOX9) from days 15–19 then GFP + cells were sorted on day 19. Bars represent mean ± SEM. Biological replicates for each condition: CHIR treatment
+SOX2, n = 9; SCGB3A2, TP63, n = 10; SOX9, n = 6; MUC5AC, ETV5, n = 3. For rmWnt3a, n = 3. *p % 0.05, **p % 0.01, ***p % 0.001, ****p % 0.0001 by unpaired,
+two-tailed Student’s t test.
+(E) Representative immunoﬂuorescence stains of NKX2-1 (green) and SOX2 or SOX9 (red) protein expression with DNA stain (Hoechst; blue) at day 19 with and
+without CHIR from days 15–19. Panels are images of the same cells stained for all three markers. Scale bars, 25 mm.
+(F) Quantiﬁcation of NKX2-1, SOX2, and SOX9 coexpression by intracellular ﬂow cytometry (SOX2) or by colocalization calculated from staining in (E) (SOX9).
+Bars represent mean ± SD, n = 3 biological replicates. *p = 0.03; ***p = 0.0002 by unpaired two-tailed Student’s t test.
+(G) Representative immunoﬂuorescence stains for NKX2-1 (green) and TP63 (red) nuclear protein expression with DNA stain (Hoechst; blue) at day 19 wi th and
+without CHIR from days 15–19. Left panels and right panel: scale bars, 50 mm. Second from right panel: scale bars, 25 mm.
+(H) Quantiﬁcation of NKX2-1 and TP63 colocalization from staining in (G). Bars represent mean ± SD, area from ﬁve images each of n = 3 biological replica tes.
+*p = 0.01 by unpaired two-tailed Student’s t test.
+(I) Immunoﬂuorescence of NKX2-1 (green), TP63 (red), and KRT5 (white) at day 19 after culture without CHIR from days 15–19. Arrowheads, triple positi ve cells.
+Scale bars, 50 mm.
+See also Figures S2–S4.
+848 Cell Stem Cell 20, 844–857, June 1, 2017
+
+<<<PAGE 7>>>
+test whether the effect of CHIR manipulation on proximodistal
+lung patterning was intrinsic to lung epithelial cells. We used ﬂuo-
+rescence-activated cell sorting (FACS) to purify NKX2-1 GFP+
+epithelial lung progenitors at day 14 and replated them in
+three-dimensional (3D) culture with or without CHIR ( Figure 3 A)
+added to a base media (‘‘DCI’’) that we have previously shown
+supports epithelial gene expression in sorted NKX2-1 GFP+
+PSC-derived cells ( Hawkins et al., 2017; Kurmann et al., 2015;
+Longmire et al., 2012 ). By day 20, the sorted cells formed small
+spheres coexpressing NKX2-1 and EPCAM ( Figures 3 B and
+3C). Greater than 90% of all outgrowth cells in either culture
+condition maintained NKX2-1 GFP expression (+CHIR: 98.2% ±
+0.5%; /C0CHIR: 93.4% ± 2.3%) ( Figures 3D and 3E), and cells in
+each condition formed organoids with no measured statistical
+difference in efﬁciency. Analysis of re-sorted NKX2-1 GFP+ cells
+at day 20 demonstrated withdrawal of CHIR resulted in downre-
+gulation of Wnt pathway markers and concurrent upregulation of
+proximal lung genes SOX2, SCGB3A2, and TP63, and downre-
+gulation of distal lung genes SOX9 and ETV5 (Figure 3F). These
+results suggested that Wnt signaling levels regulate proximodis-
+tal patterning of NKX2-1+ lung progenitors via intrinsic actions
+on the epithelium.
+SSC
+NKX2-1GFP
+-CHIR
++CHIR
++CHIR-CHIR
+0
+25
+50
+75
+100%NKX2-1GFP+
++CHIR  -CHIR
+0.00
+0.02
+0.04
+0.06
+SOX2
+*
++CHIR  -CHIR
+0.0
+0.5
+1.0
+1.5
+2.0
+2.5
+SOX9
+***
++CHIR  -CHIR
+0.00
+0.05
+0.10
+8
+10
+12
+14
+SCGB3A2
+**
++CHIR  -CHIR
+0
+20
+40
+60
+80
+100
+P63
+*
++CHIR  -CHIR
+0.0
+0.5
+1.0
+1.5
+2.0
+2.5
+ETV5
+****
+Fold Change from hPSCs
+CD
+Day 14 Day 20
+3D culture, +/- CHIR
+Sort and replate
+NKX2-1GFP+ cells
+Sort and analyze
+NKX2-1GFP+ cells
+EB
+NKX2-1GFP
+ EPCAM NKX2-1 DNA
+Day 20
+Day 20
+Merge
+Proximal Distal
+F
+98.6%
+96.1%
++CHIR-CHIR
++CHIR-CHIR
++CHIR-CHIR
+0.0
+0.5
+1.0
+1.5
+AXIN2
+***
++CHIR-CHIR
+0
+5
+10
+15
+20
+NKD1
+*
+Wnt Signaling
+A
+Figure 3. Inhibition of Proximal Patterning by Wnt Activation Is Intrinsic to the NKX2-1 + Lung Epithelium
+(A) Experimental design for testing CHIR effects on puriﬁed NKX2-1 GFP+ endodermal lung progenitors.
+(B) Live cell ﬂuorescence microscopy on day 20, depicting NKX2-1 GFP in iPSC-derived organoids treated with and without CHIR from days 14–20 (6 days post-
+sort). Scale bars, 100 mm (left and center panels); 25 mm (right panel). Dashed boxes represent zoom views.
+(C) Whole-mount immunoﬂuorescence images of EPCAM (red) and NKX2-1 (green) expression in day 20 organoids. Scale bars, 25 mm.
+(D) NKX2-1GFP ﬂow cytometry analysis of organoids on day 20.
+(E) Quantiﬁcation of analysis from (D). Bars represent mean ± SD, n = 3.
+(F) Fold change of genes in NKX2-1
+GFP+ cells on day 20 over undifferentiated iPSCs by qRT-PCR (2 /C0DDCt). Bars represent mean ± SD, n = 3 biological replicates
+from independently sorted wells of a differentiation. *p % 0.05, **p % 0.01, ***p % 0.001, ****p % 0.0001 by unpaired, two-tailed Student’s t test.
+Cell Stem Cell 20, 844–857, June 1, 2017 849
+
+<<<PAGE 8>>>
+Recombinant Wnt3a Promotes Sftpc Expression and
+Inhibits Proximalization in Nkx2-1 + Mouse ESC-Derived
+Lung Progenitors
+Next, we sought to test whether the patterning response to
+canonical Wnt signaling is conserved in other mammalian
+PSC model systems known to respond directly to Wnt ligands.
+As we have previously described the use of Wnt3a to drive
+lung differentiation in murine PSCs ( Kurmann et al., 2015; Long-
+mire et al., 2012 )( Figure 4 A) and because genetic mouse
+models demonstrate a role for canonical Wnt signaling in proxi-
+modistal patterning ( Hashimoto et al., 2012; Mucenski et al.,
+2003; Shu et al., 2005 ), we differentiated a mouse embryonic
+stem cell (mESC) line containing an mCherry reporter targeted
+to the Nkx2-1 locus ( Bilodeau et al., 2014; Kurmann et al.,
+2015)( Figure 4 B). Following lung lineage speciﬁcation into
+Nkx2-1
++ primordial progenitors, on day 14 we replated sorted
+A
+B C
+D
+E
+F
+Figure 4. Mouse Embryonic Stem Cell-Derived Nkx2-1 mCherry+ Lung Progenitors Upregulate Sftpc in Response to Wnt3a
+(A) Schematic depicting directed differentiation of Nkx2-1 mCherry+ cells from mouse embryonic stem cells (mESCs) and transduction of sorted cells with Sftpc GFP
+reporter lentivirus.
+(B) Schematic of targeted Nkx2-1 mCherry locus.
+(C) Representative ﬂow cytometry plot with gates for day 15 mCherry + versus mCherry/C0 sort.
+(D) Schematic of Sftpc GFP lentivirus.
+(E) Representative images showing induction of the Sftpc GFP reporter in cells from the Nkx2-1 mCherry+ outgrowth treated with rmWnt3a.
+(F) Fold change of mRNA expression for Sftpc and Scgb1a1 in outgrowth of Nkx2-1 mCherry+ versus Nkx2-1mCherry/C0 cells sorted on day 15 and analyzed on day 30
+by qRT-PCR (2 /C0DDCt; fold change compared to day 0 mESCs). Bars represent mean ± SD, n = 2 biological replicates.
+850 Cell Stem Cell 20, 844–857, June 1, 2017
+
+<<<PAGE 9>>>
+AB C
+D
+EF
+G H
+I
+J
+(legend on next page)
+Cell Stem Cell 20, 844–857, June 1, 2017 851
+
+<<<PAGE 10>>>
+Nkx2-1mCherry+ versus Nkx2-1mCherry/C0 cells (Figure 4C) for further
+differentiation in sustained versus withdrawn Wnt3a protein. By
+transducing these cells with a reporter lentivirus carrying a hu-
+man SFTPC promoter driving GFP expression ( Longmire et al.,
+2012), we then screened for the emergence of lung cells ex-
+pressing this canonical distal epithelial differentiation marker
+(Figure 4 D). By day 18, we observed the emergence of many
+clusters of Sftpc GFP+ cells deriving from mCherry +-sorted pro-
+genitors cultured in the presence of Wnt3a, but few, if any,
+detectable clusters in the absence of Wnt3a ( Figure 4 E). As
+accurately predicted by the Sftpc GFP reporter, Sftpc mRNA
+was expressed at high levels in the presence of Wnt3a and prox-
+imal lung marker Scgb1a1 expression was suppressed in these
+conditions. In contrast, in the absence of Wnt3a, Scgb1a1
+expression was upregulated and Sftpc expression was almost
+entirely lost ( Figure 4 F), ﬁndings consistent with our human
+PSC model. Importantly, no detectable GFP signal and no Sftpc
+or Scgb1a1 mRNA expression was observed arising from
+outgrowth of the sorted mCherry negative population in any
+condition ( Figure 4 F). These results provide further evidence
+that canonical Wnt activation promotes the differentiation of
+distal lung epithelium from PSC-derived Nkx2-1
++ lung progeni-
+tors while suppressing the proximal lung program and this effect
+is conserved across species.
+Derivation of Proximal Airway Organoids from Puriﬁed
+PSC-Derived Lung Epithelial Cells
+Having demonstrated that Wnt manipulation acts intrinsically on
+NKX2-1
++ lung epithelium to induce rapid changes in proximodis-
+tal patterning, we sought to develop a ‘‘low-Wnt’’ protocol for the
+reproducible and efﬁcient generation and maturation of func-
+tional proximal airway organoids from patient-speciﬁc lines for
+the purposes of disease modeling and the testing of gene thera-
+pies. Our results from 2D mESC differentiations ( Figure 4 ) indi-
+cated that media containing FGF2 and FGF10 (‘‘2+10 media’’)
+to broadly ligate FGF receptors would drive proliferation of
+sorted NKX2-1
+GFP+ lung progenitors while allowing proximal
+patterning, results in keeping with our previously published use
+of 2+10 media ( Longmire et al., 2012 ). We therefore tested
+whether in 3D conditions 2+10 media without CHIR or Wnt3a
+would result in proliferation and differentiation of proximalized
+human lung epithelial spheres in comparison to previously pub-
+lished high-Wnt media containing CHIR as well as FGF10 and
+KGF (‘‘CFK media’’) ( Hawkins et al., 2017; Huang et al., 2014 )
+(Figure 5A).
+To ensure that organoids originated from an NKX2-1
++ progen-
+itor population, sorted NKX2-1 GFP+ cells were replated and
+cultured in both ‘‘high Wnt’’ and ‘‘low Wnt’’ conditions in 3D.
+Cells in both conditions initially proliferated and formed epithelial
+spheres that maintained variable levels of NKX2-1 expression
+(Figures 5 B and 5C). However, the spheres that formed in low-
+Wnt media expressed signiﬁcantly higher levels of proximal
+airway genes than cells in high-Wnt media, including TP63,
+SCGB3A2, SCGB1A1, MUC5B, CFTR, FOXJ1, and SFTPB (Fig-
+ure 5 D). Although SFTPB has previously been referred to as a
+marker speciﬁc to type II pneumocytes, it is also highly ex-
+pressed in the developing human airway epithelium ( Phelps
+and Floros, 1988 ). In contrast, cells cultured in high-Wnt media
+again expressed lower levels of proximal lung markers and
+higher levels of distal lung markers ETV5 and SFTPC (Figure 5D).
+Expression of additional distal alveolar epithelial markers,
+ABCA3 and LPCAT1, was also detected in cells cultured in
+high-Wnt media (data not shown).
+Airway-like epithelial identity of the low-Wnt outgrowth was
+supported by immunostaining revealing luminal organoids where
+all cells expressed EPCAM and SOX2 and subsets expressed
+markers of secretory (SPB
++/NKX2-1+; SCGB3A2 +/NKX2-1+),
+goblet (MUC5AC+NKX2-1/C0), and basal (NKX2-1 +/TP63+/KRT5+)
+lung lineages ( Figures 5 F, 5G, and S5A–S5F). These spheres
+were initially primarily secretory and basal in nature and exhibited
+low levels of FOXJ1 expression with no observed formation of
+multiciliated structures. However, multiciliated epithelial cells
+with upregulated FOXJ1, downregulated SCGB1A1, and beating
+motile cilia could be generated from these proximalized epithelial
+spheres within 2 weeks either in continued 3D culture in the pres-
+ence of Notch inhibition with DAPT ( Tsao et al., 2009)( Figure 5H;
+Movie S1) or after transfer into 2D conditions in air liquid interface
+culture (Figures 5I and S5G).
+Taken together, these results suggested the proximalized
+airway spheres generated in low-Wnt conditions resemble
+airway epithelium and provide a mechanistic roadmap by which
+hPSC-derived NKX2-1
++ lung progenitors can be differentiated to
+Figure 5. Generation of iPSC-Derived Airway Organoids via Puriﬁed NKX2-1 + Lung Progenitors
+(A) Schematic depicting protocol for differentiating organoids from puriﬁed NKX2-1 GFP+ progenitors.
+(B) Representative ﬂuorescence microscopy for NKX2-1 GFP expression in organoids cultured in distalizing (Wnt-high; CFK+DCI versus proximalizing (Wnt-low;
+2+10+DCI) conditions until day 27. Scale bars, 50 mm.
+(C) Quantiﬁcation of NKX2-1 GFP expression in CFK+DCI and 2+10+DCI organoids at day 27 by ﬂow cytometry. Bars represent mean ± SEM, n = 6 biological
+replicates from independent wells of multiple differentiations.
+(D) Fold change of mRNA expression in day 27 organoids and adult lung control over undifferentiated iPSCs by qRT-PCR (2
+/C0DDCt). Bars represent mean ± SEM,
+n = 6 biological replicates from independent wells of multiple differentiations. *p % 0.05, **p % 0.01, ***p % 0.001, ****p % 0.0001 by unpaired, two-tailed
+Student’s t test.
+(E) Hematoxylin staining of sectioned organoid.
+(F) Representative whole mount immunoﬂuorescence staining for indicated markers. Scale bars, 25 mm.
+(G) Representative whole mount immunoﬂuorescence staining for lung basal cell markers. Scale bars, 25 mm.
+(H) Fold change of mRNA expression in 2+10+DCI organoids cultured with DAPT or vehicle alone for 2 weeks (days 31–45). Bars represent mean ± SD, n = 3
+biological replicates from one differentiation, *p % 0.05 by unpaired, two-tailed Student’s t test.
+(I) Representative z projection and orthogonal projections of acetylated alpha-tubulin and f-actin staining of 9-day air-liquid interface cultur e generated from
+replated outgrowth of proximalized organoids. Scale bar, 25 mm (upper panel); 10 mm (lower panel).
+(J) Schematic depicting proposed pathways for the generation of proximal or distal lung lineages.
+See also Figure S5 and Movie S1.
+852 Cell Stem Cell 20, 844–857, June 1, 2017
+
+<<<PAGE 11>>>
+diverse lineages of distinct clinical interest ( Figure 5 J). In
+particular, identiﬁcation of Wnt signaling as a key regulator of
+proximodistal patterning is a critical step for the rapid and repro-
+ducible generation from hPSC lines of proximal lung epithelial
+NKX2-1
++/SOX2+ progenitors and their downstream basal, secre-
+tory, or multiciliated progeny.
+CFTR-Dependent Forskolin Swelling of Proximalized
+Organoids
+To test whether the organoids differentiated in our proximalized
+lung protocol contained functional epithelia of potential clinical
+beneﬁt for cystic ﬁbrosis disease modeling, we next sought to
+develop an in vitro quantitative assessment of epithelial CFTR
+function using patient-speciﬁc iPSC-derived airway organoids.
+It has been previously reported in non-lung systems that the acti-
+vation of adenylyl cyclase by forskolin induces CFTR-dependent
+organoid swelling, providing a robust and quantiﬁable in vitro
+functional readout of this ion channel ( Dekkers et al., 2013 ). To
+initially test whether our airway organoids swell in response to
+forskolin treatment, we differentiated iPSCs derived from either
+a healthy individual (BU3) or two individuals with cystic ﬁbrosis
+due to homozygous DF508 CFTR mutations (RC2 202 and RC2
+204). To purify NKX2-1
++ primordial lung progenitors without
+requiring NKX2-1GFP knockin reporters, we used the cell surface
+markers CD47 and CD26 to isolate CD47 hiCD26/C0 cells that are
+highly enriched in NKX2-1 + progenitors by day 15 from all three
+lines ( Hawkins et al., 2017 )( Figure S6 A). Importantly, sorted
+progenitors from all lines replated from day 15 to days 22–35
+showed a similar proximalized patterning response to with-
+drawal of CHIR and expansion in 2+10 media as our C17
+NKX2-1
+GFP-targeted line ( Figure S6 B and data not shown),
+suggesting that this protocol reproducibly generates airway or-
+ganoids from lung progenitors derived from different hPSC lines
+puriﬁed using cell surface marker sorting.
+By time-lapse microscopy of BU3-derived organoids after
+exposure to forskolin, we detected swelling beginning within
+60 min, resulting in quantiﬁable changes in surface area evident
+within 3 hr and continuing for at least 20 hr (2.07- ± 0.6-fold at
+t = 20 hr, Figures S6C and S6D). In contrast, little, if any, swelling
+was observed in either cystic ﬁbrosis line (RC2 202 or RC2 204)
+after exposure to forskolin or in BU3 organoids stimulated with
+carrier vehicle alone (PBS only: 1.02 ± 0.03, Figures S6 C and
+S6D). Having observed forskolin-responsive swelling in normal
+and not cystic ﬁbrosis patient-derived proximalized organoids,
+we sought to establish whether this response was CFTR-depen-
+dent. To test this, we used gene edited clones we have previ-
+ously generated from both cystic ﬁbrosis lines ( Crane et al.,
+2015) where one DF508 mutant allele has been corrected to
+wild-type sequence ( Crane et al., 2015 ). To compare the two
+diseased (DF508/DF508) iPSC lines to their syngeneic heterozy-
+gous corrected progeny ( DF508/wild-type [WT]), we differenti-
+ated all four clones to the lung progenitor stage ( Figure 6A) and
+puriﬁed each differentiated line using our CD47
+hi/CD26/C0 sort al-
+gorithm (Figure 6B) and differentiated the organoids further in our
+‘‘low-Wnt’’ media ( Figure 6 C). After proximalization, the gene
+corrected DF508/WT RC2 202 and 204 organoids signiﬁcantly
+swelled in response to forskolin treatment (1.73- ± 0.15-fold
+and 1.32- ± 0.09-fold, respectively; average rate of swelling for
+RC2 202 = 0.067-fold/hr ± 0.059 in the ﬁrst 2.5 hr and 0.025-
+fold/hr ± 0.013 in the subsequent 22 hr; Figures 6 D–6F). These
+values were comparable to swelling observed in the normal
+(BU3) organoids (Figure S6D). In contrast, the DF508/DF508 ho-
+mozygous parental lines again showed no signiﬁcant swelling in
+the same conditions (Figures 6D–6F and S6E; Movies S2 and S3)
+Taken together, these results support the conclusion that prox-
+imalized iPSC-derived lung organoids contain functional epithe-
+lial cells with the potential for in vitro lung-speciﬁc disease
+modeling and gene correction of cystic ﬁbrosis.
+DISCUSSION
+Our results demonstrate the directed differentiation of PSCs into
+functional airway epithelial cells via an NKX2-1
++ progenitor inter-
+mediate in response to cyclical modulation of developmental
+signaling pathways. Using genetic mouse models to inform
+pathway screening during a narrow 4-day window post-lung
+speciﬁcation, we identiﬁed Wnt signaling as a potent and key
+regulator of proximodistal patterning in both human and mouse
+PSC-derived lung epithelium. Our in vitro ﬁndings signiﬁcantly
+extend prior observations made in mice in vivo, and suggest
+that developing human airway epithelia are similarly patterned
+by oscillations in levels of canonical Wnt signaling. For example,
+prior published mouse studies emphasize a requirement for Wnt
+signaling during the narrow developmental window of lung spec-
+iﬁcation (Goss et al., 2009; Harris-Johnson et al., 2009 ) followed
+by alterations in Wnt signaling levels to regulate proximodistal
+patterning. In particular, it has been demonstrated that Wnt
+inhibition in mice promotes increases in proximalization at the
+expense of distal lineages ( Mucenski et al., 2003; Shu et al.,
+2005; Volckaert et al., 2013 ). In contrast, forced activation of
+Wnt signaling maintains distal lung progenitor programs while
+suppressing proximalization ( Hashimoto et al., 2012; Li et al.,
+2009). In some models, forced hyperactivation of canonical
+Wnt signaling during mouse lung development blocks club cell
+differentiation ( Hashimoto et al., 2012 ) or activates aberrant
+gastrointestinal gene expression programs in the lung epithelium
+(Okubo and Hogan, 2004). Interestingly, Wnt activation or inacti-
+vation in post-natal proximalized mouse lung epithelia does not
+result in loss of patterning ( Reynolds et al., 2008; Zemke et al.,
+2009) in the absence of injury but has been correlated with
+airway epithelial dysregulation in adult human smokers ( Wang
+et al., 2011 ).
+Similarly, we ﬁnd that although Wnt signaling is essential for
+speciﬁcation of respiratory progenitors from hPSCs, withdrawal
+of Wnt post-speciﬁcation promotes rapid emergence of the
+proximal airway program and abrogation of distal lung fate via
+a mechanism intrinsic to the NKX2-1
++ epithelium. This latter
+ﬁnding is critical, as previous genetic mouse models have
+emphasized both patterning and epithelial branching morpho-
+genesis defects in the context of abnormal Wnt signaling. In
+contrast, our model provides interrogation of epithelial-speciﬁc
+effects of Wnt signaling distinct from defects in lung structure
+or branching.
+In contrast to previously described iPSC protocols using
+extended culture conditions to generate cell types of interest
+(Gotoh et al., 2014; Konishi et al., 2016 ), the rapidity and
+stage-speciﬁcity of Wnt-driven proximodistal airway patterning
+strongly supports our interpretation that temporal oscillations
+Cell Stem Cell 20, 844–857, June 1, 2017 853
+
+<<<PAGE 12>>>
+in signaling pathway activation are a critical component of effec-
+tive directed airway differentiation. Building on these ﬁndings,
+we generated the novel ‘‘low-Wnt’’ protocol presented here for
+the derivation of airway organoids from puriﬁed NKX2-1 + lung
+epithelial progenitors. Although we demonstrate that FGF
+signaling does not block the initial proximal patterning of these
+A
+B C
+D
+E
+F
+Figure 6. Functional Assessment of Gene Edited, Cystic Fibrosis Patient-Speciﬁc iPSC-Derived Airway Organoids Indicates a CFTR-
+Dependent Forskolin Swelling Response
+(A) Schematics depicting the generation, gene correction, and differentiation of syngeneic DF508/DF508 and DF508/WT cystic ﬁbrosis patient-derived
+hPSC lines.
+(B) Representative ﬂow cytometry analysis of intracellular NKX2-1 expression pre- and post-CD47
+hi/CD26/C0 sorting of uncorrected and corrected cystic ﬁbrosis
+iPSC line RC2 204. Middle plots show typical CD47/CD26 sort gating strategy.
+(C) Schematic describing post-sort outgrowth of differentiated cells.
+(D) Fluorescence microscopy of live (calcein green stained) organoids from pre- and post-corrected iPSC line RC2 202 at time = 0 hr and time = 24 hr post-
+forskolin treatment. Scale bars, 100 mm.
+(E) Time-lapse phase contrast microscopy of forskolin-treated, gene-corrected ( DF508/WT) organoids from RC2 204.
+(F) Quantiﬁcation of normalized swelling area of organoids derived from pre- and post-corrected clones of RC2 202 at time = 0, 3, and 25 hr. Calcein green stained
+area for each well set to 1 at time = 0 hr. Bars represent mean ± SD, n = 3 biological replicates from independent wells of a differentiation. p = 0.0038 by un paired,
+two-tailed Student’s t test.
+See also Figure S6 and Movies S2 and S3.
+854 Cell Stem Cell 20, 844–857, June 1, 2017
+
+<<<PAGE 13>>>
+cells, we have not ruled out the possibility that this pathway,
+stimulated by FGFs added as trophic factors to our base media,
+might contribute to the subsequent differentiation of proximal
+cell types within these organoids.
+In our characterization and optimization of this ‘‘low-Wnt’’ pro-
+tocol, three key features of our approach are unique. First, the
+use of an NKX2-1 GFP knockin reporter has allowed us to dissect
+lineage relationships, establishing that our proximal airway
+epithelia derive directly from an NKX2-1
++ lung progenitor inter-
+mediate. Second, the ability to modulate Wnt signaling in these
+puriﬁed NKX2-1 + ‘‘epithelial only’’ derivatives allows testing of
+intrinsic pathway effects separated from the potentially con-
+founding responses of mesenchymal or other NKX2-1 /C0 lineages
+that are frequently present in unsorted heterogeneous PSC ex-
+periments. Third, the rapid, patterned response of our sorted
+lung progenitors to withdrawal of Wnt (augmented proximaliza-
+tion concordant with loss of distalization within 4 days) suggests
+that directed developmental patterning is occurring rather than
+the overgrowth of competing proximal lineages that can occur
+with prolonged culture periods. While we cannot completely
+exclude the possibility that selection of lineage restricted cells,
+rather than the patterning of bipotent or equipotent NKX2-1
++
+day 15 progenitors is occurring in our protocol, the rapidity
+of the large-scale changes in SOX9 versus SOX2 expression
+patterns in response to Wnt withdrawal argues against this
+possibility.
+The end result of our approach is the production of a poten-
+tially inexhaustible source of human proximal airway organoids.
+These luminal structures contain multiple airway epithelial line-
+ages and express airway markers at levels comparable to the
+adult lung. As predicted by murine models, inhibition of Notch
+signaling in these organoids or subsequent 2D air-liquid interface
+culture results in ciliogenesis in a subset of cells (You et al., 2002;
+Firth et al., 2014; Konishi et al., 2016 ) and provides evidence for
+our conclusion that organoids grown from puriﬁed NKX2-1
++ lung
+epithelial cells in the absence of CHIR represent proximalized
+airway progenitors that respond as predicted to developmental
+signaling cues.
+One important goal of our work is the engineering of clinically
+applicable patient-speciﬁc in vitro models of airway epithelial
+disease and epithelial function. Thus, we have developed cell-
+sorting algorithms (CD47
+hi/CD26/C0) that enable the isolation of
+iPSC-derived NKX2-1 + lung progenitors possessing airway or-
+ganoid competence without the need to generate NKX2-1 GFP
+knockin reporters for each patient-speciﬁc line to be studied.
+We employ this sorting algorithm and our proximalization
+approach to produce patient-speciﬁc airway epithelial organoids
+both before and after gene editing to correct the CFTR genetic
+lesion responsible for cystic ﬁbrosis. These airway organoids
+allow in vitro forskolin stimulation assays to analyze CFTR func-
+tion in lung epithelial cells. A logical priority in future studies will
+be testing whether our patient-speciﬁc airway organoid model of
+cystic ﬁbrosis more closely recapitulates the airway disease
+phenotypes or known person-to-person variability in disease
+manifestations compared to previously published and more
+invasive models of CFTR function that are based on non-lung
+cells, such as primary intestinal cell-derived forskolin-induced
+swelling assays ( Dekkers et al., 2013 ). Beyond cystic ﬁbrosis,
+the iPSC airway organoid system may also be readily adaptable
+for in vitro modeling and drug development for other inherited
+diseases of the airway, such as primary ciliary dyskinesia.
+In summary, the ﬁndings presented here demonstrate the
+rapid generation of airway organoids by stage-dependent mod-
+ulation of Wnt signaling and proof-of-principle for the utility of
+these organoids in lung disease modeling. Thus, we have devel-
+oped a human in vitro PSC-based model system able to reveal
+basic mechanisms regulating lung developmental cell fate deci-
+sions and model airway epithelial diseases with potential clinical
+beneﬁt for precision drug screening and regenerative medicine.
+STAR+METHODS
+Detailed methods are provided in the online version of this paper
+and include the following:
+d KEY RESOURCES TABLE
+d CONTACT FOR REAGENT AND RESOURCE SHARING
+d EXPERIMENTAL MODEL AND SUBJECT DETAILS
+B Human ESC/iPSC Reporter Line Generation and Main-
+tenance
+B Mouse ESC Reporter Line Maintenance
+d METHOD DETAILS
+B Directed Differentiation of hPSCs
+B Puriﬁcation of NKX2-1+ Lung Progenitors by Cell
+Sorting
+B Post-Speciﬁcation Patterning of Lung Epithelial Pro-
+genitors
+B Gene Set Enrichment Analysis
+B Generation of Lentiviral Reporters for Wnt Signaling
+B Reverse Transcriptase Quantitative RT Polymerase
+Chain Reaction (qRT-PCR)
+B Intracellular Flow Cytometry for NKX2-1 and SOX2
+B Immunoﬂuorescence Microscopy of Cultured Cells
+B Directed Differentiation of mESCs to Nkx2-1+ Lung
+Epithelium
+B Forskolin-Induced Swelling of Organoids
+d QUANTIFICATION AND STATISTICAL ANALYSIS
+B Statistical Methods
+d DATA AND SOFTWARE AVAILABILITY
+d ADDITIONAL RESOURCES
+SUPPLEMENTAL INFORMATION
+Supplemental Information includes six ﬁgures, three tables, and three movies
+and can be found with this article online at http://dx.doi.org/10.1016/j.stem.
+2017.03.001.
+AUTHOR CONTRIBUTIONS
+K.B.M. and D.N.K. designed the project, developed experiments, analyzed
+data, and wrote the manuscript. K.B.M. performed the experiments. F.H.,
+M.S., A.J., and D.C.T. designed and performed additional experiments and
+analyzed data.
+ACKNOWLEDGMENTS
+We thank members of the Kotton-Wilson-Ikonomou laboratory for helpful dis-
+cussions and manuscript review. We thank Aleksander Szymaniak, Julia Ber-
+thet, and Anne Hinds for assistance with histology methods and Nicholas Skvir
+for microarray analysis. We are grateful to Brian Tilton of the Boston University
+Flow Cytometry Core, supported by grant 1UL1TR001430, and Drs. Greg
+Cell Stem Cell 20, 844–857, June 1, 2017 855
+
+<<<PAGE 14>>>
+Miller and Marianne James of the CReM, supported by NIH grants
+R24HL123828 and U01TR001810. This work was supported by NIH grant
+awards F31HL129777-01 (to K.B.M.), F31HL134274-01 and TL1TR001410
+(to A.J.), and R01HL122442, R01HL095993, R01HL128172, U01HL099997,
+U01HL134745, and U01HL134766 (to D.N.K.); awards from the Cystic Fibrosis
+Foundation (CFF HAWKIN15XX0 to F.H. and CFF DAVIS15XX1 to D.N.K.), and
+an award from the Massachusetts Life Sciences Center to the CReM.
+Received: November 2, 2016
+Revised: January 16, 2017
+Accepted: March 3, 2017
+Published: March 30, 2017
+REFERENCES
+Bellusci, S., Grindley, J., Emoto, H., Itoh, N., and Hogan, B. (1997). Fibroblast
+growth factor 10 (FGF10) and branching morphogenesis in the embryonic
+mouse lung. Development 124, 4867–4878.
+Bilodeau, M., Shojaie, S., Ackerley, C., Post, M., and Rossant, J. (2014).
+Identiﬁcation of a proximal progenitor population from murine fetal lungs
+with clonogenic and multilineage differentiation potential. Stem Cell Reports
+3, 634–649.
+Cardoso, W.V., Itoh, A., Nogawa, H., Mason, I., and Brody, J.S. (1997). FGF-1
+and FGF-7 induce distinct patterns of growth and differentiation in embryonic
+lung epithelium. Dev. Dyn. 208, 398–405.
+Chen, F., Desai, T.J., Qian, J., Niederreither, K., L €u, J., and Cardoso, W.V.
+(2007). Inhibition of Tgf beta signaling by endogenous retinoic acid is essential
+for primary lung bud induction. Development 134, 2969–2979.
+Chen, F., Cao, Y., Qian, J., Shao, F., Niederreither, K., and Cardoso, W.V.
+(2010). A retinoic acid-dependent network in the foregut controls formation
+of the mouse lung primordium. J. Clin. Invest. 120, 2040–2048.
+Crane, A.M., Kramer, P., Bui, J.H., Chung, W.J., Li, X.S., Gonzalez-Garay,
+M.L., Hawkins, F., Liao, W., Mora, D., Choi, S., et al. (2015). Targeted correc-
+tion and restored function of the CFTR gene in cystic ﬁbrosis induced pluripo-
+tent stem cells. Stem Cell Reports 4, 569–577.
+De Langhe, S.P., Sala, F.G., Del Moral, P.-M., Fairbanks, T.J., Yamada, K.M.,
+Warburton, D., Burns, R.C., and Bellusci, S. (2005). Dickkopf-1 (DKK1) reveals
+that ﬁbronectin is a major target of Wnt signaling in branching morphogenesis
+of the mouse embryonic lung. Dev. Biol. 277, 316–331.
+Dekkers, J.F., Wiegerinck, C.L., de Jonge, H.R., Bronsveld, I., Janssens, H.M.,
+de Winter-de Groot, K.M., Brandsma, A.M., de Jong, N.W.M., Bijvelds, M.J.C.,
+Scholte, B.J., et al. (2013). A functional CFTR assay using primary cystic
+ﬁbrosis intestinal organoids. Nat. Med. 19, 939–945.
+Dye, B.R., Hill, D.R., Ferguson, M.A., Tsai, Y.H., Nagy, M.S., Dyal, R., Wells,
+J.M., Mayhew, C.N., Nattiv, R., Klein, O.D., et al. (2015). In vitro generation
+of human pluripotent stem cell derived lung organoids. eLife 4, e05098.
+Firth, A.L., Dargitz, C.T., Qualls, S.J., Menon, T., Wright, R., Singer, O., Gage,
+F.H., Khanna, A., and Verma, I.M. (2014). Generation of multiciliated cells in
+functional airway epithelia from human induced pluripotent stem cells. Proc.
+Natl. Acad. Sci. USA 111, E1723–E1730.
+Fuerer, C., and Nusse, R. (2010). Lentiviral vectors to probe and manipulate the
+Wnt signaling pathway. PLoS ONE 5, e9370.
+Goss, A.M., Tian, Y., Tsukiyama, T., Cohen, E.D., Zhou, D., Lu, M.M.,
+Yamaguchi, T.P., and Morrisey, E.E. (2009). Wnt2/2b and beta-catenin
+signaling are necessary and sufﬁcient to specify lung progenitors in the fore-
+gut. Dev. Cell 17, 290–298.
+Gotoh, S., Ito, I., Nagasaki, T., Yamamoto, Y., Konishi, S., Korogi, Y.,
+Matsumoto, H., Muro, S., Hirai, T., Funato, M., et al. (2014). Generation of alve-
+olar epithelial spheroids via isolated progenitor cells from human pluripotent
+stem cells. Stem Cell Reports 3, 394–403.
+Green, M.D., Chen, A., Nostro, M.-C., d’Souza, S.L., Schaniel, C., Lemischka,
+I.R., Gouon-Evans, V., Keller, G., and Snoeck, H.-W. (2011). Generation of
+anterior foregut endoderm from human embryonic and induced pluripotent
+stem cells. Nat. Biotechnol. 29, 267–272.
+Harris-Johnson, K.S., Domyan, E.T., Vezina, C.M., and Sun, X. (2009).
+beta-Catenin promotes respiratory progenitor identity in mouse foregut.
+Proc. Natl. Acad. Sci. USA 106, 16287–16292.
+Hashimoto, S., Chen, H., Que, J., Brockway, B.L., Drake, J.A., Snyder, J.C.,
+Randell, S.H., and Stripp, B.R. (2012). b-Catenin-SOX2 signaling regulates
+the fate of developing airway epithelium. J. Cell Sci. 125, 932–942.
+Hawkins, F., Kramer, P., Jacob, A., Driver, I., Thomas, D.C., McCauley, K.B.,
+Skvir, N., Crane, A.M., Kurmann, A.A., Hollenberg, A.N., et al. (2017).
+Prospective isolation of NKX2-1-expressing human lung progenitors derived
+from pluripotent stem cells. J. Clin. Invest. Published online May 2, 2017.
+http://dx.doi.org/10.1172/JCI89950.
+Huang, S.X.L., Islam, M.N., O’Neill, J., Hu, Z., Yang, Y.-G., Chen, Y.-W.,
+Mumau, M., Green, M.D., Vunjak-Novakovic, G., Bhattacharya, J., and
+Snoeck, H.-W. (2014). Efﬁcient generation of lung and airway epithelial cells
+from human pluripotent stem cells. Nat. Biotechnol. 32, 84–91.
+Huang, S.X.L., Green, M.D., de Carvalho, A.T., Mumau, M., Chen, Y.-W.,
+D’Souza, S.L., and Snoeck, H.-W. (2015). The in vitro generation of lung and
+airway progenitor cells from human pluripotent stem cells. Nat. Protoc.
+10,
+413–425.
+Hyatt, B.A., Shangguan, X., and Shannon, J.M. (2004). FGF-10 induces SP-C
+and Bmp4 and regulates proximal-distal patterning in embryonic tracheal
+epithelium. Am. J. Physiol. Lung Cell. Mol. Physiol. 287, L1116–L1126.
+Ikeda, K., Clark, J.C., Shaw-White, J.R., Stahlman, M.T., Boutell, C.J., and
+Whitsett, J.A. (1995). Gene structure and expression of human thyroid tran-
+scription factor-1 in respiratory epithelial cells. J. Biol. Chem. 270, 8108–8114.
+Kim, B.R., Van de Laar, E., Cabanero, M., Tarumi, S., Hasenoeder, S., Wang,
+D., Virtanen, C., Suzuki, T., Bandarchi, B., Sakashita, S., et al. (2016). SOX2
+and PI3K cooperate to induce and stabilize a squamous-committed stem
+cell injury state during lung squamous cell carcinoma pathogenesis. PLoS
+Biol. 14, e1002581.
+Konishi, S., Gotoh, S., Tateishi, K., Yamamoto, Y., Korogi, Y., Nagasaki, T.,
+Matsumoto, H., Muro, S., Hirai, T., Ito, I., et al. (2016). Directed induction
+of functional multi-ciliated cells in proximal airway epithelial spheroids from
+human pluripotent stem cells. Stem Cell Reports 6, 18–25.
+Kurmann, A.A., Serra, M., Hawkins, F., Rankin, S.A., Mori, M., Astapova, I.,
+Ullas, S., Lin, S., Bilodeau, M., Rossant, J., et al. (2015). Regeneration of thy-
+roid function by transplantation of differentiated pluripotent stem cells. Cell
+Stem Cell 17, 527–542.
+Li, C., Li, A., Li, M., Xing, Y., Chen, H., Hu, L., Tiozzo, C., Anderson, S., Taketo,
+M.M., and Minoo, P. (2009). Stabilized beta-catenin in lung epithelial cells
+changes cell fate and leads to tracheal and bronchial polyposis. Dev. Biol.
+334, 97–108.
+Liu, Y., and Hogan, B.L.M. (2002). Differential gene expression in the distal tip
+endoderm of the embryonic mouse lung. Gene Expr. Patterns 2, 229–233.
+Liu, Y., Jiang, H., Crawford, H.C., and Hogan, B.L.M. (2003). Role for ETS
+domain transcription factors Pea3/Erm in mouse lung development. Dev.
+Biol. 261, 10–24.
+Longmire, T.A., Ikonomou, L., Hawkins, F., Christodoulou, C., Cao, Y., Jean,
+J.C., Kwok, L.W., Mou, H., Rajagopal, J., Shen, S.S., et al. (2012). Efﬁcient
+derivation of puriﬁed lung and thyroid progenitors from embryonic stem cells.
+Cell Stem Cell 10, 398–411.
+Mootha, V.K., Lindgren, C.M., Eriksson, K.-F., Subramanian, A., Sihag, S.,
+Lehar, J., Puigserver, P., Carlsson, E., Ridderstra ˚ le, M., Laurila, E., et al.
+(2003). PGC-1alpha-responsive genes involved in oxidative phosphorylation
+are coordinately downregulated in human diabetes. Nat. Genet. 34, 267–273.
+Mou, H., Zhao, R., Sherwood, R., Ahfeldt, T., Lapey, A., Wain, J., Sicilian, L.,
+Izvolsky, K., Musunuru, K., Cowan, C., and Rajagopal, J. (2012). Generation
+of multipotent lung and airway progenitors from mouse ESCs and patient-spe-
+ciﬁc cystic ﬁbrosis iPSCs. Cell Stem Cell 10, 385–397.
+Mou, H., Vinarsky, V., Tata, P.R., Brazauskas, K., Choi, S.H., Crooke, A.K.,
+Zhang, B., Solomon, G.M., Turner, B., Bihler, H., et al. (2016). Dual SMAD
+signaling inhibition enables long-term expansion of diverse epithelial basal
+cells. Cell Stem Cell 19, 217–231.
+856 Cell Stem Cell 20, 844–857, June 1, 2017
+
+<<<PAGE 15>>>
+Mucenski, M.L., Wert, S.E., Nation, J.M., Loudy, D.E., Huelsken, J.,
+Birchmeier, W., Morrisey, E.E., and Whitsett, J.A. (2003). beta-Catenin is
+required for speciﬁcation of proximal/distal cell fate during lung morphogen-
+esis. J. Biol. Chem. 278, 40231–40238.
+Okubo, T., and Hogan, B.L.M. (2004). Hyperactive Wnt signaling changes the
+developmental potential of embryonic lung endoderm. J. Biol. 3,1 1.
+Phelps, D.S., and Floros, J. (1988). Localization of surfactant protein synthesis
+in human lung by in situ hybridization. Am. Rev. Respir. Dis. 137, 939–942.
+Ramasamy, S.K., Mailleux, A.A., Gupte, V.V., Mata, F., Sala, F.G., Veltmaat,
+J.M., Del Moral, P.M., De Langhe, S., Parsa, S., Kelly, L.K., et al. (2007).
+Fgf10 dosage is critical for the ampliﬁcation of epithelial cell progenitors and
+for the formation of multiple mesenchymal lineages during lung development.
+Dev. Biol. 307, 237–247.
+Rawlins, E.L., Clark, C.P., Xue, Y., and Hogan, B.L.M. (2009). The Id2+ distal tip
+lung epithelium contains individual multipotent embryonic progenitor cells.
+Development 136, 3741–3745.
+Reynolds, S.D., Zemke, A.C., Giangreco, A., Brockway, B.L., Teisanu, R.M.,
+Drake, J.A., Mariani, T., Di, P.Y., Taketo, M.M., and Stripp, B.R. (2008).
+Conditional stabilization of b-catenin expands the pool of lung stem cells.
+Stem Cells 26, 1337–1346.
+Rock, J.R., Onaitis, M.W., Rawlins, E.L., Lu, Y., Clark, C.P., Xue, Y., Randell,
+S.H., and Hogan, B.L.M. (2009). Basal cells as stem cells of the mouse trachea
+and human airway epithelium. Proc. Natl. Acad. Sci. USA 106, 12771–12775.
+Sekine, K., Ohuchi, H., Fujiwara, M., Yamasaki, M., Yoshizawa, T., Sato, T.,
+Yagishita, N., Matsui, D., Koga, Y., Itoh, N., and Kato, S. (1999). Fgf10 is essen-
+tial for limb and lung formation. Nat. Genet. 21, 138–141.
+Shu, W., Guttentag, S., Wang, Z., Andl, T., Ballard, P., Lu, M.M., Piccolo, S.,
+Birchmeier, W., Whitsett, J.A., Millar, S.E., and Morrisey, E.E. (2005). Wnt/
+beta-catenin signaling acts upstream of N-myc, BMP4, and FGF signaling to
+regulate proximal-distal patterning in the lung. Dev. Biol. 283, 226–239.
+Somers, A., Jean, J.-C., Sommer, C.A., Omari, A., Ford, C.C., Mills, J.A., Ying,
+L., Sommer, A.G., Jean, J.M., Smith, B.W., et al. (2010). Generation of trans-
+gene-free lung disease-speciﬁc human induced pluripotent stem cells using
+a single excisable lentiviral stem cell cassette. Stem Cells 28, 1728–1740.
+ten Berge, D., Koole, W., Fuerer, C., Fish, M., Eroglu, E., and Nusse, R. (2008).
+Wnt signaling mediates self-organization and axis formation in embryoid
+bodies. Cell Stem Cell 3, 508–518.
+Tsao, P.N., Vasconcelos, M., Izvolsky, K.I., Qian, J., Lu, J., and Cardoso, W.V.
+(2009). Notch signaling controls the balance of ciliated and secretory cell fates
+in developing airways. Development 136, 2297–2307.
+Volckaert, T., Campbell, A., Dill, E., Li, C., Minoo, P., and De Langhe, S. (2013).
+Localized Fgf10 expression is not required for lung branching morphogen-
+esis but prevents differentiation of epithelial progenitors. Development 140,
+3731–3742.
+Wang, R., Ahmed, J., Wang, G., Hassan, I., Strulovici-Barel, Y., Hackett, N.R.,
+and Crystal, R.G. (2011). Down-regulation of the canonical Wnt b-catenin
+pathway in the airway epithelium of healthy smokers and smokers with
+COPD. PLoS ONE 6, e14793.
+Weaver, M., Yingling, J.M., Dunn, N.R., Bellusci, S., and Hogan, B.L. (1999).
+Bmp signaling regulates proximal-distal differentiation of endoderm in mouse
+lung development. Development 126, 4005–4015.
+Weaver, M., Dunn, N.R., and Hogan, B.L. (2000). Bmp4 and Fgf10 play
+opposing roles during lung bud morphogenesis. Development 127, 2695–
+2704.
+Wilson, A.A., Murphy, G.J., Hamakawa, H., Kwok, L.W., Srinivasan, S., Hovav,
+A.-H., Mulligan, R.C., Amar, S., Suki, B., and Kotton, D.N. (2010). Amelioration
+of emphysema in mice through lentiviral transduction of long-lived pulmonary
+alveolar macrophages. J. Clin. Invest. 120, 379–389.
+Wong, A.P., Bear, C.E., Chin, S., Pasceri, P., Thompson, T.O., Huan, L.-J.,
+Ratjen, F., Ellis, J., and Rossant, J. (2012). Directed differentiation of human
+pluripotent stem cells into mature airway epithelia expressing functional
+CFTR protein. Nat. Biotechnol. 30, 876–882.
+Xu, Y., Mizuno, T., Sridharan, A., Du, Y., Guo, M., Tang, J., Wikenheiser-
+Brokamp, K.A., Perl, A.T., Funari, V.A., Gokey, J.J., et al. (2016). Single-cell
+RNA sequencing identiﬁes diverse roles of epithelial cells in idiopathic pulmo-
+nary ﬁbrosis. JCI Insight 1, e90558.
+You, Y., Richer, E.J., Huang, T., and Brody, S.L. (2002). Growth and differen-
+tiation of mouse tracheal epithelial cells: selection of a proliferative population.
+Am. J. Physiol. Lung Cell. Mol. Physiol. 283, L1315–L1321.
+Zemke, A.C., Teisanu, R.M., Giangreco, A., Drake, J.A., Brockway, B.L.,
+Reynolds, S.D., and Stripp, B.R. (2009). beta-Catenin is not necessary for
+maintenance or repair of the bronchiolar epithelium. Am. J. Respir. Cell Mol.
+Biol. 41, 535–5430.
+Cell Stem Cell 20, 844–857, June 1, 2017 857
+
+<<<PAGE 16>>>
+STAR+METHODS
+KEY RESOURCES TABLE
+REAGENT or RESOURCE SOURCE IDENTIFIER
+Antibodies
+Rabbit monoclonal to NKX2-1 (clone EP15847) Abcam Cat.# ab76013
+Mouse monoclonal to NKX2-1 (clone 8G7G3/1) Abcam Cat.# ab72876
+Mouse monoclonal to FOXA2 (clone HNF-3B) Santa Crus Cat.# sc-101060
+Mouse monoclonal to SOX2 (clone O30-678) BD Biosciences Cat.# 561469
+Goat polyclonal to SOX2 Santa Cruz Cat.# sc-17320
+Mouse monoclonal to TP63 (clone 4A4) BioCare Medical Cat.# 163
+Rabbit polyclonal to TP63 Santa Cruz Cat.# sc-8344
+Chicken polyclonal to KRT5 Biolegend Cat.# 905901
+Mouse monoclonal to EPCAM (clone AUA1) Abcam Cat.# ab20160
+Rabbit polyclonal to Pro-SPB Seven Hills Cat.# WRAB-55522
+Rabbit monoclonal to SCGB3A2 (clone EPR11463) Abcam Cat.#. ab181853
+Mouse monoclonal to MUC5AC (clone 45M1) ThermoFisher Cat.# MA1-38223
+Rabbit monoclonal to acetylated alpha-tubulin (clone D20G3) Cell Signaling Technologies Cat.# 5335
+Mouse monoclonal to CD26, PE conjugated (clone BA5b) Biolegend Cat.# 302705
+Mouse monoclonal to CD47, PerCP-Cy5.5 conjugated (clone CC2C6) Biolegend Cat.# 323110
+AfﬁniPure Donkey Anti-Rabbit IgG (H+L), 488 conjugated Jackson Immunoresearch Cat.# 711-225-152
+AfﬁniPure Donkey Anti-Rabbit IgG (H+L), Cy3 conjugated Jackson Immunoresearch Cat.# 711-165-152
+AfﬁniPure Donkey Anti-Rabbit IgG (H+L), AlexaFluor 647 conjugated Jackson Immunoresearch Cat.# 711-605-152
+AfﬁniPure Donkey Anti-Mouse IgG (H+L), AlexaFluor 647 conjugated Jackson Immunoresearch Cat.# 715-605-150
+AfﬁniPure Donkey Anti-Mouse IgG (H+L), AlexaFluor Cy3 conjugated Jackson Immunoresearch Cat.# 715-165-150
+AfﬁniPure Donkey Anti-Goat IgG (H+L), AlexaFluor 647 conjugated Jackson Immunoresearch Cat.# 305-605-003
+AfﬁniPure Donkey Anti-Chicken IgG (H+L), AlexaFluor 488 conjugated Jackson Immunoresearch Cat.# 703-545-155
+Human Cell Surface Marker Screening Panel BD Biosciences Cat.# 560747
+Chemicals, Peptides, and Recombinant Proteins
+Growth Factor Reduced Matrigel Corning Cat.# 356230
+SB431542 Tocris Cat.# 1614
+Dorsomorphin Stemgent Cat.# 04-0024
+CHIR99021 Tocris Cat.# 4423
+Recombinant human FGF10 R&D Systems Cat.# 345-FG-025
+Recombinant human KGF R&D Systems Cat.# 251-KG-010
+Recombinant human BMP4 R&D Systems Cat.# 314-BP
+Retinoic acid Sigma Cat.# R2625
+Y-27632 dihydrochloride Tocris Cat.# 1254
+Recombinant human FGF2 R&D Systems Cat.# 233-FB
+Recombinant human TGF b R&D Systems Cat.# 240-B
+DAPT Sigma Cat.# D5942
+Dexamethasone Sigma Cat.# D4902
+8-bromoadenosine 3
+0,50-cyclic monophosphate sodium salt (cAMP) Sigma Cat.# B7880
+3-Isobutyl-1-methylxanthine (IBMX) Sigma Cat.# I5879
+Forskolin Sigma Cat.# F3917
+AlexaFluor 647 Phalloidin ThermoFisher Scientiﬁc Cat.# A22287
+Hoechst ThermoFisher Scientiﬁc H3570
+Recombinant mouse Noggin R&D Systems Cat.# 1967-NG
+Recombinant mouse Wnt3a R&D Systems Cat.# 1324-WN
+(Continued on next page )
+e1 Cell Stem Cell 20, 844–857.e1–e6, June 1, 2017
+
+<<<PAGE 17>>>
+CONTACT FOR REAGENT AND RESOURCE SHARING
+Further information and requests for reagents may be directed to, and will be fulﬁlled by, the Lead Contact, Darrell Kotton ( dkotton@
+bu.edu).
+EXPERIMENTAL MODEL AND SUBJECT DETAILS
+Human ESC/iPSC Reporter Line Generation and Maintenance
+The differentiation of iPSC lines was performed under the approval of the Institutional Review Board of Boston University (protocols
+H27636, H32506, and H33122) and with documented informed consent of all donors. The NKX2-1 GFP iPSC lines (‘‘BU3’’ and ‘‘C17’’)
+Continued
+REAGENT or RESOURCE SOURCE IDENTIFIER
+Recombinant human Wnt3a R&D Systems Cat.# 5036-WN
+Critical Commercial Assays
+RNeasy Mini Kit QIAGEN Cat.# 74104
+QIAzol Lysis Reagent QIAGEN Cat.# 79306
+TaqMan Fast Universal PCR Master Mix (2X), no AmpErase UNG ThermoFisher Scientiﬁc Cat.# 4364103
+Deposited Data
+Microarray database of time course of differentiating
+NKX2-1+ lung epithelium
+Hawkins et al., 2017 GEO: GSE83310
+Experimental Models: Cell Lines
+Human: Normal donor induced pluripotent stem cell (iPSC) line (BU3) Kotton Lab ( Kurmann et al., 2015 ) www.bumc.bu.edu/stemcells
+Human: Normal donor iPSC line targeted with NKX2-1 GFP (BU3GFP) Kotton Lab ( Hawkins et al. 2017 ). www.bumc.bu.edu/stemcells
+Human: Cystic ﬁbrosis donor iPSC line targeted with NKX2-1 GFP (C17) Gift from Dr. Brian Davis, Houston,
+TX (Crane et al., 2015 )
+Human: Cystic ﬁbrosis donor iPSC line (RC2 204 D508/DF508) Kotton Lab ( Somers et al., 2010 ) www.bumc.bu.edu/stemcells
+Human: Corrected cystic ﬁbrosis donor iPSC line (RC2 204 D508/WT) Kotton Lab ( Crane et al., 2015 )
+Human: Cystic ﬁbrosis donor iPSC line (RC2 202 D508/DF508) Kotton Lab ( Somers et al., 2010 ) www.bumc.bu.edu/stemcells
+Human: Corrected cystic ﬁbrosis donor iPSC line (RC2 202 D508/WT) Kotton Lab ( Crane et al., 2015 ).
+Human: RUES2 embryonic stem cell line Gift from Dr. Ali H. Brivanlou,
+Rockefeller University
+Mouse: Nkx2-1mCherry embryonic stem cell line Gift from Dr. Janet Rossant,
+Hospital for Sick Children, Toronto,
+Canada (Bilodeau et al., 2014 )
+Recombinant DNA
+Ef1alpha-betacatenin(deltaGSK)-SV40-mCherry lentiviral plasmid Addgene (Gift from Dr. Roel Nusse,
+Stanford University)
+Addgene Plasmid #23412
+7xTcf-mCherry lentiviral plasmid Addgene (Gift from Dr. Roel Nusse,
+Stanford University)
+Addgene Plasmid #24315
+pHAGE Ef1alpha-mCherry lentiviral plasmid this paper
+Sftpc
+GFP lentiviral plasmid Kotton Lab ( Longmire et al., 2012 ) www.kottonlab.com
+Sequence-Based Reagents
+TaqMan Gene Expression Assay Primer/Probe Sets ThermoFisher Scientiﬁc See Table S3 for details
+per gene
+Software and Algorithms
+ImageJ National Institutes of Health https://Imagej.nih.gov/ij/
+Other
+StemDiff Deﬁnitive Endoderm Kit StemCell Technologies Cat.# 05110
+mTeSR1 StemCell Technologies Cat.# 05850
+PneumaCult ALI Medium StemCell Technologies Cat.# 05001
+Gentle Cell Dissociation Reagent StemCell Technologies Cat.# 07174
+ReLeSR StemCell Technologies Cat.# 05872
+TransIT Transfection Reagent Mirus Bio Cat. # Mir2700
+Cell Stem Cell 20, 844–857.e1–e6, June 1, 2017 e2
+
+<<<PAGE 18>>>
+were derived from a normal donor and an individual with cystic ﬁbrosis carrying a published compound heterozygous CFTR genotype
+(Crane et al., 2015 ), respectively. Both lines were targeted with an NKX2-1 GFP ﬂuorescent reporter using CRISPR and TALENs tech-
+nologies, respectively, in previous studies ( Hawkins et al., 2017 ). Two CFTR mutant iPSC lines of genotype DF508/DF508 (clones
+RC2 202 and RC2 204; generated from two individual donors with cystic ﬁbrosis) ( Somers et al., 2010 ) and their gene-edited sub-
+clones, engineered to each carry one corrected CFTR allele, were obtained from the iPSC Core of the CReM of Boston University
+and Boston Medical Center ( Crane et al., 2015 ). The RUES2 human embryonic stem cell line was a generous gift from Dr. Ali H. Bri-
+vanlou of The Rockefeller University. All human PSC lines were maintained in feeder-free culture conditions in 6-well tissue culture
+dishes (Corning, Corning, NY) on growth factor reduced Matrigel (Corning) in mTeSR1 medium (Stem Cell Technologies, Vancouver,
+Canada) by passaging with ReLeSR (Stem Cell Technologies) and Gentle Cell Dissociation Reagent (Stem Cell Technologies). All hu-
+man ESC/iPSC lines used were characterized for pluripotency and were found to be karyotypically normal. Further details of iPSC
+derivation, characterization, and culture are available for free download at http://www.bu.edu/dbin/stemcells/protocols.php.
+Mouse ESC Reporter Line Maintenance
+Nkx2-1
+mCherry mESCs (Bilodeau et al., 2014 ) were maintained on inactivated mouse embryonic ﬁbroblasts in DMEM supplemented
+with 15% FBS, L-glut, LIF, and BME ( Kurmann et al., 2015; Longmire et al., 2012 ). Undifferentiated cells were passaged routinely by
+single cell dissociation using trypsin, enzyme inactivation, and centrifugation at 300xg for 5 min at 4 /C14C and replated onto previously
+prepared feeder layers on gelatin-coated plastic.
+METHOD DETAILS
+Directed Differentiation of hPSCs
+NKX2-1+ lung progenitors were generated from hPSCs ﬁrst by inducing deﬁnitive endoderm with STEMdiff Deﬁnitive Endoderm Kit
+(Stem Cell Technologies) for 72 hr (day 0 – 72 hr; this differs from the numbering convention used by the manufacturer’s protocol,
+which describes this period as day 1 – day 4). Endoderm-stage cells were dissociated and passaged in small clumps to growth factor
+reduced Matrigel-coated (Corning) tissue culture plates (Corning) in base media of IMDM (ThermoFisher, Waltham, MA) and Ham’s
+F12 (ThermoFisher) with B27 Supplement with retinoic acid (Invitrogen, Waltham, MA), N2 Supplement (Invitrogen), 0.1% bovine
+serum albumin Fraction V (Invitrogen), monothioglycerol (Sigma, St. Louis, MO), Glutamax (ThermoFisher), ascorbic acid (Sigma),
+and primocin (complete serum free differentiation medium, cSFDM ( Kurmann et al., 2015; Longmire et al., 2012 )) containing
+10 mM SB431542 (Tocris, Bristol, United Kingdom) and 2 mM Dorsomorphin (Stemgent, Lexington, MA) for 72 hr (72 hr – 144 hr)
+to pattern cells toward anterior foregut endoderm. Cells were then cultured for 9-11 additional days (typically, 144 hr - day 15) in
+cSFDM containing 3 mM CHIR99021 (Tocris), 10 ng/mL recombinant human FGF10 (rhFGF10, R&D Systems, Minneapolis, MN),
+10 ng/mL recombinant human KGF (rhKGF, R&D Systems), 10 ng/mL recombinant human BMP4 (rhBMP4, R&D Systems), and
+50 nM retinoid acid (RA, Sigma) or with CHIR, BMP4, and RA alone (for organoid immunostaining), to induce a lung epithelial pro-
+genitor fate. Doses of growth factors were determined based on previously published directed differentiation protocols ( Huang
+et al., 2014; Kurmann et al., 2015; Longmire et al., 2012 ). Lung epithelial speciﬁcation was evaluated at day 15 of differentiation
+by ﬂow cytometry for NKX2.1
+GFP expression, expression of surrogate cell surface markers CD47hi/CD26-, or nuclear NKX2-1 protein
+content. Surface marker expression was evaluated at this stage of differentiation using a human cell surface marker screening panel
+(BD Biosciences, San Jose, CA). This protocol is based on previously described approaches (Hawkins et al., 2017; Huang et al., 2014;
+Longmire et al., 2012 ).
+Neuroectodermal NKX2-1
+GFP+ cells were generated using STEMDdiff Neural Induction Medium (Stem Cell Technologies) accord-
+ing to the manufacturer’s protocol with additional puromorphamine (Stemgent, 2 uM) supplementation from Day 6 to Day 12-15.
+NKX2-1
+GFP+ cells were puriﬁed by cell sorting at Day 12-15 ( Hawkins et al., 2017 ).
+Puriﬁcation of NKX2-1+ Lung Progenitors by Cell Sorting
+Cells grown in two-dimensional culture were harvested by incubation with 0.05% Trypsin-EDTA for 10-20 min at 37 /C14C. Cells cultured
+in three-dimensional growth factor reduced Matrigel were harvested by incubation with 2 mg/mL dispase (ThermoFisher) for
+30-60 min at 37 /C14C then subsequent incubation with 0.05% trypsin at 37 /C14C until a single cell suspension was achieved. Cells were
+washed with media containing 10% fetal bovine serum (FBS, ThermoFisher.) Harvested cells were spun at 300 RCF for 5 min at
+4/C14C and resuspended in buffer containing Hank’s Balanced Salt Solution (ThermoFisher), 2% FBS and 10 mM Y-27632 (Tocris)
+and stained with propidium iodide (ThermoFisher) or calcein blue AM (ThermoFisher) for dead cell exclusion during ﬂow cytometry.
+Live cells were sorted on a high speed cell sorter (MoFlo Legacy, Beckman Coulter, Pasadena, CA) at the Boston University Medical
+Center Flow Cytometry Core Facility based on NKX2-1
+GFP expression or by staining for CD47 (Biolegend) and CD26 (Biolegend) and
+gating for CD47 hi/CD26/C0. Although nearly 100% of all differentiated cells are CD47+ at day 15 of directed differentiation, isolating
+cells in the region of the CD47 cloud brighter than the CD26+ population (CD47 hi, representative gate depicted in Figure S5A) results
+in signiﬁcant enrichment of the NKX2-1+ lung progenitor population ( Figures 6B and S5A) (Hawkins et al., 2017 ).
+Post-Speciﬁcation Patterning of Lung Epithelial Progenitors
+Day 14-16 cells from the lung progenitor directed differentiation protocol were harvested with 0.05% Trypsin-EDTA (Invitrogen)
+and replated in small clumps to improve survival (for unsorted experiments) or after single cell sorting in either growth factor reduced
+e3 Cell Stem Cell 20, 844–857.e1–e6, June 1, 2017
+
+<<<PAGE 19>>>
+Matrigel-coated tissue culture dishes in two-dimensional culture (unsorted clumps only) or in three-dimensional growth factor
+reduced Matrigel drops (both unsorted clumps and sorted single cells).
+Matrigel drops were formed by resuspending cells directly in undiluted growth factor reduced Matrigel matrix, pipetting 50-100 mL
+into each well, and allowing the Matrigel / cell mixture to gel for 30 min at 37 /C14C. Cell drops were then covered completely with growth
+medium.
+Post-speciﬁcation culture conditions were determined by the addition of growth factors to cSFDM. For patterning experiments,
+growth factors were added to a base media containing 10 ng/mL rhFGF10 (‘‘Base’’) and additional factors detailed in the results
+text. For concentrations of growth factors required for each experiment, see Table S2 . Doses of growth factors were determined
+based on previously published directed differentiation protocols ( Huang et al., 2014; Kurmann et al., 2015; Longmire et al., 2012 )
+as well as dose-response experiments using 7XTCF lentiviral reporters for CHIR99021 (Figures S2D and S2E). Cells were additionally
+cultured with 10 mM Y-27632 (Tocris) for 24 hr after replating.
+The ﬁnal protocol for generating rapidly proximalized NKX2-1+ lung epithelium was replating unsorted or sorted cells for 4 days of
+culture post-speciﬁcation in cSFDM containing 10 ng/mL FGF10. Sorted cells were cultured with additional factors: 50 nM dexa-
+methasone (Sigma), 0.1 mM 8-Bromoadenosine 3
+0,50-cyclic monophosphate sodium salt (Sigma) and 0.1 mM 3-Isobutyl-1-methyl-
+xanthine (IBMX) (Sigma) (DCI), and Y-27632. Cells were analyzed for expression of proximal markers 4 days post-replating in
+FGF10 media.
+For organoid experiments, cells were cultured in ‘‘CFK media’’ containing 3 mM CHIR99021, 10 ng/mL rhFGF10, and 10 ng/mL
+rhKGF or ‘‘2+10 media’’ containing 250 ng/mL recombinant human FGF2 (rhFGF2, R&D Systems) and 100 ng/mL rhFGF10. We
+further supplemented these medias with DCI and Y-27632. All organoid formation experiments were performed on replated puriﬁed,
+single cell lung progenitors.
+Therefore, in the ﬁnal protocol for the generation of proximalized organoids, single sorted NKX2-1+ cells were replated as 50,000-
+100,000 cells per well cultured in cSFDM with FGF2 (250 ng/mL), FGF10 (100 ng/mL), DCI, and Y-27632 for at least one week post-
+sort prior to analysis. Proximalized organoids were maintained for up to 6 weeks after sorting, with media changed every other day.
+Ciliation was induced in proximalized organoids by Notch inhibition using DAPT (2 mM, Sigma) in organoids after outgrowth least
+2 weeks post-sort. Generation of motile cilia was observed by 2 weeks post-DAPT treatment.
+Images of cultured organoids, including videos, were taken on a Keyence (Osaka, Japan) BZ-X700 ﬂuorescence microscope.
+Z stack images were processed using full focus image analysis using Keyence software.
+For formation of ALI cultures, proximalized cells were trypsinized and replated in two-dimensional culture on TransWell inserts
+(Corning) at a conﬂuency of 100,000 cells/cm
+2. Expansion was performed in PneumaCult ALI media (Stem Cell Technologies) con-
+taining dexamethasone to replace hydrocortisone with additional SMAD inhibition by Dorsomorphin (2 mM) and SB431542 (10 mM)
+until conﬂuent ( Mou et al., 2016 ). After expansion of cells to conﬂuence, media was removed from the top chamber and cells were
+differentiated in PneumaCult ALI media with dexamethasone but without SMAD inhibition. Motile ciliated cells were observed by one
+week post-induction of ALI differentiation. ALI cultures were characterized by immunoﬂuorescent staining for acetylated alpha
+tubulin, Hoechst and F-actin (phalloidin, Applied Biosystems) and z stack images were taken on a confocal microscope (Zeiss).
+Orthogonal and maximum intensity Z-projections were generated using ImageJ.
+Gene Set Enrichment Analysis
+Gene set enrichment analysis was performed using MSigDB v5.1 hallmark gene sets ( http://software.broadinstitute.org/gsea/index.
+jsp)( Mootha et al., 2003 ) on our previously described microarray database ( Hawkins et al., 2017 ). All raw data ﬁles can be down-
+loaded from the gene expression ombinus, GEO: GSE83310. Signiﬁcant pathways were considered those with Benjamini-Hochberg
+false discovery rate-adjusted p value (FDR) < 0.1.
+Generation of Lentiviral Reporters for Wnt Signaling
+VSV-G pseudotyped lentiviral plasmids for b-catenin overexpression (EF1alpha-betacatenin(deltaGSK)-SV40-mCherry, Addgene
+Plasmid #23412) ( Fuerer and Nusse, 2010 ) and the canonical Wnt reporter 7xTcf-mCherry (Addgene Plasmid #24315) ( ten Berge
+et al., 2008 ) were a generous gift from Dr. Roel Nusse (Stanford University, Stanford, CA). Lentiviral particles were packaged in
+293T cells using a ﬁve-plasmid system ( Wilson et al., 2010). Brieﬂy, 293T cells were transfected using Trans-IT Transfection Reagent
+(Mirus Bio, Madison, WI) with plasmids for a lentiviral backbone (e.g., 7XTCF-mCherry) and lentiviral packaging proteins tat, rev,
+gag/pol and vsv-g. Supernatants were collected after 48 hr and concentrated by centrifugation at 16.5K RPM for 90 min. To calculate
+titers of packaged viruses, FG293 cells were transduced with concentrated virus in 10% FBS with polybrene (5 mg/mL) and trans-
+duction efﬁciency was quantiﬁed after 72 hr by ﬂow cytometry. For the 7XTCF-mCherry virus, cells were treated for 48 hr of 3 mM
+CHIR99021 prior to titering by ﬂow cytometry. For each experiment, parallel wells were infected with the same MOI of a pHAGE
+EF1a-mCherry virus as a control for infection efﬁciency and nonspeciﬁc effects of lentiviral infection.
+Reverse Transcriptase Quantitative RT Polymerase Chain Reaction (qRT-PCR)
+Measurement of mRNA expression was performed by reverse transcriptase quantitative RT PCR (qRT-PCR). RNA was extracted
+from cells using a QIAzol Lysis Reagent (QIAGEN, Venlo, Netherlands) and 150 ng of RNA was transcribed to cDNA using reverse
+transcription reagents (Applied Biosystems). RT PCR (qPCR) was performed using TaqMan Fast Universal PCR Master Mix
+(ThermoFisher) and TaqMan (Applied Biosystems) reagents. The cDNA was diluted 1:3 and 2 mL of cDNA was added to each
+Cell Stem Cell 20, 844–857.e1–e6, June 1, 2017 e4
+
+<<<PAGE 20>>>
+25 mL (for Applied Biosystems StepOne 96-well System) or 12.5 mL (for Applied Biosystems QuantStudio7 384-well system) qPCR
+reaction. Each sample was run in technical triplicates and cycle (Ct) values were averaged between triplicates for analysis. Relative
+gene expression, normalized to 18S control, was calculated as fold change in 18S-normalized gene expression, compared to base-
+line, using the 2(-DDCT) method. Baseline, deﬁned as fold change = 1, was set to undifferentiated iPSC levels, or if undetected, a cycle
+number of 40 was assigned to allow fold change calculations. Adult lung control RNA was extracted from a normal lung biopsy sam-
+ple. Primers were all TaqMan probes purchased from Applied Biosystems. Speciﬁcs of primers used are detailed in Table S3.
+Intracellular Flow Cytometry for NKX2-1 and SOX2
+Cells were harvested for intracellular ﬂow cytometry and ﬁxed for 10-20 min at 37 /C14C in fresh 1.6% paraformaldehyde. Cells were
+permeabilized with Cell Permeabilization Buffer (eBioscience, San Diego, CA) containing 4% normal donkey serum (Sigma) in
+PBS and stained with primary antibody for NKX2-1 (Abcam rabbit, 1:100) or a conjugated antibody for SOX2 (BD Biosciences,
+1:100). Anti-NKX2-1 antibody was detected by secondary antibody staining with either Cy3, Alexa Fluor 488, or Alexa Fluor 647 ﬂuo-
+rophore-conjugated secondary antibodies (AfﬁniPure Donkey Anti-Rabbit IgG (H+L); 1:500; Jackson ImmunoResearch, West Grove,
+PA). Stained cells were analyzed on a FacsCalibur instrument (BD Biosciences) and data were analyzed with FlowJo software
+(Ashland, OR).
+Immunoﬂuorescence Microscopy of Cultured Cells
+Cells for immunoﬂuorescence microscopy were cultured on glass coverslips (ThermoFisher). Cultured cells were ﬁxed with fresh 4%
+paraformaldehyde. Cells were permeabilized with 0.3% Triton-X (Sigma) for 10 min at room temperature then blocked with 4%
+normal donkey serum (Sigma) for 30 min at room temperature. Cells were incubated with primary antibodies (antibody information
+and sources are detailed in the Key Resources Table ) overnight at 4
+/C14C, washed, and incubated with secondary antibodies for
+30-60 min at room temperature. All secondary antibodies were conjugated to Alexa Fluor 488, Cy3, or Alexa Fluor 647 (Jackson
+Immunoresearch, 1:500). After antibody staining, nuclei were stained with Hoechst dye (ThermoFisher, 1:500). Coverslips with cells
+were mounted on glass slides using Prolong Diamond Anti-Fade Mounting Reagent (ThermoFisher) and imaged on a Nikon (Tokyo,
+Japan) deconvolution microscope.
+Three-dimensional organoids were harvested by incubating for 1 hr with dispase and ﬁxed with fresh 4% paraformaldehyde. Whole
+organoids were stained as described for cultured cells, with slightly longer permeabilization, blocking wash, and antibody incubation
+steps. For whole mount imaging, organoids were mounted on cavity slides and visualized with a Zeiss (Jena, Germany) confocal
+microscope.
+Quantiﬁcation of nuclear colocalization was performed using Nikon NIS Elements software using the Object Count function. 3-5
+areas from each slide were analyzed for each replicate. The total image area where NKX2-1 and SOX2, SOX9 or TP63 overlapped
+was divided by the area containing only the NKX2-1 stain.
+Directed Differentiation of mESCs to Nkx2-1+ Lung Epithelium
+Nkx2-1
+mCherry mESCs (Bilodeau et al., 2014) were differentiated to lung epithelium based on our previously published protocol (Long-
+mire et al., 2012 ). First, LIF was withdrawn for 60 hr to induce embryoid body (EB) formation. EBs were then treated with 100 ng/mL
+activin A (R&D Systems) for 60 hr. Anterior foregut endoderm was generated by dual BMP4 and TGFb inhibition by SB431542 (10 mM)
+and rmNoggin (100 ng/mL, R&D Systems) for 24 hr. Lung speciﬁcation was induced using rmWnt3a (100 ng/mL) and rmBMP4 (10 ng/
+mL). Cells were sorted on day 14 for Nkx2-1 mCherry expression and replated for 2D culture outgrowth containing rhFGF2 (250 ng/mL)
+and rhFGF10 (100 ng/mL) as previously published ( Kurmann et al., 2015) and rmWnt3a (100 ng/mL), as per experimental conditions.
+On day 16, cells were infected overnight with a Sftpc GFP lentivirus (Longmire et al., 2012 ) containing a 3.7kb fragment of the human
+SPC promoter (generous gift of Dr. Jeffrey A. Whitsett, University of Cincinatti) cloned into the promoter of the pHAGE CMV-GFP-w
+lentiviral plasmid in the place of the CMV promoter (Wilson et al., 2010) in 5 ug/mL polybrene for quantiﬁcation on day 30 of SftpcGFP+
+cell induction.
+Forskolin-Induced Swelling of Organoids
+Swelling was induced in organoids at Day 22 – 35 of differentiation. Organoids grown in in three-dimensional Matrigel culture in the
+absence of cyclic AMP and IBMX were passaged to new droplets in 3 mL growth factor reduced Matrigel at least one day prior to
+swelling. For swelling analysis, organoids were incubated in media containing 5-10 mM forskolin (Sigma) and 10 mM calcein green
+(ThermoFisher) for 4 – 24 hr at 37
+/C14C and 5% CO2. Whole well images were taken using a Keyence BZ-X700 ﬂuorescence microscope
+at time of forskolin addition and 24 hr later and stitched using Keyence software. Videos were created by imaging every 15 min for
+24 hr. Quantiﬁcation of swelling area was performed from replicate wells images on the calcein green channel using ImageJ. Total
+well surface area covered by organoids was calculated based on thresholded images and the total well area of circular organoids
+(circularity = 0.5-1) were measured. If necessary, organoid edges were smoothed using a Gaussian blur ﬁlter prior to thresholding
+and watershedding. The well area at time = 0 was set to 1. Images were again analyzed at 3 and 24 hr post-forskolin addition and
+the ratio of the post-swelling area to the original area was calculated. Statistics were calculated from separate wells of organoids,
+with each value comprising 20-50 individual organoids.
+e5 Cell Stem Cell 20, 844–857.e1–e6, June 1, 2017
+
+<<<PAGE 21>>>
+QUANTIFICATION AND STATISTICAL ANALYSIS
+Statistical Methods
+Statistical methods relevant to each ﬁgure are outlined in the ﬁgure legend. Brieﬂy, unless indicated otherwise in the ﬁgure legend,
+unpaired, two-tailed Student’s t tests were used to compare quantitative analyses comprising two groups of n = 3 or more samples,
+where each replicate (‘‘n’’) represents either entirely separate differentiations from the pluripotent stem cell stage or replicates differ-
+entiated simultaneously and sorted into separate wells. Further speciﬁcs about the replicates used in each experiment are available in
+the ﬁgure legends. In these cases, a Gaussian distribution and equal variance between samples was assumed as the experiments
+represent a large number of random samples of the measured variable. As we anticipated that biologically relevant differences be-
+tween conditions would have a large effect size and due to the large technical burden of directed differentiation experiments, we set
+our sample size threshold to at least 3 replicates to ensure our samples were large enough to perform t tests to compare the pop-
+ulations and observe predicted differences. The p value threshold to determine signiﬁcance was set at p = 0.05. Data for quantitative
+experiments is typically represented as the mean with error bars representing the standard deviation or standard error of the mean,
+depending on the experimental approach. These details are available in the ﬁgure legends. For analysis of dose escalation experi-
+ments, an ordinary one-way ANOVA with post test for linear trend was used to test the linear trend in the mean value at the indicated
+doses from left to right.
+DATA AND SOFTWARE AVAILABILITY
+The microarray database of the time course of differentiating NKX2-1+ lung epithelium used to generate the heatmap in Figure 2 was
+described in Hawkins et al. (2017) and has been deposited in GEO: GSE83310.
+ADDITIONAL RESOURCES
+Further protocol information for iPSC/ESC culture and directed differentiation and production of lentiviral particles can be found at
+http://www.bu.edu/dbin/stemcells/protocols.php.
+Cell Stem Cell 20, 844–857.e1–e6, June 1, 2017 e6

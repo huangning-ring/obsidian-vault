@@ -1,0 +1,952 @@
+
+
+<<<PAGE 1>>>
+RESEARCH Open Access
+© The Author(s) 2025. Open Access  This article is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 
+International License, which permits any non-commercial use, sharing, distribution and reproduction in any medium or format, as long as you 
+give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if you modified the 
+licensed material. You do not have permission under this licence to share adapted material derived from this article or parts of it. The images or 
+other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the 
+material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or 
+exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit  h t t p  : / /  c r e a  t i  
+v e c  o m m  o n s .  o r  g / l  i c e  n s e s  / b  y - n c - n d / 4 . 0 /.
+Druso et al. BMC Molecular and Cell Biology           (2025) 26:31 
+https://doi.org/10.1186/s12860-025-00554-8
+BMC Molecular and Cell 
+Biology
+*Correspondence:
+Elizabeth Corteselli
+elizabeth_corteselli@med.unc.edu
+Full list of author information is available at the end of the article
+Abstract
+Background Airway basal cells have been shown to play important roles in lung disease, prompting their use in 
+research involving 3-dimensional (3D) organoid culture. Mouse tracheal basal cells (MTBC) represent a key model 
+in understanding the differentiation of airway basal cells in normal development and diseased states. The isolation, 
+expansion, and culture media of basal cells can affect their capacity to maintain stemness and properly differentiate, 
+thereby introducing unknown experimental variables. As MTBC use in 3D organoid culture proceeds, there is an 
+increasing need for comparative studies to identify unknown experimental variables. In this study, we examined the 
+effects of MTBC expansion media on the differentiation and tracheosphere-forming ability in 3D culture.
+Methods MTBC were isolated from mouse tracheas, and three commonly used airway basal cell media were 
+compared during MTBC expansion in cell culture (hereafter referred to as Media 1, 2, and 3). Following expansion, 
+MTBC were cultured identically in 3D conditions to analyze tracheosphere-forming capability. Image analyses were 
+performed to characterize tracheosphere count, size, and morphology, while metabolic and transcriptomic signatures 
+were analyzed to assess MTBC differentiation in 3D culture.
+Results Expansion of MTBC in the three distinct media resulted in subsequent 3D tracheospheres that displayed 
+unique metabolite and gene expression profiles, accompanied by overall changes in tracheosphere count and size. 
+MTBC expanded in Medium 1 displayed lower levels of TCA cycle intermediates, along with lowered expression of 
+differentiation markers Foxj1 and Scgb1a1, compared to MTBC expanded in Media 2 or 3. Pathway analysis showed an 
+upregulation of idiopathic pulmonary fibrosis signaling pathways in tracheospheres cultured from MTBC expanded in 
+Media 2 or 3.
+Conclusion This study identified several key differences in tracheosphere-forming ability of MTBC resulting from 
+MTBC expansion media and highlights the importance of transparency in cell culture protocols, particularly those 
+involving stem cells or 3D culture.
+Keywords Transitional epithelial cell, Metabolomics, RNA sequencing
+Impact of mouse tracheal basal cell expansion 
+medium on formation and metabolic 
+characteristics of tracheospheres
+Joseph E. Druso1, Reem Aboushousha1, Maximillian MacPherson1, Cuixia Erickson1, Vitor Mori2, Elise Hickman3,4, 
+Alexander R. D’Amico1, David Seward1, Julie A. Reisz5, Julia E. Rager3,4,6, Yvonne Janssen-Heininger1 and 
+Elizabeth Corteselli4,6,7*
+
+<<<PAGE 2>>>
+Page 2 of 13
+Druso et al. BMC Molecular and Cell Biology            (2025) 26:31 
+Introduction
+Organoid culture is an increasingly popular method for 
+biomedical research due to its in vivo biological relevance 
+and expanding potential for personalized therapy. Unlike 
+conventional methods of cell culture involving cells 
+grown in two-dimensions on stiff plastic dishes, organoid 
+culture better mimics the pliable environment of human 
+tissue and allows stem or stem-like cells to undergo 
+morphogenesis, whereby the cells self-organize, differ -
+entiate, and form 3-dimensional (3D) structures with 
+greater resemblance to their behavior in vivo [ 1]. Lung 
+organoid cultures have been used to advance the study of 
+lung injury and regeneration [ 2], disease [ 3], viral infec -
+tion [4], and personalized medicine [ 5]. Lung organoids 
+can be initiated from several types of cells with stem/
+progenitor potential, including proximal and distal lung 
+cells. Alveolar type 2 cells, the primary progenitor cell of 
+alveoli, can be isolated and grown as organoid cultures 
+to model lower airway structures [ 6], while airway basal 
+cells can be isolated and cultured to give rise to tracheo -
+spheres and/or bronchospheres, consisting of basal cells 
+surrounding a differentiated, pseudostratified epithe -
+lium of ciliated and secretory cells [ 7]. A diversity exists 
+in protocols used for isolation, expansion, and growth of 
+airway progenitor cells in 3D culture, including protocols 
+for the isolation of airway basal cells from both human 
+and mouse lungs [ 7– 9]. However, the isolation methods, 
+basal cell markers used for sorting, conditions of basal 
+cell expansion, and specifics of seeding into Matrigel 
+(cell number, volume, air-liquid interface or submerged) 
+all differ among these protocols [ 10– 13], making cross-
+study comparisons difficult.
+There is also a need for the characterization of diverse 
+endpoint analyses resulting from 3D airway cultures [ 14, 
+15]. A commonly reported biological outcome is the 
+characterization of cell types using immunofluorescence 
+staining or gene expression analysis, including costly 
+single-cell RNA sequencing. Lower cost endpoints that 
+can still resolve biological differences and allow for con -
+tinuous monitoring of 3D cultures without harvesting are 
+desirable. Additionally, colony forming efficiency (CFE), 
+calculated from the number of spheres that grow com -
+pared to total cells seeded, can be used as a measure of 
+progenitor potential [1]. Manual quantification of CFE is 
+time-consuming and vulnerable to between-individual 
+variability in annotations. Now, machine learning and 
+computer algorithms have the potential to reduce image 
+analysis efforts, while providing analysis standardization 
+and more detailed morphological information from each 
+image.
+In the present descriptive study, we sought to directly 
+compare three different protocols for the expansion of 
+mouse tracheal basal cells (MTBC), with the goal of 
+retaining potential for growth and differentiation in 3D 
+culture by varying the medium used during the expan -
+sion step. We tested three different media from cited lit -
+erature for the growth of MTBC [ 9, 16, 17]. Further, we 
+describe the use of an in silico method to quantify tra -
+cheosphere CFE and characterize colonies by size and 
+morphology. Finally, we utilized metabolomics and bulk 
+RNA sequencing to further comparatively assess tracheo-
+sphere cultures. Results from these studies demonstrate 
+that the choice of expansion medium plays a crucial role 
+in the cellular composition and metabolic characteristics 
+of tracheospheres.
+Methods
+Cell isolation and expansion
+All animal procedures were carried out at the University 
+of Vermont (UVM) Animal Care Facility, and approved 
+by the UVM Institutional Animal Care and Use Com -
+mittee (IACUC #202000035). Mouse tracheal basal 
+cells (MTBC) were isolated as previously described 
+[18]. Briefly, 8 to 12 week old C57BL/6NJ mice ( n = 9 
+total) were euthanized through intraperitoneal injec -
+tion of pentobarbital (150 mg/kg) and the tracheas were 
+exposed. Tracheas were tied off at one end and filled with 
+a protease solution containing 0.1% protease type 14 
+(Sigma p-5147), 2 µL/mL primocin, and 10 µL/mL pen/
+strep in Opti-MEM (Gibco 31985–062). Tracheas were 
+tied at the opposite end and incubated in protease solu -
+tion overnight at 4 °C. The following morning, tracheas 
+were cut on one end and flushed with DMEM containing 
+10% fetal bovine serum into a 50 mL conical tube. Mouse 
+tracheas were flushed and pooled, divided into 3 tubes, 
+centrifuged at 500 g for 5 min, and each tube resuspended 
+in one of three experimental media (Fig. 1A and B). Each 
+medium contained DMEM/F12 (Gibco 11330–032), 
+50 U/mL Penicillin, and 50 µg/mL streptomycin with the 
+following individual additions:
+1. Medium 1: 4.5 mM L-glutamine, 100 µg/mL 
+Primocin, 20 ng/mL Cholera Toxin, 4 µg/mL Insulin, 
+5 µg/mL Transferrin, 25 µg/mL Bovine Pituitary 
+Extract, 10 ng/mL Epidermal Growth Factor, 100 nM 
+Dexamethasone.
+2. Medium 2: 4 mM L-glutamine, 0.25 µg/mL 
+Fungizone, 0.1 µg/mL Cholera Toxin, 10 µg/mL 
+Insulin, 5 µg/mL Transferrin, 30 µg/mL Bovine 
+Pituitary Extract, 25 ng/mL Epidermal Growth 
+Factor, 0.01 µM Retinoic Acid, 5% Fetal Bovine 
+Serum.
+3. Medium 3: All components in Medium 2 plus 1 µM 
+DMH-1 (ALK2 inhibitor), 1 µM A-83-01 (TGF-βRI, 
+ALK4, and ALK7 inhibitor), 10 µM Y27632 (ROCK-I 
+and ROCK-II inhibitor).
+
+<<<PAGE 3>>>
+Page 3 of 13
+Druso et al. BMC Molecular and Cell Biology            (2025) 26:31 
+Cells were seeded into T-75 flasks precoated with col -
+lagen gels (18–20 mg/mL, Corning 354236). Each con -
+dition was cultured in their respective medium until 
+confluency, approximately 10 days.
+Cell passaging and 3D culture
+MTBC were passaged using consecutive collagenase 
+(0.4 mg/mL, 2 hrs) and trypsin (2.5%, 5 min) digestions. 
+Cells from each expansion condition were separately 
+brought to a single cell suspension in Pneumacult ALI 
+Medium (Stemcell Technologies, 05001) at 250,000 cells/
+mL. Pneumacult ALI Medium was utilized for 3D cul -
+ture growth as it has been previously determined to be 
+optimal for supporting differentiation of airway basal 
+cells [ 19]. For seeding in 3D culture, 12 mm transwell 
+inserts (Corning, 3401) were first coated with 100 µL of 
+a 1:1 mixture of Matrigel (Corning, 356231) and Pneu -
+macult ALI Medium, then left to solidify at 37 °C, 5% 
+CO2 for 20 min, thereby creating a barrier preventing cell 
+attachment to the transwell membrane. 50,000 MTBC in 
+200 µL Pneumacult ALI Medium were mixed on ice with 
+an equal volume of Matrigel to a final volume of 400 µL, 
+which was then immediately seeded on top of the solidi -
+fied Matrigel coating in each well and incubated at 37 °C, 
+5% CO2. Importantly, the time between seeding the cells 
+in Matrigel and placing in 37 °C, 5% CO 2 was minimized 
+to less than 30 seconds to prevent cells from sinking to 
+the lower parts of the transwell before Matrigel solidifi -
+cation. Cells suspended in Matrigel were then left at 37 
+°C, 5% CO 2 for 45 minutes to allow Matrigel solidifica -
+tion, after which Pneumacult ALI Medium was added 
+to the basolateral chamber and changed every other day 
+throughout the duration of the experiment. Tracheo -
+spheres were imaged throughout their growth using an 
+I×70Light Microscope (Olympus, Tokyo, Japan).
+Fig. 1 Study design for isolating and expanding mouse tracheal basal cells (MTBC) in one of three different media prior to 3D tracheosphere culture. 
+(A) MTBC were isolated from tracheas of wild-type mice, combined, and then expanded in one of three different medium conditions prior to 3D culture 
+at air-liquid interface (ALI) in Pneumacult ALI medium (stemcell). Live imaging, gene expression, and metabolomic analyses were then performed on 
+tracheosphere cultures. (B) Three different media compositions used during the MTBC expansion phase
+ 
+
+<<<PAGE 4>>>
+Page 4 of 13
+Druso et al. BMC Molecular and Cell Biology            (2025) 26:31 
+Cell harvest
+Tracheosphere cultures were harvested through diges -
+tion of the Matrigel using Cell Recovery Solution (Corn -
+ing, 354253). Matrigel was resuspended in cell recovery 
+solution and incubated on ice for 20 min. Tracheospheres 
+were moved to a 1.5 mL tube and centrifuged at 300 ×g 
+for 2 minutes. The supernatant was aspirated from the 
+pelleted tracheospheres, which were washed with ice cold 
+PBS and centrifuged in the same manner. The final pellet 
+was resuspended in RLT lysis buffer (Qiagen, 79216) to 
+isolate RNA.
+RNA extraction and qPCR
+Total RNA was isolated using QIAshredder (Qia -
+gen,79654) and RNeasy Kits (Qiagen, 74104) according to 
+manufacturer’s directions. cDNA was synthesized from 
+1 µg RNA. Quantitative PCR (qPCR) of individual genes 
+related to proliferation and differentiation ( Krt5, Foxj1, 
+Scgb1a1, and Mki67 ) was performed using TaqMan 
+gene analysis using SYBR Green (BioRad, Hercules, CA). 
+Primers used for each gene are reported in Supplemental 
+Table 1.
+Organoid segmentation and quantitative morphological 
+analysis
+Image acquisition of tracheosphere cultures was per -
+formed on days 4, 7, 12, and 19, with three replicate 
+images taken per medium condition (n = 36 images total). 
+Organoid counting and size estimation on each image 
+was performed using OrgaQuant, an organoid localiza -
+tion and quantification algorithm using deep convo -
+lutional neural networks [ 14]. OrgaQuant was used to 
+superimpose boundary boxes on tracheospheres, with 
+an empirically settled confidence threshold of 0.85, and 
+outliers (i.e. unreasonably large boundary boxes that did 
+not capture an individual tracheosphere) were manually 
+removed from the analyses.
+A custom algorithm scripted in MatLab (The Math -
+works, Natick, MA) was used to quantitatively analyze 
+the tracheosphere images after OrgaQuant processing. 
+Individual tracheosphere area was calculated based on 
+the average length of the OrgaQuant bounding boxes 
+(corresponding to tracheosphere diameter). The total 
+tracheosphere area was calculated as the sum of the area 
+of individual tracheospheres divided by the size of the 
+image. Tracheosphere areas in all 27 images were then 
+normalized by the area of the largest organoid within the 
+dataset (89462 pixels 2), and an empirical cumulative dis -
+tribution function (CDF) was generated. Lastly, the area 
+under each CDF curve (AUC) was calculated. The total 
+tracheosphere area was normalized on the x-axis by the 
+size of the largest tracheosphere in the dataset (89462 
+pixels2) for all cases. Shapiro-Wilk normality tests were 
+performed for each set of repetitions on each day and 
+media with p > 0.05 for all cases. 1-way ANOVA was sub -
+sequently performed to compare intra-day differences 
+between conditions on culture days 7, 12, and 19. Upon 
+finding a statistically significant ANOVA result (p < 0.05), 
+a post-hoc Tukey test was performed to identify which 
+specific group means were significantly different from 
+each other.
+Metabolite analysis
+Lactate levels were measured in conditioned media after 
+14 days in culture using the L-Lactate Assay Kit (Eton 
+Bioscience). Metabolomics analysis was performed on 
+conditioned media also after 14 days in culture by liq -
+uid chromatography/mass spectrometry at the Uni -
+versity of Colorado School of Medicine Metabolomics 
+Facility at the University of Colorado Anschutz Medi -
+cal Campus (Aurora, CO). Metabolites were extracted 
+from conditioned media samples using cold 5:3:2 
+methanol:acetonitrile:water at a ratio of 1 part condi -
+tioned media to 24 parts extraction solution exactly as 
+previously described [ 20]. Extracts were analyzed on a 
+Thermo Vanquish UHPLC coupled to a Thermo Q Exac-
+tive mass spectrometer using a 5 minute C18 gradient in 
+positive and negative ion modes (separate runs). Quality 
+control, metabolite annotation, and peak area integration 
+were performed using El-Maven (Elucidata) as described 
+[20]. Normality was tested using the Shapiro-Wilk test, 
+with the majority of metabolites exhibiting normal dis -
+tributions. Significantly changed metabolites ( p ≤ 0.05) 
+were determined using one way ANOVA with post-hoc 
+pairwise t-tests and correction for multiple comparisons 
+(full statistics results in Supplementary Data File 1). Heat 
+maps including significantly changed metabolites were 
+created by using a range scale function to scale the data 
+set and visualized using the pheatmap package (version 
+1.0.13) in R (version 4.5.0) [ 21]. Significantly changed 
+metabolites were used as input in Ingenuity Pathway 
+Analysis (Qiagen, Germantown, MD) to identify canoni -
+cal pathways that were significantly changed between 
+expansion medium conditions.
+RNA sequencing, data processing, and analysis
+RNA extracted from tracheosphere cultures after 14 days 
+in culture (described above) was sent to Novogene (Sac -
+ramento, CA) for library prep, quality control, and bulk 
+RNA sequencing analysis. FASTQ files were aligned 
+using STAR (v2.7.10a) as previously described [ 22]. Sam-
+ples were run across two lanes and resulting counts were 
+added together after alignment. Raw count data were 
+filtered to remove genes that had zero reads across all 
+samples and lanes, resulting in matrix containing 15,028 
+genes. Counts from the two lanes were added within each 
+sample to generate the final count matrix used as input 
+for differential gene expression analysis.
+
+<<<PAGE 5>>>
+Page 5 of 13
+Druso et al. BMC Molecular and Cell Biology            (2025) 26:31 
+Differential gene expression was assessed using the 
+DESeq2 package (version 1.48.1) [ 23] and published 
+workflow [24]. In preliminary analyses, we also explored 
+removing unwanted experimental variation using the 
+RUVg approach within the RUVSeq package (version 
+1.42.0) [25]; however, this approach resulted in minimal 
+changes to the list of significantly differentially expressed 
+genes. Therefore, we proceeded with DESeq2 using 
+medium condition as the only element in the design 
+equation. Genes with Benjamini Hochberg adjusted 
+p-value < 0.05 and DESeq2-calculated log2 fold change 
+(FC) > +/- 1.5 (fold change > +/- 2.25) were considered 
+significantly differentially expressed. Principal compo -
+nent analysis was performed using the factoextra pack -
+age (version 1.0.7) [ 26] using DESeq2 normalized counts 
+as input. To identify biological pathways associated with 
+these differentially expressed genes, pathway enrichment 
+analysis was carried out using Ingenuity Pathway Analy -
+sis. Pathway enrichment statistics were calculated based 
+off a modified Fischer’s Exact test, adjusted for multiple 
+testing using the Benjamini-Hochberg correction as 
+previously described [ 27] and as described by Ingenu -
+ity Pathway Analysis documentation. Z-scores were also 
+produced per enriched pathway reflecting predicted acti -
+vation (positive z-score) or inhibition (negative z-score) 
+for each pathway. Results of these analyses were visual -
+ized using pheatmap [21] and ggplot2 (version 3.5.2) [28].
+Data availability and coding environment
+Data input files and code used for the analysis can be 
+found at:  h t t p  s : /  / g i t  h u  b . c  o m /  U N C -  C E  M A L  B / I  m p a c  
+t -  o f -  m o u  s e - t  r a  c h e  a l -  b a s a  l -  c e l  l - e  x p a n  s i  o n -  m e d  i u m -  o 
+n  - c h  a r a  c t e r  i s  t i c s - o f - t r a c h e o s p h e r e s. Analyses of  o r g a n 
+o i d morphology were conducted in MatLab (The Math -
+works, Natick, MA). All analyses of metabolomics and 
+RNA sequencing data were conducted using R version 
+4.5.0 [ 29] and base R functions unless otherwise noted. 
+R packages tidyverse [28], janitor [30], and openxlsx [31] 
+were used throughout the analysis.
+Results
+Expansion medium influences tracheosphere-forming 
+potential of isolated MTBC
+Herein, we set out to perform a side-by-side comparison 
+of three different MTBC expansion media from previ -
+ously published protocols to determine how expansion 
+media composition impacts subsequent growth and dif -
+ferentiation in 3D culture. MTBC were isolated from 
+C57BL/6NJ mouse tracheas, pooled, and split into three 
+experimental groups to be expanded in collagen gel-
+coated T75 flasks using one of three different media 
+(Fig. 1A and B). Following expansion, we next assessed 
+how MTBC were able to differentiate when grown in 3D 
+culture in Matrigel at air-liquid interface (ALI). MTBC 
+were seeded in 50% Matrigel/Pneumacult ALI Medium 
+in transwells and cultured at ALI with Pneumacult ALI 
+Medium in the basolateral chamber (Fig. 1A). Cultures 
+were imaged every few days to monitor the growth and 
+morphogenesis of tracheospheres. As shown in Fig. 2, 
+cells expanded in Media 2 or 3 formed a greater num -
+ber of larger tracheospheres at an earlier time point than 
+those expanded in Medium 1. This difference was partic -
+ularly evident at day 12, when tracheospheres expanded 
+in Media 2 or 3 show a greater number of and larger tra -
+cheospheres than those expanded in Medium 1 (Figs. 2, 
+3).
+Next, we characterized tracheosphere growth using 
+OrgaQuant to count and categorize spheres by size (Fig. 
+3A). A custom algorithm was developed to calculate the 
+total tracheosphere area and size distribution (MatLab 
+2022, The Mathworks, Natick, MA). The total tracheo -
+sphere area for each expansion Medium condition was 
+then normalized to the total image area, and showed 
+that expansion Media 2 and 3 resulted in a significantly 
+greater area of tracheospheres per image at Day 12, com -
+pared to expansion Medium 1 (Fig. 3B). At Day 19, all 
+expansion media conditions showed an increased area 
+of tracheospheres per image compared to Day 7, with 
+Medium 3 showing a significantly greater area of tra -
+cheospheres per image than Media 1 or 2. To differenti -
+ate between cultures containing a large number of small 
+tracheospheres and a small number of large tracheo -
+spheres, the cumulative distribution function (CDF) of 
+tracheosphere size and 1–area under the curve (AUC) 
+were calculated. Results presented in Fig. 3C and D show 
+variations in the y-axis related to the size distribution of 
+the tracheospheres. In this manner, left-skewed distri -
+butions were mainly composed of small tracheospheres 
+while right-skewed distributions were dominated by 
+larger tracheospheres. The CDF calculations revealed 
+that expansion in Media 2 or 3 resulted in cultures 
+mainly composed of tracheospheres with larger areas at 
+Day 12, compared to expansion Medium 1 (Fig. 3C), as 
+quantified by 1-AUC (Fig. 3D). At Day 19, images of all 
+expansion media conditions showed increased content 
+of tracheospheres with larger areas compared to Day 7, 
+with Medium 3 showing significantly higher composi -
+tion of larger tracheospheres than Media 1 or 2. Total 
+area and 1-AUC present different, albeit complementary, 
+information. While total area captures the total tracheo -
+sphere content in the image, it does not discern whether 
+there is a larger number of small tracheospheres or a 
+smaller number of large tracheospheres. On the other 
+hand, 1-AUC does not provide the total tracheosphere 
+content in the well but can detect whether the image is 
+mainly composed of small tracheospheres (small 1-AUC) 
+or large tracheospheres (large 1-AUC).
+
+<<<PAGE 6>>>
+Page 6 of 13
+Druso et al. BMC Molecular and Cell Biology            (2025) 26:31 
+MTBC expanded in medium with FBS are more capable of 
+subsequent differentiation in 3D culture
+We next used quantitative PCR to measure expression of 
+genes commonly implicated in proliferation and differen-
+tiation of tracheosphere cultures after 14 and 21 days of 
+growth. MTBC expanded in Media 2 or 3 showed signifi -
+cantly greater expression of Foxj1 and Scgb1a1 as com -
+pared to MTBC expanded in Medium 1, suggesting that 
+the former two conditions resulted in increased differ -
+entiation into ciliated and secretory cells after 14 days in 
+3D culture (Fig. 4A). Interestingly, tracheospheres from 
+MTBC expanded in Media 2 or 3 had significantly lower 
+expression of Mki67, a marker associated with prolifera -
+tion, at Day 14, and those from Medium 2 retained sig -
+nificantly lower expression than those from Medium 1 at 
+Day 21 (Fig. 4B). Taken together, these data indicate that 
+at day 14, MTBC expanded in Media 2 or 3 had prolif -
+erated and then proceeded to differentiate, while MTBC 
+expanded in Medium 1 remained proliferative. After 
+21 days in culture, cells from all expansion conditions 
+had similar expression levels of Foxj1, while expression 
+of Scgb1a1 remained significantly elevated at Day 21 in 
+cells expanded in Medium 2, as compared to Media 1 or 
+3 (Fig. 4B).
+Metabolomics reveals that amino acid turnover and TCA 
+cycle are upregulated in media conditions 2 and 3
+To support high-throughput biomedical research, there 
+is a need for measurements that monitor growth of 
+organoid cultures over time without harvesting of the 
+cultures. Metabolite analysis can rapidly provide such 
+information via sampling of conditioned medium [ 32]. 
+We therefore measured release of the glycolytic interme -
+diate lactate in medium from each condition after 14 and 
+20 days in 3D culture using a commercially available lac -
+tate assay. Tracheospheres from cells expanded in Media 
+2 and 3 produced significantly greater lactate at both of 
+these time points (Supplementary Fig. 1). With this evi -
+dence that metabolite concentrations were significantly 
+different in conditioned media, we next employed liquid 
+Fig. 2 Live imaging of tracheosphere cultures following MTBC expansion in Medium 1, Medium 2, or Medium 3. Representative images at Day 4, Day 
+7, Day 12, and Day 19 of tracheosphere formation in 3D culture using Pneumacult ALI medium following MTBC expansion in Medium 1, Medium 2, or 
+Medium 3. Scalebars = 500 µm
+ 
+
+<<<PAGE 7>>>
+Page 7 of 13
+Druso et al. BMC Molecular and Cell Biology            (2025) 26:31 
+chromatography-mass spectrometry on the conditioned 
+medium from tracheospheres from cells expanded in 
+each medium after 14 days in culture to further charac -
+terize changes in other central energy and redox metabo-
+lites. Significantly changed metabolites among the three 
+expansion conditions are shown in the heat map in Fig. 
+5A. These results agree with the morphology analysis 
+(Figs. 2 and 3) and qPCR data (Fig. 4), with cultures from 
+Media 2 and 3 being phenotypically similar compared to 
+those expanded in Medium 1. Overall, the majority of 
+metabolites measured were significantly increased in tra -
+cheospheres expanded in Media 2 and 3. These include 
+major intermediates of the TCA cycle, such as fuma -
+rate, malate, oxaloacetate, and citrate, and the glycolysis 
+intermediates hexose phosphate, pyruvate, and lactate. 
+In contrast, a number of amino acids were significantly 
+increased in tracheospheres expanded in Medium 1, such 
+as histidine, serine, glutamate, aspartate, arginine, and 
+methionine.
+To further identify canonical metabolic pathways that 
+differed between groups, we employed Ingenuity Path -
+way Analysis (Qiagen) to perform pairwise comparisons 
+between each expansion medium (Fig. 5B–D). The most 
+significantly changed metabolic pathways when compar -
+ing Medium 1 with either 2 or 3 were concerned with 
+synthesis or degradation of amino acids. In addition, the 
+glucose metabolism and urea cycle were significantly 
+changed. Although expansion Media 2 and 3 appear simi-
+lar when comparing abundance of metabolites in Fig. 5A, 
+Ingenuity Pathway Analysis identified several canonical 
+pathways that were significantly changed between these 
+two conditions. The majority of these are also related to 
+amino acid metabolism.
+Fig. 3 Quantitative analysis of tracheosphere imaging following MTBC expansion in Medium 1, Medium 2, or Medium 3. (A) Representative image of tra-
+cheospheres with OrgaQuant bounding boxes applied. (B) Mean tracheosphere area normalized to total image area for three different MTBC expansion 
+media. (C) Cumulative distribution function of tracheospheres cultured from MTBC expanded in three different media. Tracheosphere area is normalized 
+on x-axes. Left skewing is indicative of smaller tracheospheres, while right skewing is indicative of larger tracheospheres. Dotted line insets in upper panels 
+shown in lower panels. (D) Mean 1-area under the curve (AUC) of tracheospheres cultured from MTBC expanded in three different media. Lower 1-AUC 
+values represent smaller tracheospheres, while higher 1-AUC values represent larger tracheospheres. Three replicates for each condition were averaged 
+and presented with +/- SEM, * p < 0.05, ** p < 0.001, *** p < 0.005
+ 
+
+<<<PAGE 8>>>
+Page 8 of 13
+Druso et al. BMC Molecular and Cell Biology            (2025) 26:31 
+RNA sequencing reveals changes related to pulmonary 
+fibrosis signaling pathways
+We next performed RNA sequencing on tracheospheres 
+after 14 days in culture, a timepoint at which we observed 
+significant changes in gene expression via qPCR, to fur -
+ther characterize differences between expansion media. 
+Principal component analysis of gene expression showed 
+clustering of replicates from each expansion media, and 
+further emphasized the similarity between expansion 
+Media 2 and 3 when compared to Media 1 (Dimension 
+1, 83.3%) (Fig. 6A). Differential gene expression between 
+groups was then assessed using DESeq2 for pairwise 
+comparisons of each expansion condition. Comparison 
+of Medium 1 with 2 or 3 revealed the most differentially 
+expressed genes (DEG) (7,437 and 8,643, respectively), 
+with a majority of those being upregulated (Supplemen -
+tary Fig. 2). There were comparatively fewer DEG (2,176) 
+between Media 2 and 3, with the top 15 genes with the 
+lowest p-value from each pairwise comparison shown 
+in Fig. 6B. Gene expression of Krt5, Foxj1, Scgb1a1,  
+and Mki67 among the three expansion conditions as 
+measured by RNA sequencing closely matched values 
+measured via qPCR (Supplementary Fig. 3).
+We next identified significantly changed canonical sig -
+naling pathways with underlying gene expression that 
+differed between each MTBC expansion medium in 
+resultant tracheospheres (Fig. 6 C–E). Surprisingly, when 
+comparing expansion Medium 1 with Media 2 or 3, the 
+most significantly changed pathways were involved in 
+hepatic fibrosis and idiopathic pulmonary fibrosis (IPF), 
+with these pathways being upregulated in Media 2 and 
+3. Aberrant basal cell differentiation and the presence of 
+basaloid cells have recently been appreciated in IPF, and 
+dedifferentiated basal cells are implicated in disease pro -
+gression [ 33]. Additionally, pathways related to wound 
+healing and fibroblast signaling were upregulated in 
+Medium 2 compared to Medium 1 (Fig. 6 C and D), both 
+of which are pathways implicated in fibrotic diseases. In 
+comparison, pathways related to fibrotic signaling were 
+not significantly different between expansion Media 2 
+and 3 (Fig. 6E).
+Fig. 4 Gene expression in tracheospheres following MTBC expansion in Medium 1, Medium 2, or Medium 3. Gene expression measured by qPCR of basal 
+marker Krt5, ciliated cell marker Foxj1, secretory cell marker Scgb1a1, and mitotic marker Mki67 in Day 14 ( A) and Day 21 ( B) tracheospheres after MTBC 
+expansion in Medium 1, Medium 2, or Medium 3. Comparisons were performed using a one-way ANOVA with Tukey post-hoc correction for multiple 
+comparisons. Data is presented as individual values of n = 3 replicates, and significance is annotated as * p < 0.05, ** p < 0.01, *** p < 0.001
+ 
+
+<<<PAGE 9>>>
+Page 9 of 13
+Druso et al. BMC Molecular and Cell Biology            (2025) 26:31 
+Considering these results and the increasing relevance 
+of lung organoids to IPF research, we further interrogated 
+the gene expression changes found in tracheospheres 
+from MTBC expanded in different media, particularly 
+as they related to IPF. Expression levels of DEG included 
+in the “IPF Signaling” pathway are shown in Fig. 7A. The 
+expression of Col1a1, Col2a1, and Col4a2 was higher in 
+tracheospheres from MTBC expanded in Media 1, com -
+pared to Media 2 or 3. However, the expression of other 
+collagens, including Col5a3 and Col6a1, was higher in 
+tracheospheres from MTBC expanded in Media 2 or 3, 
+compared to Media 1. Additionally, several β-catenin 
+regulators were differentially expressed among tra -
+cheospheres from MTBC expanded in the three Media, 
+including Wnt10b, Wnt5a, and Fzd10. (Fig. 7A). We then 
+compared gene expression signatures from each condi -
+tion to previously published aberrant basaloid cell signa -
+tures [33– 35]. Results in Fig. 7Bshow that genes enriched 
+in aberrant basal and basaloid cells (top 20 upregulated 
+genes from each previous study) show differential expres-
+sion in cells propagated in different media. Of interest, 
+Krt17 expression is higher in cells propagated in Medium 
+3 compared to other media, as Krt17 has been previ -
+ously identified as a marker of aberrant basaloid cells in 
+IPF [33], whereas other genes are differentially expressed 
+following expansion in Media 1–3. Overall, these data 
+point to the importance of expansion medium conditions 
+in governing expression signatures of basaloid genes 
+believed to be important in IPF pathogenesis.
+Discussion
+There is increasing evidence that medium components 
+have a profound effect on cellular functions ranging from 
+metabolism to differentiation [10, 11, 36, 37], particularly 
+in the field of organoid research [12, 13, 38]. Additionally, 
+single-cell sequence analysis of human nasal or bronchial 
+epithelial cells grown in 2D ALI conditions has shown 
+that media composition directly affects differentiation 
+Fig. 5 Targeted metabolite analysis from tracheosphere conditioned media after MTBC expansion in Medium 1, Medium 2, or Medium 3. (A) Row-scaled 
+heatmap of metabolites significantly changed between at least one of the pairs of media (n = 49 metabolites). (B-C) Ingenuity pathway analysis pairwise 
+comparisons of metabolic pathways present in tracheosphere conditioned media after MTBC expansion in Medium 1 versus Medium 2 ( B), Medium 1 
+versus Medium 3 (C), and Medium 2 versus Medium 3 (D). In (B-C), the second medium listed in the comparison is the baseline, with results reflective of 
+increased (positive Z score) or decreased (negative Z score) activation in the first medium listed. Grey bars indicate NA Z-score
+ 
+
+<<<PAGE 10>>>
+Page 10 of 13
+Druso et al. BMC Molecular and Cell Biology            (2025) 26:31 
+into multiciliated or secretory cells [ 39]. Herein, we 
+focused on the importance of culture medium in the 
+expansion of airway basal cells, which have been shown 
+to play pivotal roles in lung pathogenesis [ 33, 35, 40]. 
+Results from this study demonstrate that after MTBC 
+expansion in three different media, subsequent 3D 
+growth in Matrigel resulted in tracheospheres with dis -
+tinctive proliferation, differentiation, metabolic, and gene 
+expression signatures. These results highlight several key 
+differences in 3D tracheosphere morphogenesis resulting 
+from differences in the MTBC expansion media.
+MTBC expanded in Media 2 or 3 and subsequently cul-
+tured in 3D Matrigel developed into tracheospheres with 
+a less proliferative, by low Mki67 expression, and further 
+differentiated, by Foxj1 and Scgb1a1 expression, pheno -
+type after 14 days in 3D culture. After 21 days in culture, 
+however, there was less difference in the expression of 
+Foxj1 or Scgb1a1 between expansion media conditions, 
+Fig. 6 Bulk RNA sequencing analysis of day 14 tracheosphere mRNA following MTBC expansion in Medium 1, Medium 2, or Medium 3. ( A) Principal 
+component analysis using DESeq normalized count data as input. ( B) Row-scaled heatmap of the top 15 genes by adjusted p-value for each pairwise 
+comparison (n = 35 genes, as some overlapped between two different pairwise comparisons) using DESeq normalized count data as input. ( C-E) Inge-
+nuity pathway analysis pairwise comparisons of canonical pathways significantly changed in tracheospheres after MTBC expansion in Medium 1 versus 
+Medium 2 (C), Medium 1 versus Medium 3 (D), and Medium 2 versus Medium 3 (E). In C-E, the second medium listed in the comparison is the baseline, 
+with results reflective of increased (positive Z score) or decreased (negative Z score) activation in the first medium listed. Grey bars indicate NA Z-score. 
+n = 3 per expansion medium
+ 
+
+<<<PAGE 11>>>
+Page 11 of 13
+Druso et al. BMC Molecular and Cell Biology            (2025) 26:31 
+which was driven by increases in expression of these 
+genes in expansion Medium 1 (based on raw Ct values, 
+data not shown). In addition, expansion Media 2 and 3 
+produced larger-sized and fluid-filled tracheospheres 
+with visible lumens at days 12 and 19, suggesting that 
+secretions had accumulated within the lumens and that 
+cell-cell junctions were intact. There was no significant 
+difference in expression of the basal cell marker Krt5 
+between conditions at any time point, consistent with 
+previous reports showing that even after differentiation 
+tracheospheres contain an exterior layer of basal cells [7].
+Single-cell RNA sequencing is commonly used to 
+characterize organoid cultures; however, it can be cost-
+prohibitive. There is also a need for diverse readouts 
+that allow for continuous monitoring of organoid cul -
+tures and are less expensive alternatives to single-cell 
+RNA sequencing. We employed targeted metabolomics 
+on conditioned medium from cultures at Day 14, which 
+revealed significant differences in metabolic profiles. Tra-
+cheospheres from expansion Media 2 and 3 had higher 
+levels of glycolysis and TCA cycle intermediates, while 
+those expanded in Medium 1 had greater turnover of 
+amino acids. Additionally, we performed RNA sequenc -
+ing on cultures at the same timepoint, which even at 
+a bulk level revealed significant differences between 
+conditions. Ingenuity Pathway Analysis revealed that, 
+along with decreases in the expression of differentia -
+tion markers Foxj1 and Scgb1a1, tracheospheres grown 
+from MTBC expanded in Medium 1 had significantly 
+upregulated expression of certain genes associated with 
+IPF when compared to tracheospheres grown from 
+MTBC expanded in Media 2 or 3, including Col1a1, 
+Wnt10b, and Fzd10. Interestingly, tracheospheres grown 
+from MTBC expanded in Media 2 or 3 had other signifi -
+cantly upregulated genes that were associated with IPF, 
+including Wnt5a, Wnt11, Col5a3, and Col6a1. Given the 
+important roles that have been shown for airway basal 
+cells during IPF pathogenesis, including their effects on 
+lung fibroblasts [ 33], these data suggest the importance 
+of consideration of expansion media when addressing 
+these research questions.
+Species differences and the characterization of subpop-
+ulations among airway stem cells add to the methodolog-
+ical complexity associated with airway organoid research. 
+This is particularly true with airway basal cells, which are 
+located in the mouse trachea but in humans throughout 
+the trachea and upper bronchioles [ 41]. The heterogene-
+ity among airway basal cells in healthy and diseased lungs 
+has recently been realized, primarily through the use of 
+single cell RNA sequencing, with markers such as NGFR, 
+Keratin 5 (KRT5), Keratin 17 (KRT17) being expressed 
+in some, but not all, basal cells [ 33, 42]. It is perhaps not 
+surprising that, considering this heterogeneity among 
+MTBC [43, 44], differences arise in tracheosphere-form -
+ing potential when MTBC expansion medium is altered. 
+It has previously been shown that primary cells grown in 
+the presence of fibroblast feeder cells and ROCK inhibi -
+tor retain the ability to proliferate without losing their 
+Fig. 7 RNA sequencing reveals changes in idiopathic pulmonary fibrosis (IPF) signaling pathways among tracheospheres. ( A) Expression level of genes 
+included in the “IPF signaling” pathway identified as significantly changed between at least one of the pairs of media by ingenuity pathway analysis in 
+Fig. 6 C and D. (B) Expression level of top 20 upregulated aberrant basaloid cell related genes, as reported in Haberman et al. 2020 [34], Adams et al. 2020 
+[35], Jaeger et al. 2022 [33], in the tracheospheres from this study. Row-scaled, DESeq2 normalized count data were used as input for both heatmaps
+ 
+
+<<<PAGE 12>>>
+Page 12 of 13
+Druso et al. BMC Molecular and Cell Biology            (2025) 26:31 
+capacity for differentiation [ 45, 46]. Similarly, BMP inhi -
+bition has been shown to promote the proliferation of 
+airway epithelial cells [ 47], and retinoic acid has been 
+shown to regulate multiple aspects of lung development 
+[48]. In this study, we have shown that the inclusion of 
+retinoic acid or inhibitors for BMP , ROCK and ALK in 
+MTBC expansion medium had marked effects on subse -
+quent 3D tracheosphere formation, even though the 3D 
+tracheospheres were cultured in the same Pneumacult 
+ALI medium.
+There are several limitations to the current study. While 
+we compared three different media for the expansion of 
+MTBC, we did not employ flow cytometry or single cell 
+RNA sequencing to characterize the resultant subpopula-
+tions of MTBC immediately following expansion in each 
+medium. Additionally, cell counts and cell death were 
+not analyzed in this study, so we cannot determine if the 
+tracheosphere cultures with higher Mki67 expression 
+also contained more cells overall compared to the other 
+conditions. Although we compared three expansion 
+media that have been described in the literature, we did 
+not investigate how individual media components dur -
+ing tracheosphere growth in 3D culture influence MTBC 
+proliferation, differentiation, and expression of aberrant 
+basaloid and other fibrosis relevant genes highlighted 
+herein. Finally, additional studies also will be required to 
+unravel how individual media components affect meta -
+bolic pathways and secreted metabolites we measured 
+herein and their implication for the expression of aber -
+rant basaloid and other IPF relevant genes.
+Conclusion
+We report that the cell culture medium used during the 
+expansion of MTBC dramatically affects the subsequent 
+growth and differentiation potential of these cells in 3D 
+culture, and should therefore be considered in studies 
+involving the analysis of airway organoids. This study 
+provides methodological validation for the isolation and 
+expansion of MTBC for organoid culture and describes 
+new endpoint analyses that can be used to characterize 
+cultures in a high-throughput and cost-effective manner.
+Supplementary Information
+The online version contains supplementary material available at  h t t p  s : /  / d o i  . o  r 
+g /  1 0 .  1 1 8 6  / s  1 2 8 6 0 - 0 2 5 - 0 0 5 5 4 - 8.
+Supplementary Material 1
+Supplementary Material 2
+Supplementary Material 3
+Supplementary Material 4
+Supplementary Material 5
+Acknowledgements
+Not applicable.
+Author contributions
+Author Contributions: EMC, JED, YJH conceived and designed this study. EMC, 
+JED, MM, RA, CE, ARD, and JAR executed experiments. DS, VM, EH, and JER 
+assisted with data analysis. EMC and JED wrote the manuscript, with guidance 
+from YJH, and all co-authors reviewed and edited the manuscript.
+Funding
+This work was supported by the NIH R35HL135828 (YJH) and the Parker B 
+Francis Family Foundation (EMC).
+Data availability
+Data input files and code used for the analysis can be found at: [ h t t p  s : /  / g i t  h u  
+b . c  o m /  U N C -  C E  M A L  B / I  m p a c  t -  o f -  m o u  s e - t  r a  c h e  a l -  b a s a  l -  c e l  l - e  x p a n  s i  o n -  m e d  i 
+u m -  o n  - c h  a r a  c t e r  i s  t i c s - o f - t r a c h e o s p h e r e s]. Analyses of organoid morphology 
+were conducted in MatLab (The Mathworks, Natick, MA). All analyses of 
+metabolomics and RNA sequencing data were conducted using R version 
+4.5.0 [29] and base R functions unless otherwise noted. R packages *tidyverse* 
+[28], *janitor* [30], and *openxlsx* [31] were used throughout the analysis.
+Declarations
+Ethical approval and consent to participate
+All methods were carried out in accordance with the guidelines and 
+regulations of the National Institutes of Health (NIH) and the University of 
+Vermont Institutional Animal Care and Use Committee. All experimental 
+protocols using animals were approved by the University of Vermont 
+Institutional Animal Care and Use Committee (IACUC #202000035).
+Consent to publication
+Not applicable.
+Competing interests
+YJH holds patents: United States Patent No. 8,679,811: “Treatments Involving 
+Glutaredoxins and Similar Agents” and United States Patent No. 8,877,447: 
+“Detection of Glutathionylated Proteins” .
+Author details
+1Department of Pathology and Laboratory of Medicine, University of 
+Vermont Larner College of Medicine, Burlington, VT 05405, USA
+2Department of Medicine, University of Vermont Larner College of 
+Medicine, Burlington, VT 05405, USA
+3Department of Environmental Science and Engineering, UNC Chapel Hill 
+Gillings School of Global Public Health, Chapel Hill, NC 27599, USA
+4Curriculum in Toxicology and Environmental Medicine, University of 
+North Carolina at Chapel Hill School of Medicine, Chapel Hill, NC  
+27599, USA
+5Department of Biochemistry and Molecular Genetics, University of 
+Colorado School of Medicine, Aurora, CO 80045, USA
+6Center for Environmental Medicine, Asthma, and Lung Biology, 
+University of North Carolina at Chapel Hill School of Medicine, Chapel Hill, 
+NC 27599, USA
+7Department of Pediatrics, University of North Carolina at Chapel Hill 
+School of Medicine, Chapel Hill, NC 27599, USA
+Received: 31 July 2024 / Accepted: 7 October 2025
+References
+1. Barkauskas CE, Chung M-I, Fioret B, Gao X, Katsura H, Hogan BL. Lung organ-
+oids: current uses and future promise. Development. 2017;144(6):986–97.
+2. Tadokoro T, Wang Y, Barak LS, Bai Y, Randell SH, Hogan BL. IL-6/STAT3 pro-
+motes regeneration of airway ciliated cells from basal stem cells. Proc Natl 
+Acad Sci USA. 2014;111(35):E3641–9.
+3. Sachs N, Papaspyropoulos A, Zomer-van Ommen DD, Heo I, Böttinger L, Klay 
+D, et al. Long-term expanding human airway organoids for disease modeling. 
+The EMBO J. 2019;38(4):e100300.
+4. Salahudeen AA, Choi SS, Rustagi A, Zhu J, van Unen V, de la O Sm, et al. 
+Progenitor identification and SARS-CoV-2 infection in human distal lung 
+organoids. Nature. 2020;588(7839):670–75.
+
+<<<PAGE 13>>>
+Page 13 of 13
+Druso et al. BMC Molecular and Cell Biology            (2025) 26:31 
+5. Kim M, Mun H, Sung CO, Cho EJ, Jeon H-J, Chun S-M, et al. Patient-derived 
+lung cancer organoids as in vitro cancer models for therapeutic screening. 
+Nat Commun. 2019;10(1):1–15.
+6. Barkauskas CE, Cronce MJ, Rackley CR, Bowie EJ, Keene DR, Stripp BR, 
+et al. Type 2 alveolar cells are stem cells in adult lung. J Clin Invest. 
+2013;123(7):3025–36.
+7. Rock JR, Onaitis MW, Rawlins EL, Lu Y, Clark CP , Xue Y, et al. Basal cells as stem 
+cells of the mouse trachea and human airway epithelium. Proc Natl Acad Sci 
+USA. 2009;106(31):12771–75.
+8. Konda B, Mulay A, Yao C, Beil S, Israely E, Stripp BR. Isolation and enrichment 
+of human lung epithelial progenitor cells for organoid culture. JoVE (J Vis 
+Exp). 2020;161:e61541.
+9. Mou H, Vinarsky V, Tata PR, Brazauskas K, Choi SH, Crooke AK, et al. Dual SMAD 
+signaling inhibition enables long-term expansion of diverse epithelial basal 
+cells. Cell Stem Cell. 2016;19(2):217–31.
+10. Ackermann T, Tardito S. Cell culture medium formulation and its implications 
+in cancer metabolism. Trends Cancer. 2019;5(6):329–32.
+11. Hagmann S, Moradi B, Frank S, Dreher T, Kammerer PW, Richter W, et al. Differ-
+ent culture media affect growth characteristics, surface marker distribution 
+and chondrogenic differentiation of human bone marrow-derived mesen-
+chymal stromal cells. BMC Musculoskelet Disord. 2013;14:223.
+12. Hogenson TL, Xie H, Phillips WJ, Toruner MD, Li JJ, Horn IP , et al. Culture media 
+composition influences patient-derived organoid ability to predict therapeu-
+tic responses in gastrointestinal cancers. JCI Insight. 2022;7(22).
+13. Wilson SS, Mayo M, Melim T, Knight H, Patnaude L, Wu X, et al. Optimized cul-
+ture conditions for improved growth and functional differentiation of mouse 
+and human colon organoids. Front Immunol. 2020;11:547102.
+14. Kassis T, Hernandez-Gordillo V, Langer R, Griffith LG. OrgaQuant: human 
+intestinal organoid localization and quantification using deep convolutional 
+neural networks. Sci Rep. 2019;9(1):12479.
+15. Spiller ER, Ung N, Kim S, Patsch K, Lau R, Strelez C, et al. Imaging-based 
+machine learning analysis of patient-derived tumor organoid drug response. 
+Front Oncol. 2021;11:771173.
+16. You Y, Richer EJ, Huang T, Brody SL. Growth and differentiation of mouse 
+tracheal epithelial cells: selection of a proliferative population. Am J Physiol 
+Lung Cell Mol Physiol. 2002;283(6):L1315–21.
+17. Wu R, Smith D. Continuous multiplication of rabbit tracheal epithelial cells in 
+a defined, hormone-supplemented medium. In Vitro. 1982;18(9):800–12.
+18. Alcorn JF, Guala AS, van der Velden J, McElhinney B, Irvin CG, Davis RJ, et 
+al. Jun N-terminal kinase 1 regulates epithelial-to-mesenchymal transition 
+induced by TGF-beta1. J Cell Sci. 2008;121(Pt 7):1036–45.
+19. Rayner RE, Makena P , Prasad GL, Cormet-Boyaka E. Optimization of normal 
+human bronchial epithelial (NHBE) cell 3D cultures for in vitro lung model 
+studies. Sci Rep. 2019;9(1):1–10.
+20. Nemkov T, Reisz JA, Gehrke S, Hansen KC, D’Alessandro A. High-throughput 
+metabolomics: isocratic and gradient mass spectrometry-based methods. 
+High-Throughput Metabolomics: Methods And Protocols. 2019;13–26.
+21. Kolde R. Pheatmap: pretty heatmaps. R package version 1.0.12 2019 Available 
+from:  h t t p  s : /  / C R A  N .  R - p  r o j  e c t .  o r  g / p  a c k  a g e =  p h  e a t m a p.
+22. Lenahan SM, Sarausky HM, Deming P , Seward DJ. STK11 loss leads to YAP1-
+mediated transcriptional activation in human KRAS-driven lung adenocarci-
+noma cell lines. Cancer Gene Ther. 2024;31(1):1–8.
+23. Love MI, Huber W, Anders S. Moderated estimation of Fold change and 
+dispersion for RNA-seq data with DESeq2. Genome Biol. 2014;15(12):550.
+24. Roell K, Koval LE, Boyles R, Patlewicz G, Ring C, Rider CV, et al. Development of 
+the InTelligence and machine LEarning (TAME) toolkit for introductory data 
+science, chemical-biological analyses, predictive modeling, and database 
+mining for environmental health research. Front Toxicol. 2022;4:893924.
+25. Risso D, Ngai J, Speed TP , Dudoit S. Normalization of RNA-seq data using fac-
+tor analysis of control genes or samples. Nat Biotechnol. 2014;32(9):896–902.
+26. Kassambra A, Mundt F. Factoextra: extract and visualize the results of multi-
+variate data analyses. R package version 1.0.7. 2020 Available from:  h t t p  s : /  / C R 
+A  N .  R - p  r o j  e c t .  o r  g / p  a c k  a g e =  f a  c t o e x t r a.
+27. Payton A, Clark J, Eaves L, Santos HP Jr, Smeester L, Bangma JT, et al. Placental 
+genomic and epigenomic signatures associated with infant birth weight 
+highlight mechanisms involved in collagen and growth factor signaling. 
+Reprod Toxicol. 2020;96:221–30.
+28. Wickham H, Averick M, Bryan J, Chang W, McGowan L, François R, et al. 
+Welcome to the Tidyverse. J Educ Chang Open Source Softw. 2019;4(43).
+29. R Core Team. R: a language and environment for statistical computing. (Ver-
+sion 4.3.1 (2023-06-16)). Vienna, Austria: R Foundation for Statistical Comput-
+ing; 2023.
+30. Firke S. Janitor: simple tools for examining and cleaning dirty data. R package 
+version 2.2.0 2023 Available from:  h t t p  s : /  / C R A  N .  R - p  r o j  e c t .  o r  g / p a c k a g e = j a n i t o 
+r.
+31. Shauberger P , Walker A. Openxlsx: read, write and edit xlsx files. R package 
+version 4.2.5.2 2023 Available from:  h t t p s :   /  / C R A  N  .  R -  p r o  j e  c  t .  o  r g  / p a  c k  a  g e  = o p e 
+n x l s x.
+32. Horvath TD, Haidacher SJ, Engevik MA, Luck B, Ruan W, Ihekweazu F, et al. 
+Interrogation of the mammalian gut-brain axis using LC-MS/MS-based 
+targeted metabolomics with in vitro bacterial and organoid cultures and in 
+vivo gnotobiotic mouse models. Nat Protoc. 2023;18(2):490–529.
+33. Jaeger B, Schupp JC, Plappert L, Terwolbeck O, Artysh N, Kayser G, et al. Air-
+way basal cells show a dedifferentiated KRT17(high)Phenotype and promote 
+fibrosis in idiopathic pulmonary fibrosis. Nat Commun. 2022;13(1):5637.
+34. Habermann AC, Gutierrez AJ, Bui LT, Yahn SL, Winters NI, Calvi CL, et al. Single-
+cell RNA sequencing reveals profibrotic roles of distinct epithelial and mesen-
+chymal lineages in pulmonary fibrosis. Sci Adv. 2020 1972;6(28):eaba1983.
+35. Adams TS, Schupp JC, Poli S, Ayaub EA, Neumark N, Ahangari F, et al. Single-
+cell RNA-seq reveals ectopic and aberrant lung-resident cell populations in 
+idiopathic pulmonary fibrosis. Sci Adv. 2020 1983;6(28):eaba1972.
+36. Saint-Criq V, Delpiano L, Casement J, Onuora JC, Lin J, Gray MA. Choice of 
+differentiation media significantly impacts cell lineage and response to CFTR 
+modulators in fully differentiated primary cultures of cystic fibrosis human 
+airway epithelial cells. Cells. 2020;9(9).
+37. Golikov MV, Valuev-Elliston VT, Smirnova OA, Ivanov AV. Physiological media 
+in studies of cell metabolism. Mol Biol. 2022;56(5):629–37.
+38. Gray GK, Li CM, Rosenbluth JM, Selfors LM, Girnius N, Lin JR, et al. A human 
+breast atlas integrating single-cell proteomics and transcriptomics. Dev Cell. 
+2022;57(11):1400–20 e7.
+39. Redman E, Fierville M, Cavard A, Plaisant M, Arguel MJ, Ruiz Garcia S, et al. 
+Cell culture differentiation and proliferation conditions influence the in vitro 
+regeneration of the human airway epithelium. Am J Respir Cell Mol Biol. 
+2024.
+40. Moss BJ, Ryter SW, Rosas IO. Pathogenic mechanisms underlying idiopathic 
+pulmonary fibrosis. Annu Rev Pathol: Mech Dis. 2022;17(1):515–46.
+41. Rock JR, Randell SH, Hogan BL. Airway basal stem cells: a perspective on 
+their roles in epithelial homeostasis and remodeling. Dis Model Mech. 
+2010;3(9–10):545–56.
+42. Carraro G, Mulay A, Yao C, Mizuno T, Konda B, Petrov M, et al. Single-cell 
+reconstruction of human basal cell diversity in normal and idiopathic pulmo-
+nary fibrosis lungs. Am J Respir Crit Care Med. 2020;202(11):1540–50.
+43. Pardo-Saganta A, Law BM, Tata PR, Villoria J, Saez B, Mou H, et al. Injury 
+induces direct lineage segregation of functionally distinct airway basal stem/
+progenitor cell subpopulations. Cell Stem Cell. 2015;16(2):184–97.
+44. Zhou Y, Yang Y, Guo L, Qian J, Ge J, Sinner D, et al. Airway basal cells show 
+regionally distinct potential to undergo metaplastic differentiation. Elife. 
+2022;11.
+45. Suprynowicz FA, Upadhyay G, Krawczyk E, Kramer SC, Hebert JD, Liu X, et al. 
+Conditionally reprogrammed cells represent a stem-like state of adult epithe-
+lial cells. Proc Natl Acad Sci USA. 2012;109(49):20035–40.
+46. Gentzsch M, Boyles SE, Cheluvaraju C, Chaudhry IG, Quinney NL, Cho C, et 
+al. Pharmacological rescue of conditionally reprogrammed cystic fibrosis 
+bronchial epithelial cells. Am J Respir Cell Mol Biol. 2017;56(5):568–74.
+47. Tadokoro T, Gao X, Hong CC, Hotten D, Hogan BL. BMP signaling and cellular 
+dynamics during regeneration of airway epithelium from basal progenitors. 
+Development. 2016;143(5):764–73.
+48. Fernandes-Silva H, Araujo-Silva H, Correia-Pinto J, Moura RS. Retinoic acid: a 
+key regulator of lung development. Biomolecules. 2020;10(1).
+Publisher’s Note
+Springer Nature remains neutral with regard to jurisdictional claims in 
+published maps and institutional affiliations.

@@ -1,0 +1,1135 @@
+
+
+<<<PAGE 1>>>
+BioMed Central
+Page 1 of 13
+(page number not for citation purposes)
+Respiratory Research
+Open AccessResearch
+Bronchial epithelial spheroids: an alternative culture model to 
+investigate epithelium inflammation-mediated COPD
+Gaetan Deslee1,2, Sandra Dury1,2, Jeanne M Perotin1,2, Denise Al Alam3, 
+Fabien Vitry4, Rachel Boxio2, Sophie C Gangloff3, Moncef Guenounou3, 
+François Lebargy1,2 and Abderrazzaq Belaaouaj*2
+Address: 1Service des Maladies Respiratoires, Hôpital Maison Blanche, CHU de REIMS, France, 2INSERM UMR514, IFR 53, Hôpital Maison 
+Blanche, CHU de REIMS, France, 3Laboratoire d'Immuno-Pharmacologie Cellulaire et Moléculaire, EA3796, Université de Reims Champagne-
+Ardenne, IFR 53, Reims, France and 4Unité Aide Méthodologique, Hôpital Maison Blanche, CHU de REIMS, France
+Email: Gaetan Deslee - gdeslee@chu-reims.fr; Sandra Dury - sdury@chu -reims.fr; Jeanne M Perotin - jeanne-marie@etudiant.univ-reims.fr; 
+Denise Al Alam - denise.al-alam@etudiant.univ-reims.fr; Fabien Vitr y - fvitry@chu-reims.fr; Rachel Boxio - rachel.boxio@univ-reims.fr; 
+Sophie C Gangloff - sophie.gangloff@univ-reims.fr ; Moncef Guenounou - moncef.guenounou@univ-reims.fr; François Lebargy - flebargy@chu-
+reims.fr; Abderrazzaq Belaaouaj* - azzaq.belaaouaj@univ-reims.fr
+* Corresponding author    
+Abstract
+Background: Chronic obstructive pulmonary disease (COPD) is characterized by abnormal lung inflammation that
+exceeds the protective response. Various culture models using epithelial cell lines or primary cells have been used to
+investigate the contribution of bronchial epithelium in the exaggerated inflammation of COPD. However, these models
+do not mimic in vivo situations for several reasons (e.g, transformed epithelial cells, protease-mediated dissociation of
+primary cells, etc.). To circumvent these concerns, we developed a new epithelial cell culture model.
+Methods: Using non transformed non dissociated bronchial epithelium obtained by bronchial brushings from COPD and
+non-COPD smokers, we developed a 3-dimensional culture model, bronchial epithelial spheroids (BES). BES were
+analyzed by videomicroscopy, light microscopy, immunofluorescence, and transmission electron microscopy. We also
+compared the inflammatory responses of COPD and non-COPD BES. In our study, we chose to stimulate BES with
+lipopolycaccharide (LPS) and measured the release of the pro-inflammatory mediators interleukin-8 (IL-8) and
+leukotriene B4 (LTB4) and the anti-inflammatory mediator prostaglandin E2 (PGE2).
+Results: BES obtained from both COPD and non-COPD patients were characterized by a polarized bronchial epithelium
+with tight junctions and ciliary beating, composed of basal cells, secretory cells and ciliated cells. The ciliary beat frequency
+of ciliated cells was not significantly different between th e two groups. Of interest, BES retained their characteristic
+features in culture up to 8 days. BES released the inflammatory mediators IL-8, PGE2 and LTB4 constitutively and
+following exposure to LPS. Interestingly, LPS induced a higher release of IL-8, but not PGE2 and LTB4 in COPD BES (p
+< 0.001) which correlated with lung function changes.
+Conclusion: This study provides for the first time a compelling evidence that the BES model provides an unaltered
+bronchial surface epithelium. More importantly, BES represent an attractive culture model to investigate the mechanisms
+of injuring agents that mediate epithelial cell inflammation and its contribution to COPD pathogenesis.
+Published: 26 November 2007
+Respiratory Research 2007, 8:86 doi:10.1186/1465-9921-8-86
+Received: 25 May 2007
+Accepted: 26 November 2007
+This article is available from: http://respiratory-research.com/content/8/1/86
+© 2007 Deslee et al; licensee BioMed Central Ltd. 
+This is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons. org/licenses/by/2.0), 
+which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.
+
+<<<PAGE 2>>>
+Respiratory Research 2007, 8:86 http://respiratory-research.com/content/8/1/86
+Page 2 of 13
+(page number not for citation purposes)
+Background
+Chronic obstructive pulmonary disease (COPD) is charac-
+terized by progressive limitation of expiratory airflow and
+is associated with chronic inflammation in response to
+various injuring agents [1,2]. Cigarette smoke outweighs
+any other etiologic factor in the development of COPD.
+And exacerbations mediated for instance by respiratory
+infections have a direct effect on the disease worsening
+and acceleration of lung function loss [3]. COPD is recog-
+nized as a major health problem worldwide resulting in
+large consumption of health care resources [4]. Remarka-
+bly, advances in therapy against COPD are still limited
+due in part to poor understanding of the mechanisms
+underlying the setting and/or progression of this disease.
+Among the hallmarks of COPD are chronic inflamma-
+tion, injury of both parenchyma and epithelial lining, and
+recruitment/activation of inflammatory cells (neu-
+trophils, macrophages and CD8+ T cells) triggered in part
+by mediators derived from the epithelium [5-8]. In con-
+trolled situations, the bronchial epithelium represents the
+first line of defense and protects the lung by acting as a
+physicochemical barrier of the submucosa. This tissue is
+also able to mount an inflammatory response releasing
+mediators following exposure to insulting agents includ-
+ing cigarette smoke [9], cytokines [10-13], and infectious
+pathogens or their products such as lipopolysaccharide
+(LPS) [14-16]. However, in the setting of overwhelming
+conditions such as in COPD, there appears to be an
+abnormal inflammatory response in the lungs beyond the
+normal protective response. But, the mechanisms of air-
+way epithelium inflammation and their contribution to
+COPD development are not entirely clear.
+Different systems have been developed to investigate the
+role of airway epithelium in COPD. Morphologic analy-
+ses using surgical specimens or bronchial biopsies from
+COPD and non-COPD smokers demonstrated an
+enhanced inflammatory cell infiltration in COPD, goblet
+cell hyperplasia and plugging associated with mucus
+hypersecretion in both groups [17]. Of note, these studies
+did not reveal discernable histologic differences in bron-
+chial surface epithelium between the two groups. Func-
+tional analyses or response studies to stimuli could not
+be carried out using these tissues. A number of cell culture
+models were established to study the role of the epithe-
+lium in COPD ranging from its response to insults, differ-
+entiation, injury, and regeneration. These models include
+cell culture on uncoated or coated wells, air-liquid inter-
+face system, and xenograft model. Application of either
+model to epithelial cell lines or primary epithelial cells
+provides undoubtedly insights in the biology of epithe-
+lium. But, extrapolation of data obtained from these
+studies to in vivo situations could be misleading due to a
+number of concerns. For example, epithelial cell lines
+employed in most of the studies are transformed cells.
+Primary bronchial epithelial cells, when removed from
+their host tissue, are dissociated (e.g., trypsinisation).
+And when grown as monolayers, they undergo dediffer-
+entiation, proliferation and loose some of their specific
+functions. Indeed, epithelial cells dissociated from nasal
+polyps dedifferentiate rapidly with loss of ciliated cells
+and disappearance of tight junctions [18]. More recently,
+we and others have developed three-dimensional (3-D)
+cultures of human epithelial cells, spheroids, using lung
+epithelial cell lines or cells derived from nasal epithelium
+[19-24]. Compared to 2-D models, the 3-D culture model
+keeps the airway epithelium in a well-differentiated and
+polarized state, as demonstrated by an enhanced expres-
+sion of functional tight junctions proteins, an increase in
+expression of cell-specific markers and a greater induc-
+tion in proinflammatory cytokines following stimulation
+[19]. Although, these studies suggest 3-D cultures as a
+more physiologically relevant model to examine airway
+epithelium functions, 3-D culture from nasal epithelium,
+a widely used model, may not represent in vivo situations
+due to cell changes resulting from protease-induced
+dissociation, proliferation, secondary aggregation and
+differentiation.
+Our goals in the current study were two fold. First, we
+sought to develop for the first time a bronchial epithelial
+spheroids (BES) model, a 3-D culture system, using non
+transformed non dissociated bronchial brushings obtained
+from COPD and non-COPD patients. Second, we vali-
+dated this model by comparing the responses of both types
+of BES to lipopolysaccharide (LPS), a ubiquitous endo-
+toxin. Our findings show that COPD and non-COPD
+smokers-derived brushings form spontaneously 3-D BES.
+Both types of BES are characterized by a polarized bron-
+chial epithelium with tight cell-cell junctions, composed of
+basal cells, secretory cells and ciliated cells. We also provide
+evidence that COPD, but not non-COPD BES, exhibit an
+enhanced inflammatory response to LPS.
+Methods
+Patients
+Patients referred to Reims University Hospital to undergo
+flexible bronchoscopy were screened for inclusion in the
+present study. All the patients were current or ex-smokers
+(>10 pack-years). The selection of COPD patients was
+established on the basis of the Global Initiative for
+Chronic Obstructive Lung Disease guidelines [25] as a
+ratio of FEV
+1/FVC less than 0.7 after the administration of
+200 μg of salbutamol. Patients were excluded from the
+study when one of the following conditions was present :
+recent history of exacerbation and/or respiratory tract
+infection, an increase in FEV
+1 > 20%/baseline or >200 mL
+at 30 min following 200 μg of inhaled salbutamol, history
+of asthma, and use of inhaled or systemic corticosteroids.
+
+<<<PAGE 3>>>
+Respiratory Research 2007, 8:86 http://respiratory-research.com/content/8/1/86
+Page 3 of 13
+(page number not for citation purposes)
+Patients were asked not to smoke 12 hours before bron-
+choscopy. Detailed informations about the patients
+included their smoking habits (current smoking status
+and number of pack-years), drug history, age, weight and
+height.
+Lung function was determined for all patients, including
+FEV
+1, FVC, FEV 1/FVC, reversibility of airflow limitation
+(ΔFEV1) measured after administration of 200 μg salbuta-
+mol, total lung capacity (TLC), residual volume (RV), and
+diffusing capacity for carbon monoxide per liter alveolar
+volume (K CO) (BodyBox 5500, Medisoft, Sorinnes, Bel-
+gium). For all COPD patients, the BODE index was com-
+puted from body-mass index, degree of airflow
+obstruction, dyspnea score (Modified Medical Research
+Council scale), and exercise capacity measured by the six-
+minute-walk test [26].
+The study was approved by the Consultative Committee
+Protecting Persons in Biomedical Research (CCPPRB) of
+Champagne-Ardenne. All the subjects gave their informed
+written consent.
+Fiberoptic bronchoscopy and bronchial brushings
+After local anesthesia with 2% lidocaine, a fiberoptic
+bronchoscope (Olympus, Paris, France) was inserted into
+the trachea and airways were systematically examined.
+Bronchial epithelium was obtained by gentle brushing of
+segmental bronchi under visual control by mean of a
+cytology brush (Olympus, Paris, France). Each patient
+underwent 6 bronchial brushings. Brushes were processed
+immediately to carry out our studies.
+Culture of bronchial epithelial spheroids
+Samples obtained from bronchial brushings were gently
+centrifuged (50 g for 5 min), and resuspended in 2 mL
+RPMI-1640 (Invitrogen, Carlsbad, CA) supplemented
+with insulin (1 μg/ml; Sigma Chemical, St Louis, MO),
+Apo-transferrin (1 μg/ml; Serva, Heidelberg, Germany),
+epidermal growth factor (10 ng/ml; Sigma), hydrocorti-
+sone (0.5 μg/ml; Sigma), retinoic acid (2,5 μg/ml; Sigma),
+amphotericin B (2,5 μg/ml; Sigma), penicillin (200 U/ml)
+and streptomycin (100 U/ml). Bronchial brushings were
+then treated with a mucolytic agent (acetylcysteine 2.5%)
+(Bristol-Myers Squibb, Rueil-Malmaison, France) for 15
+min. Epithelial sheets were then collected and washed two
+times. Pooled bronchial epithelial sheets were then resus-
+pended in 2 ml medium supplemented with fetal calf
+serum 10% and cultured in 24-well flat-bottomed culture
+plates at 37°C, 5% CO2 for 24 h. Under static conditions,
+bronchial epithelial sheets formed rapidly and spontane-
+ously distinctive bronchial epithelial spheroids (BES).
+BES were in suspension and did not adhere to the wells.
+Next, BES were gently transferred to new culture plate,
+washed one time and cultured for various time periods (1
+to 8 days). Morphological and functional analyses were
+carried out at designated time points.
+Tissue section preparation and immunofluorescence
+BES were gently centrifuged and cryofixed in liquid nitro-
+gen and stored at -80°C as previously described [18].
+Transverse frozen sections (5 μm thick) were placed on
+gelatin-coated glass slides and fixed in methanol (-20°C)
+for 10 min. Slides were washed twice in PBS, incubated in
+1% bovine serum albumin (BSA) for 5 min and then incu-
+bated for 1 h at room temperature with the following pri-
+mary antibodies: anti-Cytokeratin 13 (Sigma) anti-
+Cytokeratin 18 (Sigma), anti-MUC5AC (gift from JP
+Aubert, Lille, France), anti-occludin (Zymed, San Fran-
+cisco, CA), anti-zonula occludens (ZO-1) (Zymed), anti E-
+cadherin (R & D Systems, Minneapolis, MN), anti-IL-8
+(Biosource International, Camarillo, CA), and Ki67 anti-
+gen (MIB-1 clone) (Immunotech, Marseille, France). Pre-
+immune sera were used as negative controls. Next, slides
+were washed three times and incubated with the bioti-
+nylated secondary antibody for 1 h at room temperature.
+After washing the slides three times, Alexa Fluor 488-con-
+jugated streptavidin (1:100; Molecular Probes) was
+added. Nuclei were couterstained with Harris haematoxy-
+lein solution (Sigma), mounted in citifluor antifading
+solution (Agar Scientific, Essex, United Kingdom), and
+observed with an Axiophot microscope (Zeiss, Le Pecq,
+France) at a magnification of × 40.
+Transmission Electron Microscopy
+BES were fixed in 2% glutaraldehyde-PBS for 1 h at room
+temperature and then postfixed with 1% osmium tetrox-
+ide at 4°C. BES were then dehydrated and embedded in
+increasing concentrations of Epon diluted in ethanol and
+ranging from 50% to 100%. Polymerisation for 78 h at
+60°C was then carried out. Ultrathin sections (80 nm)
+were cut on a microtome, mounted on copper grids, and
+stained with uranyl acetate and lead citrate. The sections
+were observed on a J.E.O.L. 200 × transmission electron
+microscope operating at 75 kV.
+Videomicroscopy and measurement of ciliary beat 
+frequency
+BES plates were placed in a culture chamber at 37°C, 5%
+CO2, and was followed overtime by videomicroscopy
+using a CCD video-camera connected to an Axiophot
+microscope (Zeiss, Le Pecq, France) with ×40 objective. In
+order to assess the ciliary beating, the video images of
+active ciliated cells were displayed on a video screen. A
+photodetector placed on a ciliated cell on the video
+detects an analogic signal which was filtered, amplified
+and numerized to obtain the ciliary beating frequency, as
+previously described [27]. Ciliary beat frequency was
+measured on five different BES per preparation, and the
+
+<<<PAGE 4>>>
+Respiratory Research 2007, 8:86 http://respiratory-research.com/content/8/1/86
+Page 4 of 13
+(page number not for citation purposes)
+mean ciliary beat frequency was determined by averaging
+five different measures.
+LPS stimulation of BES and ELISA
+For LPS dose-response experiments, BES obtained from
+each patient were equally divided in four different wells in
+a 1 ml culture medium and incubated with 0, 0.1, 1 or 10
+μg/ml Pseudomonas aeruginosa LPS (Calbiochem, San
+Diego, CA) for 24 h at 37°C, 5% CO2. Next, BES were
+treated with 10 μg/ml LPS and supernatants collected at 1,
+4, 8 and 24 h for time-course experiments.
+Supernatants were separated to BES by centrifugation. IL-
+8, PGE2 and LTB4 levels were measured in the superna-
+tants using quantitative sandwich immunoassay tech-
+nique (R & D Systems, Minneapolis, MN) following the
+manufacture's instructions. The cell pellet of BES was
+treated with RIPA buffer (50 nM Tris [pH 7.4], 150 mM
+NaCl, 1% Igepal [vol/vol], 1% sodium deoxycholate [wt/
+vol], 5 mM iodoacetamide, 0.1% sodium dodecyl sulfate
+[SDS, wt/vol]) containing a protease inhibitor cocktail
+(Roche Diagnostics GmbH, Mannheim, Germany). BES
+protein concentrations were determined using BC assay
+protein quantification kit (Interchim, Montluçon,
+France). Levels of IL-8, PGE2 and LTB4 were normalized
+to BES total protein concentrations, and were expressed in
+pg.mg total protein
+-1. LPS-induced fold-increase of the
+inflammatory mediators were determined as ratio of LPS-
+induced and basal levels. Following LPS dose-response
+and time course experiments, 10 μg/ml LPS and 24 h cul-
+ture time were chosen as optimal conditions and were
+used for subsequent experiments.
+Next, levels of IL-8, PGE2, and LTB4 at basal state and
+following LPS stimulation were assessed using BES from
+well-characterized 16 COPD and 13 non-COPD smokers
+(Table 1). BES from each patient were divided in two wells
+and incubated with or without 10 μg/ml LPS for 24 h. IL-8,
+PGE2 and LTB4 levels in supernatants were determined as
+described above. Correlations between levels of inflamma-
+tory mediators and the clinical/functional parameters of
+patients were determined.
+Statistical analysis
+Data are expressed as mean ± SD. A Mann-Whitney U-test
+was used to compare the groups and the correlations
+between variables were calculated by means of the Spear-
+man's rank correlation test. A p < 0.05 was considered as
+significant. A multivariate analysis, including variables
+showing significance correlation to LPS-induced IL-8 in
+the univariate analysis, was performed with a multiple lin-
+ear regression model.
+Results
+BES exhibit characteristic features of intact bronchial 
+surface epithelium
+Non dissociated epithelial sheets obtained by bronchial
+brushings formed rapidly and spontaneously free-floating
+bronchial epithelial spheroids (BES) rolling in the culture
+medium (Fig. 1A, videomicroscopy). This 3-dimensional
+structure consisted of a circular pseudostratified epithe-
+lium containing columnar cells with cilia facing outside,
+and small pyramidal cells with a low cytoplasmic/nuclear
+ratio (Fig. 1B,C,D,E). Tight cell-cell junctions and inter-
+digitations were maintained in BES (Fig. 1F). A central
+lumen was present in most BES. Of interest, BES were
+Table 1: Physiological characteristics of study population.
+COPD Patients (n = 16) Non-COPD Smokers (n = 13) p value
+Age, yr 57.5 ± 9.9 56.8 ± 11.1 NS
+Sex (M/F) 13/3 11/2 NS
+Weight, kg 77.1 ± 23.2 69.1 ± 15.1 NS
+Height, m 1.71 ± 0.09 1.71 ± 0.10 NS
+BMI, kg/m2 26.03 ± 6.85 23.40 ± 3.84 NS
+PostBD-FEV1, % 55.38 ± 13.7 100.77 ± 9.64 <0.01
+FVC, % 82.31 ± 12.13 104.45 ± 7.87 <0.01
+Post-BD-FEV1/FVC, % 53.06 ± 10.41 77.08 ± 2.96 <0.01
+TLC, % 110.56 ± 19.22 97.77 ± 9.42 <0.01
+RV, % 155.69 ± 49.63 96.89 ± 28.01 <0.01
+KCO, % 69.63 ± 21.07 87.30 ± 10.00 <0.01
+Smoking status, Current/Former 8/8 6/7 NS
+Pack years of smoking 44.44 ± 15.03 25.92 ± 9.37 <0.05
+Moderate/Severe COPD 10/6 - -
+MMRC Dyspnea scale 2.13 ± 0.62 - -
+Distance walked in 6 min, m 339 ± 90 - -
+BODE Index 3.25 ± 2.66 - -
+BD = bronchodilator, BMI = body mass index, F = Female; M = Male ; NS = statistically non significant. Values are presented as mean ± SD. 
+Mann-Whitney U-test.
+
+<<<PAGE 5>>>
+Respiratory Research 2007, 8:86 http://respiratory-research.com/content/8/1/86
+Page 5 of 13
+(page number not for citation purposes)
+maintained in culture up to 8 days without any noticeable
+cell disaggregation. Structurally, BES cultured for 1
+(Fig. 1D–F) or 8 (Fig. 1G) days showed similar features.
+Immunofluorescence microscopy analyses found that
+COPD and non-COPD BES comprised basal cells
+(CK13+), ciliated cells (CK18+), and few secretory cells
+(MUC5AC+) (Fig. 2A,B,C). Immunofluorescence staining
+of ZO-1, Occludin and E-Cadherin revealed distribution
+of these proteins in the intercellular junctions
+(Fig. 2D,E,F; arrows). A non-specific patchy staining could
+be observed on the apical (for ZO-1 and Occludin) and
+basal (for E-cadherin) sides of spheroids.
+No proliferation was observed as judged by the absence of
+immunostaining for the nuclear marker Ki67 (data not
+shown). BES remained tight throughout our study, as no
+cell detachment or lysis was detected. Cell viability of BES
+was >95% when evaluated by trypan blue exclusion assay.
+The BES rolling, as shown by videomicroscopy, was asso-
+ciated with ciliary beating (Fig. 3A, videomicroscopy).
+Interestingly, the ciliary beat frequency was not different
+between COPD and non-COPD BES (9.51 ± 1.34 Hz ver-
+sus 9.22 ± 1.66 Hz, respectively) (Fig. 3B). Also, exposure
+of BES to LPS (10 μg/ml LPS for 24 h) resulted in slight
+but similar increase of ciliary beat frequency in both
+Morphology of bronchial epithelial spheroidsFigure 1
+Morphology of bronchial epithelial spheroids. Bronchial sheets were sampled by brushings from COPD and non-COPD 
+patients. (A) Videomicroscopy (see video online) shows bronchial epithelial sheets-derived spheroids. (B,C) Circular pseudos-
+tratified epithelium with columnar ciliated cells facing outside, and small pyramidal basal cells. Note, the presence of a central 
+lumen. (D,E,F) Cohesive epithelial cells with close interdigitations and cilia facing outside. (G) Phenotypic and structural charac-
+teristics of spheroids were maintained up to 8 days. Micrographs are representative of spheroids obtained from COPD and 
+non-COPD patients (n = 11). A, ×10; B, ×40,C, ×80; D, ×800; E, ×3000; F, ×5000; G, ×800. BC, basal cells; CC, ciliated cells; 
+Cil., cilia; arrow indicates cell interdigitations.
+7ΥΔΘςΠΛςςΛΡΘ/x3(ΟΗΦΩΥΡΘ/x30ΛΦΥΡςΦΡΣ∴
+/ΛϑΚΩ/x30ΛΦΥΡςΦΡΣ∴9ΛΓΗΡΠΛΦΥΡςΦΡΣ∴
+∃ % &
+∋()
+%&
+&&
+&ΛΟ/x17
+ ∗
+
+<<<PAGE 6>>>
+Respiratory Research 2007, 8:86 http://respiratory-research.com/content/8/1/86
+Page 6 of 13
+(page number not for citation purposes)
+groups (Fig. 3B). Immunofluorescence staining for IL-8
+found enhanced immunoreactivity following treatment of
+BES with LPS (Fig. 3C). All together, these data suggest
+that BES represent an intact bronchial epithelium that
+responds to stimulation.
+Enhanced release of LPS-induced IL-8, but not PGE2 and 
+LTB4, by COPD BES
+Next, we determined the relevance of BES model to study
+the contribution of the bronchial surface epithelium to
+COPD airway inflammation. We obtained bronchial
+brushings from well-characterized COPD and non-COPD
+smokers. Freshly cultured spheroids were then exposed to
+LPS, an ubiquitous contaminant endotoxin. We incu-
+bated BES with different concentrations of LPS and exam-
+ined their ability to induce the expression of the
+mediators IL-8, PGE2 and LTB4. Following LPS treatment
+for 24 h, IL-8, PGE2 and LTB4 levels increased in a LPS
+dose-dependent manner (0.1 to 10 μg/mL) in both COPD
+and non-COPD BES (Fig. 4A,B,C). These dose response
+and time course experiments found that 10 μg/mL LPS
+treatment resulted in a statistically significant increase of
+IL-8, but not LTB4 and PGE2, in COPD BES (p < 0.001)
+by comparison to non-COPD BES. Also, LPS-induced
+release of IL-8 and PGE2 from COPD and non-COPD BES
+increased progressively overtime and peaked by 24 h,
+whereas LTB4 release increased up to 4 h and remained
+constant thereafter (Fig. 4D,E,F). All the subsequent stud-
+ies were carried out with 10 μg/mL LPS and 24 h culture
+time.
+Next, we investigated BES obtained from larger patients
+groups, 16 COPD smokers and 13 non-COPD smokers
+(Table 1). Bronchial brushes collected from COPD and
+Immunofluorescence staining of bronchial epithelium spheroidsFigure 2
+Immunofluorescence staining of bronchial epithelium spheroids. I and II) Right panels of immunostained BES using 
+antibodies specific to various cells types and intercellular junction proteins. Left panels show bright field images. (A) Anti-cytok-
+eratin 13 antibody (CK13) for basal cells. (B) Anti-cytokeratin 18 (CK18) for ciliated cells. (C) Anti-mucin 5AC (MUC5AC) for 
+secreted cells. (D,E,F) Antibodies against intercellular junction proteins zonula occludens-1 (ZO-1), Occludin (Occl) and E-Cad-
+herin (E-Cad). Arrows depict staining for ZO-1 and Occludin in the intercellular junctions. Micrographs are representative of 
+spheroids from COPD and non-COPD patients (n = 7).
+CK13
+MUC5AC
+CK18
+A
+B
+C
+A
+Occl
+E
+F E-Cad
+D ZO-1
+Intercellular junctions proteinsCell types
+I II
+
+<<<PAGE 7>>>
+Respiratory Research 2007, 8:86 http://respiratory-research.com/content/8/1/86
+Page 7 of 13
+(page number not for citation purposes)
+non-COPD smokers displayed the same capacity to gener-
+ate BES in vitro . BES responses were compared in the
+absence or presence of LPS. Untreated COPD and non-
+COPD BES released the same levels of IL-8, PGE2 and
+LTB4 (Fig. 5A,B,C). After LPS stimulation (10 μg/mL for
+24 h), there was a 3-fold increase of IL-8 in COPD BES by
+comparison to non-COPD BES (Fig. 5D), whereas LPS-
+induced PGE2 and LTB4 release were similar in both
+COPD and non-COPD BES (Fig. 5E,F).
+LPS-induced IL-8 release by BES correlates with clinical/
+functional parameters of patients
+The LPS-enhanced secretion of IL-8 was inversely corre-
+lated with the level of obstruction (post-bronchodilator
+FEV1). No correlation was established between post bron-
+chodilator FEV1 and PGE2 or LTB4 release (Fig. 5G,H,I).
+Because of the significant correlation between FEV 1 and
+LPS-induced IL-8 release, other clinical and functional
+parameters were examined. In univariate analysis
+Functional analyses of bronchial epithelial spheroidsFigure 3
+Functional analyses of bronchial epithelial spheroids. (A) Videomicroscopy shows ciliary beating associated with rolling 
+of spheroids (see video online). (B). The ciliary beat frequency was similar in spheroids from both COPD and non-COPD 
+smokers (n = 7) both at basal state (Basal) and after LPS stimulation (10 μg/ml LPS for 24 h) (LPS). (C) Representative micro-
+graphs of untreated (-LPS) and LPS-treated (+LPS) COPD spheroids showing LPS-enhanced expression of IL-8.
+0 6 12 18
+A
+Hz
+Non COPD COPD
+0
+4
+8
+12
+Basal LPS Basal LPS
+Ciliary Beat Frequency
+B
+LPS-induced IL-8
+Time
+sec
+C -L P S +  L P S
+
+<<<PAGE 8>>>
+Respiratory Research 2007, 8:86 http://respiratory-research.com/content/8/1/86
+Page 8 of 13
+(page number not for citation purposes)
+including all COPD and non-COPD smokers, basal levels
+of IL-8 release did not correlate with any clinical and func-
+tional parameters of the patients, and LPS-induced IL-8
+release was not correlated with age, sex, weight, height
+and BMI (data not shown). Interestingly, a significant
+correlation was observed between LPS-induced IL-8
+release and FEV 1/FVC, RV and K CO (Fig. 6A,B,C). The
+smoking status (current/former) correlated with neither
+basal nor LPS-induced IL-8 release. In univariate analysis,
+the number of pack-years of smoking was correlated with
+Release of IL-8, PGE2 and LTB4 by bronchial epithelial spheroids in function of LPS dose and timeFigure 4
+Release of IL-8, PGE2 and LTB4 by bronchial epithelial spheroids in function of LPS dose and time. (A,B,C) BES 
+from non-COPD (open bars) and COPD smokers (filled bars) were exposed to various concentrations of LPS for 24 h. Data 
+are expressed as fold increase of IL-8, PGE2 and LTB4 by comparison to basal levels. The findings are illustrative of 5 independ-
+ent experiments. (D,E,F) LPS treatment (10 μg/ml) of COPD and non-COPD smokers BES for 1, 4, 8 and 24 h. Data of IL-8, 
+PGE2 and LTB4 protein levels are expressed in pg.mg total protein-1. The findings are illustrative of 4 independent experi-
+ments.
+0
+400
+800
+1200
+1600
+0
+100
+200
+300
+400
+0
+4
+8
+12
+16
+1 48 2 4
+Time (hours)
+0
+1
+2
+3
+0
+1
+2
+3
+4
+5
+0
+1
+2
+3
+0.1 1 10
+LPS ( g/ml)
+LPS-induced IL-8 fold-increaseLPS-induced PGE2 fold-increaseLPS-induced LTB4 fold-increase
+[IL-8] pg/mg protein[PGE2] pg/mg protein[LTB4] pg/mg protein
+Non COPD
+COPD
+IL-8
+PGE2
+LTB4
+IL-8
+PGE2
+LTB4
+A
+B
+C
+D
+E
+F
+Non COPD
+COPD
+
+<<<PAGE 9>>>
+Respiratory Research 2007, 8:86 http://respiratory-research.com/content/8/1/86
+Page 9 of 13
+(page number not for citation purposes)
+LPS-induced IL-8 release (p < 0.01). Multivariate analysis
+demonstrated, however, that postbronchodilator FEV 1,
+but not pack-years of smoking, correlated independently
+with LPS-induced IL-8 release (r
+2 = 0.35, p < 0.001). No
+correlation was observed between basal and LPS-induced
+release of PGE2 and LTB4 by BES and clinical and func-
+tional parameters of COPD and non-COPD patients (data
+not shown).
+Discussion
+In the present study, we developed for the first time a 3-D
+cell culture model, bronchial epithelial spheroids (BES)
+that should better our understanding of the role of
+bronchial epithelium inflammation in COPD. By com-
+parison to other 2-D or 3-D epithelial culture systems, this
+model offers several advantages. The development of this
+culture system is less time-consuming and does not
+require any specific treatment. In fact, by avoiding trypsin
+or protease-mediated cell dissociation, bronchial cells are
+kept in their native intact states and do not undergo
+dedifferentiation and/or proliferation as occurs in most
+models. This "explant" type like system derived from
+bronchial brushings resembles a native surface bronchial
+epithelium. Comparative analyses found that both COPD
+Enhanced LPS-induced release of IL-8, but not PGE2 and LTB4 in COPD spheroidsFigure 5
+Enhanced LPS-induced release of IL-8, but not PGE2 and LTB4 in COPD spheroids. (A,B,C) Levels of IL-8, PGE2 
+and LTB4 in untreated spheroids. Note, no significant differences could be detected between COPD and non-COPD BES. 
+Results are expressed as pg of mediators per mg protein of BES. (D,E,F) Levels of IL-8, PGE2 and LTB4 after LPS stimulation (10 
+μg/ml LPS for 24 h). Results are expressed as fold increase by comparison to untreated conditions. (G,H,I) Correlations 
+between LPS-induced IL-8, PGE2 and LTB4 fold-increase and postbronchodilator FEV
+1. Results are obtained from 16 COPD 
+smokers (filled rhombs) and 13 non-COPD smokers (open rhombs). Mann-Whitney U test for comparisons between groups. 
+Correlations between variables were calculated by means of the Spearman's rank correlation test.
+0
+1
+2
+3
+4
+5
+6
+7
+LPS-induced [IL-8] fold-increase
+0
+1
+2
+3
+4
+5
+6
+7LPS-induced [PGE2] fold-increase
+0
+1
+2
+3
+4
+5
+6
+7LPS-induced [LTB4] fold-increase
+0
+500
+1000
+1500
+[IL-8]pg/m
+gprotein
+0
+200
+400
+600
+800
+[PGE2] pg/m
+gprotein
+0
+10
+20
+30
+[LTB4] pg/m
+gprotein
+IL-8 IL-8
+PGE2 PGE2
+LTB4 LTB4
+Basal LPS
+Non COPD COPD Non COPD COPD
+0
+1
+2
+3
+4
+5
+6
+7
+0 20 40 60 80 100 120
+LPS-induced [IL-8]fold-increase
+IL-8
+0
+1
+2
+3
+4
+5
+6
+0 20 40 60 80 100 120
+7
+PGE2
+0
+1
+2
+3
+4
+5
+6
+7
+0 20 40 60 80 100 120
+LPS-induced [PGE2] fold-increase
+LPS-induced [LTB4] fold-increase LTB4
+LPS/FEV1
+Post-BD FEV1 (%)
+AD G
+B
+C
+E
+F
+H
+I
+r=-0.71
+P<0.0001
+p<0.0001
+NS
+NS
+
+<<<PAGE 10>>>
+Respiratory Research 2007, 8:86 http://respiratory-research.com/content/8/1/86
+Page 10 of 13
+(page number not for citation purposes)
+and non-COPD bronchial epithelial sheets have the
+capacity to form spheroids. Morphologic analyses showed
+in both COPD and non-COPD BES a fully differentiated
+and polarized pseudostratified epithelium consisting of
+basal cells, ciliated cells and secretory cells. Tight
+junctions were maintained as judged by immunostaining
+for intercellular junction complexes ZO-1, occludin and
+E-cadherin. Of note, staining for these protein junctions
+on the apical and basolateral sides of spheroids has been
+reported in other studies using biopsies or lung specimen
+[28-30]. Whether this corresponds to non-specific stain-
+ing or the presence of epitopes recognized by the antibod-
+ies remains to be determined.
+Interestingly, BES could be maintained in culture for at
+least 8 days. Contrary to previous studies using nasal epi-
+thelium that showed a lower ciliary beat frequency in
+COPD [31], no differences were found between COPD
+and non-COPD BES either in the basal state or after LPS
+treatment. Compared to nasal epithelial cells, BES are best
+suited to investigate the inflammatory mechanisms of
+bronchial epithelium and their contribution to COPD
+pathogenesis. Furthermore, bronchial, but not nasal
+brushings, generate sufficient numbers of spheroids to
+carry out cellular and molecular studies.
+To determine the relevance of our culture model to study
+COPD, we chose purposely LPS as an injuring agent and
+analyzed its effect on BES. We examined expression levels
+of the neutrophil chemoattractant pro-inflammatory
+mediators IL-8 and LTB4, and the anti-inflammatory
+mediator PGE2 [32-34] in COPD and non-COPD BES. In
+the absence of treatment, both COPD and non-COPD
+spheroids released readily and similarly detectable
+amounts of IL-8, PGE2, and LTB4. Our findings are in
+contrast with others studies, which showed changes in lev-
+els of the inflammatory mediator IL-8 [11-13]. These stud-
+ies used 2-D primary epithelial cell cultures from
+bronchial brushings or biopsies, suggesting that differ-
+ences in data could be related to cell "manipulations"
+(e.g., protease-induced cell dissociation, proliferation and
+2-D culture). Exposure of BES to LPS resulted in an
+enhanced release of IL-8 in a time and LPS dose-depend-
+ant fashion and peaked by 24 h culture at 10 μg/ml LPS.
+Of note, the LPS concentration needed to activate sphe-
+roids was 10 to 100 fold higher than that used to stimulate
+monocytes/macrophages [35,36]. We found that LPS-
+stimulated COPD BES released higher levels of IL-8 than
+non-COPD BES, suggesting an enhanced epithelial
+inflammatory response to LPS in COPD. IL-8 is involved
+in the recruitment and activation of neutrophils in COPD,
+thereby contributing to COPD airway inflammation, par-
+ticularly in the setting of infection-mediated COPD exac-
+erbations [32,33]. Since toll-like receptor 4 (TLR-4) is
+crucial for effective response to LPS [37-39], studies are
+underway to investigate the role of this receptor in IL-8
+expression in COPD.
+To our knowledge no previous studies have analyzed
+basal or LPS-induced PGE2 and LTB4 release by bronchial
+epithelium in COPD. In the present work, we show that
+BES produce PGE2 and LTB4. However, we did not
+observe differences in the release of these mediators
+between COPD and non-COPD BES. Other studies have
+shown that levels of PGE2 and LTB4 are increased in
+exhaled breath in COPD, and LTB4 is increased in sputa
+and exhaled breaths in COPD exacerbations [40-43].
+While the cellular sources of LTB4 and PGE2 in airways
+include macrophages and neutrophils, cell co-culture
+studies have shown that epithelial cells play a direct role
+in the synthesis of inflammatory cell-derived LTB4 and
+PGE2 [44,45]. The contribution of bronchial epithelium
+to expression levels of these mediators and the develop-
+ment of COPD remain to be defined.
+Relationship between LPS-induced IL-8 increase and clinical/functional parametersFigure 6
+Relationship between LPS-induced IL-8 increase and clinical/functional parameters. (A,B,C) Correlations between 
+LPS-induced IL-8 fold-increase and postbronchodilator FEV
+1/FVC ratio (Post-BD FEV1/FVC) (A), residual volume (RV) (B), and 
+diffusing capacity for monoxide per liter alveolar volume (KCO) (C).
+LPS-induced IL-8 fold-increase
+KCO
+1
+2
+3
+4
+5
+6
+50 100 150 200 250 300 35000
+RV
+LPS-induced IL-8 fold-increase
+r=0.55
+p<0.0019
+B
+0
+1
+2
+3
+4
+5
+6
+7
+0 2 04 06 08 0 1 0 0 1 2 0
+r=-0.43
+p<0.019
+C
+Post-BD FEV1/FVC
+0
+1
+2
+3
+4
+5
+6
+7
+0 2 04 06 08 0 1 0 0
+LPS-induced IL-8 fold-increase
+r=-0.74
+p<0.0001
+A
+COPD
+Non COPD 7
+
+<<<PAGE 11>>>
+Respiratory Research 2007, 8:86 http://respiratory-research.com/content/8/1/86
+Page 11 of 13
+(page number not for citation purposes)
+To determine the clinical importance of our findings to
+COPD, we assessed the relationship between levels of
+released inflammatory mediators and clinical/functional
+characteristics of smokers with or without COPD. LPS-
+induced, but not constitutive, IL-8 release correlated with
+the degree of obstruction (FEV
+1, FEV1/FVC) and air trap-
+ping (RV), but not with the smoking status. As expected, it
+should be pointed that LPS-induced IL-8 levels varied
+among COPD patients, suggesting that epithelial cell
+responsiveness to LPS cannot alone explain the complex
+inflammatory process of COPD.
+Cigarette smoke accounts for more than 90% of COPD,
+but only 15 to 20% of smokers develop clinically signifi-
+cant COPD [5,7]. Our study compared for the first time
+basal and LPS-induced inflammatory response of bron-
+chial epithelium of smokers with or without COPD, and
+demonstrated a clear differential epithelial inflammatory
+response to LPS in COPD. The bacterial endotoxin LPS is
+an ubiquitous contaminant of environment and bioactive
+LPS constitutes 0.12–0.2 microgram/cigarette [46]. Exper-
+imental LPS inhalation in healthy subjects induces an
+increase of lung inflammatory cells and pro-inflammatory
+mediators, and chronic exposure to endotoxin has been
+shown to be associated with occupational COPD [47-50].
+Hasday et al. suggested that cigarette-derived LPS contrib-
+utes to COPD pathogenesis in smokers [46]. In mice,
+chronic lung instillation of LPS induces a COPD-like
+inflammation [51]. These observations together with our
+data suggest the importance of LPS-mediated bronchial
+epithelial response in the chronicity of inflammation in
+COPD. Our data using spheroid model provide informa-
+tion regarding the contribution of LPS (cigarette or bacte-
+rial infection-mediated exacerbations) to long-term
+decline in lung function in COPD [3].
+Conclusion
+In conclusion, the spheroid culture model provides an
+original system that should better our understanding of
+COPD pathogenesis. This model should allow to investi-
+gate the role(s) of bronchial epithelial cells in COPD as
+well as other lung pathologies. In this culture system, not
+only bronchial epithelial cells are kept in a native non-
+transformed well-differentiated epithelium, but the cells
+maintain their in vivo morphological and functional char-
+acteristics. Thus, the mechanisms of interactions between
+various injuring agents/inflammatory stimuli and airway
+epithelium could be studied using the spheroid model in
+order to enhance our understanding of COPD pathogen-
+esis and perhaps other lung inflammatory diseases, with-
+out the confounding effects frequently encountered in
+other tissue culture models.
+Competing interests
+The author(s) declare that they have no competing
+interests.
+Authors' contributions
+GD, FL and AB were involved in the concept and design of
+all experiments. GD, SD, JMP, DA, FV, RB, SCG, MG, FL,
+AB were involved in analysis, interpretation of data and
+helped to draft the manuscript. FV was involved in statis-
+tical analysis of the data. GD, FL and EB coordinated and
+prepared the manuscript. All authors read and approved
+the final manuscript.
+Acknowledgements
+The authors thank Edith Puchelle for helpful discussion, Konstantina Fragaki 
+for technical assistance in ELISA, Nicolas Castillon for cell cultures, Jocelyne 
+Hinnrasky for transmission electron microscopy and immunofluorescence, 
+and Jean-Marie Zahm for videomicroscopy.
+This work was supported by Projet Hospitalier de Recherche Clinique 
+(PHRC) du CHU de Reims (GD, FL), Programme AVENIR INSERM (AB), 
+Conseil Régional de Champagne-Ardenne (GD, AB), Association Vaincre La 
+Mucoviscidose (DA), Association pour la Recherche et l'Enseignement en 
+Pneumologie and Association régionale pour l'aide aux insuffisants respira-
+toires de Champagne-Ardenne (ARAIRCHAR) (FL, GD, SD, JMP, FL, AB).
+References
+1. Pauwels RA, Buist AS, Calverley PM, Jenkins CR, Hurd SS, GOLD Sci-
+entific Committee: Global strategy for the diagnosis, manage-
+ment, and prevention of chronic obstructive pulmonary
+disease. NHLBI/WHO Global Initiative for Chronic Obstruc-
+tive Lung Disease (GOLD) Workshop summary.   Am J Respir
+Crit Care Med 2001, 163:1256-1276.
+2. Celli BR, MacNee W, ATS/ERS Task Force: Standards for the diag-
+nosis and treatment of patients with COPD: a summary of
+the ATS/ERS position paper.  Eur Respir J 2004, 23:932-946.
+3. Donaldson GC, Seemungal TA, Bhowmik A, Wedzicha JA: Relation-
+ship between exacerbation frequency and lung function
+decline in chronic obstructive pulmonary disease.   Thorax
+2002, 57:847-852.
+4. Halpin DM, Miravittles M: Chronic obstructive pulmonary dis-
+ease: the disease and its burden to society.   Proc Am Thorac Soc
+2006, 3:619-623.
+5. Saetta M, Turato G, Maestrelli P, Mapp CE, Fabbri LM: Cellular and
+structural bases of chronic obstructive pulmonary disease.
+Am J Respir Crit Care Med 2001, 163:1304-1309.
+6. Shapiro SD, Ingenito EP: The pathogenesis of chronic obstruc-
+tive pulmonary disease. Advances in the past 100 years.   Am
+J Respir Cell Mol Biol 2005, 32:367-372.
+7. Hogg JC: Pathophysiology of airflow limitation in chronic
+obstructive pulmonary disease.   Lancet 2004, 364:709-721.
+8. MacNee W: Pathogenesis of obstructive pulmonary disease.
+Proc Am Thor Soc 2005, 2:258-266.
+9. Rusznak C, Mills PR, Devalia JL, Sapsford RJ, Davies RJ, Lozewicz S:
+Effect of cigarette smoke on the permeability and IL-1 beta
+and sICAM-1 release from cultured human bronchial epithe-
+lial cells of never-smokers, smokers, and patients with
+chronic obstructive pulmonary disease.  Am J Respir Cell Mol Biol
+2000, 23:530-536.
+10. Cromwell O, Hamid Q, Corrigan CJ, Barkans J, Meng Q, Collins PD,
+Kay AB: Expression and generation of interleukin-8, IL-6 and
+granulocyte-macrophage colony-stimulating factor by bron-
+chial epithelial cells and enhancement by IL-1 beta and
+tumor necrosis factor-alpha.  Immunology 1992, 77:330-337.
+11. Patel IS, Roberts NJ, Lloyd-Owen SJ, Sapsford RJ, Wedzicha JA: Air-
+way epithelial inflammatory responses and clinical parame-
+ters in COPD.  Eur Respir J 2003, 22:94-99.
+
+<<<PAGE 12>>>
+Respiratory Research 2007, 8:86 http://respiratory-research.com/content/8/1/86
+Page 12 of 13
+(page number not for citation purposes)
+12. Schulz C, Kratzel K, Wolf K, Schroll S, Kohler M, Pfeifer M: Activa-
+tion of bronchial epithelial cells in smokers without airway
+obstruction and patients with COPD.   Chest 2004,
+125:1706-1713.
+13. Profita M, Chiappara G, Mirabella F, Di Giorgi R, Chimenti L, Cos-
+tanzo G, Riccobono L, Bellia V, Bousquet J, Vignola AM: Effect of
+cilomilast (Ariflo) on TNF-alpha, IL-8 and GM-CSF release
+by airway cells of patients with COPD.   Thorax 2003,
+58:573-579.
+14. Denning GM, Wollenweber LA, Railsback MA, Cox CD, Stoll LL, Brit-
+igan BE: Pseudomonas pyocianin increases interleukin-8
+expression by human airway epithelial cells.  Infect Immun 1998,
+66:5777-5784.
+15. Khair OA, Devalia JL, Abdelaziz MM, Sapsford RJ, Tarraf H, Davies RJ:
+Effect of Haemophilus influenzae endotoxin on the synthesis
+of IL-6, IL-8, TNF-alpha and expression of ICAM-1 in cul-
+tured human bronchial epithelial cells.   Eur Respir J  1994,
+7:2109-2116.
+16. Palmberg L, Larsson BM, Malmberg P, Larsson K: Induction of IL-8
+production in human alveolar macrophages and human
+bronchial epithelial cells in vitro by swine dust.   Thorax 1998,
+53:260-264.
+17. Maestrelli P, Saetta M, Mapp CE, Fabbri LM: Remodelling in
+response to infection and injury. Airway inflammation and
+hypersecretion of mucus in smoking subjects with chronic
+obstructive pulmonary disease.   Am J Respir Crit Care Med  2001,
+164:S76-80.
+18. Castillon N, Hinnrasky J, Zahm JM, Kaplan H, Bonnet N, Corlieu P,
+Klossek JM, Taouil K, Avril-Deplanque A, Peault B, Puchelle E: Polar-
+ized expresion of cystic fibrosis transmembrane conduct-
+ance regulator and associated epithelial proteins during the
+regeneration of human airway surface epithelium in three-
+dimensional culture.  Lab Invest 2002, 82:989-98.
+19. Carterson AJ, Höner zu Bentrup K, Ott CM, Clarke MS, Pierson DL,
+Vanderburg CR, Buchanan KL, Nickerson CA, Schurr MJ: A549 lung
+epithelial cells grown as three-dimensional aggregates: alter-
+native tissue culture model for Pseudomonas aeruginosa
+pathogenesis.  Inf Immun 2005, 73:1129-1140.
+20. Jorissen M, Van der Schueren B, Van den Berghe H, Cassiman JJ: The
+preservation and regeneration of cilia on human nasal epi-
+thelial cells cultured in vitro.   Arch Otorhinolaryngol  1989,
+246:308-314.
+21. Castillon N, Avril-Deplanque A, Coraux C, Delenda C, Peault B,
+Danos O, Puchelle E: Regeneration of a well-differentiated
+human airway surface epithelium by spheroid and lentivirus
+vector-transduced airway cells.   J Gene Med 2004, 6:846-856.
+22. Laoukili J, Perret E, Willems T, Minty A, Parthoens E, Houcine O,
+Coste A, Joressen M, Marano F, Caput D, Tournier F: IL-13 alters
+mucociliary differentiation and ciliary beating of human res-
+piratory cells.  
+J Clin Invest 2001, 108:1817-1824.
+23. Pedersen PS, Frederiksen O, Holstein-Rathlou NH, Larsen PL, Qvor-
+trup K: Ion transport in epithelial spheroids derived from
+human airway cells.  Am J Physiol 1999, 276:L75-L80.
+24. Bridges MA, Walker DC, Harris RA, Wilson BR, Davidson AG: Cul-
+tured human nasal epithelial multicellular spheroids: polar
+cyst-like model tissues.  Biochem Cell Biol 1991, 69:102-108.
+25. Fabbri LM, Hurd SS, GOLD Scientific Committee: Global strategy
+for the diagnosis, management and prevention of COPD:
+2003 update.  Eur Respir J 2003, 22:1-2.
+26. Celli BR, Cote CG, Marin JM, Casanova C, Montes de Oca M, Mendez
+RA, Pinto Plata V, Cabral HJ: The body-mass index, airflow
+obstruction, dyspnea, and exercise capacity index in chronic
+obstructive pulmonary disease.   N Engl J Med  2004,
+350:1005-1012.
+27. Chevillard M, Hinnrasky J, Zahm JM, Plotowski MC, Puchelle E: Pro-
+liferation, differentiation and ciliary beating of human respi-
+ratory ciliated cells in primary culture.   Cell Tissue Res  1991,
+264:49-55.
+28. Evans SM, Blyth DI, Wong T, Sanjar S, West MR: Decreased distri-
+bution of lung epithelial junction proteins after intratracheal
+antigen or lipopolysaccharide challenge: correlation with
+neutrophil influx and levels of BALF sE-cadherin.   Am J Respir
+Cell Mol Biol 2002, 27:446-454.
+29. Kobayashi N, Dezawa M, Nagata H, Yuasa S, Konno A: Immunohis-
+tochemichal study of E-cadherin and ZO-1 in allergic nasal
+epithelium of the guinea pig.   Int Arch Allergy Immunol  1998,
+116:196-205.
+30. Jang YJ, Kim HG, Koo TW, Chung PS: Localization of ZO-1 and E-
+cadherin in the nasal polyp epithelium.  Eur Arch Otorhinolaryngol
+2002, 259:465-469.
+31. Devalia JL, Sapsford RJ, Wells CW, Richman P, Davies RJ: Culture
+and comparison of human bronchial and nasal epithelial cells
+in vitro.  Respir Med 1990, 84:303-312.
+32. Woolhouse IS, Bayley DL, Stockley RA: Sputum chemotactic
+activity in chronic obstructive pulmonary disease: effect of
+alpha(1)-antitrypsin deficiency and the role of leukotriene
+B(4) and interleukin 8.  Thorax 2002, 57:709-714.
+33. Beeh KM, Kornmann O, Buhl R, Culpitt SV, Giembycz MA, Barnes PJ:
+Neutrophil chemotactic activity of sputum from patients
+with COPD: role of interleukin 8 and leukotriene B4.   Chest
+2003, 123:1240-1247.
+34. Trudeau J, Hu H, Chibana K, Chu HW, Westcott JY, Wenzel SE:
+Selective downregulation of prostaglandin E2-related path-
+ways by the Th2 cytokine IL-13.   
+J Allergy Clin Immunol  2006,
+117:1446-1454.
+35. Aldonyte R, Jansson L, Piitulainen E, Janciauskiene S: Circulating
+monocytes from healthy subjects and COPD patients.   Respir
+Res 2003, 4:11.
+36. Dentener MA, Louis R, Cloots RH, Henket M, Wouters EF: Differ-
+ences in local versus systemic TNFalpha production in
+COPD: inhibitory effect of hyaluronan on LPS induced blood
+cell TNFalpha release.  Thorax 2006, 61:478-484.
+37. Chaudhuri N, Dower SK, Whyte MK, Sabroe I: Toll-like receptors
+and chronic lung disease.  Clin Sci (London) 2005, 109:125-133.
+38. Sabroe I, Whyte MK, Wilson AG, Dower SK, Hubbard R, Hall I: Toll-
+like receptor (TLR) 4 polymorphisms and COPD.   Thorax
+2004, 59:81.
+39. Berclaz PY, Carey B, Fillipi MD, Wernke-Dollries K, Geraci N, Cush
+S, Richardson T, Kitzmiller J, O'Connor M, Hermoyian C, Korfhagen
+T, Whitsett JA, Trapnell BC: GM-CSF regulates a PU.1-depend-
+ent transcriptional program determining the pulmonary
+response to LPS.  Am J Respir Cell Mol Biol 2007, 36:114-121.
+40. Montuschi P, Kharitonov SA, Ciabattoni G, Barnes PJ: Exhaled leu-
+kotrienes and prostaglandins in COPD.   Thorax 2003,
+58:585-588.
+41. Carpagnano GE, Kharitonov SA, Foschino-Barbaro MP, Resta O,
+Gramiccioni E, Barnes PJ: Increased inflammatory markers in
+the exhaled breath condensate of cigarette smokers.   Eur
+Respir J 2003, 21:589-593.
+42. Kostikas K, Gaga M, Papatheodorou G, Karamanis T, Orphanidou D,
+Loukides S: Leukotriene B4 in exhaled breath condensate and
+sputum supernatant in patients with COPD and asthma.
+Chest 2005, 127:1553-1559.
+43. Biernacki WA, Kharitonov SA, Barnes PJ: Increased leukotriene
+B4 and 8-isoprostane in exhaled breath condensate of
+patients with exacerbations of COPD.   Thorax 2003,
+58:294-298.
+44. Klockmann MT, Jahn HU, Hippenstiel S, Kramer HJ, Suttorp N: Inter-
+action of human neutrophils with airway epithelial cells:
+reduction of leukotriene B4 generation by epithelial cell
+derived prostaglandin E2.  J Cell Physiol 1998, 175:268-275.
+45. Santus P, Sola A, Carlucci P, Fumagalli F, Di Gennaro A, Mondoni M,
+Carnini C, Centanni S, Sala A: Lipid peroxidation and 5-lipoxyge-
+nase activity in chronic obstructive pulmonary disease.   Am J
+Respir Crit Care Med 2005, 171:838-843.
+46. Hasday JD, Bascom R, Costa JJ, Fitzgerald T, Dubin W: 
+Bacterial
+endotoxin is an active component of cigarette smoke.   Chest
+1999, 115:829-835.
+47. Michel O, Nagy AM, Schroeven M, Duchateau J, Neve J, Fondu P, Ser-
+gysels R: Dose-response relationship to inhaled endotoxin in
+normal subjects.  Am J Respir Crit Care Med 1997, 156:1157-1164.
+48. Sandstrom T, Bjermer L, Rylander R: Lipopolysaccharide (LPS)
+inhalation in healthy subjects increases neutrophils, lym-
+phocytes and fibronectin levels in bronchoalveolar lavage
+fluid.  Eur Respir J 1992, 5:992-996.
+49. Roos-Engstrand E, Wallin A, Bucht A, Pourazar J, Sandstrom T,
+Blomberg A: Increased expression of p38 MAPK in human
+bronchial epithelium after lipopolysaccharide exposure.   Eur
+Respir J 2005, 25:797-803.
+50. Schwartz DA, Donham KJ, Olenchock SA, Popendorf WJ, Van Fossen
+DS, Burmeister LF, Merchant JA: Determinants of longitudinal
+
+<<<PAGE 13>>>
+Respiratory Research 2007, 8:86 http://respiratory-research.com/content/8/1/86
+Page 13 of 13
+(page number not for citation purposes)
+Publish with BioMed Central   and  every 
+scientist can read your work free of charge
+"BioMed Central will be the most significant development for 
+disseminating the results of biomedical research in our lifetime."
+Sir Paul Nurse, Cancer Research UK
+Your research papers will be:
+available free of charge to the entire biomedical community
+peer reviewed and published immediately upon acceptance
+cited in PubMed and archived on PubMed Central 
+yours — you keep the copyright
+Submit your manuscript here:
+http://www.biomedcentral.com/info/publishing_adv.asp
+BioMedcentral
+changes in spirometric function among swine confinement
+operators and farmers.  Am J Respir Crit Care Med 1995, 151:47-53.
+51. Vernooy JH, Dentener MA, Van Suylen RJ, Buurman WA, Wouters
+EF: Long-term intratracheal lipopolysaccharide exposure in
+mice results in chronic lung inflammation and persistent
+pathology.  Am J Respir Cell Mol Biol 2002, 26:152-159.

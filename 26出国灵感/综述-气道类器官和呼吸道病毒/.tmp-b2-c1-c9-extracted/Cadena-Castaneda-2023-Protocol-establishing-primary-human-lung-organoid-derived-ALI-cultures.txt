@@ -1,0 +1,1688 @@
+
+
+<<<PAGE 1>>>
+The Jackson Laboratory The Jackson Laboratory 
+The Mouseion at the JAXlibrary The Mouseion at the JAXlibrary 
+Faculty Research 2023 Faculty & Staff Research 
+11-20-2023 
+Protocol for establishing primary human lung organoid-derived Protocol for establishing primary human lung organoid-derived 
+air-liquid interface cultures from cryopreserved human lung air-liquid interface cultures from cryopreserved human lung 
+tissue. tissue. 
+Diana Cadena 
+Sonia Jangra 
+Marina Yurieva 
+Jan Martinek 
+Megan Callender 
+See next page for additional authors 
+Follow this and additional works at: https://mouseion.jax.org/stfb2023 
+
+<<<PAGE 2>>>
+Authors Authors 
+Diana Cadena, Sonia Jangra, Marina Yurieva, Jan Martinek, Megan Callender, Matthew Coxe, Angela Choi, 
+Juan García-Bernalt Diego, Te-Chia Wu, Florentina Marches, Damien Chaussabel, Adolfo García-Sastre, 
+Michael Schotsaert, Adam Williams, and Karolina Palucka 
+
+<<<PAGE 3>>>
+Protocol
+Protocol for establishing primary human lung
+organoid-derived air-liquid interface cultures
+from cryopreserved human lung tissue
+Primary human lung organoid-derived air-liquid interface (ALI) cultures serve as a physiologically
+relevant model to study human airway epithelium in vitro . Here, we present a protocol for
+establishing these cultures from cryopreserved human lung tissue. We describe steps for lung
+tissue cryostorage, tissue dissociation, lung epithelial organoid generation, and ALI culture
+differentiation. We also include quality control steps and technical readouts for monitoring virus
+response. This protocol demonstrates severe acute respiratory syndrome coronavirus 2 infection
+in these cultures as an example of their utility.
+Publisher’s note: Undertaking any experimental pro tocol requires adherence to local institutional
+guidelines for laboratory safety and ethics.
+Diana Cadena
+Castaneda, Sonia
+Jangra, Marina
+Yurieva, ..., Michael
+Schotsaert, Adam
+Williams, Karolina
+Palucka
+adam.williams@
+northwestern.edu (A.W.)
+karolina.palucka@jax.org
+(K.P.)
+Highlights
+Human lung tissue
+dissection and tissue
+cryopreservation
+Lung epithelium
+organoid generation
+from cryopreserved
+human lung tissue
+Studying viral
+infection in organoid-
+derived air-liquid
+interface cultures
+Viral response
+assessment via RNA-
+seq, ﬂow cytometry,
+viral titer, and
+imaging
+Castaneda et al., STAR
+Protocols 4, 102735
+December 15, 2023 ª 2023
+The Author(s).
+https://doi.org/10.1016/
+j.xpro.2023.102735
+ll
+OPEN ACCESS
+
+<<<PAGE 4>>>
+Protocol
+Protocol for establishing primary human lung organoid-
+derived air-liquid interface cultures from cryopreserved
+human lung tissue
+Diana Cadena Castaneda, 1,8,9 Sonia Jangra,2,3,8 Marina Yurieva,1 Jan Martinek,1 Megan Callender,1
+Matthew Coxe,1 Angela Choi,2,3 Juan Garcı´a-Bernalt Diego,2,3 Te-Chia Wu,1 Florentina Marches,1
+Damien Chaussabel,1 Adolfo Garcı´a-Sastre,2,3,4,5,6 Michael Schotsaert,2,3 Adam Williams,1,7,*
+and Karolina Palucka 1,10,*
+1The Jackson Laboratory for Genomic Medicine, Farmington, CT 06032, USA
+2Department of Microbiology, Icahn School of Medicine at Mount Sinai, New York, NY 10029, USA
+3Global Health and Emerging Pathogens Institute, Icahn School of Medicine at Mount Sinai, New York, NY 10029, USA
+4Department of Medicine, Division of Infectious Diseases, Icahn School of Medicine at Mount Sinai, New York, NY 10029, USA
+5The Tisch Cancer Institute, Icahn School of Medicine at Mount Sinai, New York, NY 10029, USA
+6Department of Pathology, Molecular and Cell-Based Medicine, Icahn School of Medicine at Mount Sinai, New York, NY
+10029, USA
+7Present address: Division of Allergy and Immunology, Northwestern University Feinberg School of Medicine, Chicago, IL
+60611, USA
+8These authors contributed equally
+9Technical contact: diana.cadena@jax.org
+10Lead contact
+*Correspondence: adam.williams@northwestern.edu (A.W.), karolina.palucka@jax.org (K.P.)
+https://doi.org/10.1016/j.xpro.2023.102735
+SUMMARY
+Primary human lung organoid -derived air-liqui d interface (ALI) cultures serve as a
+physiologically relevant model to study human airway epithelium in vitro .H e r e ,
+we present a protocol for establishing th ese cultures from cryopreserved human
+lung tissue. We describe steps for lung tissue cryostorage, tissue dissociation,
+lung epithelial organoid generation, and ALI culture differentiation. We also
+include quality control steps and technical readouts for monitoring virus
+response. This protocol demonstrates severe acute respiratory syndrome coro-
+navirus 2 infection in these cultures as an example of their utility.
+For complete details on the use and execu tion of this protocol, please refer to
+Diana Cadena Castaneda et al. (2023).
+1
+BEFORE YOU BEGIN
+The protocol below describes the generation of prim ary human lung epithelial organoid-derived air-
+liquid-interface cultures from lung tissue and th eir use to investigate the impact and dynamics of
+infection with different SARS-CoV-2 variants. These cultures mimic in vivo airway epithelium archi-
+tecture2–7 and ﬁnd extensive application in studying responses to respiratory virus. 8 We base the
+generation of lung epithelial organoids on the methodology from Sachs et al. 9 And we will summa-
+rize it here. The study involves transcriptional analysis (Bulk RNA), ﬂow cytometry (dissociated ALI),
+viral titer measurements (apical supernatant washes), and imaging to assess the outcomes. Perform
+all steps within a type II biological safety cabinet in a biological safety level 2 laboratory (BSL2).
+Conduct all work with SARS-CoV-2 variants under BSL3 conditions.
+STAR Protocols 4, 102735, December 15, 2023 ª 2023 The Author(s).
+This is an open access article under the CC BY-NC-ND license ( http://creativecommons.org/licenses/by-nc-nd/4.0/).
+1
+ll
+OPEN ACCESS
+
+<<<PAGE 5>>>
+Institutional permissions
+Obtention of de-identiﬁed human lung tissues fr om NDRI (Project: RPAK1 01) in compliance with
+relevant American institutional laws and NIH/NIAID guidelines. We conduct the study procedures
+in the context of the U19AI142733 grant at the Jack son Laboratory. Before performing these pro-
+cedures, we obtain permission from the relevant institutions.
+Human lung tissue processing & cryopreservation
+Timing: 2 days
+1. On receipt of lung tissue, process immediately.
+Note: Throughout the process, we give attention to the lung tissue’s anatomical structure,
+facilitating dissection based on alveolar and bronchial areas.
+a. Section a portion of the lung into approximately 3 cm 3 3 cm pieces for embedding in OCT.
+b. Snap-freeze in liquid nitrogen.
+c. Mince the remaining tissue into smaller pieces.
+d. Place around 25 of these small pieces in each cryovial.
+e. Cryopreserve in FBS with 10% DMSO.
+f. Store in liquid nitrogen before further processing.
+Note: This procedure ensures an appropriate preservation of human lung tissue for organoid
+generation or other applications (See Figure 1 ).
+H u m a nl u n gt i s s u ev i a b l ef r e e z e - t h a wing & lung airway organoid generation
+Timing: approximately 4 months
+2. Thaw cryopreserved lung fragments (from 2–3 cryovials).
+3. Proceed to tissue dissociation to yield a single cell suspension.
+4. Assess cell viability.
+5. Mix the single cell suspension with cold Cultrex growth factor reduced BME type 2 (Matrigel-like
+matrix).
+6. Dispense as droplets into a P24-well plate.
+Note: Approximately 3 3 105 cells in 40 mL per well.
+7. Place the plates in a 37 /C14 C cell incubator 5% CO 2 in a humidiﬁed atmosphere for 20 min.
+Note: to allow gelation of droplets.
+8. Fill the wells with warm complete media for organoids (AO).
+a. Change the media every day after.
+b. Pass the organoids every 2 weeks.
+i. Disrupt the organoids into single cells.
+ii. Replate the single cells for organoid ampliﬁcation.
+iii. Repeat steps 4–8.
+iv. Cryopreserve the cells (approximately 1.5 3 10
+6 cells/mL per cryovial) in FBS with 10%
+DMSO.
+v. Store in liquid nitrogen before further processing.
+ll
+OPEN ACCESS
+2 STAR Protocols 4, 102735, December 15, 2023
+Protocol
+
+<<<PAGE 6>>>
+Note: Passages allow to eliminate connective tissue, typically after 4–7 passages. This pro-
+gression leads to well-deﬁned, spherical organoids devoid of connective tissue remnants.
+CRITICAL: During all organoid-related steps, pre-coat tips, pipettes, and tubes with 5%
+BSA to avoid organoid adherence to plasticwa re and thus prevent cell loss. Quality control
+screening for epithelial enri chment (e.g., cytoke ratin markers) in airway organoids by
+immunoﬂuorescence (IF) staining is essential after 4–7 passages, once organoids are clear
+of connective tissue (e.g., ﬁbronectin marker), as outlined in the step-by-step method de-
+tails section (See Figure 2 ).
+Primary human lung organoid-derived air-li quid interface (ALI) culture generation,
+differentiation & viral exposure
+Timing: approximately 6 weeks
+9. Thaw cryopreserved single cells derived from human lung organoids (from 1 cryovial).
+10. Proceed to air-liquid interface (ALI) generation & differentiation.
+Note: One cryovial allows the generation of 48 ALI cultures (P24-well plate format; one ALI
+culture = one insert seed (0.33 cm 2)w i t h3 3 104 cells per insert or approximately 9 3 104
+cells/cm 2) .T h i sp r o c e s sc o m p r i s e st h r e em a i ns t e p s ,a sd e t a i l e di nt h estep-by-step method
+details section.
+a. (1) Cell expansion in submerged culture to achieve conﬂuence at 100%.
+b. (2) Initial differentiati on in submerged cultures.
+Note: To foster tight junctions and barrier integrity by monitoring TEER values (>500 U cm2).
+c. (3) Final differentiation into pseudo-stratiﬁed epithelium.
+Note: Removing the apical media, ‘‘Airlift’’, allows the ALI differentiation.
+11. Monitor cilia beating and mucus production.
+Note: Throughout approximately 4 weeks by using a bright-ﬁeld microscope (See Figure 3 ).
+12. Fully differentiated ALI culture s are ready for viral study protocols.
+Note: Our investigation comprises SARS-CoV-2 (USA/WA1-2020, Wuhan-like virus), Beta
+(B.1.351), Delta (B.1.617.2), and Omicron (B.1.1.529, BA.1) variants.
+a. Perform an iterative wash of apical mucus.
+Note: Wash out the mucus before apical viral exposure.
+i . A p p l ya p i c a l l yp r e - w a r m e d13 PBS.
+ii. Incubation for 15 min (37 /C14 C, 5% CO 2 in a humidiﬁed atmosphere).
+iii. Pipette up/down
+iv. Eliminate the mucus.
+b. Optimal virus quantity determ ination (preliminary data).
+i. Use two doses of Wuhan-like virus: 10 4 and 10 5 PFU, (data not shown).
+ll
+OPEN ACCESS
+STAR Protocols 4, 102735, December 15, 2023 3
+Protocol
+
+<<<PAGE 7>>>
+Note: A fully differentiated ALI contains approximately 3 3 106 cells/cm 2, corresponding to
+MOIs (multiplicity of infection) of approximately 0.01 and 0.1 for 10 4 and 105 PFU, respectively.
+ii. Add the virus or virus-free (control non-infected) media apically.
+iii. Harvest ALI cultures daily from days 1 to 6 post-infection (DPI).
+Note: Each insert represents one culture.
+iv. Assess the relative percentage of viral infection using histocytometry.
+Note: Histocytometry, utilizing immunoﬂuorescence (IF) imaging targeting the viral nucleo-
+protein (NP) marker, reveals infection rate s of approximately 2% for the 0.01 MOI and 34%
+for the 0.1 MOI at 6 DPI. Based on these results, we select the 0.1 MOI (equivalent to 10 5
+PFU) for subsequent kinetic experiments.
+CRITICAL: TEER evaluation is critical during ALI generation to monitor the health of the
+cultures. For viral exposure, use at least 25 mL or a maximum of 100 mL of viral suspension
+for apical infection. Using larger volumes can induce tissue damage. Multiple readouts
+allow the assessment of the response to the virus (see sections related to ‘‘ examples of
+readouts to assess response to viral exposure ’’).
+Examples of readouts to assess response to viral exposure
+Timing: approximately 3 weeks
+We provide an overview of potential readouts to assess the response to viral exposure.
+13. At each time-point, assess SARS-CoV-2 infection by using:
+a. Flow cytometry on single cell suspensions of infected/non-infected ALI.
+Note: This step requires ALI dissociation, then, tracking the expression of the viral nuclear pro-
+tein (NP), as outlined in the step-by-step method details section.
+b. Viral titer on apical washes through plaque assays.
+Note: This step provides insight into viral particle release on the apical side.
+c. Histocytometry, to evaluate infection through analysis of NP expression.
+Note: Additionally, the IF imaging method allows us to appreciate cellular ALI composition
+and relevant markers induced or elevated in response to the virus, such as CSF3 and CCL20.
+14. To appreciate the transcriptional response to the virus:
+a. Dissociate ALI cultures at each time point.
+b. Total RNA isolation using Direct-zol RNA MicroPrep kits.
+c. Sequencing and subsequent bulk RNA analysis.
+15. NanoString’s GeoMx Digital Spatial Proﬁler (DSP) on ALI culture frozen sections offers insights
+into in situ RNA data in response to the virus.
+CRITICAL: Correct embedding of ALI cultures in OCT is crucial to obtaining high-quality
+frozen sections. During immunoﬂuorescence staining, it is essential to carefully choose
+conjugated and unconjugated antibodies w ith the correct secondary antibodies with
+appropriate ﬂuorophores to avoid misleading staining.
+ll
+OPEN ACCESS
+4 STAR Protocols 4, 102735, December 15, 2023
+Protocol
+
+<<<PAGE 8>>>
+The materials and equipment section provides comprehensive recipes for all solutions, while the
+step-by-step method details section outlines the detailed procedures mentioned earlier. Prepare
+solutions beforehand, if possible, except for cell culture solutions. Please refer to the key resources
+table for a comprehensive list of materials and equipment.
+Alternatives: Some of these readouts require a BSL3 setting, including ﬂow cytometry, ALI
+dissociation & RNA extraction, and plaque assays for viral titers on the apical supernatant
+washes. However, other methods do not require BSL3, such as imaging (immunoﬂuores-
+cence, IF) or GeoMX DSP on ALI frozen sections (following PFA 4% ﬁxation for 12 h at
+20
+/C14 C–25/C14 C and OCT embedding for snap-frozen tissue in LN) or dissociated ALI after TRIzol
+treatment (for RNA preparation for sequencin g). All work must comply with institutional
+guidelines.
+KEY RESOURCES TABLE
+REAGENT or RESOURCE SOURCE IDENTIFIER
+Antibodies
+Anti-SCGBA1 (clone 394324, rat IgG) antibody
+dilution: 1/250
+R&D Systems Cat#MAB4218; RRID: AB_2183286
+Anti-acetylated-alpha-tubulin (clone 6-11B-1,
+mouse IgG2b) antibody dilution: 1/250
+Thermo Fisher Scientiﬁc Cat#32-2700; RRID: AB_2533073
+Anti-MUC5AC AF700 (clone 45M1, mouse IgG1)
+antibody dilution: 1/250
+Novus Cat#NBP2-32732AF700; RRID: AB_2894883
+Anti-CCL20 (rabbit polyclonal) antibody dilution: 1/200 Abcam Cat#ab224188; RRID: AB_2894878
+Anti-CSF3 AF594 (clone CSF3/900, mouse IgG1)
+antibody dilution: 1/400
+Novus Cat#NBP2-47934AF594; RRID: AB_2933966
+Anti-NP (SARS-CoV) AF488 or AF647 antibody
+dilution: 1/250
+Center for Therapeutic Antibody
+Development at Icahn School
+of Medicine at Mount Sinai
+NP-1C7C7
+Anti-cytokeratin 5 AF594 (rabbit polyclonal)
+antibody dilution: 1/250
+Novus Cat#NBP2-61931AF594; RRID: AB_2933967
+Anti-pan-cytokeratin (clone AE-1/AE-4, mouse
+IgG1) antibody dilution: 1/300
+BioLegend Cat#914204; RRID: AB_2616960
+Anti-aSMA (clone 1A4, mouse IgG2a) antibody
+dilution: 1/200
+Abcam Cat#Ab7817; RRID: AB_262054
+Anti-ﬁbronectin (rabbit polyclonal) antibody dilution: 1/400 Abcam Cat#Ab32419; RRID: AB_732379
+Anti-mouse IgG1 AF488 antibody dilution: 1/2,000 Thermo Fisher Scientiﬁc Cat#A21121; RRID: AB_2535764
+Anti-mouse IgG2a AF647 antibody dilution: 1/2,000 Thermo Fisher Scientiﬁc Cat#A21241; RRID: AB_2535810
+Anti-rabbit IgG AF568 antibody dilution: 1/2,000 Thermo Fisher Scientiﬁc Cat#A11011; RRID: AB_143157
+Anti-mouse IgG2b AF555 antibody dilution: 1/2,000 Thermo Fisher Scientiﬁc Cat#A-21147; RRID: AB_2535783
+Anti-rabbit IgG AF555 antibody dilution: 1/200 BioLegend Cat#406412; RRID: AB_2563181
+Anti-rat IgG AF488 antibody dilution: 1/2,000 Thermo Fisher Scientiﬁc Cat#A-11006; RRID: AB_2534074
+Anti-NP (SARS-CoV-2; polyclonal) antibody dilution: 1/2,000 Novus Cat#NB100-56576A; RRID: AB_838838
+Anti-spike (SARS-CoV-2; polyclonal) antibody dilution: 1/50 Novus Cat#NBP2-24808AF647; RRID: AB_2933968
+Anti-cytokeratin 5 (clone EP1601Y) antibody dilution: 1/60 Abcam Cat#ab52635; RRID: AB_869890
+Anti-mouse IgG HRP antibody dilution: 1/5,000 ProteinSimple Cat# 042-205; RRID: AB_2860576
+Bacteria and virus strains
+SARS-CoV-2 (USA/WA1-2020) BEI Resources NR-52281
+SARS-CoV-2 (Beta variant B.1.351) Gift from Dr. Andy Pekosz N/A
+SARS-CoV-2 (Delta variant B.1.617.2) Obtained from Dr. Viviana Simon Mount Sinai Pathogen Surveillance program
+SARS-CoV-2 (Omicron variant B.1.1.529, BA.1) Obtained from Dr. Viviana Simon Mount Sinai Pathogen Surveillance program
+Biological samples
+Human lung tissue This study: NDRI Project: RPAK1 01
+Chemicals, peptides, and recombinant proteins
+Advanced DMEM/F12 Thermo Fisher Scientiﬁc Cat#12634-028
+(Continued on next page )
+ll
+OPEN ACCESS
+STAR Protocols 4, 102735, December 15, 2023 5
+Protocol
+
+<<<PAGE 9>>>
+Continued
+REAGENT or RESOURCE SOURCE IDENTIFIER
+MEM media 10 3 Thermo Fisher Scientiﬁc Cat#11430030
+GlutaMAX supplement Thermo Fisher Scientiﬁc Cat#35050-061
+Fetal bovine serum Thermo Fisher Scientiﬁc Cat#50-753-2978
+Penicillin/streptomycin (PS) Thermo Fisher Scientiﬁc Cat#150-70-063
+Sodium bicarbonate 7.5% solution Thermo Fisher Scientiﬁc Cat#25080094
+HEPES (1 M) Thermo Fisher Scientiﬁc Cat#15-630-080
+Red blood cell lysis buffer Roche Cat#11814389001
+13 PBS Thermo Fisher Scientiﬁc Cat#70011-044
+Cultrex growth factor reduced BME type 2 Trevigen (R&D Systems) Cat#3533-010-02
+Primocin InvivoGen Cat#Ant-pm-1
+Nicotinamide Sigma Cat#N0636
+N-acetylcysteine Sigma Cat#A9165
+B-27 supplement Gibco Cat#1750444
+SB202190 Sigma Cat#S7067
+A83-01 Tocris Cat#2939
+Noggin PeproTech Cat#120-10C
+FGF 10 PeproTech Cat#100-26
+FGF 7 PeproTech Cat#100-19
+R-spondin 1 PeproTech Cat#120-38
+Y-27632 AbMole Cat#M1817
+Collagen I rat protein Thermo Fisher Scientiﬁc Cat#A1048301
+PneumaCult-Ex plus medium STEMCELL Cat#05040
+PneumaCult-ALI medium STEMCELL Cat#05001
+Hydrocortisone STEMCELL Cat#07926
+Heparin solution STEMCELL Cat#07980
+DNase I Sigma Cat#D4513
+Dispase I Sigma Cat#4942086001
+Collagenase I Sigma Cat#9C9407
+Paraformaldehyde 16% Thermo Fisher Scientiﬁc Cat#28906
+Triton X-100 Thermo Fisher Scientiﬁc Cat#HFH10
+Phalloidin ATTO647N Sigma Cat#65906
+Fluromount-G Thermo Fisher Scientiﬁc Cat#00-4958-02
+DAPI Thermo Fisher Scientiﬁc Cat#D1306
+Fc receptor blocker Innovex Cat#NB309
+Background buster Innovex Cat#NB306
+Mouse serum Jackson ImmunoResearch Cat#015-000-120
+BSA (IgG-free, Protease-free; for immunoﬂuorescence, IF) Jackson ImmunoResearch Cat#001-000-161
+BSA (cell culture grade) Sigma Cat#A9418
+Dimethyl sulfoxide (DMSO) Sigma Cat#67-68-5
+TrypLE express enzyme Thermo Fisher Scientiﬁc Cat#12605010
+Trypsin-EDTA (0.05%) phenol red Thermo Fisher Scientiﬁc Cat#25-300-062
+Zombie Aqua Fixable Viability Kit BioLegend Cat#423101
+Zombie Green Fixable Viability Kit BioLegend Cat#423111
+Saponin Sigma Cat#S7900-100G
+Oxoid puriﬁed agar Thermo Fisher Scientiﬁc Cat#LP0028
+DEAE-dextran Thermo Fisher Scientiﬁc Cat#J63781.14
+TPCK/trypsin Thermo Fisher Scientiﬁc Cat#20233
+TrueBlue peroxidase substrate SeraCare Cat#5510-0030
+Critical commercial assays
+Cytoﬁx/Cytoperm Fixation/ Permeabilization solution Kit BD Biosciences Cat#554714
+Direct-zol RNA MicroPrep Kits Zymo Research Cat#R2062
+RNase-free DNase set QIAGEN Cat#79254
+Kapa Stranded mRNA-seq Library Prep Kit Kapa Biosystems Cat#KK8401
+Viral stock protocol ARTIC https://artic.network/ncov-2019
+(Continued on next page )
+ll
+OPEN ACCESS
+6 STAR Protocols 4, 102735, December 15, 2023
+Protocol
+
+<<<PAGE 10>>>
+Continued
+REAGENT or RESOURCE SOURCE IDENTIFIER
+Viral-RNA Kit Omega Bio-tek Cat#R6874-02
+Native Barcoding Expansion Kit ONT Cat#EXP-NBD104
+Deposited data
+Raw data and analyzed data This study GEO: GSE225603
+Experimental models: Cell lines
+African green monkey ( Chlorocebus sabaeus):
+VeroE6/TMPRSS2 cells
+Cellosaurus
+R Matsuyama et al.
+10
+Cat#JCRB1819; RRID: CVCL_YQ49
+African green monkey ( Chlorocebus sabaeus): VeroE6 ATCC ATCC CRL-1586, clone E6; RRID: CVCL_0574
+Software and algorithms
+Imaris 9.4 Bitplane https://imaris.oxinst.com
+ImageJ ImageJ https://imagej.nih.gov/ij/
+Leica (LAS) X Leica Microsystems https://www.leica-microsystems.com/
+Adobe Illustrator Adobe https://www.adobe.com/products/
+illustrator.html
+BD FACSuite software BD Biosciences https://www.bdbiosciences.com/
+GraphPad Prism v8 GraphPad https://www.graphpad.com/
+FlowJo v10.3 FlowJo LLC https://www.ﬂowjo.com/
+DNAstar Lasergene https://www.dnastar.com/software/
+lasergene/
+R (v4.2.0) The R Foundation https://www.r-project.org/
+ggplot2 (R package v3.3.6) R package https://rpkgs.datanovia.com/
+survminer/index.html
+ComplexHeatmap package (v2.12.1) R package https://jokergoo.github.io/ComplexHeatmap/
+RSEM v1.3.3 Li and Dewey 11 https://github.com/deweylab/RSEM/
+releases/tag/v1.3.3
+Bowtie Langmead et al. 12 http://bowtie-bio.sourceforge.net/index.shtml
+FastQC https://www.bioinformatics.babraham.
+ac.uk/projects/fastqc/
+N/A
+MultiQC Ewels et al. 13 N/A
+BBDuk tool BBMap download | SourceForge.net https://sourceforge.net/projects/bbmap/
+DESeq2 R package
+Love et al. 14
+N/A
+SVAseq R package https://doi.org/10.1093/nar/gku864
+Reference manager Mendeley https://www.mendeley.com/search/
+Other
+Greiner CELLSTAR multiwell culture plates (P24-well) Sigma Cat#M9312
+Corning Transwell polyester membrane
+cell culture inserts (P24-well, 0.4 mm)
+Sigma Cat#3470
+Corning sterile cell strainers (100 mm) Fisher Scientiﬁc Cat#431752
+Petri dishes 100 3 15 mm Thermo Fisher Scientiﬁc Cat#150350
+Petri dishes 60 3 15 mm Thermo Fisher Scientiﬁc Cat#174888
+50 mL tubes Fisher Scientiﬁc Cat#339652
+2 mL cryovial tubes Fisher Scientiﬁc Cat#431386
+Tissue-Tek OCT compound Thermo Fisher Scientiﬁc Cat#4583
+Tissue-Tek cryomold VWR Cat#4566
+Slides Denville Scientiﬁc Cat#M1021
+Cover glass Thermo Scientiﬁc Cat#152450
+Optimized freezing container Thermo Fisher Scientiﬁc Cat#5100-0001
+MACSmix tube rotator Miltenyi Biotec Cat#130-090-753
+EVOM2 ohm meter WPI Cat#EVOM2
+Piston from insulin syringe BD Biosciences Cat#324921
+Membrane ﬁlter, 0.22 mm pore size Sigma Cat#GSWP04700
+Beakers (1,000 mL) VWR Cat#13912-284
+Pyrex container Cole-Parmer Cat#3175-10
+Autoclaving foil VWR Cat#47734-154
+Saran wrap VWR Cat#46610-056
+(Continued on next page )
+ll
+OPEN ACCESS
+STAR Protocols 4, 102735, December 15, 2023 7
+Protocol
+
+<<<PAGE 11>>>
+MATERIALS AND EQUIPMENT
+Human lung tissue processing & cryopreservation
+Equipment setup:
+/C15 Sterile material (autoclave): beakers (1000 mL in size), large Pyrex container (24 cm 3 36 cm x 6 cm)
+for tissue reception, saran wraps to seal beakers, surgical blue wrap to avoid blood spills. Sterile
+scalpel, surgical forceps, ﬁne-point forceps, surgical scissors.
+/C15 Pipette tips: 1 mL.
+/C15 Serological pipettes: 10 mL, 25 mL.
+/C15 Single channel pipette (1 mL), Pipe t-Lite LTS Pipette L-1000XLS+.
+/C15 Electric pipette controller Eppendorf Easypet 3.
+/C15 Petri dishes 100 3 15 mm (Thermo Scientiﬁc, 150350).
+/C15 Petri dishes 60 3 15 mm (Thermo Scientiﬁc, 174888).
+/C15 50 mL centrifuge tubes (Fisher Scientiﬁc, 339652).
+/C15 2 mL cryovial tubes (Fisher Scientiﬁc, 431386).
+/C15 Tissue-Tek OCT Compound (Thermo Scientiﬁc, 4583).
+/C15 Tissue-Tek OCT cryomold (VWR, 4566).
+/C15 Optimized freezing container, Mr. Fr osty (Thermo Scientiﬁc, 5100-0001)
+/C15 Media for tissue preservation: 1 3 PBS (Thermo Scientiﬁc, 70011-044) supplemented with 50% FBS
+(Thermo Scientiﬁc, 50-753-2978). Store at 4
+/C14 C for up to 2 months.
+/C15 Cryopreservation media: cold 90% FBS with 10% DMSO (Sigma, 67-68-5). Store at 4 /C14 Cf o ru pt o
+2m o n t h s .
+H u m a nl u n gt i s s u ev i a b l ef r e e z e - t h a wing & lung airway organoid generation
+Equipment setup:
+/C15 Pipettes: 1 mL, 10 mL, 25 mL.
+/C15 Petri dishes 60 3 15 mm.
+/C15 50 mL centrifuge tubes.
+/C15 Tube rotator (Miltenyi Biotec, MACSmix Tube Rotator, 130-090-753).
+/C15 Sterile slides (Globe Scientiﬁc, #1324W).
+/C15 Sterile Cell Strainers, 100 mm (Fisher Scientiﬁc, 431752).
+Note: Pre-wet strainers before ﬁltering tissue or cell suspensions with 1–2 mL 1 3 PBS.
+Continued
+REAGENT or RESOURCE SOURCE IDENTIFIER
+Paraﬁlm VWR Cat#52858-076
+Surgical blue wrap VWR Cat#56222-053
+Scalpel VWR Cat#76457-484
+Surgical forceps VWR Cat#10806-206
+Fine-point forceps VWR Cat#470005-440
+Surgical scissors VWR Cat#76457-366
+Pipet-Lite LTS pipette L-1000XLS+ Rainin Cat#17014382
+Pipettes (tips 1 mL) Mettler Toledo Cat#30389217
+Electric pipette controller Eppendorf Easypet 3 Eppendorf Cat#2231000955
+Serological pipettes (10 mL) Thermo Fisher Scientiﬁc Cat#170356N
+Serological pipettes (25 mL) Thermo Fisher Scientiﬁc Cat#170357N
+Schematic and graphical abstract images BioRender https://www.biorender.com
+ll
+OPEN ACCESS
+8 STAR Protocols 4, 102735, December 15, 2023
+Protocol
+
+<<<PAGE 12>>>
+/C15 Piston from insulin syringe (BD, 324921).
+/C15 Cultrex growth factor reduced BME type 2 (R and D, 3533-010-02).
+Note: Store at /C0 20/C14 C for up to 12 months. Melt the Matrigel-like matrix reagent 24 h prior to
+viable frozen tissue processing in the fridge at 4 /C14 C.
+/C15 B S As o l u t i o n( 0 . 1 % ) :d i s s o l v e0 . 0 1go fB S A( C e l lc u l t u r eg r a d e ,T h e r m oS c i e n t i ﬁ c ,A 9 4 1 8 )i n1 0m L
+13 PBS, ﬁlter through 0.2 mm ﬁlter. Store at 4 /C14 Cf o ru pt o2m o n t h s .
+/C15 Greiner CELLSTAR P24-well culture plates (Sigma, M9312).
+/C15 TrypLE express enzyme (Thermo Fisher Scientiﬁc, 12605010)
+/C15 Media for tissue digestion: add 100–200 mL of collagenase I (Sigma-C9407, stock solution at
+200 mg/mL in 1 3 PBS; store at /C0 20/C14 C for up to 1 year) for a ﬁnal concentration of 1–2 mg/mL
+into 10 mL ﬁnal of AdDF+ media (see above). Always prepare and use fresh.
+Note: Filter grows factors or chemical reagent solutions using a 0.22 mM ﬁlter. Aliquot and
+keep grow factors or chemical reagent at /C0 20/C14 C for at least 1 year, avoiding freeze and
+thaw cycles.
+Basal media for airway organoid (AdDF+)
+Reagent Final concentration Amount
+Advanced DMEM/F12 N/A 485 mL
+Penicillin/Streptomycin (100 3)1 3 5m L
+HEPES (1 M) 10 mM 5 mL
+GlutaMAX Supplement (100 3)1 3 5m L
+Total N/A 500 mL
+Store at 4 /C14 C for up to 2 months.
+Complete media for airway organoid generation (AO)
+Reagent Final concentration Amount
+AdDF+ (See above) N/A 29.115 mL
+R-Spondin 1
+Reconstitute in 1 3 PBS 0.1% BSA at 200 mg/mL
+500 ng/mL 75 mL
+FGF-7
+Reconstitute in 1 3 PBS 0.1% BSA at 20 mg/mL
+25 ng/mL 37.5 mL
+FGF-10
+Reconstitute in 1 3 PBS 0.1% BSA at 100 mg/mL
+100 ng/mL 30 mL
+Noggin
+Reconstitute in 1 3 PBS 0.1% BSA at 40 mg/mL
+100 ng/mL 75 mL
+B-27 supplement (50 3)1 3 600 mL
+Primocin (50 mg/mL) 50 mg/mL 30 mL
+A83-01
+Reconstitute in DMSO at 10 M/mL
+500 nM/mL 1.5 mL
+Y-27632 (10 mM/mL) 5 mM/mL 15 mL
+SB202190
+Reconstitute in DMSO at 10 mM/mL
+5 mM/mL 15 mL
+N-Acetylcysteine
+Reconstitute in DMSO at 12.5 M/mL
+1.25 mM/mL 3 mL
+Nicotinamide
+Reconstitute in DMSO at 50 M/mL
+5 mM/mL 3 mL
+Total N/A 30 mL
+Always prepare and use fresh.
+ll
+OPEN ACCESS
+STAR Protocols 4, 102735, December 15, 2023 9
+Protocol
+
+<<<PAGE 13>>>
+/C15 Media to stop tissue digestion reaction: prepare 1 3 PBS supplemented with 2% FBS. Store at 4 /C14 C
+for up to 2 months.
+Primary human lung organoid-derived air-liquid interface (ALI) generation, differentiation &
+viral exposure
+Equipment setup:
+/C15 Pipettes: 1 mL, 10 mL, 25 mL.
+/C15 50 mL centrifuge tubes.
+/C15 EVOM2 ohm meter (WPI). For more details on how to use the device, refer directly to WPI supplier
+website.
+/C15 Corning Transwell polyester membran e cell culture insert (P24-well, 0.4 mm; Sigma, 3470).
+/C15 Collagen coating solution: add 50 mL of Collagen I Rat Protein (T hermo Fisher Scientiﬁc,
+A1048301; stock at 3 mg/mL, store at 4 /C14 C for up to 1 year) for a ﬁnal concentration of
+30 mg/mL into 5 mL of 1 3 PBS. Always prepare and use fresh.
+/C15 Sterile forceps.
+/C15 STEMCELL PneumaCult Ex-Plus (#05040), and STEMCELL PneumaCult ALI Maintenance media
+(05001).
+Bellow, the preparation of all media for the ALI generation, comprises three main steps (1–3) and
+media for viral exposure.
+/C15 Complete media for ALI culture expansion (step 1): add 50 mL of Y-27632 (Stock solution at
+10 mM/mL; store at /C0 20/C14 C for at least 1 year) for a ﬁnal concentration of 0.01 mM/mL into
+50 mL of basal media for ALI culture expansion (see above). Always prepare and use fresh.
+Basal media for ALI culture expansion (step 1)
+Reagent Final concentration Amount
+PneumaCult-Ex Plus Basal Medium N/A 442.5 mL
+PneumaCult-Ex Plus 50 3 Supplement 1 3 50 mL
+Hydrocortisone Stock Solution (200 3)1 3 2.5 mL
+Penicillin/Streptomycin (100 3)1 3 5m L
+Total N/A 500 mL
+Store at 4 /C14 C for up to 2 months.
+Basal media for ALI culture different iation and maintenance (steps 2–3)
+Reagent Final concentration Amount
+PneumaCult-ALI Basal Medium N/A 445 mL
+PneumaCult-ALI 103 Supplement 1 3 50 mL
+Penicillin/Streptomycin (100 3)1 3 5m L
+Total N/A 500 mL
+Aliquot (e.g., 50 mL) and store at /C0 20/C14 C for at least 1 year, thaw when necessary.
+Complete media for ALI culture differ entiation and maintenance (steps 2–3)
+Reagent Final concentration Amount
+Basal media for ALI culture differentiation and maintenance (See above) N/A 49.1 mL
+Hydrocortisone Stock Solution (200 3)1 3 250 mL
+Heparin Solution (500 3)1 3 100 mL
+(Continued on next page )
+ll
+OPEN ACCESS
+10 STAR Protocols 4, 102735, December 15, 2023
+Protocol
+
+<<<PAGE 14>>>
+CRITICAL: Conﬂuence and Initial Media Change (Step 2), (See Figure 3 ): After achieving
+full conﬂuence of ALI cultures (around 10–12 days post-seeding), change the media on
+both the apical and basal sides. Use media des igned for ALI culture differentiation and
+maintenance, enriched with Y-27632. This compound is essential for the initial phase of
+pseudo-stratiﬁed epithelium d ifferentiation, spanning approximately 5–7 days (varies
+based on donor characteristics).
+TEER Goal Achievement and Transition to Airlift (Step 3): When TEER values surpass 500 U cm
+2,
+commence the airlift phase. At this point, discontinue the addition of media to the apical side while
+maintaining media supply to the basal side and halt the supplementation with Y-27632. The airlift
+step marks the transition to the second differentiation phase, lasting approximately 4 weeks.
+By supplementing with Y-27632 and altering medi a application according to the differentiation
+phases, you facilitate the progression of ALI cultu res toward a pseudo-stratiﬁed epithelial state.
+/C15 Media to apply on the basal side of ALI culture during viral exposure experiments: PneumaCult-
+ALI Basal Medium supplemented with PneumaCult-ALI 10 3 supplement (1 3 ﬁnal). Store this me-
+dia at 4
+/C14 C for up to 2 weeks.
+Note: Conduct all experiments involving live SARS-CoV-2 in a biosafety level 3 (BSL-3) facility.
+Follow all necessary safety measures during the viral exposure experiments.
+CRITICAL: Sequence and conﬁrm the genomic in tegrity of all SARS-CoV-2 viral stocks ac-
+cording to the ARTIC protocol ( https://artic.ne twork/ncov-2019 ).15 Store virus aliquots in
+a secured /C0 80/C14 C freezer until use.
+Example of readouts to assess response to viral exposure
+/C15 Preparation of material and reagents for plaque assays.
+Collect viral supernatants at all time points by adding 150 mLo f1 3 PBS on the apical side and incu-
+bating for 15 min at 37 /C14 C, 5% CO2 in a humidiﬁed atmosphere. Then, store supernatants at /C0 80/C14 C
+until further processing.
+Note: Conduct all experiments involving live SARS-CoV-2 isolates in a biosafety level 3 (BSL-3)
+facility.
+Equipment setup:
+/C14 Pipettes: 1 mL, 10 mL, 25 mL.
+/C14 1.5 mL Eppendorf tubes.
+/C14 BSA solution (3.5%): dissolve 3.5 g of BSA (Cell culture grade, Thermo Scientiﬁc, A9418) in
+100 mL 1 3 PBS, sterile ﬁlter through 0.2 mm ﬁlter. Store at 4 /C14 C for up to 2 months.
+/C14 1% Bovine pre-seeded VeroE6 cell (for USA/WA1-2020) or VeroE6 TMPRSS2 (for Beta, Delta
+and Omicron) monolayers.
+/C14 2% Agar (w/v): dissolve 2 g of puriﬁed Oxoid (LP0028) agar in 100 mL diH 2O.
+Continued
+Reagent Final concentration Amount
+PneumaCult-ALI Maintenance Supplement (100 3)1 3 500 mL
+Y-27632 (10 mM/mL) Halt the addition after the ALI airlift. 0.01 mM/mL 50 mL
+Total N/A 50 mL
+Always prepare and use fresh.
+ll
+OPEN ACCESS
+STAR Protocols 4, 102735, December 15, 2023 11
+Protocol
+
+<<<PAGE 15>>>
+/C14 1% DEAE Dextran (w/v): dissolve 0.5 g of DEAE Dextran in 50 mL of diH 2O, sterile ﬁlter through
+0.2 mmﬁ l t e r .
+Note: Sterile ﬁlter using a Millipore (0.22 mM) vacuum-driven ﬁlter.
+/C14 PFA 4% ﬁxation for immune staining: mix 1 mL PFA 16% (Thermo Fisher, 28906) with 3 mL 1 3
+PBS.
+/C14 To reveal viral infection: Anti-SARS-CoV-2 NP antibody (1C7C7, 1/250) and HRP-conjugated
+secondary anti-mouse antibody (1/5000).
+/C14 TrueBlue peroxidase substrate (SeraCare).
+/C15 Preparation of reagents for ALI dissociation, intracellular staining for infection (Flow cytometry),
+and RNA extraction.
+Dissociate infected and non-infected ALI at all time-points, separately, one insert for ﬂow cytom-
+etry and one insert for RNA extraction. See the step-by-step method details section for the
+detailed procedure.
+Note: Conduct all experiments involving live SARS-CoV-2 in a biosafety level 3 (BSL-3) facility.
+Equipment setup:
+/C14 Pipettes: 1 mL, 10 mL, 25 mL.
+/C14 Trypsin-EDTA (0.05%) phenol red (Thermo Fisher Scientiﬁc, 25-300-062).
+/C14 Dispase I/DNase I solution: dissolve 1 vial of dispase I (Sigma, 4942086001; stock at 38 U; store
+at 4 /C14 C for up to 12 months) into 20 mL 1 3 PBS for a ﬁnal concentration of 1.9 U/mL and add
+20 mL of DNase I (Sigma, D4513; stock at 100 mg/mL in 1 3 PBS; store aliquots at /C0 20/C14 Cf o r
+at least 1 year) for a ﬁnal concentration of 0.1 mg/mL. Always prepare and use fresh.
+/C14 Media to stop tissue digestion reaction: 1 3 PBS supplemented with 2% FBS. Store at 4 /C14 Cf o ru p
+to 2 months.
+23 MEM solution
+Reagent Final concentration Amount
+MEM media (10 3)2 3 200 mL
+GlutaMAX supplement (100 3)2 3 20 mL
+Sodium bicarbonate (7.5%) 0.24% 32 mL
+HEPES (1 M) 20 mM 20 mL
+Penicillin/Streptomycin (100 3)2 3 20 mL
+BSA solution (3.5%) 0.04% 12 mL
+diH2O N/A 696 mL
+Total N/A 1000 mL
+Store at 4 /C14 C for up to 2 months.
+Overlay media
+Reagent Final concentration Amount
+23 MEM solution (see above) 1 3 12.5 mL
+2% Oxoid agar 0.6% 8.5 mL
+1% DEAE Dextran 0.01% 250 mL
+TPCK/trypsin (1 mg/mL) 1 mg/mL 25 mL
+diH2O N/A 4 mL
+Total N/A 25 mL
+Always prepare and use fresh.
+ll
+OPEN ACCESS
+12 STAR Protocols 4, 102735, December 15, 2023
+Protocol
+
+<<<PAGE 16>>>
+/C14 1.5 mL Eppendorf tubes.
+/C14 Flow cytometry:
+- Viability assessment: staining in 1 3 PBS with Zombie aqua (#423101) or Zombie green
+(#423111); (BioLegend).
+- Cytoﬁx/Cytoperm Fixation/Permeabilization solution kit (BD, 554714).
+- SARS-CoV-2 N antibody (1C7C7, AF488 or AF647)
+/C14 Buffer for cell suspension 1% BSA: dissolve 1 g of BSA (Cell culture grade, Thermo Scientiﬁc,
+A9418) in 100 mL 1 3 PBS, sterile ﬁlter through 0.2 mm ﬁlter. Store at 4
+/C14 Cf o ru pt o2m o n t h s .
+- B DF A C S u i t eS o f t w a r ea n dF l o w J o .
+/C14 RNA extraction:
+Pause point: Store extracted RNA at /C0 80/C14 C, until further processing.
+- Direct-zol RNA MicroPrep kits (Zymo Research, R2062).
+- RNase-free DNase set (QIAGEN, 79254).
+- PolyA mRNA selection and Kapa Stranded mRNA-seq Library Prep kit (Kapa Biosystems,
+KK8401).
+- DNAstar (Lasergene).
+/C15 Preparation of ALI cultures for imaging and NanoString GeoMx whole transcriptome atlas (WTA).
+Equipment setup:
+/C14 Pipettes: 1 mL, 10 mL, 25 mL.
+/C14 Tissue-Tek OCT Compound (Thermo Scientiﬁc, 4583).
+/C14 Tissue-Tek OCT cryomold (VWR, 4566).
+/C14 Cryostat Leica.
+/C14 Immunoﬂuorescence (IF):
+- PFA 4% ﬁxation for immune staining: mix 1 mL PFA 16% (Thermo Fisher Scientiﬁc, 28906) with
+3m L1 3 PBS.
+- Permeabilization buffer: add 10 mL of Triton X-100 into 10 mL 1 3 PBS for a ﬁnal concentration
+of 0.1% Triton X-100. Store at 4
+/C14 C for up to 1 month.
+Alternatives: For non PFA-ﬁxed tissue, a one single permeabilization/ﬁxation step with cold
+acetone ( /C0 30/C14 C) is possible. For example, for organoids, submerge the tissue in cold
+Acetone, approximately 5 min. Use this reagent in a fume hood.
+- Saturation (Innovex, NB309) and background reagents (Innovex, NB306).
+- Saponin 10%: dissolve 1 g of saponin (Sigma, S7900-100G) in 10 mL 1 3 PBS and sterile ﬁlter
+through 0.2 mmﬁ l t e r .S t o r ea t4/C14 C for several months.
+- Staining buffer: dissolve 0.5 g of BSA (IgG-Free, Protease-Free; Jackson ImmunoResearch,
+001-000-161) in 10 mL of 1 3 PBS and add 50 mL of saponin 10% for a ﬁnal concentration of
+0.05% saponin. Sterile ﬁlter and always prepare and use fresh.
+- Primary and secondary antibodies (see key resources table ).
+- Mouse serum, (Jackson Immu noResearch, 015-000-120).
+- Phalloidin ATTO647N, (Sigma, 65906).
+- DAPI (Thermo Fisher Scientiﬁc, D1306)
+- Hydrophobic pen (pap-pen, Daido Sangyo, N33)
+- Mounting media (Thermo Fisher Scientiﬁc, 00-4958-02).
+/C15 Superfrost plus Slides (Denville Scientiﬁc, M1021) and cover-glass (Thermo Fisher, 152450)
+/C14 GeoMx WTA: Slides with 6 mm thickness sections of ALI cultures at different conditions. Store
+slides at /C0 80
+/C14 C until process.
+- PFA 4% ﬁxation for immune staining (see above).
+- Prepare the tissue sections a ccording to MAN-10131-03.
+ll
+OPEN ACCESS
+STAR Protocols 4, 102735, December 15, 2023 13
+Protocol
+
+<<<PAGE 17>>>
+Note: For more details, please refer to the NanoString website.
+- Primary antibodies: Nuclei Syto83 (NanoString), CK5 (Abcam, ab52635, FITC), SARS-CoV-2
+Spike (Novus, NBP2-24808AF647), and SARS-CoV-2 Nucleocapsid (Novus, NB100-56576).
+- Secondary antibodies: Anti-rabbit IgG AF555 (BioLegend, 406412).
+- Viral-RNA kit (Omega Bio-tek, R6874-02)
+- Native Barcoding Expansion kit (ONT, EXP-NBD104).
+- DNAstar (Lasergene).
+CRITICAL: Reagents or biological materials may be harmful and/or toxic; therefore, use
+appropriate laboratory equipment. For ﬂow cytometry, IF, and GeoMx staining, make
+fresh reagents and antibody mix for each staining and keep them on ice in the dark.
+STEP-BY-STEP METHOD DETAILS
+Human lung tissue processing & cryopreservation
+Timing: 2 days
+This step allows the selection of suitable tissues fo r cryopreservation and airway organoid genera-
+tion based on tissue anatomy, elimination of necrotic or damaged areas, and cryopreservation of
+multiple vials from different regions of the lung.
+1. Lung tissue processing ( Figure 1 ): Receive human lung tissue unde r clean/sterile conditions.
+a. Transfer the lung tissue to a sterile beaker (10 00 mL) containing media for tissue preservation
+13 PBS supplemented with 50% FBS.
+Note: Add approximately 400–500 mL to cover the tissue.
+b. Seal the beaker with sterile aluminum foil and paraﬁlm.
+Figure 1. Setup for human lung tissue processing and cryopreservation: Representative pictures for lung tissue
+processing
+(Step 1) The left lung, including a partial portion of the trac hea, is used for the processing. The tissue is oriented with
+the distal (alveolar) portion on the left and the proximal (bron chial) portion on the right. (Step 2) Cut the tissue into ﬁve
+sections from the apex (upper part) to the lower part. (Step 3–4) Cut each section into smaller pieces. Track the pieces
+from different areas of the lung as follows: for example, those from the alveolar region are named LA, and those from
+the bronchial region are named LB. From each region, either snap-freeze small pieces in OCT for histology or subject
+them to cryopreservation (10% FBS and DMSO).
+ll
+OPEN ACCESS
+14 STAR Protocols 4, 102735, December 15, 2023
+Protocol
+
+<<<PAGE 18>>>
+Pause point: You can keep the lung tissue at 4 /C14 C under the conditions described above (a-
+b) for at least 8 h until tissue processing.
+c. Transfer the lung into a large sterile Pyrex container (24 cm 3 36 cm 3 6c m ) .
+d. Anatomically orientate the lung tissue.
+Note: For example, for the left lung, place the lung facing the researcher in a way that the
+distal area (alveolar part) is on the left and the proximal part (bronchial part) is on the right
+close to the trachea (See Figure 1 ,S t e p1 ) .
+e. Cut the lung tissue into slices (approximately 4–5 cm thick) with a sterile scalpel in function of
+anatomical orientation.
+Note: For example, start from the apex (upper part) to the bottom part of the lung, then from
+distal (more alveolar) to proximal (more bronchial), (See Figure 1 ,S t e p2 ) .
+f. Cut each lung tissue slice into smaller pieces (approximately 3 cm 3 3 cm in size), with a sterile
+scalpel (See Figure 1 ,S t e p3 ) .
+g. Embed representative lung pieces from each region (approximately 3 cm 3 3c mi ns i z e )i n
+OCT.
+h. Snap freeze in liquid nitrogen.
+Note: Name each OCT tissue block based on anatomical region and donor code: for
+example, LA for ‘‘alveolar’’ and LB for ‘‘bronchial’’ (See Figure 1 , Step 4(a)).
+i. Mince the remaining tissue into smaller pieces, of approximately 3 mm 3 3m mi ns i z e .
+j. Place around 25 small pieces into each cryovial (2 mL cryovial size).
+k. Immediately add 1 mL of cold cryopreservation media (FBS 10% DMSO) to each cryovial.
+l. Transfer to an optimize df r e e z i n gc o n t a i n e r .
+Pause point: Store the cryovials at /C0 80/C14 C for at least 24 h before transferring them to liquid
+nitrogen for long-term storage. Similarly, label each cryovial based on anatomical region,
+donor code, and date: (See Figure 1 ,S t e p4 ( b ) ) .
+CRITICAL: Using this method, we process hu man lung tissue sections by anatomical re-
+gion, allowing us to obtain organoids efﬁcient ly and fully differentia ted ALI cultures from
+each area.
+H u m a nl u n gt i s s u ev i a b l ef r e e z e - t h a wing & lung airway organoid generation
+Timing: approximately 4 months
+This section describes the workﬂow to culture primary airway organoids, including the isolation,
+expansion, and cryostorage of lung organoid-derived progenitor cells, along with quality control
+screening of organoids for epithelial enrichment ( Figure 2 ).
+2. Processing of viable frozen lung pieces and digestion for airway organoid generation.
+a. Prepare AdDF+ media for washing steps.
+b. Prepare AO media for organoid generation.
+c. Prepare media for tissue digestion containing 1–2 mg/mL of collagenase I.
+d. Prepare media to stop tissue digestion reaction (1 3 PBS supplemented with 2% FBS).
+e. Thaw Cultrex growth factor reduced BME type 2 (Matrigel-like matrix).
+ll
+OPEN ACCESS
+STAR Protocols 4, 102735, December 15, 2023 15
+Protocol
+
+<<<PAGE 19>>>
+Note: Thaw in the fridge 24 h prior to viabl e frozen lung pieces processing.
+f. Thaw the cryopreserved tissue by placing 2–3 cryovials into a dry bath at 37 /C14 Cf o r5m i n .
+g. Immediately, transfer the minced tissue into a 50 mL tube containing AdDF+ media (20–
+30 mL).
+Note: Pre-warm the media in a dry bath (37 /C14 C).
+Figure 2. Viable frozen tissue processing and generation of primary airway lung organoids
+(A) Schematic experimental design for primary human lung organoid generation: viable frozen tissue is thawed and
+digested to obtain a single cell lung suspension containi ng airway cell progenitors. The cell lung suspension is
+resuspended in Cultrex, dispensed as a dome, and cultured i n a medium containing factors allowing airway organoid
+expansion and lung epithelium enrichment. After each passage dissociated organoids are cryopreserved.
+(B) Representative photomicrographs of primary lung orga noids at different passages were captured using a bright-
+ﬁeld microscope. Images were generated using ImageJ. Scale bars 500 mm, in black on the left corner.
+(C) Representative immunoﬂuorescent (IF) images of whol e mounted lung organoids showing markers for epithelial
+cells (PAN-CK, green), extracellular matri x (Fibronectin, red), and nuclei (DAPI, b lue). Pan-CK is present exclusively in
+epithelial cells and ﬁbronectin allows v isualization of the presence of the remaining extracellular matrix from tissue
+dissociation. The ﬁbronectin disappears after four passages and characterizes t he enrichment of lung epithelial cells.
+Scale bar 80 mm, in white in the left corner. Note: Figure 2 C reprinted with permission from Diana Cadena Castaneda
+et al. 2023 1 (Cell Press, Open Access).
+ll
+OPEN ACCESS
+16 STAR Protocols 4, 102735, December 15, 2023
+Protocol
+
+<<<PAGE 20>>>
+h. Centrifuge at 300 g for 5 min (20 /C14 C–25/C14 C)
+Note: This step allows to remove the DMSO.
+i. Resuspend the minced tissue with 10 mL of media for tissue digestion.
+Note: Pre-warm the media in a dry bath (37 /C14 C).
+j. Incubate on an orbital shaker at 37 /C14 C, 5% CO 2 in a humidiﬁed atmosphere for 1 h. Trouble-
+shooting 1 .
+k. Shear the digested tissue between sterile slides.
+l. Strain the digested tissue through a 100 mmﬁ l t e r .
+Note: To improve the straining, use the piston of an insulin syringe to press the tissue
+through the ﬁlter. For tissue remaining in the ﬁlter, repeat the shearing and ﬁltration steps
+to remove as much connective tissue as possible to obtain a single cell suspension.
+m. Stop the digestion process by adding 1 3 PBS supplemented with 2% FBS (20
+/C14 C–25/C14 C).
+n. Centrifuge at 300 g for 5 min (20 /C14 C–25/C14 C).
+o. Resuspend the pellet in 1 3 PBS (approximately 5 mL, at 20 /C14 C–25/C14 C).
+Alternatives: In case a visible red pellet is present, centrifuge for 5 min at 300 g (20/C14 C–25/C14 C)
+and proceed to erythrocyte lysis using 2 mL red blood cell lysis buffer for 5 min at 20 /C14 C–25/C14 C
+before the addition of 10 mL AdDF+ to stop the lysis.
+p. Strain the cells through a 100 mm ﬁlter using a new insulin syringe piston.
+q. Centrifuge at 300 g for 5 min (20 /C14 C–25/C14 C). Troubleshooting 2 .
+r. Resuspend the pellet in 1 mL of AO media (pre-warmed, 37 /C14 Ci nad r yb a t h ) .
+s. Assess the cell viability.
+Note: Counting on a chamber Malassez. Dilute approximately, 10 mL of single cell suspen-
+s i o n5t i m e sw i t h13 PBS. Then, mix one volume of the diluted cell suspension with one vol-
+u m eo ft r y p a nb l u e( 0 . 4 %i n13 PBS) to reveal blue dead cells. Apply approximately 10 mLo f
+the cell mix to the counting chamber. Count the cells within 3–5 min of mixing with trypan
+blue, on the four corner squares plus the central big square of the chamber (5 big squares
+t o t a l ) .A tt h i sp o i n t ,w ee x p e c tt oo b t a i n5t o7 . 53 10
+6 cells/mL with a viability of 80%–
+90%. To calculate the total cell concentration an d then deduce cell viability, use the following
+formula:
+Total cells = ml = ðnumber of cells x factor dilution x 10000 cells = mlÞ=5
+3. Primary human lung organoid generation is performed based on Sachs et al. 9 and will be summa-
+rized in this protocol manuscript ( Figure 2 A).
+a. Resuspend the lung cell suspension at 7.5 3 106 cells/mL ﬁnal in a mix of ice-cold AO media
+and liquid Cultrex growth factor reduced BME type 2.
+Note: Use the liquid Cultrex growth factor reduced BME type 2, at 1 mg/mL ﬁnal of basement
+membrane extract protein concentration for optimal obtention of organoids. To keep the
+C u l t r e xg r o w t hf a c t o rr e d u c e dB M Et y p e2l i q u i d ,p l a c et h em i xo ni c eu n t i ly o ua r er e a d y
+to proceed to cell culturing. For more details refer to the Cultrex growth factor reduced
+BME type 2 manufacturer ( R&D, Bio-Techne ) methodology resource.
+ll
+OPEN ACCESS
+STAR Protocols 4, 102735, December 15, 2023 17
+Protocol
+
+<<<PAGE 21>>>
+b. Mix the lung cell suspension.
+c. Dispense approximately 300,000 cells/40 mL/well as a dome.
+Note: In this step pre-warm the CELLSTAR P24-well culture plate.
+d. Gentle, ﬂip the plate upside-down.
+e. Incubate the plate in a humidiﬁed 37 /C14 C, 5% CO 2 incubator at ambient O 2 for 20 min to allow
+gelliﬁcation. Troubleshooting 3 .
+f. Gentle, ﬂip the plate right side up.
+g. Add 400 mL of pre-warmed AO media (37
+/C14 Ci nad r yb a t h ) .
+Note: AO media contains factors allowing the enrichment of lung epithelial cells.
+h. Change media every day.
+i. Passage organoids every 2 weeks as described below.
+i. Remove media and add ice-cold 1 3 PBS.
+ii. Incubate the plate on ice for 30 min.
+Note: the incubation on ice allows to melt the gel without full disruption of the organoids.
+iii. Pipette (1 mL pipette) up/down to break the organoids.
+iv. Combine the organoids of all the wells in a 50 mL tube.
+v. Centrifuge at 300 g for 5 min (7 /C14 C).
+vi. For full organoid dissociation, add pre-warmed 1 3 TrypLE express.
+vii. Incubate 5 min at 20 /C14 C–25/C14 C.
+viii. Mechanically, by pipetting up/down, dissociate the organoids.
+ix. Stop the reaction by adding ice-cold 1 3 PBS supplemented with 2% FBS.
+x. Centrifuge at 300 g for 5 min (7
+/C14 C).
+Note: During the process of organoids dissociation, monitor cell viability on chamber Malas-
+sez as described above in step (2. s), allowing also to verify that dissociation is complete. This
+leads to a distinct single cell suspension, free from intact organoids. If necessary, repeat the
+steps above from (vi) to (x).
+j. Resuspend the cells in a mix of ice-cold AO media and liquid Cultrex growth factor reduced
+BME type 2.
+k. Replate 300 000 cells/40 mLa sad o m e .
+l. Repeat the steps above from (b) to (i).
+m. After each dissociation, count cells.
+n. Cryopreserve at leas t 3–4 cryovials with 1.5 3 10
+6 cells/mL/vial in FBS with 10% DMSO.
+Note: Having these backup stocks for later expansi on is critical as bacterial or fungal contam-
+ination may occur during the expansion, which is a risk while working with primary tissues.
+Once the organoids are clear of the connective tissue, (after approximately 4–7 passages),
+generate a large frozen stock of dissociated organoids at 1.5 3 10
+6 cells/cryovial. At this
+stage, there are usually 3–4, P24-well plates of organoids in culture from which you could
+expect to produce 20–25 cryovials.
+CRITICAL: During the initial 1–4 passages, ther e is a substantial amount of connective tis-
+sue, which gradually decreases with each passage ( Figure 2 B). Perform a quality control
+check on domes containing spherical o rganoids free of connective tissue ( Figure 2 C). Typi-
+cally, after 4–7 passages, you can expect a high enrichment of lung epithelial progenitors.
+This outcome may vary depending on the donor.
+ll
+OPEN ACCESS
+18 STAR Protocols 4, 102735, December 15, 2023
+Protocol
+
+<<<PAGE 22>>>
+4. Quality control screening for epithelial enrichm ent in airway organoids by immunoﬂuorescence
+(Figure 2 C).
+a. Keep 10–20 mL of the organoid suspension.
+Note: After removing the gel, keep a sample of organoids, (See above step 3.i.ii).
+b. Centrifuge at 300 g for 5 min (4 /C14 C).
+Note: Keeping the centrifuge cold allows to remove the liquid Cultrex growth factor reduced
+BME type 2.
+c. Gently, resuspend the intact organoids in 20 mLo fc o l d1 3 PBS.
+d. Transfer the organoid suspension on a Superfrost plus slide.
+e. Incubate at 20
+/C14 C–25/C14 Cf o r1 0m i ni naf u m eh o o d .
+f. Fix and permeabilize organoids by applying 20 mLo f /C0 30/C14 Ca c e t o n e .
+g. Incubate approximately for 5 min in a fume hood until acetone evaporation.
+h. Use a hydrophobic pen (pap-pen) to create a h ydrophobic barrier around the organoids.
+Note: The hydrophobic barrier will help to de ﬁne the area of interest for staining.
+i. Gently rinse the organoids with 1 3 PBS.
+j. Treat the organoids with Fc Receptor Block (one drop, 45 min, at 20
+/C14 C–25/C14 C).
+k. Wash three times with 1 3 P B S( 5m i na t2 0/C14 C–25/C14 Ce a c ht i m e ) .
+l. Treat the organoids with Background Buster treatment (one drop, 30 min, at 20 /C14 C–25/C14 C).
+Note: O n ed r o po fe a c hp r o d u c ti sa p p r o x i m a t e l y6 0mL.
+m. Repeat the wash step above in (L).
+n. Prepare the mix of primary antibodies (unconjugated, approximately 100 mLp e rs l i d e ,s e ekey
+resources table ).
+Note: Dilute the antibodies anti-pan-Cytokeratin (pan-CK, to reveal enrichment of epithelial
+cells, 1.6 mg/mL ﬁnal), anti-alpha-SMA (aSMA, to reveal presence of ﬁbroblasts, 1 mg/mL
+ﬁnal) and anti-Fibronectin (FN1, to reveal presence of connective tissue, 0.15 mg/mL ﬁnal)
+in staining buffer 1 3 PBS/5% BSA/0.05% saponin.
+o . I n c u b a t ei nt h ed a r kf o r1ha t2 0/C14 C–25/C14 C.
+p. Repeat the wash step above in (L).
+q. Prepare the mix of secondary antibodies (conjugated, against primary antibodies, approxi-
+mately 100 mL per slide, see key resources table ).
+Note: Dilute the antibodies anti-mouse IgG1 (sp ecie of the anti-pan-CK antibody), anti-
+mouse IgG2a (specie of the anti-aSMA antibod y) and anti-rabbit IgG (specie of the anti-
+Fibronectin antibody) in staining buffer 1 3 PBS/5% BSA/0.05% saponin.
+r. Incubate in the dark for 30 min at 20 /C14 C–25/C14 C.
+s. Repeat the wash step above in (L).
+t. Counterstain sections with 1 mg/mL ﬁnal concentration (in 1 3 PBS, 5 min, at 20 /C14 C–25/C14 C) of
+40,6-diamidino-2-phenylindole (DAPI),
+u. Repeat the wash step above in (l).
+v. Whole mount organoids slide with Fluoromount-G (Thermo Fisher Scientiﬁc) and cover glass.
+w. Image acquisition using a confocal microscope.
+ll
+OPEN ACCESS
+STAR Protocols 4, 102735, December 15, 2023 19
+Protocol
+
+<<<PAGE 23>>>
+Note: For example, Leica SP8 for high-resolution images.
+x. Image analysis.
+Note: For example, using Imaris software (Bitplane).
+Primary human lung organoid-derived air-liquid interface (ALI) generation, differentiation &
+viral exposure
+Timing: approximately 6 weeks
+This part describes the workﬂow to culture primary hu man lung organoid-derived air-liquid interface
+(ALI) cultures, along with TEER measurement to mo nitor the quality of tight junction formation
+(Figure 3 ).
+5. Prepare the Transwells (P24-well plate) for cell seeding.
+a. Pre-coat the Transwells (2-well plate) apically with Collagen I (rat) (100 mL, ﬁnal concentration
+of 30 mg/mL in 1 3 P B S )f o r1ha t3 7 /C14 C in a cell incubator.
+b. Rinse the wells with 1 3 PBS.
+c. Submerge the inserts in 1 3 PBS (at 37 /C14 C in a cell incubator) until cell seeding (approximately
+30 min to 1 h).
+6. ALI culture generation includes 3 steps ( Figures 3 A and 3B).
+a. Prepare fresh complete medial for ALI expansion supplemented with Y-27632.
+b. Thaw lung organoid-derived cell suspen sion by placing 1 cryovial (containing 1.5 3 10
+6 cells/
+mL) into a dry bath at 37 /C14 Cf o r5m i n .
+c. Transfer the cells into a conical 50 mL tube with fresh pre-warmed (37 /C14 Ci nad r yb a t h )A L I
+Expansion media (1 cryovial with 10 mL media).
+d. Centrifuge at 300 g for 5 min (20 /C14 C–25/C14 C).
+e. Resuspend in ALI Expansion media (ﬁnal concentration: 300,000 cells/mL).
+f. Plate the cells (30 000 cells/100 mL/well).
+Note: One cryovial can usually seed /C24 48 inserts.
+g. (1) Expansion step:
+i. Use complete ALI expansion media supplemented with Y-27632 until reaching 100%
+conﬂuence.
+ii. Change the media every day after on the apical (100 mL) and on the basal side (500 mL).
+Note: ALI cultures reach 100% conﬂuence in approximately 10–12 days, depending on the
+donor.
+h. (2) Differentiation step 1:
+i. Use complete ALI differentiation and maintenance media supplemented with Y-27632.
+ii. Change the media every day after on the apical (100 mL) and on the basal side (500 mL).
+Note: During this step, ALI cultures establish tight junctions. Perform TEER measurements
+using the EVOM2 ohm meter during days 13–19 after every media change (3 times per
+week). Once TEER values rise values > 500 U cm
+2, this indicates a healthy conﬂuent layer
+(Figure 3 C).
+i. (3) Differentiation step 2:
+i. Airlift ALI cultures by removal of media from the apical side.
+ll
+OPEN ACCESS
+20 STAR Protocols 4, 102735, December 15, 2023
+Protocol
+
+<<<PAGE 24>>>
+ii. Use complete ALI differentiation and maintenance media without Y-27632.
+iii. Keep maintaining media supply to the basal side, (500 mL/well).
+Note: At this stage, ALI cultures initiate the differentiation into a pseudo-stratiﬁed epithe-
+lium. Typically, after airlift, the TEER values drop to approximately 250–500 U cm2 depend-
+ing on the donor.
+iv. Change the media on the basal side, 3 times per week.
+Figure 3. Generation of primary human lung organoid-derived ALI cultures to study response to virus
+(A) Schematic experimental design for primary human lung organoid-derived ALI culture generation: (1) cell
+expansion in submerged culture to obtain conﬂuence at 100%; (2) initial differentiation in submerged cultures to
+foster tight junctions and barrier integrity, monitored by TEER values (>500 U cm
+2). (3) TEER goals are achieved, and
+cultures are transitioned to airlift by removal of apical media, which initiates ﬁnal differentiation into pseudo-stratiﬁed
+epithelia. Cultures are monitored for a minimum of 4 weeks f or the presence of beating cilia and mucus production.
+(B) Representative photomicrographs of primary lung or ganoids-derived ALI cultures at Step 1 (3–4 days after
+seeding), Step 2 (at conﬂuence approximately 12–14 days after seeding) and Step 3 (at 34 days post-airlift) captured
+using a bright-ﬁeld microscope. Images were generated using ImageJ. Scale bars 500 mm, in black on the left corner.
+(C) Measurement of trans-epithelial electrical resistance (TEER, U cm2) with error bars (mean G SD), 3 measurements
+per time-point performed 3 times per week starting when th e epithelium is conﬂuent, one representative experiment
+per donor (four donors). Fully pseudo-stratiﬁed different iated ALI cultures are obtained from primary lung organoid
+progenitors within 3–4 weeks (post-airlift). Note: Figure 3 C reprinted with permission from Diana Cadena Castaneda
+et al. 2023 1 (Cell Press, Open Access).
+ll
+OPEN ACCESS
+STAR Protocols 4, 102735, December 15, 2023 21
+Protocol
+
+<<<PAGE 25>>>
+Note: Check ALI cultures under a bright-ﬁeld m icroscope for evidence of beating cilia
+(Methods video S1 ) and mucus production. It takes approximately 4 weeks post-airlift until
+full differentiation.
+Alternatives: Assess mucus and cilia presence by immunoﬂuorescence as outlined further in
+the step-by-step method details section related to ‘‘ examples of readouts to assess response
+to viral exposure ’’.
+7. ALI culture exposure to the SARS-CoV-2 virus. Troubleshooting 4 .
+a. Before viral exposure, remove mucus by applying pre-warmed 1 3 PBS apically.
+b. Incubate for 15 min at 37 /C14 C, 5% CO 2 in a humidiﬁed atmosphere.
+c. Gently pipette up and down to remove the mucus.
+d. Repeat the steps (a-c) above until mucus elimination.
+Note: Do not disrupt the cell layer during the wash step. Usually, the apical wash viscosity
+indicates the presence of mucus.
+e. Change basal media.
+f. Proceed to viral exposure by applying 10
+5 PFU virus apically.
+Note: Approximately 25–100 mLa td a y0( D 0 ) .U s u a l l y ,w ed on o tr e m o v et h ev i r a l
+suspension.
+g. Incubate the mock inserts (non-infected contro l s )w i t ha ni n f e c t i o nm e d ium containing no virus
+with a similar volume to the infected conditions.
+h. Perform viral infection in a kinetic fashion.
+i. Harvest inserts every day from 1 to 6 post-infection for analysis.
+Note: As summarized in this protocol, multiple readouts can help assess the response to a
+virus.
+CRITICAL: Note that during ALI generation, the TEER evaluation is critical. The cultures
+will collapse if you airlift ALI cultures withou t reaching the TEER peak. Additionally, using
+volumes larger than 100 mL for apical infection may result in tissue damage and collapse of
+the culture.
+Examples of readouts to assess response to viral exposure
+Timing: approximately 3 weeks
+This part describes ﬁve methods to assess the response to SARS-CoV-2 virus: Plaque assays (Viral
+titers); Flow cytometry (virus detection on dissoci ated tissue); Immunoﬂuorescence on non-dissoci-
+ated tissue (quality controls steps during ALI cult ure generation, cell composition, virus detection,
+immune marker detection); RNA data (bulk RNA) and GeoMx analysis (probe-based), ( Figure 4 A).
+After viral exposure, harvest ALIs daily from 1 to 6 days post-infection. Keep at least 1 insert for
+each readout at each time point.
+8. Plaque assays for viral titers on apical supernatants:
+a. Add 150 mL of pre-warmed 1 3 PBS to the apical side of each ALI culture.
+b. Incubate in a humidiﬁed 37 /C14 C, 5% CO 2 incubator at ambient O 2 for 15 min.
+c. Collect supernatants by pipetting up/down.
+ll
+OPEN ACCESS
+22 STAR Protocols 4, 102735, December 15, 2023
+Protocol
+
+<<<PAGE 26>>>
+Figure 4. Readouts to assess response to a virus, ALI culture OCT embedding, and OCT cutting
+(A) Schematic workﬂow presenting ﬁve methods to assess response to virus. Flow cytometry and RNA extraction
+require tissue dissociation versus Immunoﬂuorescence, plaque assay (viral titer on apical supernatant) and GeoMx
+WTA do not require tissue dissociation.
+(B) Procedure of embedding ALIs in OCT and cryopreservation. First, turn the insert upside-down, and with a scalpel
+cut the mesh in the middle and partially around the edges, enough to hold the mesh and pull out from the insert. Be
+careful not to damage the cell layer. Place the ALI mesh on top of a layer of OCT and cover it with OCT to fully embed
+the ALI insert. Gently, with a pipette tip make sure the ALI is not curved or too close to the bottom or surface of the
+cryomold. Then, snap freeze in liquid nitrogen. To ensure n o liquid nitrogen (LN) enters the tissue, the cryomold
+should be placed on top of a plastic lid resistant to LN.
+(C) ALI section cutting and transfer to Superfrost plus sli des. Make a mark with a Sharpie pen to indicate the location of
+the ALI culture on the cryomold then on the solidify OCT bl ock. This tip will facilitate the OCT trimming until the mark
+and visualize the ALI (slightly in yellow). The diagram allo ws to picture the conﬁguration of the ALI culture in the OCT
+block. Finally, ALI culture sections could be transferred i nto Superfrost plus slides. These steps will ensure good-
+quality sections for further experiments.
+ll
+OPEN ACCESS
+STAR Protocols 4, 102735, December 15, 2023 23
+Protocol
+
+<<<PAGE 27>>>
+d. Store at /C0 80/C14 C in a BSL3 facility until further use.
+e. Serially dilute (10-fold) each apical supernatant from infected and non-infected ALI (mock)
+cultures in 1 3 PBS containing 1% BSA.
+Note: Adjust the volume for a P12-well plate.
+f. Overlay each dilution per condition on pre-seeded conﬂuent VeroE6 cell (for USA/WA1-
+2020) or Vero-E6 TMPRSS2 (for Beta, Delta, and Omicron) monolayers.
+g. Incubate at 37 /C14 C for 1 h with gentle shaking every 5 min.
+Note: When performing in 12-well pla tes, infect each well with 200 mL of diluted samples.
+h. Overlay a solution containing 2% Oxoid agarose mixed with 2 3 MEM supplemented with
+0.3% FBS.
+i. Incubate for 72 h at 37 /C14 C.
+j . F i xw i t h4 %f o r m a l d e h y d es o l u t i o n( 1 0 0mL apically and 500 mL on the basal side, at least 12 h
+at 20 /C14 C–25/C14 C).
+k. Wash with 1 3 PBS, 3 times 5 min at 20 /C14 C–25/C14 C.
+l. Visualize viral infection by immune staining with SARS-CoV-2 NP antibody (1C7C7, 1/250)
+primary antibody for 1.5 h at 20 /C14 C–25/C14 Cw i t hg e n t l es h a k i n g .
+m. Repeat the wash step above in (k).
+n. Incubate with an HRP-conjugated secondar y anti-mouse antibody (1/5000) for 1 h at 20
+/C14 C–
+25/C14 C with gentle shaking.
+o. Repeat the wash step above in (k).
+p. Reveal plaques using TrueBlue pe roxidase substrate (SeraCare, 250 mL for a P12-well plate
+for around 10 min).
+q. Calculate titers as plaque-forming units per mL (PFU/mL) for every sample:
+plaques
+dilution 3volume =
+PFU
+mL
+9. Flow cytometry: for intracellular viral detection on dissociated tissue
+a. Single cell generation: Wash ALI cultures with 1 3 PBS (150 mL on the apical and 500 mLo nt h e
+basal side).
+b . T r e a tw i t h0 . 0 5 %t r y p s i no nt h ea p i c a l( 1 5 0mL) and basal chamber (500 mL) for 15 min, 37 /C14 C.
+c. Pipette up/down to dissociate the ALI tissue.
+d. Transfer the cell suspension into a 15 mL tube.
+e. Neutralize trypsin with an equal volume of 1 3 PBS containing 2% FBS (650 mL, at 20
+/C14 C–
+25/C14 C).
+f. Centrifuge at 300 g for 5 min (20 /C14 C–25/C14 C).
+g. Resuspend cells in a dispase I/DNase I solution (3 mL).
+Note: Final concentration in 1 3 PBS, 1.9 U/mL dispase I (Sigma) and 0.1 mg/mL DNase I
+(Sigma).
+h. Incubate for 10–15 min at 37 /C14 Ci nad r yb a t h .
+i. Centrifuge at 300 g for 5 min (at 25 /C14 C–28/C14 C).
+j. Viability evaluation: resuspend cells in 1 3 P B Sa n ds t a i nw i t hz o m b i el i v ed e a ds t a i n .
+Note: U s eZ o m b i ea q u ao rZ o m b i eg r e e n( 1 0 0t e s ts ize vial, BioLegend, concentration not
+available) according to manufacturer protocol, at 1/350 dilution (for approximately 3 3
+106 cells) for 15 min at 25 /C14 C–28/C14 C.
+k. Centrifuge at 300 g for 5 min (at 25 /C14 C–28/C14 C).
+l. Resuspend the cells in 4% methanol-free formaldehyde (100 mL/condition).
+ll
+OPEN ACCESS
+24 STAR Protocols 4, 102735, December 15, 2023
+Protocol
+
+<<<PAGE 28>>>
+m. Fix over at least 12 h at 4 /C14 C.
+n. Add 1 mL of 1 3 perm wash buffer (BD Biosciences) per tube containing ﬁxed cells.
+o. Centrifuge at 300 g for 5 min (at 25 /C14 C–28/C14 C).
+p. Resuspend the pellet in 100 mL perm wash buffer with conju gated SARS-CoV-2 N antibody
+(1C7C7).
+Note: 1/100 or 1 mg/mL ﬁnal dilution of Alexa Fluor 488-conjugated or 1/200 or 1 mg/mL ﬁnal
+of Alexa Fluor 647-conjugated SARS-CoV-2 N antibody (1C7C7)
+q. Incubate in the dark at 25 /C14 C–28/C14 C for 45 min.
+r. Add 1 mL perm wash buffer.
+s. Centrifuge at 300 g for 5 min (at 25
+/C14 C–28/C14 C).
+t. Resuspend the pellet in 200 mL 1% BSA solution in 1 3 PBS.
+u. Analyze by ﬂow cytometry (BD, FlowJo) for live SARS-CoV-2 NP positive cells ( Figure 4 A).
+10. Immunoﬂuorescence: for intracellular viral detection on non-dissociated tissue
+a. Fix ALI cultures using 4% PFA (16% PFA methanol free diluted in 1 3 PBS), for 15 min at
+4/C14 C.
+b. Wash with 1 3 PBS, then maintain in 1 3 PBS at 4 /C14 C until further processing (stable approx-
+imately for 36 months).
+c. For each condition cut ALI mesh in half using a sterile scalpel.
+d. Embed in OCT (25
+/C14 C–28/C14 C).
+e. Snap freeze in liquid nitrogen, ( Figure 4 B). Troubleshooting 5 .
+Pause point: Y o uc a ns t o r et h eO C Tb l o c k sa t/C0 80 for several months, until further
+processing.
+f. Cut frozen sections at 8 mm, and air dry on Superfrost plus slides ( Figure 4 C).
+g. Use a hydrophobic pen (pap-pen) to create a hydrophobic barrier around the tissue
+sections.
+Note: This will help to deﬁne the area of interest for staining.
+h. Fix sections with 4% PFA (15 min, at 25 /C14 C–28/C14 C).
+i. Wash tissue sections three times with 1 3 PBS (5 min, at 25 /C14 C–28/C14 C).
+j. Permeabilize with 1 3 PBS/0.1% Triton X-100 (15 min, at 25 /C14 C–28/C14 C).
+k. Repeat the wash step above in (i).
+l. Treat sections with Fc Receptor Block (45 min, at 25
+/C14 C–28/C14 C).
+m. Repeat the wash step above in (i).
+n. Background Buster treatment (30 min, at 25 /C14 C–28/C14 C).
+Note: O n ed r o po fe a c hp r o d u c ti sa p p r o x i m a t e l y6 0mL.
+o. Repeat the wash step above in (i).
+p. Stain ﬁrst with unconjugated antibodies, (1 h at 25 /C14 C–28/C14 C),
+q. Repeat the wash step above in (i).
+r. Apply secondary antibodies (30 min, at 25
+/C14 C–28/C14 C).
+Note: Dilute antibodies in staining buffer 1 3 PBS/5% BSA/0.05% saponin.
+s. Repeat the wash step above in (i).
+t. Add mouse serum to saturate secondary antibodies.
+Note: Dilute normal mouse serum 1/20 in staining buffer 1 3 PBS/5% BSA/0.05% saponin.
+ll
+OPEN ACCESS
+STAR Protocols 4, 102735, December 15, 2023 25
+Protocol
+
+<<<PAGE 29>>>
+u. Incubate for 15 min at 25 /C14 C–28/C14 C.
+v. Repeat the wash step above in (i).
+w. Continue the staining with directly conjugated antibody mix for 1 h at 25
+/C14 C–28/C14 C.
+x. Repeat the wash step above in (i).
+Alternatives: Depending on the staining panel (See below, Panel 3), stain for actin ﬁlaments
+with 10 nmol units/mL ﬁnal concentration (in 1 3 PBS, 15 min, at 25 /C14 C–28/C14 C) of Phalloidin
+ATTO647N (Sigma 65906).
+y. Counterstain sections with 1 mg/mL ﬁnal concentration (in 1 3PBS, 5 min, at 25 /C14 C–28/C14 C) of
+40,6-diamidino-2-phenylindole (DAPI).
+z. Repeat the wash step above in (i).
+aa. Mount ALI slides with Fluoromount-G (Thermo Fisher Scientiﬁc) and cover glass.
+Note: Image acquisition using a confocal microscope (for high-resolution images) or a wide-
+ﬁeld microscope (for histocytometry). Perform image analysis by using Imaris software (Bit-
+plane).
+In the context of our study, three panels of antibodies are detailed here as examples (See
+key resources table ).
+Note: it is important that the ALI culture is correctly embedded in OCT ( Figures 4 B and 4C
+and Methods video S2 ). These steps will ensure the quality of sections for immunoﬂuores-
+cence and GeoMx WAT.
+11. Bulk RNA sequencing:
+a. First, dissociate ALI as described in steps (9.a.) to (9j.).
+Note: From 1 insert, you can recover approximately 1–2 x 10
+6 cells.
+b. Wash dissociated ALI cell susp ension by centrifugation (300 g, 5 min, at 25 /C14 C–28/C14 C).
+c. Isolate total RNA using Direct-zol RNA MicroPrep kits.
+Note: Around 200 mL of Direct-zol buffer, following Zymo Research manufacturer’s
+protocols.
+d. Perform a DNase treatment using the RNase-free DNase set ( QIAGEN).
+e. Prepare cDNA libraries using polyA mRNA selection and Kapa Stranded mRNA-seq Library
+Prep kit (Kapa Biosystems).
+Panel 1 Panel 2 Panel 3
+Cell composition: See Figure 5A CSF3 and CCL20 expression on infected
+ALI: See Figure 5B
+Infected and non-infected ALI: See Figure 5C
+Unconjugated Abs: Anti-SCGB1A1
+Anti-Acetyl alpha-tubulin
+Unconjugated Abs: Anti-CCL20 Unconjugated Abs: NA
+Secondary Abs: Anti-rat IgG AF488
+Anti-mouse IgG2b AF555
+Secondary Abs: Anti-rabbit IgG AF555 Secondary Abs: NA
+Serum saturation: Yes Serum saturation: Yes Serum saturation: NA
+Conjugated Abs:
+Anti-cytokeratin 5 AF594
+Anti-MUC5AC AF700
+Conjugated Abs:
+Anti-CSF3 AF594
+Anti-NP SARS-CoV-2 AF488 (1C7C7)
+Conjugated Abs:
+Anti-NP SARS-CoV-2 AF488 (1C7C7)
+Phalloidin ATTO647N: NA Phalloidin ATTO647N: NA Phalloidin ATTO647N: Yes
+ll
+OPEN ACCESS
+26 STAR Protocols 4, 102735, December 15, 2023
+Protocol
+
+<<<PAGE 30>>>
+f. Perform paired-end sequencing (i.e., 2 3 150 bp) of stranded total RNA libraries using Il-
+lumina NovaSeq or similar.
+g. Use FastQC for quality control. 16
+Figure 5. Examples of expected outcomes of immunoﬂuorescent images and ﬂow cytometry gating strategy
+(A) Representative immunoﬂuorescent (IF) section (8 mm) of differentiated lung organoid-derived ALI cultures. The left
+panel, merged ﬁgures, shows markers for ciliated cells (acetylated a-tubulin, red) and goblet cells (MUC5AC, cyan).
+Right panel, merged ﬁgures, showing clu b cells (SCGB1A1, green), and basal cells (CK5, white). Nuclei (DAPI, blue).
+Scale bar 50 mm, in white on the left corner.
+(B) Representative images of ALI cultures mock-infected at 6 days and ALI infected with SARS-CoV-2 USA/WA1-2020
+(10 5 PFU) at 1, 3, and 6 days post-infection (DPI) stained for nuc lei (DAPI, blue), viral NP (white) to reveal the effective
+viral replication, CSF3 (green) and CCL20 (red). Scale bars 10 mm, in white on the left corner.
+(C) Representative images of donor 3 of mock-infected (control media without virus at 6 days) and infected ALI
+cultures with SARS-CoV-2 (10
+5 PFU) at 6 days post-infection (DPI) stained for nuclei (DAPI), viral nucleoprotein (NP,
+green) to reveal the effective viral replication and phalloidin ( Actin ﬁlament, red) to reveal tissue structure. Scale bar
+40 mm, in white on the left corner.
+(D) Gating strategy example for ﬂow cytometry analysis. A single cell suspension was prepared from SARS-CoV-2
+infected ALI cultures. Cell suspensions were stained for viabi lity and viral infection using an anti-NP antibody speciﬁc
+to SARS-CoV-2. Plots from left to right show serial gating to id entify percentages of infected (NP-positive) viable cells.
+Note: Figure 5 reprinted with permission from Diana Cadena Castaneda et al. 2023 1 (Cell Press, Open Access).
+ll
+OPEN ACCESS
+STAR Protocols 4, 102735, December 15, 2023 27
+Protocol
+
+<<<PAGE 31>>>
+Figure 6. Examples of expected outcomes of transcriptional response to SARS-CoV-2 variants and ROI selection for
+GeoMx data
+(A) Heatmap representing differentially expressed genes ov er time in response to SARS-CoV-2 variants. ALI cultures
+from four donors were infected with SARS-CoV-2 and harvested for sequencing at 1, 2, 3, 4, 5, and 6 dpi, and mock-
+infected (control media without virus) samples were coll ected from days 1 through 6 days as well. The sequencing was
+performed in multiple batches with at least 2 independent experiments at each time-point, the cut-off used for
+deﬁning differentially expressed genes: |logFC| > 1; adjustedp /C0 value < 0.01; normalized counts > 10. Rows represent
+individual transcripts and columns represent individual biol ogical replicates ordered by time-points and SARS-CoV-2
+variants. Batch effect was removed using SVAseq R package. A ll variants induced expression of genes associated with
+the viral response at later time-points. This response to th e virus from 1 to 6 DPI is depicted by the schematic covering
+the heatmap, with two ‘‘clusters’’: one on the lower part ‘‘down-regulation’’ from 1 to 6 DPI, enriched for cilia and
+epithelium maintenance signatures whereas the upper par t showed ‘‘up-regulation’’ of signatures enriched for
+inﬂammatory, immune and IFN response.
+(B) ROI selection for GeoMx data: Representative image of infected ALI culture section with SARS-CoV-2 (10
+5 PFU), at
+6DPI stained for nuclei (DAPI), viral nucle oprotein (red), spike viral protein (ye llow) and cytokeratin 5 (CK5). The thick
+purple polygons represent selected ROIs for the apical cytokeratin 5 - cells (CK5 -) vs. basal side CK5 +.S c a l eb a r5 0 0mm
+(white). (C) GeoMx data (one representative experiment): Bar graphs with error bars (mean G SD) were generated
+ll
+OPEN ACCESS
+28 STAR Protocols 4, 102735, December 15, 2023
+Protocol
+
+<<<PAGE 32>>>
+h. Remove rRNA contamination with MultiQC. 13
+i. Trim reads with BBDuk tool. 17
+j. Map viral reads to the FDA-ARGOS SARS-CoV-2 reference sequences.
+Note: Use FDAARGOS_983, with bowtie, 12,18 and map human reads to GRCh38 genome us-
+ing bowtie2 ( https://www.nature.com /articles/nmeth.1923 .
+k. Quantify gene expression using RSEM. 11
+l. Apply batch correction using R package SVAseq. 19
+m. Finally, use DESeq2 14 for read normalization and differential gene expression.
+Note: Adding time-matched non-infected conditions to the experimental design is impor-
+tant. This will ensure the quality and accuracy of RNA-seq data analysis. As an example of re-
+sulting data see Figure 6 A, a Heatmap representing differentially expressed genes (DEGs)
+over time in response to SARS-CoV-2 variants. We conducted infection experiments on
+ALI from four donors with SARS-CoV-2 virus. Harvest samples for sequencing at 1, 2, 3, 4,
+5, and 6 day-post infection (DPI) and similarly for mock-infected (control media without virus)
+samples.
+12. GeoMx whole Transcriptome Atlas: this assay is a probe-based method of reporting in situ
+RNA data analysis that can detect the expression of 18,676 genes. It includes a ﬁrst step
+with immunoﬂuorescence (3 targets + nuclei: basal cells (cytokeratin 5), virus NP, and Spike
+SARS-CoV-2 proteins) to deﬁne the regions of interest (ROI).
+a. Cut 6 mm thick sections from ALI culture-OCT blocks and air dry on Superfrost plus slides.
+Pause point: Store the slides in a secured /C0 80/C14 C freezer until use, it can las for 1–2 weeks.
+b. Prepare PFA (4% in 1 3 PBS) ﬁxed-frozen tissue slides.
+Note: Refer to the GeoMx NGS automated Leica Bond RNA Slide Preparation Manual
+(NanoString, MAN-10131-03). For more details, please refer to the NanoString website.
+c. Load slides into the slide holder of the GeoMx digital spatial proﬁling (DSP) instrument.
+d . C o v e rw i t h2m Lo fm a n u f a c t u r e rb u f f e rS .
+e. Stain each slide with the selected antibodies.
+Note: Respectively for the morphology markers nuclei Syto83 (Cy3/568 nm), Cytokeratin 5
+(CK5, FITC/525 nm), SARS-CoV-2 Spike (Texas Red/615 nm), and SARS-CoV-2 Nucleocapsid
+(Cy5/666 nm).
+f. Select regions of interest (ROIs) based on the antibody staining.
+Note: See Figure 6B, a representative image of ALI infected at 6 day-post-infection (DPI) with
+ROIs selection. The thick purple polygons repr esent the ROI strategy selection for the apical
+cytokeratin 5- cells (CK5-) vs basal side CK5+.
+Figure 6. Continued
+using Graphpad (Prism 5) and illustrate the gene expression (log 2 normalized counts) over time within selected ROIs
+(at least 3 ROIs per condition) based on cytokeratin 5 protein expression (CK5 +) through KRT5 gene expression and
+based on cytokeratin 5 negative expression (CK5 -) of infe cted cells positive for SARS-CoV-2 Spike and NP, through
+MX1 as part of the anti-viral response which is mainly increased at later time-points. Note: Figure 6 reprinted with
+permission from Diana Cadena Castaneda et al. 2023 1 (Cell Press, Open Access).
+ll
+OPEN ACCESS
+STAR Protocols 4, 102735, December 15, 2023 29
+Protocol
+
+<<<PAGE 33>>>
+g. Expose selected ROIs to UV photocleavable barcode RNA probes.
+h. Process DSP and PCR according to the manufacturer’s protocol.
+i. Sequence puriﬁed libraries using an Illumina NovaSeq 6000 or similar machine.
+j. GeoMX data processing and QCs according to NanoString protocols.
+k. Perform data analysis in R (v4.2.0).
+l. Produce graphics using ggplot2 unless otherwise stated (v3.3.6).
+m. Differentially expressed genes (DEG):
+i. Use a Wilcoxon rank-sum test to identify DE Gs between different regions of interest.
+ii. Adjust p values using Benjamini-Ho chberg multiple test correction.
+iii. Use p value cut-off of 0.05 and a logFC of 2.
+iv. Identify gene variability across the whole dataset by a Kruskal-Wallis test (p < 0.05) to
+show the clustering of different ROI groups by heatmap.
+n. Gene expression heatmaps:
+i. Produce heatmaps using the ComplexHeatmap package (v2.12.1).
+Note: Heatmaps use by-row scaling.
+ii. Group ROIs ﬁrst by infection type, order by Day, and then
+iii. Cluster using the default hierarchical clustering algorithm.
+CRITICAL: GeoMx was initially optimized for FFPE tissue but has been validated on PFA-
+ﬁxed frozen tissues.
+EXPECTED OUTCOMES
+The generation of primary human lung organoids has become an invaluable an d widely utilized tech-
+nique in biomedical research. Their use as progenitors for air-liquid interface (ALI) cultures has been
+particularly critical in advancing our understanding of the host response to respiratory viruses such
+as SARS-CoV-2. By using this protocol, researche rs should be able to generate a large stock of or-
+ganoid-derived lung epithelial progenitor cells for ALI culture production. Here we also describe
+some readouts that could assess ALI developm ent and to measure the response to the virus.
+Notably, a simple control under a bright-ﬁeld microscope allows for monitoring the proper develop-
+ment of ALI cultures by following mucus formation and cilia beating as illustrated in Methods video
+S1. Furthermore, Figures 5 A–5C illustrate the results of immunoﬂuorescence readout to monitor
+respectively ALI differentiation by following cell c omposition; viral infection with CSF3 localization
+on the basal side and CCL20 on the apical side, and a simple staining with anti-NP and phalloidin
+report levels of ALI culture infection. Flow cyto metry, another protein-based method allows to mea-
+sure viral infectivity as illustrated in Figure 5 D. Finally, Figure 6 A illustrates the transcriptional
+response to the virus across time-p oints and variants. Furthermore, Figures 6 B and 6C illustrate
+the quality of the sections, and the precision of ROI selection resulting at RNA level (probe-based)
+with a ‘‘transcriptional’’ separation between cells expressing cytokeratin 5 (CK5+) and those infected
+not expressing CK5 (CK5-) based on MX1 expression as downstream of infection.
+LIMITATIONS
+This protocol involves the use of viable frozen lung tissue from whole lung donors to generate pri-
+mary human lung organoids, which then serve to gen erate air-liquid-interface (ALI) cultures for
+studying the response to viruses. However, due to donor-to-donor variations in lung tissue, we
+may observe differences during organoid expansion and variations in ALI culture composition and
+response to the virus. Primary cell cultures can also be susceptible to microbial and fungal outgrowth
+during the organoid and ALI generation process. To prevent cross-contamination between wells or
+plates and to maintain culture integrity, we take the following measures: Prepare one tube of media
+per plate, and to minimize the risk of cross-contam ination, change tips be tween each well to avoid
+ll
+OPEN ACCESS
+30 STAR Protocols 4, 102735, December 15, 2023
+Protocol
+
+<<<PAGE 34>>>
+transferring potential contaminants. If plates be come contaminated, add immediately bleach and
+discarded them to prevent further contamination spread. By implementing these precautions, re-
+searchers can reduce the risk of contamination an d preserve the quality and consistency of primary
+human lung organoid cultures, leading to more re liable and reproducible experimental results.
+TROUBLESHOOTING
+Problem 1
+Incomplete or partial tissue digestion, related to the section ‘‘ human lung tissue viable freeze-thaw-
+ing & lung airway organoid generation ’’ step (2 d) involving collagenase digestion.
+Potential solution
+/C15 Transfer the tissue to a Petri dish.
+/C15 Mechanically shred the tissue with steri le slides to break the connective tissue.
+/C15 Centrifuge at 300 g for 5 min (25 /C14 C–27/C14 C).
+/C15 Repeat step (j) with new 10 mL of complete media for primary lung airway organoids (AO) contain-
+ing 1–2 mg mL collagenase I on an orbital shaker at 37 /C14 C for an additional hour.
+Problem 2
+Incomplete red blood cell lysis, related to ‘‘Hum an lung tissue viable freeze thawing & lung airway
+organoid generation’’ step (2 f).
+Potential solution
+/C15 Use cell culture grade water to dilute the red blood cell lysis buffer. Do not use PBS.
+/C15 Incubate samples on ice for 3–4 min.
+/C15 Stop the reaction by the addition of 3 mL of 1 3 PBS.
+Problem 3
+Loss of cells during organoid passaging due to their high adherence to the plastic, related to the
+‘‘human lung tissue viable freeze-thawin g & lung airway organoid generation ’’ step (3).
+Potential solution
+/C15 To avoid organoid adherence, pre-coat, tips, pipettes, and tubes with 1 3 P B Sw i t h1 %B S Af o r
+every step involving organoids.
+Problem 4
+Loss of cells during the viral infection, due to excess of apical buffer and/or mucus. Related to ‘‘ pri-
+mary human lung organoid-derived air-liquid interface (ALI) generation, differentiation & viral expo-
+sure’’ step (7).
+Potential solution
+/C15 Prevent mucus buildup on the apical side by washing every 48–72 h before infection.
+/C15 For every infection, use between 25–100 mL virus infection medium. More than 100 mL will likely
+drown the cells if left for more than 24–48 h.
+/C15 If using more than 100 mL, remove the infection medium after 3 h of exposure.
+Problem 5
+Difﬁculty locating the ALI tissue within the OCT blo ck. Related to ‘‘Immunoﬂuorescence: for intracel-
+lular viral detection on non-dissociated tissue’’ step (10 b).
+ll
+OPEN ACCESS
+STAR Protocols 4, 102735, December 15, 2023 31
+Protocol
+
+<<<PAGE 35>>>
+Potential solution
+/C15 During the embedding of ALI in the OCT, mark the tissue’s start on the plastic mold surface using a
+sharpie prior to the snap-freeze process (See Figure 4 B).
+/C15 Prepare the OCT block for sectioning, use the pre- marked guide to draw a sharpie line directly on
+the OCT block, Trim (10–30 mm) until nearing the mark and then precisely section (8 mm) until tissue
+becomes visible (See Figure 4 C).
+RESOURCE AVAILABILITY
+Lead contact
+Further information and requests for resources and reagents should be directed to and will be ful-
+ﬁlled by the lead contact, Karolina Palucka ( Karolina.palucka@jax.org ).
+Materials availability
+This study did not generate new unique reagents.
+Data and code availability
+/C15 All sequencing data generated mentioned here has been deposited to GEO and is publicly avail-
+able: GSE225603 .
+/C15 This paper does not report original code.
+/C15 Any additional information required to reanalyze the data reported in this working paper is avail-
+able from the lead contact upon request.
+SUPPLEMENTAL INFORMATION
+Supplemental information can be found online at https://doi.org/10.1016/j.xpro.2023.102735 .
+ACKNOWLEDGMENTS
+We thank our tissue donors and the Microscopy, Single Cell Biology, Genome Technology, and
+CTRS Scientiﬁc Services of The Jackson Laboratory. We thank Randy Albrecht for support with the
+BSL3 facility and procedures at the Icahn School of Medicine at Mount Sin ai (ISMMS). This work is
+partially supported by NIAID grants U19AI142733 (K.P.) and U19AI135972 (A.G.-S.); R01AI141609
+(A.W.); R01AI160706 (MS); NIDDK grant R01DK130425 (M.S.); NCI grants P30 CA034196 (K.P.)
+and U54CA260560 (A.G.-S.); CRIPT (Center for Research on Inﬂuenza Pathogenesis and Transmis-
+sion); and NIAID funded Center of Excellence for Inﬂuenza Research and Response (CEIRR, contract
+number 75N93021C00014) to A.G.-S.
+AUTHOR CONTRIBUTIONS
+Conceptualization, D.C.C., A.W., and K.P.; methodology, A.W., F.M., D.C.C., and K.P.; validation,
+D.C.C. and S.J.; formal analysis and data curation, M.Y.; investigation, D.C.C., S.J., M.S., J.M., M.
+C a l l e n d e r ,M .C o x e ,A . C . ,J . G . - B . D . ,T . - C . W . ,a n dF . M . ;r e s o u r c e s ,A . G . - S .a n dM . S . ;w r i t i n g–o r i g -
+inal draft, D.C.C.; writing – review and editing, D.C. C., S.J., A.W., M.Y., M.S., A.G.-S., and K.P.; fund-
+ing acquisition, A.W., A.G.-S., M.S., and K.P.; s upervision, D.C., A.G.-S., M.S., A.W., and K.P.
+DECLARATION OF INTERESTS
+The A.G.-S. laboratory has received research support from GSK, Pﬁzer, Senhwa Biosciences, Kenall
+Manufacturing, Blade Therapeutics, Avimex , Johnson & Johnson, Dynavax, 7 Hills Pharma,
+PharmaMar, ImmunityBio, Accurius, nanoComposix, Hexamer Therapeutics, N-fold LLC, Model
+Medicines, Atea Pharmaceuticals, Applied Biological Laboratories, and Merck, outside of the re-
+ported work. A.G.-S. has consulting agreements for the following companies involving cash and/
+or stock: CastleVax, Amovir, Vivaldi Biosciences, ContraFect, 7 Hills Pharma, Avimex, Pagoda, Ac-
+curius, Esperovax, Farmak, Applied Biological Laboratories, PharmaMar, CureLab Oncology,
+ll
+OPEN ACCESS
+32 STAR Protocols 4, 102735, December 15, 2023
+Protocol
+
+<<<PAGE 36>>>
+CureLab Veterinary, Synairgen, Paratus, and Pﬁz er, outside of the reported work. A.G.-S. has been
+an invited speaker in meeting events organized by Seqirus, Janssen, Abbott, and AstraZeneca.
+A.G.-S. is an inventor on patents and patent applications on the use of antivirals and vaccines for
+the treatment and prevention of virus infections and cancer, owned by the Icahn School of Medicine
+at Mount Sinai, New York, outside of the reported work. The M.S. laboratory has received unrelated
+funding support in sponsored research agreement s from Phio Pharmaceuticals, 7 Hills Pharma, ar-
+genx, and Moderna. K.P. is a stockholder in Cue Biopharma and Guardian Bio, scientiﬁc advisor
+to Cue Biopharma and Guardian Bio, and co-founder of Guardian Bio. K.P. declares unrelated fund-
+ing support from Guardian Bio (current) and Merck (past).
+REFERENCES
+1. Castaneda, D.C., Jangra, S., Yurieva, M.,
+Martinek, J., Callender, M., Coxe, M., Choi, A.,
+Garcı´a-Bernalt Diego, J., Lin, J., Wu, T.-C., et al.
+(2023). Spatiotemporally organized
+immunomodulatory response to SARS-CoV-2
+virus in primary human broncho-alveolar
+epithelia. iScience 26, 107374.
+2. Fulcher, M.L., Gabriel, S., Burns, K.A.,
+Yankaskas, J.R., and Randell, S.H. (2005). Well-
+differentiated human airway epithelial cell
+cultures. Methods Mol. Med. 107, 183–206.
+3. Rayner, R.E., Makena, P., Prasad, G.L., and
+Cormet-Boyaka, E. (2019). Optimization of
+Normal Human Bronchial Epithelial (NHBE)
+Cell 3D Cultures for in vitro Lung Model
+Studies. Sci. Rep. 9, 500.
+4. Ghosh, B., Park, B., Bhowmik, D., Nishida, K.,
+Lauver, M., Putcha, N., Gao, P., Ramanathan,
+M., Hansel, N., Biswal, S., and Sidhaye, V.K.
+(2020). Strong correlation between air-liquid
+interface cultures and in vivo transcriptomics of
+nasal brush biopsy. Am. J. Physiol. Lung Cell
+Mol. Physiol. 318, L1056–L1062.
+5. Nishida, K., Brune, K.A., Putcha, N., Mandke,
+P., O’Neal, W.K., Shade, D., Srivastava, V.,
+Wang, M., Lam, H., An, S.S., et al. (2017).
+Cigarette smoke disrupts monolayer integrity
+by altering epithelial cell-cell adhesion and
+cortical tension. Am. J. Physiol. Lung Cell Mol.
+Physiol. 313, L581–L591.
+6. Ghosh, B., Reyes-Caballero, H., Akgu¨ n-O¨ lmez,
+S.G., Nishida, K., Chandrala, L., Smirnova, L.,
+Biswal, S., and Sidhaye, V.K. (2020). Effect of
+sub-chronic exposure to cigarette smoke,
+electronic cigarette and waterpipe on human
+lung epithelial barrier function. BMC Pulm.
+Med. 20, 216.
+7. Kliment, C.R., Nguyen, J.M.K., Kaltreider, M.J.,
+Lu, Y., Claypool, S.M., Radder, J.E., Sciurba,
+F.C., Zhang, Y., Gregory, A.D., Iglesias, P.A.,
+et al. (2021). Adenine nucleotide translocase
+regulates airway epithelial metabolism, surface
+hydration and ciliary function. J. Cell Sci. 134,
+jcs257162.
+8. Yeung-Luk, B.H., Narayanan, G.A., Ghosh, B.,
+Wally, A., Lee, E., Mokaya, M., Wankhade, E.,
+Zhang, R., Lee, B., Park, B., et al. (2023). SARS-
+CoV-2 infection alters mitochondrial and
+cytoskeletal function in human respiratory
+epithelial cells mediated by expression of spike
+protein. mBio 14, e0082023.
+9. Sachs, N., Papaspyropoulos, A., Zomer-van
+Ommen, D.D., Heo, I., Bo¨ ttinger, L., Klay, D.,
+Weeber, F., Huelsz -Prince, G., Iakobachvili, N.,
+Amatngalim, G.D., et al. (2019). Long-term
+expanding human airway organoids for
+disease modeling. EMBO J. 38, 1–20.
+10. Matsuyama, S., Nao, N., Shirato, K., Kawase,
+M., Saito, S., Takayama, I., Nagata, N.,
+Sekizuka, T., Katoh, H., Kato, F., et al. (2020).
+Enhanced isolation of SARS-CoV-2 by
+TMPRSS2-expressing cells. Proc. Natl. Acad.
+Sci. USA
+117, 7001–7003.
+11. Li, B., and Dewey, C.N. (2011). RSEM: Accurate
+transcript quantiﬁcation from RNA-Seq data
+with or without a reference genome. BMC
+Bioinf. 12, 323–338.
+12. Langmead, B., Trapnell, C., Pop, M., and
+Salzberg, S.L. (2009). Ultrafast and memory-
+efﬁcient alignment of short DNA sequences to
+the human genome. Genome Biol. 10, R25.
+13. Ewels, P., Magnusson, M., Lundin, S., and
+Ka¨ ller, M. (2016). MultiQC: summarize analysis
+results for multiple tools and samples in a
+single report. Bioinformatics 32, 3047–3048.
+14. Love, M.I., Huber, W., and Anders, S. (2014).
+Moderated estimation of fold change and
+dispersion for RNA-seq data with DESeq2.
+Genome Biol. 15, 550–570.
+15. Rathnasinghe, R., Jangra, S., Ye, C., Cupic, A.,
+Singh, G., Martı´nez-Romero, C., Mulder, L.C.F.,
+Kehrer, T., Yildiz, S., Choi, A., et al. (2022).
+Characterization of SARS-CoV-2 Spike
+mutations important for infection of mice and
+escape from human immune sera. Nat.
+Commun. 13, 3921–3934.
+16. Andrews, S. (2010). FastQC A Quality Control
+Tool for High Throughput Sequence Data.
+https://www.bioinformatics.babraham.ac.uk/
+projects/fastqc/.
+17. BBMap Download | SourceForge.Net. https://
+sourceforge.net/projects/bbmap/.
+18. Bowtie: An Ultrafast, Memory-Efﬁcient Short
+Read Aligner. http://bowtie-bio.sourceforge.
+net/index.shtml.
+19. Zhang, Y., Parmigiani, G., and Johnson, W.E.
+(2020). ComBat-seq: batch effect adjustment
+for RNA-seq count data. NAR Genom.
+Bioinform. 2, lqaa078.
+ll
+OPEN ACCESS
+STAR Protocols 4, 102735, December 15, 2023 33
+Protocol

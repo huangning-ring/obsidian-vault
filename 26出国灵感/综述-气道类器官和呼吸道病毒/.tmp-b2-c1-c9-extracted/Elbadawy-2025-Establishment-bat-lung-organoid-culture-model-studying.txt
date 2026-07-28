@@ -1,0 +1,508 @@
+
+
+<<<PAGE 1>>>
+Establishment of a bat lung 
+organoid culture model for 
+studying bat-derived infectious 
+diseases
+Mohamed Elbadawy1,2, Nagisa Saito3, Yuki Kato3, Kimika Hayashi1, Amira Abugomaa1,4, 
+Mio Kobayashi5, Toshinori Yoshida5, Makoto Shibutani5, Masahiro Kaneda6, 
+Hideyuki Yamawaki7, Kazuaki Sasaki1,8, Tatsuya Usui1,8 & Tsutomu Omatsu3
+Bat is considered a natural reservoir of various important pathogens, including severe acute 
+respiratory syndrome coronavirus (SARS-CoV), SARS-CoV-2, Ebola virus, and Nipah virus. To study 
+these viruses’ pathogenicity and proliferation efficacy and viral tolerance mechanisms in bats, bat-
+derived cell lines, and primary cultured cells are used. However, these do not adequately reflect 
+the exact biology of bats, and establishing new bat-related research models is necessary. Organoid 
+culture can recapitulate organ structure, functions, and diseases. The respiratory tract is one of the 
+primary routes of viral infection, and the establishment of bat lung organoids (BLO) is necessary to 
+study the viral susceptibility in bats. Therefore, we aimed to establish a culture method of BLO from 
+Rousettus leschenaultia that died of natural causes. The generated BLO successfully recapitulated the 
+characteristics of pulmonary epithelial structure and morphology. BLO expressed the entry receptors 
+for coronavirus, Angiotensin-converting enzyme 2 (ACE2), and Transmembrane Protease Serine 2 
+(TMPRSS2), and alveolar type 2 cells were successfully sorted from BLO, which has an important role 
+for the development of viral infection in the respiratory system. Furthermore, we showed that BLO had 
+no susceptibility to Pteropine orthoreovirus (PRV) compared to bat intestinal organoids. Collectively, 
+our established bat organoid culture models including this BLO might become promising in vitro 
+biomaterials to study the biology of bat-derived infectious diseases.
+Keywords Bat, Rousettus leschenaultii, Lung organoid, ACE2, TMPRSS2, Alveolar type 2 cells
+Bat is known as the most important natural reservoir for various emerging viruses including Hendra virus, 
+Ebola virus, Nipah virus, and Marburg virus, which induce severe illness in humans and animals 1. Especially 
+coronavirus, severe acute respiratory syndrome (SARS) coronavirus, which is the causative agent of SARS 
+occurred in southern China 2, Middle-East respiratory syndrome (MERS) coronavirus, which causes MERS 
+reported in the first patient in Saudi Arabia, and SARS-CoV-2, which causes coronavirus disease 2019 
+(COVID-19). Like coronaviruses, Pteropine orthoreovirus (PRV) and influenza A virus (IAV) are known to 
+cause respiratory illness in humans and have been reported isolated from various species of bats, including 
+Roussette’s bat3–7. However, there is no report that these pathogens induce mass mortality or shortening of the 
+life span of bats, and no clear clinical symptoms have been confirmed in the experimental infections8.
+1Laboratory of Veterinary Pharmacology, Department of Veterinary Medicine, Faculty of Agriculture, Tokyo 
+University of Agriculture and Technology, 3-5-8 Saiwai-cho, Fuchu 183-8509, Tokyo, Japan. 2Department of 
+Pharmacology, Faculty of Veterinary Medicine, Benha University, Moshtohor, Toukh 13736, Elqaliobiya, Egypt. 
+3Research and Education Center for Prevention of Global Infectious Diseases of Animals, Tokyo University of 
+Agriculture and Technology, 3-5-8 Saiwai-cho, Fuchu 183-8509, Tokyo, Japan. 4Faculty of Veterinary Medicine, 
+Mansoura University, Mansoura 35516, Egypt. 5Laboratory of Veterinary Pathology, Department of Veterinary 
+Medicine, Faculty of Agriculture, Tokyo University of Agriculture and Technology, 3-5-8 Saiwai-cho, Fuchu 183-
+8509, Tokyo, Japan. 6Laboratory of Veterinary Anatomy, Department of Veterinary Medicine, Faculty of Agriculture, 
+Tokyo University of Agriculture and Technology, 3-5-8 Saiwai-cho, Fuchu 183-8509, Tokyo, Japan. 7Laboratory 
+of Veterinary Pharmacology, School of Veterinary Medicine, Kitasato University, 35-1, Higashi 23 ban-cho, 
+Towada 034-8628, Aomori, Japan. 8Kazuaki Sasaki and Tatsuya Usui contributed equally to this work. email:  
+fu7085@go.tuat.ac.jp; tomatsu@cc.tuat.ac.jp
+OPEN
+Scientific Reports |         (2025) 15:4035 1| https://doi.org/10.1038/s41598-025-88621-0
+www.nature.com/scientificreports
+
+
+<<<PAGE 2>>>
+The immune system of bats has been studied, and various related factors and species specificities are being 
+revealed9. Type I interferon (IFN) expression was rapidly induced under viral infection 10. The bat-specific 
+variation and mutation on innate immunity-related genes including IFN and major histocompatibility complex 
+(MHC) class I, and novel antiviral mechanism via IFN-ω were detected 11. Additionally, IFN-stimulated factors, 
+such as Mx protein which is upregulated in response to viral infection are essential to control virus replication in 
+bat cells12. For the elucidation of virus tolerance mechanism in bats, not only in vivo assay but also bat primary 
+cultured cells and immortalized cell lines are established as experimental tools 13. However, these new findings 
+did not explain the reason that bats are susceptible to virus replication although they have little symptom under 
+these virus infections which show fatal symptoms in humans and other animals. Therefore, the development of 
+new in vitro models that can represent native bat cells to study bat-related viruses will be promising.
+Organoids are recently developed 3D complex in vitro structures generated mainly from stem cells in the 
+tissues and typically recapitulate the original architecture and most characteristics of their primary tissues, such 
+as self-renewal, organization, differentiation, and functions14–17. The last decade has witnessed a revolution in 
+the establishment of organoids from several organs 18–21, which have opened new avenues for studying organ 
+development, drug testing22,23, drug resistance24–30, precision and translational medicine9, tissue transplantation, 
+and importantly disease modeling31–33.
+Since coronavirus including SARS-CoV and SARS-CoV-2 are detected in fecal samples and rectal swab 
+samples from bats, such as Horseshoe bats, the first bat intestinal organoids were established as an in vitro model 
+for evaluation of susceptibility to pathogens causing respiratory disease, including SARS-CoV-2 and PRV 34. 
+However, few reports have established bat lung organoids and evaluated their susceptibility to these viruses35,36. 
+We, therefore, aimed to establish and characterize a bat lung organoid (BLO) culture model from Rousettus 
+leschenaultia that could recapitulate the characteristics of bat lung tissues.
+Materials and methods
+Chemicals and reagents
+To generate BLO, the minced tissues were digested with advanced Dulbecco’s Modified Eagle’s Medium (DMEM) 
+(Thermo Fisher Scientific Inc., Waltham, MA, USA) including Liberase TH (Roche Diagnostics Gmbh, 
+Mannheim, Germany) at a concentration of 0.125 mg/mL media according to the manufacturerʼs instructions. 
+The cells were seeded in Matrigel (BD Bioscience, San Jose, CA, USA) and cultured with a stem cell-boosting 
+medium. Antibody sources were as follows: E-cadherin (R&D System, Minneapolis, MN, USA); Mucin 5AC 
+(MUC5AC); Transmembrane Protease Serine 2 (TMPRSS2); Secretoglobin Family 1 A Member 1 (SCGB1A1) 
+(Bioss, Woburn, MA, USA); CK5; Angiotensin-converting enzyme II (ACE2); Surfactant-associated protein C 
+(SFTPC) (Affinity Biosciences LTD, OH, USA). Fluorescent secondary antibodies were as follows: Alexa Fluor 
+488 goat anti-rabbit IgG; Alexa Fluor 48 goat anti-mouse IgG (Thermo Fisher Scientific Inc.).
+Preparation of bat tissues
+Between October 2019 to March 2020, lung tissues of six adult Leschenault’s rousette ( Rousettus leschenaultii) 
+that died of natural causes were isolated during the pathological dissection and provided kindly from Ueno 
+Zoo (Tokyo, Japan). Age of these bats was difficult to estimate. The isolated tissues were placed in a precooled 
+preservation buffer (see details in Table 1) and transported in a cool condition to the laboratory.
+Establishment of BLO culture method
+The generation of BLO was carried out as described before37. After collecting lung tissues from 6 bats, they were 
+washed three times with cold phosphate buffer saline (PBS), chopped properly into fine pieces, and transferred 
+into tubes containing advanced DMEM media with 0.125 mg/mL Liberase TH for digestion and isolation of 
+lung epithelial cells. The tubes were then incubated at 37 °C in a shaking incubator for 30 min and pipetted every 
+15 min. The resultant cell suspension was then passed into a 70 μm nylon net cell strainer and spun down at 
+600 g for 5 min at 4 °C. The cell pellets were then washed three times with PBS and suspended in Matrigel on 
+ice and dispersed in a 24-well plate (40 µL/well). After the Matrigel was polymerized to form a droplet in the 
+CO2 incubator at 37 °C for 30 min, 500 µl of stem cell-stimulating medium (see details in Table 2) was added to 
+each well. The media were changed 2–3 times weekly. Organoids were passaged every 7–14 days by using 5 mM 
+EDTA/PBS solution at 1:2–4 split as described before16. Photomicrographs of the organoids were acquired using 
+an Olympus CKX-31 inverted microscope (Olympus, Tokyo, Japan).
+Name Distributor Catalog number Stock concentration Amount to add Final concentration
+AdDMEM/F12 (1x) Gibco 12634-010 N/A 500 ml N/A
+HEPES Dojindo 342-01375 1 M 1 ml 2 mM
+GlutaMAX-1 (100x) Gibco 35050-061 N/A 5 ml N/A
+Penicillin-Streptomycin Solution (100x) WA KO 168-23191 N/A 5 ml N/A
+Primocin Nacalai tesque 14,860 50 mg/ml 1 ml 100 µg/ml
+Table 1. Preservation buffer for shipping Bat samples. NA not applicable, HEPES N-2-hydroxyethylpiperazine-
+N’-2-ethanesulfonic acid, AdDMEM Advanced Dulbecco’s Modified Eagle Medium.
+ 
+Scientific Reports |         (2025) 15:4035 2| https://doi.org/10.1038/s41598-025-88621-0
+www.nature.com/scientificreports/
+
+<<<PAGE 3>>>
+Media component analysis
+To search for the suitable culture condition of BLO, we further investigated the effects of several supplements on 
+the growth, proliferation rate, morphology, and maintenance of the organoids as described before37. The obtained 
+BLO were trypsinized for 5 min and strained by a 70 μm cell strainer (Falcon, Cary, NC, USA). Thereafter, 1 × 103 
+organoid cells were seeded into a 10 µL Matrigel on 96-well culture plates and incubated in the CO 2 incubator 
+at 37 °C for 20 min. After polymerization of the Matrigel, the organoid cells were cultured in the base medium 
+(see details in Table  3) either alone or plus L-WNR condition medium (1:1 v/v) or human epidermal growth 
+factor (EGF , 50 ng/mL, PeproTech, Inc.), or fibroblast growth factor-2 (FGF2, 20 ng/mL, PeproTech, Inc.), or 
+FGF7 (5 ng/mL, PeproTech, Inc.), or FGF10 (20 ng/mL, PeproTech, Inc.), or insulin-like growth factor (IGF , 
+10 ng/mL, PeproTech, Inc.), or transforming growth factor-alpha (TGF-α) (20 ng/mL, PeproTech, Inc.). The 
+culture medium was changed every two days. Quantification of the effects on the growth and proliferation of 
+organoids was assessed on day seven after culture using the PrestoBlue assay kit (Thermo Fisher Scientific) 
+and a microplate reader (TECAN, Seestrasse, Switzerland). Photomicrographs of the organoids from different 
+culture media were captured using an Olympus CKX-31 inverted microscope (Olympus, Tokyo, Japan). The 
+effective components were chosen and used as a culture medium (see details in Table 2) for BLO and applied in 
+subsequent experiments.
+Hematoxylin & Eosin staining
+The paraffin-embedded sections from BLO and the original tissues were prepared and stained with Hematoxylin 
+& Eosin (H&E) as described before32.
+Immunofluorescence staining
+Frozen sections from BLO and the original tissues were prepared and immunofluorescence staining was 
+performed as described before 16,32.
+Transmission electron microscopy (TEM)
+Preparation of organoids for TEM and TEM staining were performed as described before37. After the BLO were 
+fixed with 2.5% glutaraldehyde for three h at room temperature (RT) in 0.1% cacodylate (pH 7.4), they were 
+rinsed once with 0.1 M cacodylate (pH 7.4), incubated in 2% osmium tetroxide and 1.5% K4Fe(CN)6 in 0.1 M 
+sodium cacodylate (pH 7.4) for 2 h at 4 °C. After washing with distilled water, BLO were dehydrated in a graded 
+ethanol series (50, 70, 80, 90, 95, 99.5 up to 100%) and embedded in epon. Thereafter, 70–110 nm ultrathin 
+sections were prepared with a diamond knife on a Leica UC7 ultramicrotome and conveyedonto 50 Mesh copper 
+Name Distributor Catalog number Stock Concentration Amount added Final concentration
+HEPES Dojindo 342-01375 1 M 500 µl 2 mM
+GlutaMAX-1 (100x) Gibco 35050-061 N/A 5 ml N/A
+Nicotinamide (NIC) Sigma N0630 1 M 5 ml 10 mM
+N-Acetyl-L-cysteine LKT Laboratories A0918 500 mM 1 ml 1 mM
+A83-01 Adooq Bioscience A12358 5 mM 5 µl 500 nM
+Penicillin-Streptomycin (100x) WA KO 168-23191 N/A 5 ml N/A
+Advanced DMEM/F12 (1x) Gibco 12634-010 N/A up to 500 ml N/A
+Table 3. Base medium ingredients. NA: not applicable; HEPES: N-2-hydroxyethylpiperazine-N’-2-
+ethanesulfonic acid; AdDMEM: Advanced Dulbecco’s Modified Eagle Medium.
+ 
+Component Amount to Add Stock conc. Final concentration (in 500 mL) Distributor Reference number
+Glutamax 5 mL N/A N/A Gibco 35050-061
+HEPES 5 mL 1 M 10 mM Dojindo 342-01375
+N-Acetyl-L-cysteine 1 mL 500 mM 1 mM LKT Laboratories A0918
+Nicotinamide 5 mL 1 M 10 mM Sigma N0636-100 g
+A-83-01 5 µL 5 mM 500 nM Adooq Bioscience A12358
+L-WNR conditioned medium 250 mL N/A N/A Prepared in Lab N/A
+Murine EGF 50 µL 500 µg/ml 50 ng/ml PeproTech AF-100-15
+FGF7 250 ul 10 µg/ml 5 ng/ml PeproTech AF-100-19
+TGFα 500 uL 20 µg/ml 20 ng/ml Peprotech 120–10 C
+Penicillin-Streptomycin Solution (100x) 5 ml N/A N/A WA KO 168-23191
+Primocin 1 mL 50 mg/mL 100 µg/ml Nacalai tesque 14,860
+Advanced DMEM/F12 up to 500 mL 1X N/A Gibco 12634-010
+Table 2. Medium components necessary to grow bat lung organoids. NA: not applicable; HEPES: N-2-
+hydroxyethylpiperazine-N’-2-ethanesulfonic acid; AdDMEM: Advanced Dulbecco’s Modified Eagle Medium.
+ 
+Scientific Reports |         (2025) 15:4035 3| https://doi.org/10.1038/s41598-025-88621-0
+www.nature.com/scientificreports/
+
+<<<PAGE 4>>>
+grids coated with a formvar and carbon film. Sections were post-stained with uranyl acetate for 15 min at RT 
+and lead citrate. Sections on grids were imaged on a TEM (H-7500, Hitachi, Tokyo, Japan) using a TEM digital 
+camera (NanoSprint500, Hitachi).
+Cell sorting and culture of alveolar type 2 cells (AT2 cells)
+Since viable AT2 cells were successfully sorted based on their LysoTracker staining characteristics in the previous 
+report38, we tried to sort AT2 cells from BLO using the LysoTracker. After dissociation of organoids with TrypLE 
+and neutralizing it with a 10% volume of fetal bovine serum (FBS; Thermo Fisher Scientific Inc.), the cells were 
+incubated with media including 10 nM LysoTracker green DND-26 (Thermo Fisher Scientific Inc.) at 37 °C for 
+30 min. Thereafter, they were filtered through a 70 μm nylon net cell strainer. After that, they were washed and 
+resuspended in organoid media. After LysoTracker cells were sorted, they were embedded into Matrigel and 
+cultured with organoid media including 10 µM Y-27,632 for 24 h, followed by regular organoid media. Cell 
+sorting of BLO was carried out by an On-chip Sort (On-chip Biotechnologies Co., Ltd, Tokyo, Japan).
+Susceptibility of BLO to Pteropine Orthoreovirus
+Pteropine Orthoreovirus (Samal-24 strain (PRV)) was kindly supplied by Dr. Satoshi Taniguchi, NIID, Japan. 
+The virus susceptibility of BLO to PRV was evaluated, and compared with that of bat intestinal organoids (BIO) 
+which were established by our laboratory in a previous study 37. PRV was amplified with Vero cells and the 
+supernatant was collected 72 h post-inoculation (hpi). The supernatant was centrifuged at 12,000 rpm for 15 min 
+and stored at -80 °C until use. The BLO and BIO were infected with PRV to while maintaining the steric structure 
+of the organoids as described before 37. In brief, the cultured organoids were washed with PBS and 500 µl of 5 
+mM EDTA/PBS was added to each well and incubated on ice for 90 min. The cultured organoids were collected 
+by centrifugation and washed with PBS three times, and then the organoids were incubated in a culture medium 
+with PRV at MOI = 0.01 at 37 °C for 1 h. Subsequently, the organoids were gently washed with PBS and cultured 
+in Matrigel as described above. The supernatant medium, Matrigel, and the organoids were collected 2, 24, 48, 
+and 72 hpi and stored at -80 °C until analysis. After collecting the supernatant, 360 µl of 5 mM EDTA/PBS was 
+added per well and incubated on ice for 90 min., and centrifuged. The levels of PRV genome in BLO and BIO 
+were evaluated with real-time PCR assay 39. Additionally, the cell viability of BLO and BIO infected with PRV 
+was compared to mock infection using Presto Blue assay kit at 24, 48, and 72 hpi as mentioned before in the 
+previous study37.
+Statistical analysis
+Data are expressed as means ± SEM. Statistical significance was evaluated using a one-way analysis of variance 
+(ANOV A) followed by Bonferroni’s test. Values of P < 0.05 were considered statistically significant.
+Results
+Generation of primary BLO
+To generate BLO, lung tissues from 6 bats that died of natural causes at the zoo were collected and processed. 
+Then, the generated organoids were characterized (Fig.  1A). As shown in Fig.  1B, the BLO were successfully 
+generated, passaged, and mimicked the multicellular structure of the bat lung epithelium. Further, the BLO 
+recapitulated the histology of the original tissues (Fig.  1C). Using TEM, we observed that the ultrastructural 
+morphology of BLO also mimicked that of lung tissues (Fig. 1D). In BLO, the organoids consisted of a polarized, 
+pseudostratified airway epithelium containing basal, secretory, and microvilli cells (Fig. 1D).
+Effects of different media supplements on the growth of BLO
+Next, we searched for the suitable media supplements for the optimal growth of BLO. Using several supplements 
+(Wnt 3a, Noggin, R-spondin (WNR), EGF , FGF2, FGF7, FGF10, IGF , or TGF-α), we seeded the same number of 
+organoid cells and checked their effects on the growth and proliferation rate of BLO (Fig. 2A). In BLO, TGF-α, 
+EGF , WNR, and FGF7 had a significant effect on their growth and proliferation rate and the other supplements 
+showed no significant effects compared with control (base medium) (Fig.  2B, C). According to these findings, 
+we identified the essential supplements for BLO (WNR + EGF + FGF7 + TGF-α) and cultured them in these 
+components including base medium.
+Cellular components of BLO
+To confirm the cellular components of BLO, we checked the expression of several specific markers of lung tissues 
+using an immunofluorescence staining. Expression of an epithelial cell marker, E-cadherin, was confirmed in 
+BLO, as well as in the original tissues (Fig. 3A). In BLO and bat lung tissues, expressions of a respiratory goblet 
+cell marker, MUC5AC, airway basal cell marker, CK5, and a pulmonary cell marker, surfactant-associated 
+protein C (SFTPC) were observed, while expression of a Clara cell marker, SCGB1A1 was not confirmed in 
+BLO (Fig. 3A). These data indicate that BLO recapitulated the majority of the cellular components of bat lung 
+tissue. It has been confirmed that the new coronavirus uses the ACE2 receptor to enter the cells 40 with the aid 
+of the transmembrane cellular protease, TMPRSS241. Based on these data, we analyzed the expression levels of 
+ACE2 and TMPRSS2 in BLO. ACE2 was clearly expressed on the apical surface or basal membrane of BLO and 
+the alveolar cells of the lung tissues (Fig.  3B). TMPRSS2 was expressed not only at the basal surface but also at 
+several sites of BLO and the original tissues (Fig.  3B). These data suggest the potential of this model to analyze 
+SARS-CoV-2 infection in the lung.
+Scientific Reports |         (2025) 15:4035 4| https://doi.org/10.1038/s41598-025-88621-0
+www.nature.com/scientificreports/
+
+<<<PAGE 5>>>
+Fig. 1. Generation of primary bat lung organoids (BLO). Experimental schema of establishment and analysis 
+of BLO (A). Bat lung tissues were isolated and cultured for generating the organoids. Then, lung tissue-derived 
+organoids were used for the analysis of histology, microstructure by transmission electron microscopy (TEM), 
+and marker expressions. Representative phase-contrast images of BLO (passage 0 on day 1 and passage 2 on 
+day 16). Scale bar: 200 μm (B, n = 3). Representative images of H&E stained BLO (left panel) and their original 
+tissues (right panel). Scale bar: 100 μm (C). Representative TEM photomicrographs of BLO (D). The TEM 
+photomicrographs of BLO show the epithelial cells (E) with apical microvilli (V), lamellar bodies (LB), nucleus 
+(n), endoplasmic reticulum (ER), and mitochondria (m). Scale bar: 2 μm, 600 nm, 600 nm from left to right, 
+respectively. The photographs and images were representative of at least five similar images.
+ 
+Scientific Reports |         (2025) 15:4035 5| https://doi.org/10.1038/s41598-025-88621-0
+www.nature.com/scientificreports/
+
+<<<PAGE 6>>>
+Fig. 2. Identification of suitable culture supplements for BLO. Experimental schema of identifying suitable 
+media components of BLO (A). Representative phase-contrast images of the growth and morphology of BLO 
+cultured in base medium alone (cont) or with different culture supplements. WNR indicates Wnt 3a, Noggin, 
+and R-spondin. Scale bar: 200 μm (B). Cell proliferation of each organoid was analyzed by using a Prestoblue 
+kit (C, n = 6). Results were shown as fold increase relative to control and expressed as mean ± S.E.M. ∗P < 0.05 
+vs. control.
+ 
+Scientific Reports |         (2025) 15:4035 6| https://doi.org/10.1038/s41598-025-88621-0
+www.nature.com/scientificreports/
+
+<<<PAGE 7>>>
+Fig. 3. Characterization of the cellular components of BLO. Expression of an epithelial cell marker, 
+E-cadherin, a respiratory goblet cell marker, MUC5AC, a Clara cell marker, SCGB1A1, an airway basal cell 
+marker, CK5, and a pulmonary cell marker, surfactant-associated protein c (SFTPC) in BLO and the tissues 
+(A). Representative photomicrographs were shown (n = 3–4). Scale bar: 50 μm. Expression of ACE2 and 
+TMPRSS2 in BLO and the tissues (B). Representative photomicrographs were shown (n = 3–4). Scale bar: 
+50 μm.
+ 
+Scientific Reports |         (2025) 15:4035 7| https://doi.org/10.1038/s41598-025-88621-0
+www.nature.com/scientificreports/
+
+<<<PAGE 8>>>
+Isolation of alveolar type 2 cells (AT2 cells)
+AT2 cells are responsible for the production and secretion of lung surfactants and the maintenance of alveolar 
+homeostasis, such as the prevention of virus infection42. In Fig. 3A, we confirmed that BLO consisted of not only 
+AT2 cells (SFTPC-positive cells) but also airway basal cells (CK5-positive cells). For isolation of pure AT2 cells, 
+we sorted BLO cells by an AT2 cell marker, Lysotracker (Fig.  4A). First, the affinity of cells to Lysotracker was 
+confirmed (Fig. 4B). Next, the FACS sorting was performed. The plots showed the isolated AT2 cells based on 
+the high expression population of Lysotracker staining (Fig. 4C). The non-sorted and sorted organoid cells were 
+cultured again and the sorted organoids showed a typical luminal shape (Fig.  4D). We confirmed that the ratio 
+of luminal-type organoids in sorted BLO significantly increased compared with non-sorted BLO (Fig. 4E). These 
+data suggest the usefulness of our model for studying the direct effects of disease on AT2 cells.
+Susceptibility of BLO to PRV
+Finally, we performed viral infection experiments using BLO. However, in BLO, PRV genomes were below 
+detection limits in the supernatant throughout the experiment. Additionally, the genomes were not detected 
+even in organoids (data not shown). On the other hand, the levels of the virus genome in the supernatant and 
+Matrigel of BIO peaked at 48 hpi were 2.1 × 108 copies/mL and 1.7 × 106 copies/mL, respectively (Fig. 5).
+The cell viability of the organoids infected with PRV was compared to mock infection (Fig. 6). The trend of 
+cell viability of BLO infected with PRV was similar to BIO, though viral propagation was very different. The cell 
+viability of BLO infected with PRV was gradually decreased compared to mock infection and was 76% at 72 hpi. 
+The cell viability of BIO infected with PRV gradually decreased and was 67% at 72 hpi.
+Discussion
+Bat is known as a natural reservoir of several emerging viruses, such as the Ebola virus, Marburg virus, Nipah 
+virus, and SARS-CoV-2. After the outbreak of COVID-19, many investigators have been studying the next virus 
+outbreak prediction. However, there is not enough information about the whole genome data of viruses, even 
+coronavirus, to study the prediction with high accuracy. In this study, we established BLO culture model and 
+showed that it recapitulated the ultrastructure of their original tissues as shown in epithelium including basal, 
+secretory, brush, and microvilli cells as shown before in human airway organoids 43,44. Further, we evaluated 
+whether our established BLO models could be used for virus isolation and studying pathogenicity of viruses 
+including coronavirus. In the case of coronavirus including SARS-CoV-2, the virus entry to cells and the 
+replication capacity of the cells mainly depends on ACE2 and transmembrane cellular protease, TMPRSS234,41. 
+Based on these data, we analyzed the expression levels of these entry factors in BLO. ACE2 was expressed on the 
+apical membrane in BLO (Fig.  3B), which corresponded with recent reports of human enteroids 34 and airway 
+organoids45. They were successfully used for the virus isolation and infection model of coronavirus. Consistent 
+with our data, TMPRSS2 was shown to be expressed at multiple sites in the epithelium of respiratory and 
+gastrointestinal tracts46. These data suggest that our established BLO might be used as new experimental models 
+of infection or persistent mechanisms of coronavirus in bats.
+The AT2 cells are specialized alveolar epithelial cells responsible for the production and secretion of lung 
+surfactant and maintenance of alveolar homeostasis and can be transformed into AT1 cells specifically following 
+injury47. LysoTracker Green DND-26 is a fluorescent dye that stains acidic compartments in living cells and has 
+a high affinity to accumulate in AT2 cells selectively in lamellar bodies. On this basis, we tried to sort the BLO 
+cells into basal cells and AT2 cells using LysoTracker green DND-26 staining (Fig. 4A). Individual LysoTracker+ 
+sorted cells were further cultured and progressively expanded mostly as cystic luminal organoids with more 
+flattened morphologies reminiscent of alveoli (Fig. 4D, E). SARS-CoV-2 can infiltrate the lower compartment of 
+the respiratory tract, inducing severe respiratory failure and a high death rate 34. Since AT2 cells are considered 
+potential therapeutics for acute lung injury and acute respiratory distress syndrome 48, our established BLO 
+can be used for modeling the respiratory viral infectious diseases transmitted by bats, including SARS-CoV-2 
+infection.
+We evaluated the susceptibility of BLO to Pteropine orthoreovirus (PRV) isolated from Eonycteris spelaea 
+in the Philippines with MOI = 0.01 in comparison with BIO that were established before by our laboratory 37. 
+Whereas PRV was amplified in BIO efficiently, PRV was not amplified in BLO although the reduction in cell 
+viability was similar for both BIO and BLO. PRV was detected in both oral swab samples and rectal swab samples 
+in bats and is the causative agent of respiratory disease in humans5,49. Currently, the organ specificity of PRV in 
+bats is unknown. Our obtained results in BIO and BLO, however, suggested that PRV favor multiplying in the 
+intestinal tract rather than in the lungs of bats. It indicates that the production of organoids derived from various 
+organs and their use in infection experiments will make it possible to conduct research on bats, which are not 
+laboratory animals.
+In conclusion, we generated BLO that recapitulated the multicellular structure of the lung epithelium and 
+thus might be helpful as durable in vitro models for studying transmissible pathogenic infections through bats. 
+We expect that BLO become a new experimental platform for further isolation and study of other bat pathogens 
+of high zoonotic potential.
+Scientific Reports |         (2025) 15:4035 8| https://doi.org/10.1038/s41598-025-88621-0
+www.nature.com/scientificreports/
+
+<<<PAGE 9>>>
+Fig. 4. Isolation of alveolar type 2 (AT2) cells from BLO. Experimental schema of sorting, isolation, 
+and seeding of pure AT2 cells from BLO (A). Confirmation of staining of lung organoid cells with 
+LysoTrackerGreen DND-26 staining before cell sorting. Scale bar: 500 μm (B). FACS plots showing the isolated 
+AT2 cells based on their differential expression of EpCAM and Lysotracker staining (C). Phase-contrast images 
+of Lysotracker-sorted and non-sorted BLO (D). Scale bar: 500 μm. Each enlarged image was shown at the 
+bottom. Quantification of the ratio of luminal organoids at day 7 after sorting using ImageJ software (E, n = 4). 
+Results were expressed as mean ± S.E.M. *P < 0.05 vs. non-sorted BLO.
+ 
+Scientific Reports |         (2025) 15:4035 9| https://doi.org/10.1038/s41598-025-88621-0
+www.nature.com/scientificreports/
+
+<<<PAGE 10>>>
+Fig. 5. PRV genome levels in the supernatant and Matrigel of BIO infected with PRV at MOI = 0.01. The 
+amount of PRV genome was quantified by RT-PCR assay. The infection experiment was performed in technical 
+triplicate, and the quantification of the virus genome was performed in duplicate. The values were shown as the 
+mean ± S.E.M (n = 3).
+ 
+Scientific Reports |         (2025) 15:4035 10| https://doi.org/10.1038/s41598-025-88621-0
+www.nature.com/scientificreports/
+
+<<<PAGE 11>>>
+Data availability
+The authors declare that all the data supporting the findings of this study are available within the article.
+Received: 11 October 2024; Accepted: 29 January 2025
+References
+ 1. Zhou, P . et al. Fatal swine acute diarrhoea syndrome caused by an HKU2-related coronavirus of bat origin. Nature 556, 255–258. 
+https://doi.org/10.1038/s41586-018-0010-9 (2018).
+ 2. Wang, L. F . & Anderson, D. E. Viruses in bats and potential spillover to animals and humans. Curr. Opin. Virol. 34, 79–89.  h t t p s : / / 
+d o i . o r g / 1 0 . 1 0 1 6 / j . c o v i r o . 2 0 1 8 . 1 2 . 0 0 7     (2019).
+ 3. Tee, K. K. et al. Surveillance, isolation and genomic characterization of Pteropine orthoreovirus of probable bat origin among 
+patients with acute respiratory infection in Malaysia. J. Med. Virol. 95, e28520. https://doi.org/10.1002/jmv.28520 (2023).
+ 4. Harima, H. et al. Attenuated infection by a pteropine orthoreovirus isolated from an Egyptian fruit bat in Zambia. PLoS Negl. Trop. 
+Dis. 15, e0009768. https://doi.org/10.1371/journal.pntd.0009768 (2021).
+ 5. Takemae, H. et al. Isolation of Pteropine Orthoreovirus from Pteropus vampyrus in Garut, Indonesia. Virus Genes. 54, 823–827. 
+https://doi.org/10.1007/s11262-018-1603-y (2018).
+ 6. Tong, S. et al. New world bats harbor diverse influenza a viruses. PLoS Pathog. 9, e1003657.  h t t p s : / / d o i . o r g / 1 0 . 1 3 7 1 / j o u r n a l . p p a t . 1 
+0 0 3 6 5 7     (2013).
+ 7. Tong, S. et al. A distinct lineage of influenza a virus from bats. Proc. Natl. Acad. Sci. U.S.A. 109, 4269–4274.  h t t p s : / / d o i . o r g / 1 0 . 1 0 7 
+3 / p n a s . 1 1 1 6 2 0 0 1 0 9     (2012).
+ 8. Schuh, A. J. et al. Egyptian rousette bats maintain long-term protective immunity against Marburg virus infection despite 
+diminished antibody levels. Sci. Rep. 7, 8763. https://doi.org/10.1038/s41598-017-07824-2 (2017).
+ 9. Abugomaa, A. & Elbadawy, M. Patient-derived organoid analysis of drug resistance in precision medicine: is there a value? Expert 
+Rev. Precision Med. Drug Dev. 5, 1–5. https://doi.org/10.1080/23808993.2020.1715794 (2020).
+ 10. Omatsu, T. et al. Induction and sequencing of Rousette bat interferon alpha and beta genes. Vet. Immunol. Immunopathol. 124, 
+169–176. https://doi.org/10.1016/j.vetimm.2008.03.004 (2008).
+ 11. Pavlovich, S. S. et al. Egyptian Rousette IFN-omega subtypes elicit distinct antiviral effects and transcriptional responses in 
+conspecific cells. Front. Immunol. 11, 435. https://doi.org/10.3389/fimmu.2020.00435 (2020).
+ 12. Schlottau, K. et al. SARS-CoV-2 in fruit bats, ferrets, pigs, and chickens: an experimental transmission study. Lancet Microbe. 1, 
+e218–e225. https://doi.org/10.1016/S2666-5247(20)30089-6 (2020).
+ 13. Banerjee, A., Misra, V ., Schountz, T. & Baker, M. L. Tools to study pathogen-host interactions in bats. Virus Res. 248, 5–12.  h t t p s : / 
+/ d o i . o r g / 1 0 . 1 0 1 6 / j . v i r u s r e s . 2 0 1 8 . 0 2 . 0 1 3     (2018).
+Fig. 6. The cell viability of BLO and BIO infected with PRV as compared to mock infection. BLO and BIO 
+were infected with PRV at MOI = 0.01. Cell viability was assessed using an Alamarblue assay at 24, 48, and 
+72 hpi and a microplate reader. On Y axis, 100% represents the cell viability of each control. Results were 
+expressed as mean ± SEM *P ≤ 0.05 vs. control.
+ 
+Scientific Reports |         (2025) 15:4035 11| https://doi.org/10.1038/s41598-025-88621-0
+www.nature.com/scientificreports/
+
+<<<PAGE 12>>>
+ 14. Sato, Y . et al. Establishment of an experimental model of canine malignant mesothelioma organoid culture using a three-
+dimensional culture method. Biomed. Pharmacother. 162, 114651. https://doi.org/10.1016/j.biopha.2023.114651 (2023).
+ 15. Shiota Sato, Y . et al. Derivation of a new model of lung adenocarcinoma using canine lung cancer organoids for translational 
+research in pulmonary medicine. Biomed. Pharmacother. 165, 115079. https://doi.org/10.1016/j.biopha.2023.115079 (2023).
+ 16. Elbadawy, M. et al. Establishment of a novel experimental model for muscle-invasive bladder cancer using a dog bladder cancer 
+organoid culture. Cancer Sci. 110, 2806–2821. https://doi.org/10.1111/cas.14118 (2019).
+ 17. Gabriel, V . et al. Adult animal stem cell-derived organoids in Biomedical Research and the One Health paradigm. Int. J. Mol. Sci. 
+25, 701. https://doi.org/10.3390/ijms25020701 (2024).
+ 18. Clevers, H. Modeling Development and Disease with Organoids. Cell 165, 1586–1597. https://doi.org/10.1016/j.cell.2016.05.082 
+(2016).
+ 19. Abugomaa, A. et al. Establishment of a direct 2.5D organoid culture model using companion animal cancer tissues. Biomed. 
+Pharmacother. 154, 113597. https://doi.org/10.1016/j.biopha.2022.113597 (2022).
+ 20. Elbadawy, M. et al. Establishment of an experimental model of normal dog bladder organoid using a three-dimensional culture 
+method. Biomed. Pharmacother. 151, 113105. https://doi.org/10.1016/j.biopha.2022.113105 (2022).
+ 21. Y oshida, T. et al. The potential of organoids in toxicologic pathology: role of toxicologic pathologists in in vitro chemical 
+hepatotoxicity assessment. J. Toxicol. Pathol. 35, 225–235. https://doi.org/10.1293/tox.2022-0017 (2022).
+ 22. Nabeta, R. et al. Chemosensitivity of three patient-derived primary cultures of canine pericardial mesothelioma by single-agent 
+and combination treatment. Front. Vet. Sci. 10, 1267359. https://doi.org/10.3389/fvets.2023.1267359 (2023).
+ 23. Liu, Y . et al. Salinomycin induces apoptosis and potentiates the antitumor effect of doxorubicin against feline mammary tumor 
+2.5D organoids. J. Vet. Med. Sci. 86, 1256–1264. https://doi.org/10.1292/jvms.24-0344 (2024).
+ 24. Elfadadny, A. et al. Role of multidrug resistance-associated proteins in cancer therapeutics: past, present, and future perspectives. 
+Environ. Sci. Pollut Res. Int. 28, 49447–49466. https://doi.org/10.1007/s11356-021-15759-5 (2021).
+ 25. Abugomaa, A. et al. Anti-cancer activity of Chaga mushroom (Inonotus Obliquus) against dog bladder cancer organoids. Front. 
+Pharmacol. 14, 1159516. https://doi.org/10.3389/fphar.2023.1159516 (2023).
+ 26. Elbadawy, M., Usui, T., Y amawaki, H. & Sasaki, K. Development of an experimental model for analyzing Drug Resistance in 
+Colorectal Cancer. Cancers (Basel). 10, 164. https://doi.org/10.3390/cancers10060164 (2018).
+ 27. Usui, T. et al. Hedgehog signals mediate Anti-cancer Drug Resistance in three-Dimensional Primary Colorectal Cancer Organoid 
+Culture. Int. J. Mol. Sci. 19, 1098. https://doi.org/10.3390/ijms19041098 (2018).
+ 28. Elbadawy, M. et al. Anti-tumor effect of trametinib in bladder cancer organoid and the underlying mechanism. Cancer Biol. Ther. 
+22, 357–371. https://doi.org/10.1080/15384047.2021.1919004 (2021).
+ 29. Allenspach, K., Zavros, Y ., Elbadawy, M., Zdyrski, C. & Mochel, J. P . Leveraging the predictive power of 3D organoids in dogs to 
+develop new treatments for man and man’s best friend. BMC Biol. 21, 297. https://doi.org/10.1186/s12915-023-01799-5 (2023).
+ 30. Elbadawy, M. et al. Evaluation of the efficacy of mitochondrial fission inhibitor (Mdivi-1) using non-alcoholic steatohepatitis 
+(NASH) liver organoids. Front. Pharmacol. 14, 1243258. https://doi.org/10.3389/fphar.2023.1243258 (2023).
+ 31. Huch, M. & Koo, B. K. Modeling mouse and human development using organoid cultures. Dev. (Cambridge England). 142, 3113–
+3125. https://doi.org/10.1242/dev.118570 (2015).
+ 32. Elbadawy, M. et al. Efficacy of primary liver organoid culture from different stages of non-alcoholic steatohepatitis (NASH) mouse 
+model. Biomaterials 237, 119823. https://doi.org/10.1016/j.biomaterials.2020.119823 (2020).
+ 33. Kobayashi, M. et al. Anorectal Remodeling in the Transitional Zone with increased expression of LGR5, SOX9, SOX2, and keratin 
+13 and 5 in a Dextran Sodium Sulfate-Induced Mouse Model of Ulcerative Colitis. Int. J. Mol. Sci. 25, 12706.  h t t p s : / / d o i . o r g / 1 0 . 3 3 
+9 0 / i j m s 2 5 2 3 1 2 7 0 6     (2024).
+ 34. Zhou, J. et al. Infection of bat and human intestinal organoids by SARS-CoV-2. Nat. Med. 26, 1077–1083.  h t t p s : / / d o i . o r g / 1 0 . 1 0 3 8 / 
+s 4 1 5 9 1 - 0 2 0 - 0 9 1 2 - 6     (2020).
+ 35. Chan, L. L. Y . et al. Generation of self-replicating airway organoids from the cave nectar bat Eonycteris spelaea as a model system 
+for studying host-pathogen interactions in the bat airway epithelium. Emerg. Microbes Infect. 12, e2148561.  h t t p s : / / d o i . o r g / 1 0 . 1 0 8 
+0 / 2 2 2 2 1 7 5 1 . 2 0 2 2 . 2 1 4 8 5 6 1     (2023).
+ 36. Su, A. et al. Infection studies with Airway Organoids from Carollia perspicillata Indicate that the respiratory epithelium is not a 
+barrier for Interspecies Transmission of Influenza Viruses. Microbiol. Spectr. 11, e0309822.  h t t p s : / / d o i . o r g / 1 0 . 1 1 2 8 / s p e c t r u m . 0 3 0 9 
+8 - 2 2     (2023).
+ 37. Elbadawy, M. et al. Establishment of Intestinal Organoid from Rousettus leschenaultii and the susceptibility to Bat-Associated 
+viruses, SARS-CoV-2 and Pteropine Orthoreovirus. Int. J. Mol. Sci. 22, 10763. https://doi.org/10.3390/ijms221910763 (2021).
+ 38. Salahudeen, A. A. et al. Progenitor identification and SARS-CoV-2 infection in human distal lung organoids. Nature 588, 670–675. 
+https://doi.org/10.1038/s41586-020-3014-1 (2020).
+ 39. Egawa, K. et al. Virulence, pathology, and pathogenesis of Pteropine Orthoreovirus (PRV) in BALB/c mice: development of an 
+animal infection model for PRV . PLoS Negl. Trop. Dis. 11, e0006076. https://doi.org/10.1371/journal.pntd.0006076 (2017).
+ 40. Zhou, P . et al. A pneumonia outbreak associated with a new coronavirus of probable bat origin. Nature 579, 270–273.  h t t p s : / / d o i . 
+o r g / 1 0 . 1 0 3 8 / s 4 1 5 8 6 - 0 2 0 - 2 0 1 2 - 7     (2020).
+ 41. Hoffmann, M. et al. SARS-CoV-2 cell entry depends on ACE2 and TMPRSS2 and is blocked by a clinically proven protease 
+inhibitor. Cell 181, 271–280e278. https://doi.org/10.1016/j.cell.2020.02.052 (2020).
+ 42. Zhao, F ., Ma, Q., Yue, Q. & Chen, H. SARS-CoV-2 infection and lung regeneration. Clin. Microbiol. Rev. 35, e0018821.  h t t p s : / / d o i . 
+o r g / 1 0 . 1 1 2 8 / c m r . 0 0 1 8 8 - 2 1     (2022).
+ 43. Zhou, J. et al. Differentiated human airway organoids to assess infectivity of emerging influenza virus. Proc. Natl. Acad. Sci. U.S.A. 
+115, 6822–6827. https://doi.org/10.1073/pnas.1806308115 (2018).
+ 44. Sachs, N. et al. Long-term expanding human airway organoids for disease modeling. EMBO J. 38  h t t p s : / / d o i . o r g / 1 0 . 1 5 2 5 2 / e m b j . 2 
+0 1 8 1 0 0 3 0 0     (2019).
+ 45. Zhou, J. et al. Human airway organoids model SARS-CoV-2 high infectiousness and evasion of interferon response (2020).
+ 46. Bertram, S. et al. Influenza and SARS-coronavirus activating proteases TMPRSS2 and HAT are expressed at multiple sites in 
+human respiratory and gastrointestinal tracts. PLoS One. 7, e35876. https://doi.org/10.1371/journal.pone.0035876 (2012).
+ 47. Evans, M. J., Cabral, L. J., Stephens, R. J. & Freeman, G. Transformation of alveolar type 2 cells to type 1 cells following exposure to 
+NO2. Exp. Mol. Pathol. 22, 142–150. https://doi.org/10.1016/0014-4800(75)90059-3 (1975).
+ 48. Zhang, H., Cui, Y ., Zhou, Z., Ding, Y . & Nie, H. Alveolar type 2 epithelial cells as potential therapeutics for Acute Lung Injury/
+Acute Respiratory Distress Syndrome. Curr. Pharm. Design. 25, 4877–4882.  h t t p s : / / d o i . o r g / 1 0 . 2 1 7 4 / 1 3 8 1 6 1 2 8 2 5 6 6 6 1 9 1 2 0 4 0 9 2 4 5 
+6     (2019).
+ 49. Taniguchi, S. et al. First isolation and characterization of pteropine orthoreoviruses in fruit bats in the Philippines. Arch. Virol. 162, 
+1529–1539. https://doi.org/10.1007/s00705-017-3251-2 (2017).
+Acknowledgements
+This study was supported in part by a Grant-in-Aid for Fostering Joint International Research (B) from the Japan 
+Society for the Promotion of Science (JSPS). The grant Number is 19KK0242. We also thank the Tokyo Zoolog-
+ical Park Society and Exhibits and Husbandry Department, Ueno Zoological Gardens.
+Scientific Reports |         (2025) 15:4035 12| https://doi.org/10.1038/s41598-025-88621-0
+www.nature.com/scientificreports/
+
+<<<PAGE 13>>>
+Author contributions
+Conceptualization, T.U., and T.O.; Methodology, T.U., M.E., and T.O.; Investigation, M.E., N.S., Y .K., K.H., A.A., 
+M.K; Writing, M.E., T.U., and T.O.; Funding Acquisition, T.U., and T.O.; Resources, T.Y ., M.S., T.M., M.K., and 
+K.S.; Supervision, T.U., T.O., and H.Y .
+Declarations
+Competing interests
+The authors declare no competing interests.
+Additional information
+Correspondence and requests for materials should be addressed to T.U. or T.O.
+Reprints and permissions information is available at www.nature.com/reprints.
+Publisher’s note Springer Nature remains neutral with regard to jurisdictional claims in published maps and 
+institutional affiliations.
+Open Access  This article is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 
+4.0 International License, which permits any non-commercial use, sharing, distribution and reproduction in 
+any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide 
+a link to the Creative Commons licence, and indicate if you modified the licensed material. Y ou do not have 
+permission under this licence to share adapted material derived from this article or parts of it. The images or 
+other third party material in this article are included in the article’s Creative Commons licence, unless indicated 
+otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence 
+and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to 
+obtain permission directly from the copyright holder. To view a copy of this licence, visit  h t t p : / / c r e a t i v e c o m m o 
+n s . o r g / l i c e n s e s / b y - n c - n d / 4 . 0 /     .  
+© The Author(s) 2025 
+Scientific Reports |         (2025) 15:4035 13| https://doi.org/10.1038/s41598-025-88621-0
+www.nature.com/scientificreports/

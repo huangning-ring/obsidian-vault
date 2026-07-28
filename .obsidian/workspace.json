@@ -27,30 +27,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "26出国灵感/综述-气道类器官和呼吸道病毒/B2类器官原始技术文献全文/B2类器官原始技术文献检索与下载报告.md",
+                "file": "26出国灵感/综述-气道类器官和呼吸道病毒/Part1-AB-试跑检索报告-查准版.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "B2类器官原始技术文献检索与下载报告"
+              "title": "Part1-AB-试跑检索报告-查准版"
             }
           },
           {
-            "id": "33576126d3538e84",
+            "id": "ed9f94fe37cc4394",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "26出国灵感/综述-气道类器官和呼吸道病毒/B2类器官原始技术文献全文/Han-2022-Generation-embryonic-stem-cell-lung-organoids.pdf",
-                "page": 1,
-                "zoom": 1
+                "file": "26出国灵感/综述-气道类器官和呼吸道病毒/Total_Execution_Plan-manual-v2-AB.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Han-2022-Generation-embryonic-stem-cell-lung-organoids"
+              "icon": "lucide-file",
+              "title": "Total_Execution_Plan-manual-v2-AB"
+            }
+          },
+          {
+            "id": "0253a74cf0379bd3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "26出国灵感/综述-气道类器官和呼吸道病毒/Part1-AB-5篇综述精读-评估维度提炼.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Part1-AB-5篇综述精读-评估维度提炼"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -113,8 +127,7 @@
               "title": "笔记本导航器"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -134,12 +147,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "26医创/医创赛反思.md",
+                "file": "26出国灵感/综述-气道类器官和呼吸道病毒/Total_Execution_Plan-manual-v2-AB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "医创赛反思 的出链列表"
+              "title": "Total_Execution_Plan-manual-v2-AB 的出链列表"
             }
           },
           {
@@ -148,13 +161,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "26出国灵感/综述-气道类器官和呼吸道病毒/B2类器官原始技术文献全文/B2类器官原始技术文献检索与下载报告.md",
+                "file": "26出国灵感/综述-气道类器官和呼吸道病毒/Part1-AB-5篇综述精读-评估维度提炼.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "B2类器官原始技术文献检索与下载报告 的大纲"
+              "title": "Part1-AB-5篇综述精读-评估维度提炼 的大纲"
             }
           },
           {
@@ -163,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "26出国灵感/综述-气道类器官和呼吸道病毒/AB试跑材料全文/AB试跑材料全文下载结果.md",
+                "file": "26出国灵感/综述-气道类器官和呼吸道病毒/Total_Execution_Plan-manual-v2-AB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +186,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "AB试跑材料全文下载结果 的反向链接列表"
+              "title": "Total_Execution_Plan-manual-v2-AB 的反向链接列表"
             }
           },
           {
@@ -223,15 +236,24 @@
       "obsidian-table-x:编辑模式表格操作": false
     }
   },
-  "active": "f6ba9c26f3826bb3",
+  "active": "320416940aa567ac",
   "lastOpenFiles": [
+    "26出国灵感/综述-气道类器官和呼吸道病毒/B2原始技术文献评级详情/00-B2原始技术文献评级矩阵.md",
+    "26出国灵感/综述-气道类器官和呼吸道病毒/B2原始技术文献评级详情",
+    "26出国灵感/综述-气道类器官和呼吸道病毒/Total_Execution_Plan-manual-v2-AB.md",
+    "26出国灵感/综述-气道类器官和呼吸道病毒/Part1-AB-试跑检索报告-查准版.md",
+    "26出国灵感/综述-气道类器官和呼吸道病毒/deepseek.md",
+    "26出国灵感/综述-气道类器官和呼吸道病毒/Part1-AB-5篇综述精读-评估维度提炼.md",
+    "26出国灵感/综述-气道类器官和呼吸道病毒/AB试跑材料全文/AB试跑材料全文下载结果.md",
+    "26出国灵感/综述-气道类器官和呼吸道病毒/s41573-025-01317-y.pdf",
+    "26出国灵感/综述-气道类器官和呼吸道病毒/B2类器官原始技术文献全文/B2类器官原始技术文献检索与下载报告.md",
+    "复习/统计/03-正态分布与医学参考值范围.md",
+    "26出国灵感/综述-气道类器官和呼吸道病毒/B2类器官原始技术文献全文/Cadena-Castaneda-2023-Protocol-establishing-primary-human-lung-organoid-derived-ALI-cultures.pdf",
     "26出国灵感/综述-气道类器官和呼吸道病毒/B2类器官原始技术文献全文/Han-2022-Generation-embryonic-stem-cell-lung-organoids.pdf",
     "26出国灵感/综述-气道类器官和呼吸道病毒/B2类器官原始技术文献全文/Budeus-2024-Matrix-free-lung-organoids-induced-pluripotent-stem.pdf",
     "26出国灵感/综述-气道类器官和呼吸道病毒/B2类器官原始技术文献全文/Vazquez-Armendariz-2021-Protocol-generation-murine-bronchiolospheres.pdf",
     "26出国灵感/综述-气道类器官和呼吸道病毒/B2类器官原始技术文献全文/Elbadawy-2025-Establishment-bat-lung-organoid-culture-model-studying.pdf",
     "26出国灵感/综述-气道类器官和呼吸道病毒/B2类器官原始技术文献全文/Druso-2025-Impact-mouse-tracheal-basal-cell-expansion-medium.pdf",
-    "26出国灵感/综述-气道类器官和呼吸道病毒/B2类器官原始技术文献全文/B2类器官原始技术文献检索与下载报告.md",
-    "复习/统计/03-正态分布与医学参考值范围.md",
     "复习/统计/04-定性数据、统计表与统计图.md",
     "笔记同步助手/2026-07-26/Codex执行慢？编码乱码-.md",
     "26出国灵感/综述-气道类器官和呼吸道病毒/B2类器官原始技术文献全文/_audit_artifacts/_quarantine_second_pass_before_visual_overrides/_renders/contact-sheet-04.png",
@@ -246,23 +268,14 @@
     "26出国灵感/综述-气道类器官和呼吸道病毒/B2类器官原始技术文献全文/_audit_artifacts/_quarantine_second_pass_before_visual_overrides/_renders/035-Vazquez-Armendariz-2021-Protocol-generation-murine-bronchiolospheres.png",
     "26出国灵感/综述-气道类器官和呼吸道病毒/B2类器官原始技术文献全文/_audit_artifacts/_quarantine_second_pass_before_visual_overrides/_renders",
     "26出国灵感/综述-气道类器官和呼吸道病毒/B2类器官原始技术文献全文/_audit_artifacts/_quarantine_second_pass_before_visual_overrides/Vaughan-2006-three-dimensional-model-differentiation-immortalized-bronchial-epithelia.pdf",
-    "26出国灵感/综述-气道类器官和呼吸道病毒/B2类器官原始技术文献全文/_audit_artifacts/_quarantine_second_pass_before_visual_overrides/_qa_results.json",
-    "26出国灵感/综述-气道类器官和呼吸道病毒/B2类器官原始技术文献全文/_audit_artifacts/_quarantine_second_pass_before_visual_overrides/Wong-2012-Directed-differentiation-pluripotent-stem-cells-mature-airway.pdf",
-    "26出国灵感/综述-气道类器官和呼吸道病毒/B2类器官原始技术文献全文/_audit_artifacts/_quarantine_second_pass_before_visual_overrides/Vazquez-Armendariz-2021-Protocol-generation-murine-bronchiolospheres.pdf",
-    "26出国灵感/综述-气道类器官和呼吸道病毒/B2类器官原始技术文献全文/_audit_artifacts/_quarantine_second_pass_before_visual_overrides/Valenzuela-2024-Design-infectability-transcriptomic-analysis-transregionally-differentia.pdf",
     "笔记同步助手/2026-07-27/使用 Obsidian 作为 AI 时代的 IDE.md",
     "笔记同步助手/2026-07-28/很多神级开源 Agent 从它演化而来：77K Star 的 Pi 太强了。.md",
     "笔记同步助手/2026-07-28/学生党 白嫖token 的10大秘诀.md",
-    "26出国灵感/综述-气道类器官和呼吸道病毒/Part1-AB-试跑检索报告-查准版.md",
-    "26出国灵感/综述-气道类器官和呼吸道病毒/Part1-AB-5篇综述精读-评估维度提炼.md",
     "26出国灵感/综述-气道类器官和呼吸道病毒/Wang-2026-Human-organoids-3D-drug-discovery/Wang 2026-Human organoids 3D drug discovery-中文精读与讲稿.md",
-    "26出国灵感/综述-气道类器官和呼吸道病毒/AB试跑材料全文/AB试跑材料全文下载结果.md",
     "26出国灵感/综述-气道类器官和呼吸道病毒/Part1-AB-试跑材料检索方案.md",
     "26出国灵感/综述-气道类器官和呼吸道病毒/Wang-2026-Human-organoids-3D-drug-discovery/Organoid drug discovery 40min bilingual script.md",
     "26出国灵感/综述-气道类器官和呼吸道病毒/未命名.md",
     "26出国灵感/研究计划_方案一_病毒表面蛋白免疫逃逸筛选（疑似寄了）/研究计划_方案一_病毒表面蛋白免疫逃逸筛选（疑似寄了）.md",
-    "26出国灵感/综述-气道类器官和呼吸道病毒/deepseek.md",
-    "26出国灵感/综述-气道类器官和呼吸道病毒/Total_Execution_Plan-manual-v2-AB.md",
     "笔记同步助手/2026-07-23/Nature发文呼吁！“走出动物模型时代：期刊编辑、资助机构与科研社群应及早调整评审机制、资助战略与发表标准.md",
     "笔记同步助手/2026-07-14/Zotero 科研狗的“屎山”清理指南.md",
     "笔记同步助手/2026-07-23/AI Coding套餐太乱，我做了个比价站.md",

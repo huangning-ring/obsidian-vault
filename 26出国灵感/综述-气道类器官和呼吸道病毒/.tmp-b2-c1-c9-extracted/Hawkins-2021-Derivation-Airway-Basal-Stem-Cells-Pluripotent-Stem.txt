@@ -1,0 +1,1907 @@
+
+
+<<<PAGE 1>>>
+Article
+Derivation of Airway Basal Stem Cells from Human
+Pluripotent Stem Cells
+Graphical Abstract
+Highlights
+d Directed differentiation of human iPSCs generates airway
+basal cells (‘‘iBCs’’)
+d iBCs self-renew and display multipotent differentiation
+in vitro and in vivo
+d By single-cell RNA-seq, iBCs are highly similar to adult
+primary airway basal cells
+d iBCs enable modeling of acquired and genetic airway
+diseases
+Authors
+Finn J. Hawkins, Shingo Suzuki,
+Mary Lou Beermann, ...,
+Steven L. Brody, Brian R. Davis,
+Darrell N. Kotton
+Correspondence
+brian.r.davis@uth.tmc.edu (B.R.D.),
+dkotton@bu.edu (D.N.K.)
+In Brief
+Hawkins and colleagues report a directed
+differentiation protocol enabling the
+derivation of airway basal cells (‘‘iBCs’’)
+from human iPSCs. iBCs recapitulate
+hallmark stem cell properties of primary
+basal cells, including self-renewal and
+multi-lineage differentiation, thus
+enabling modeling of airway diseases
+in vitro and repopulation of tracheal
+xenografts in vivo.
+Hawkins et al., 2021, Cell Stem Cell 28, 1–17
+January 7, 2021 ª 2020 Elsevier Inc.
+https://doi.org/10.1016/j.stem.2020.09.017 ll
+
+<<<PAGE 2>>>
+Article
+Derivation of Airway Basal Stem Cells
+from Human Pluripotent Stem Cells
+Finn J. Hawkins,1,2,16 Shingo Suzuki,3,16 Mary Lou Beermann,1 Cristina Barilla` ,3 Ruobing Wang,4 Carlos Villacorta-Martin,1
+Andrew Berical,1,2 J.C. Jean,1 Jake Le Suer, 1,2 Taylor Matte,1 Chantelle Simone-Roach,4 Yang Tang,5
+Thorsten M. Schlaeger, 5,6,7 Ana M. Crane, 3 Nadine Matthias,3 Sarah X.L. Huang, 3 Scott H. Randell, 8 Joshua Wu,9
+Jason R. Spence, 9,10,11 Gianni Carraro,12 Barry R. Stripp, 12 Andras Rab,13 Eric J. Sorsher, 13 Amjad Horani,14,15
+Steven L. Brody, 14,15 Brian R. Davis, 3,17,* and Darrell N. Kotton 1,2,17,18,*
+1Center for Regenerative Medicine, Boston University and Boston Medical Center, Boston, MA 02118, USA
+2The Pulmonary Center and Department of Medicine, Boston University and Boston Medical Center, Boston, MA 02118, USA
+3Center for Stem Cell and Regenerative Medicine, Brown Foundation Institute of Molecular Medicine, University of Texas Health Science
+Center, Houston, TX 77030, USA
+4Pulmonary and Respiratory Diseases, Boston Children’s Hospital, Boston, MA 02115, USA
+5Boston Children’s Hospital Stem Cell Program, Boston, MA 02115, USA
+6Division of Pediatric Hematology/Oncology, Boston Children’s Hospital, Dana-Farber Cancer Institute, Boston, MA 02115, USA
+7Harvard Stem Cell Institute, Cambridge, MA 02138, USA
+8Marsico Lung Institute and Cystic Fibrosis Research Center, University of North Carolina at Chapel Hill, Chapel Hill, NC 27599, USA
+9Department of Internal Medicine, Gastroenterology, University of Michigan Medical School, Ann Arbor, MI 48109, USA
+10Department of Cell and Developmental Biology, University of Michigan Medical School, Ann Arbor, MI 48109, USA
+11Department of Biomedical Engineering, University of Michigan College of Engineering, Ann Arbor, MI 48109, USA
+12Department of Medicine, Lung and Regenerative Medicine Institutes, Cedars-Sinai Medical Center, Los Angeles, CA 90048, USA
+13Emory University School of Medicine, Atlanta, GA 30322, USA
+14Department of Pediatrics, Washington University School of Medicine, St. Louis, MO 63110, USA
+15Department of Medicine, Washington University School of Medicine, St. Louis, MO 63110, USA
+16These authors contributed equally
+17These authors contributed equally
+18Lead Contact
+*Correspondence: brian.r.davis@uth.tmc.edu (B.R.D.), dkotton@bu.edu (D.N.K.)
+https://doi.org/10.1016/j.stem.2020.09.017
+SUMMARY
+The derivation of tissue-speciﬁc stem cells from human induced pluripotent stem cells (iPSCs) would have
+broad reaching implications for regenerative medicine. Here, we report the directed differentiation of human
+iPSCs into airway basal cells (‘‘iBCs’’), a population resembling the stem cell of the airway epithelium. Using a
+dual ﬂuorescent reporter system (NKX2-1
+GFP;TP63tdTomato), we track and purify these cells as they ﬁrst
+emerge as developmentally immature NKX2-1 GFP+ lung progenitors and subsequently augment a TP63 pro-
+gram during proximal airway epithelial patterning. In response to primary basal cell medium, NKX2-1 GFP+/
+TP63tdTomato+ cells display the molecular and functional phenotype of airway basal cells, including the capac-
+ity to self-renew or undergo multi-lineage differentiation in vitro and in tracheal xenografts in vivo. iBCs and
+their differentiated progeny model perturbations that characterize acquired and genetic airway diseases,
+including the mucus metaplasia of asthma, chloride channel dysfunction of cystic ﬁbrosis, and ciliary defects
+of primary ciliary dyskinesia.
+INTRODUCTION
+Basal cells (BCs) of the adult mouse and human airways are
+capable of self-renewal and multi-lineage differentiation in vivo
+and after culture expansion ex vivo , thereby fulﬁlling the deﬁni-
+tion of a tissue-speciﬁc adult stem cell ( Rock et al., 2009 ). An
+extensive literature has established that BCs can regenerate
+the airway epithelium by serving as precursors for essential
+specialized epithelial cell types, including secretory cells (SCs)
+and multiciliated cells (MCCs) ( Montoro et al., 2018 ; Plasschaert
+et al., 2018 ; Rock et al., 2009 ). These stem cell properties make
+BCs a highly desirable cell type to generate ex vivo for modeling
+airway diseases and a leading candidate for cell-based therapies
+designed to reconstitute the airway epithelium.
+In human airways, BCs are highly abundant in the pseudostra-
+tiﬁed epithelium extending from the trachea to the terminal bron-
+chioles ( Rock et al., 2010 ). Airway BCs can be identiﬁed based
+on their classic anatomic location along the basal lamina and
+by the expression of several markers, including tumor protein
+63 (TP63), cytoskeletal protein keratin 5 (KRT5), and nerve
+Cell Stem Cell 28, 1–17, January 7, 2021 ª 2020 Elsevier Inc. 1
+ll
+Please cite this article in press as: Hawkins et al., Derivation of Airway Basal Stem Cells from Human Pluripotent Stem Cells, Cell Stem Cell (2020),
+https://doi.org/10.1016/j.stem.2020.09.017
+
+<<<PAGE 3>>>
+Figure 1. Generation of a Dual-Fluorescent NKX2-1 GFP;TP63tdTomato iPSC Reporter to Track and Purify Putative Basal Cells
+(A) Adult human airway immunolabeled with the antibodies indicated (DNA stained with Hoechst; scale bar represents 10 mm).
+(B) Schematic of gene-editing strategy to insert tdTomato sequence into one allele of the TP63 locus of NKX2-1 GFP iPSCs. See Figure S1 for further details.
+(C) Schematic of airway-directed differentiation protocol. NKX2-1 GFP+ cells are indicated in green, TP63 tdTomato+ in red, and co-expression in orange.
+(D) Representative image of BU3 NGPT spheroid on day 36 of differentiation demonstrating GFP and tdTomato ﬂuorescence (scale bar represents 50 mm).
+(E) Representative ﬂow cytometry plots of NKX2-1 GFP versus TP63tdTomato expression on days 0, 15, and 35 of directed differentiation.
+(legend continued on next page)
+ll
+Article
+2 Cell Stem Cell 28, 1–17, January 7, 2021
+Please cite this article in press as: Hawkins et al., Derivation of Airway Basal Stem Cells from Human Pluripotent Stem Cells, Cell Stem Cell (2020),
+https://doi.org/10.1016/j.stem.2020.09.017
+
+<<<PAGE 4>>>
+growth factor receptor (NGFR) (Rock et al., 2010). TP63, a mem-
+ber of the p53 family of transcription factors, is essential to the
+BC program in the airway but also other organs ( Yang et al.,
+1999). Although airway BCs in adult lungs have been extensively
+studied, only recently has their developmental origin been exam-
+ined. For example, lineage-tracing experiments in mice ( Yang
+et al., 2018 ) reveal that a Tp63 program is already present early
+in lung development at the time of initial lung bud formation (em-
+bryonic day 9.5 [E9.5]) within a subset of lung epithelial progen-
+itors expressing the transcriptional regulator that marks all devel-
+oping lung epithelial cells, NK2 homeobox 1 (Nkx2-1). Early
+Nkx2-1+/Tp63+ co-expressing cells are not BCs because they
+lack the BC morphology and molecular program. Rather, these
+fetal cells function as multipotent progenitors of subsequent
+alveolar and airway epithelia (Yang et al., 2018). Tp63 expression
+is then gradually restricted to the developing airways, where it is
+initially broadly expressed in immature airway progenitors and
+later restricted to a subset of tracheal cells that localize to the
+basement membrane and upregulate markers of adult BCs,
+including Krt5 and Ngfr. The signaling pathways that control
+BC speciﬁcation and maturation in the lung are not precisely
+known; however, in-bred mouse models suggest a temporal
+role for FGF10/FGFR2b ( Volckaert et al., 2013 ) and recent sin-
+gle-cell RNA sequencing (scRNA-seq) of human fetal airways
+identiﬁed fetal BCs and a role for transient activation of SMAD
+signaling in BC speciﬁcation (Miller et al., 2020). Although limited
+data are available regarding the developmental origins of BCs in
+humans, a similar pattern to that observed in mice has also been
+described (Nikoli/C19c et al., 2017 ).
+Given the stem cell properties of airway BCs, including their
+established proliferative capacity, well-established protocols
+have been developed to expand primary human BCs in vitro
+(Fulcher and Randell, 2013 ; Fulcher et al., 2005 ; Mou et al.,
+2016; Suprynowicz et al., 2017 ). These BCs, conventionally
+referred to as human bronchial epithelial cells (HBECs), differen-
+tiate into a pseudostratiﬁed airway epithelium in air-liquid inter-
+face (ALI) culture that recapitulates aspects of in vivo airway
+biology. The understanding of acquired and genetic human
+airway diseases, including the mucus metaplasia of asthma,
+the chloride transport defects of cystic ﬁbrosis (CF), and the
+ciliary dysfunction of primary ciliary dyskinesia (PCD), has
+advanced through this model ( Clancy et al., 2019 ; Horani et al.,
+2016; Seibold, 2018).
+Several recent reports have demonstrated the successful
+directed differentiation of human induced pluripotent stem cells
+(iPSCs) into airway epithelial cell types, including those that ex-
+press the canonical BC marker TP63 ( Dye et al., 2015 ; Hawkins
+et al., 2017 ; Konishi et al., 2016 ; McCauley et al., 2017 ). These
+cultures contain cells with some markers found in BCs; however,
+the successful generation of bona ﬁde BCs with detailed charac-
+terization and demonstration of stem cell properties that are
+comparable to adult BCs has yet to be reported.
+Here, we successfully differentiate iPSCs in vitro into putative
+BCs that share transcriptional and functional similarities to their
+in vivo counterparts. The resulting approach recapitulates the
+sequence of key developmental milestones observed in mouse
+and human fetal lungs. Initially primordial lung progenitors iden-
+tiﬁed by NKX2-1 expression are produced with only low levels of
+TP63 expression detectable in a minority of cells. Subsequently,
+a developing airway program is induced characterized by co-
+expression of NKX2-1 and TP63, with subsequent maturation
+into cells expressing the functional and molecular phenotype
+of BCs. As is observed in mature primary BCs, iPSC-derived
+BCs (‘‘iBCs’’) express the cell surface marker NGFR that enables
+their puriﬁcation by ﬂow cytometry. The resulting sorted cells
+display long-term, clonal self-renewal capacity, multi-lineage
+differentiation in ALI cultures in vitro and in tracheal xenografts.
+iBCs can be applied for disease-modeling studies, exempliﬁed
+here by recapitulating essential features of asthma, CF, and
+PCD. The ability to derive tissue-speciﬁc stem cells, such as
+airway BCs, from iPSCs, including capabilities to purify, expand,
+cryopreserve, and differentiate these cells, overcomes many of
+the key hurdles that currently limit the more widespread applica-
+tion of iPSC technology and should accelerate the study of hu-
+man lung disease.
+RESULTS
+A TP63 Fluorescent Reporter Allows Visualization,
+Puriﬁcation, and Interrogation of iPSC-Derived Airway
+Progenitors
+Because NKX2-1 is the earliest transcriptional regulator ex-
+pressed in all developing lung epithelial cells and TP63 is a ca-
+nonical transcription factor required for expression of the BC
+program, we sought to generate a tool that would allow visuali-
+zation and puriﬁcation of NKX2-1+/TP63+ putative lung BCs en-
+gineered in vitro from iPSCs while excluding any non-lung BCs
+(NKX2-1/C0/TP63+; Figures 1 A and 1B). Using our published,
+normal iPSC line (BU3) that carries a GFP reporter targeted to
+the endogenous NKX2-1 locus ( Hawkins et al., 2017 ), we addi-
+tionally targeted a tdTomato reporter coding sequence into
+one allele of the endogenous TP63 locus at exon 4 to ensure re-
+porter expression reﬂects expression of the predominant known
+forms of TP63, DeltaN-type, or TA-type at the N terminus while
+avoiding bias to C-terminal splice forms, such as a-, b-, and g-
+type ( Figure 1 B; Levrero et al., 2000 ). Karyotypically normal,
+pluripotent clones with monoallelic targeting of the TP63 locus
+and biallelic targeting of the NKX2-1 locus were identiﬁed ( Fig-
+ures S1 A–S1E), thus establishing a biﬂuorescent reporter iPSC
+line, BU3 NKX2-1
+GFP;P63tdTomato, hereafter ‘‘BU3 NGPT.’’ To
+test faithfulness and speciﬁcity of the reporters, we differentiated
+this iPSC line into lung epithelium, employing our recently pub-
+lished airway-directed differentiation protocol, in which we pre-
+viously identiﬁed a population of basal-like cells based on the
+(F) Quantiﬁcation of the percentage of cells (mean ± SD), calculated by ﬂow cytometry, co-expressing NKX2-1 GFP and TP63tdTomato between days 15 and 16 and
+40–42 of differentiation (n = 6).
+(G) qRT-PCR quantiﬁcation of TP63 mRNA levels (2
+/C0DDCt) in GFP+/TOM+, GFP /C0/TOM/C0, and GFP+/TOM /C0 populations sorted by ﬂuorescence-activated cell
+sorting (FACS) compared to presort levels on day 36 of directed differentiation (*p < 0.05).
+(H) Immunolabeling of BU3 NGPT with antibodies against TP63 and RFP on day 30 of directed differentiation. The cells remained in 2D culture from day 15 t o
+facilitate antibody labeling (DNA stained with DAPI; scale bar represents 50 mm).
+ll
+Article
+Cell Stem Cell 28, 1–17, January 7, 2021 3
+Please cite this article in press as: Hawkins et al., Derivation of Airway Basal Stem Cells from Human Pluripotent Stem Cells, Cell Stem Cell (2020),
+https://doi.org/10.1016/j.stem.2020.09.017
+
+<<<PAGE 5>>>
+expression of NKX2-1, TP63, and KRT5 ( Figure 1 C; McCauley
+et al., 2017). As expected, NKX2-1 GFP+ (hereafter ‘‘GFP+’’) cells,
+a small fraction of which also expressed tdTomato (hereafter
+‘‘TOM+’’), emerged by day 15 of differentiation, as detected by
+ﬂow cytometry and ﬂuorescence microscopy (18.1% ± 19%
+GFP+; 0.4% ± 0.8% TOM+; mean ± SD). In the experiment
+shown in Figure 1E, 45.4% of cells were GFP+ and 2.5% of cells
+were GFP+/TOM+ ( Figures 1 D and 1E). Almost all TOM+ cells
+identiﬁed at this time point expressed the lung epithelial lineage
+GFP reporter ( Figure 1 E). We previously determined that GFP+
+cells at this stage of the differentiation are similar to primordial
+lung progenitors and do not express canonical markers of ex-
+tra-pulmonary NKX2-1 domains, which include the forebrain
+and thyroid ( Hawkins et al., 2017 ; Serra et al., 2017 ).
+To induce proximal airway differentiation of lung progenitors,
+GFP+ cells (regardless of TOM expression) were sorted on day
+15 of the protocol and suspended in droplets of Matrigel in our
+previously published ‘‘airway’’ serum-free medium, hereafter
+‘‘FGF2+10+DCI+Y’’ ( Figure 1 C, schematic; McCauley et al.,
+2017). Between days 28–36, monolayered epithelial spheres
+emerged and 43.7% ± 8.6% (mean ± SD; 46.6% GFP+, 24.6%
+GFP+/TOM+ in the experiment shown in Figure 1 E) of cells co-
+expressed NKX2-1
+GFP and TP63 TOM, hereafter ‘‘GFP+/TOM+’’
+(Figures 1E and 1F). A single-input GFP+ cell on day 15 yielded
+15.7 ± 8.25 GFP+/TOM+ cells by days 30–35. After single-cell
+dissociation of epithelial spheres and expansion in 3D culture
+conditions, the percentage of cells GFP+/TOM+ increased
+further to 73.7% ± 4.7% by day 42 ( Figure 1 F). Flow cytometry
+sorting on day 36 demonstrated enrichment of TP63 mRNA in
+GFP+/TOM+ cells and depletion in TOM /C0 cells ( Figure 1 G).
+TP63 protein was detected in TOM+ cells; however, TOM /C0 cells
+lacked TP63 protein ( Figures 1 H and S1F). These ﬁndings
+conﬁrmed the speciﬁcity of the tdTomato reporter. In summary,
+we determined that NKX2-1
+GFP+/TP63TOM+ cells emerge and
+can be expanded in FGF2+10+DCI+Y medium. The early emer-
+gence of tdTomato expression in some cells beginning around
+day 15 is in keeping with our prior observations in vitro (Hawkins
+et al., 2017; McCauley et al., 2017, 2018a) and in vivo (Yang et al.,
+2018; Nikoli/C19c et al., 2017 ) that Tp63 mRNA and nuclear protein
+are initially detected at this time point in a subset of early
+NKX2-1+ primordial lung epithelial progenitors soon after spec-
+iﬁcation of the respiratory lineage, even prior to airway differen-
+tiation (see schematic in Figure 1C).
+iPSC-Derived Airway Progenitors Adopt a Molecular
+Phenotype Similar to Primary Adult Basal Cells
+We next sought to characterize NKX2-1
+GFP+/TP63TOM+ cells pro-
+duced by the airway differentiation protocol in terms of capacity
+for self-renewal, multi-lineage differentiation, and expression of
+the canonical BC marker NGFR ( Figures S2 A–S2E). We sorted
+day 40–42 iPSC-derived GFP+/TOM+ cells and placed them in
+ALI 2D cultures for at least 2 weeks and observed differentiation
+into cells expressing markers of MCCs and SCs, although this dif-
+ferentiation appeared to be patchy (Figure S2A) and cells failed to
+maintain barrier function based on transepithelial electrical resis-
+tance (TEER) measurements (Figures S2A and S2B) in contrast to
+ALI-differentiated primary HBEC controls (Figures S2A and S2B).
+In keeping with these results, NGFR was expressed on only a
+small fraction, 1.9% ± 1.8%, of GFP+/TOM+ cells on day 40–42
+of differentiation, suggesting cells at this time point were unlikely
+to be mature BCs. Even after 3 additional months of serial sphere
+passaging of GFP+/TOM+ cells in 3D culture, NGFR expression
+did not signiﬁcantly increase, although GFP and TOM co-expres-
+sion was maintained in the majority of cells ( Figures S2C–S2E),
+suggesting that increased culture time alone would not induce
+BC maturation of iPSC-derived NKX2-1+/TP63+ cells.
+We reasoned that one possible explanation for the low expres-
+sion of NGFR and inconsistent multi-lineage differentiation of
+iPSC-derived cells was that GFP+/TOM+ cells were more similar
+to immature TP63+/NKX2-1+/KRT5 /C0 airway progenitors
+observed in vivo during early airway patterning and were not yet
+mature BCs ( Yang et al., 2018 ). Thus, we next sought to identify
+culture conditions that would further differentiate GFP+/TOM+
+cells into a more basal-like state, using NGFR expression as a
+readout. Recently, inhibition of SMAD and Rho-associated pro-
+tein kinase (ROCK) signaling was found to induce a proliferative
+state in primary BCs and signiﬁcantly increase overall yield from
+serially passaged cultures while maintaining, to an extent, their
+differentiation capacity ( Mou et al., 2016 ; Zhang et al., 2018 ).
+We tested whether GFP+/TOM+ iPSC-derived airway progenitors
+would selectively proliferate and possibly mature in media opti-
+mized for primary human BC culture. On days 30–32 of differen-
+tiation, GFP+/TOM+ cells were sorted, replated in 3D Matrigel,
+and exposed to a commercially available BC medium (Pneuma-
+Cult-Ex Plus) supplemented with small-molecule inhibitors of
+SMAD signaling (transforming growth factor b [TGF-b] and bone
+morphogenetic protein (BMP) inhibition with A 83-01 and
+DMH1, respectively) and Y-27632 (hereafter ‘‘BC medium’’; Fig-
+ures 2A–2D). In response to BC medium, GFP+/TOM+ spheroids
+exhibited less distinct lumens (Figure 2A) with rapid and robust in-
+duction of NGFR in GFP+/TOM+ cells within 4 days of exposure
+to BC medium (Figures 2B–2D, S2F, and S2G). For example, be-
+tween days 1 and 3, NGFR expression increased in frequency
+from /C241% to 35% in response to BC medium. By day 6, 71% ±
+5% (mean ± SD) of cells expressed NGFR (Figure 2B), suggesting
+that the change in medium formulation, rather than selective
+expansion of rare NGFR+ cells, was inducing NGFR expression
+in previously NGFR /C0 cells. In contrast, parallel aliquots of cells
+that continued in FGF2+10+DCI+Y (Figures 2B, 2D, and S2F) ex-
+pressed little to no NGFR.
+Next, to determine whether the increase in NGFR expression
+in response to BC medium was coincident with a broader
+augmentation of a mature BC program, we performed scRNA-
+seq. We differentiated BU3 NGPT iPSCs in our new protocol
+(Figure 2A), purifying GFP+/TOM+ cells on days 30–32 followed
+by replating for 3D culture in either BC medium versus continuing
+in FGF2+10+DCI+Y medium until scRNA-seq analysis on day 46.
+After quality control, a total of 7,331 cells were analyzed (Louvain
+clustering; Figure 2E) and six populations were identiﬁed based
+on the expression of canonical markers, cell cycle, and differen-
+tially expressed genes (DEGs) (1–6, in descending order of size):
+(1) ‘‘basal’’; (2) ‘‘proliferativeTP63+’’; (3) ‘‘secretory’’; (4) ‘‘
+TP63+/
+NGFR/C0’’; (5) ‘‘SCGB3A2+’’; and (6) ‘‘non-lung endoderm’’ ( Fig-
+ures 2 E, 2F, and S3A–S3C). Clusters 1, 2, and 4, with basal-
+like features, expressed key BC markers as well as TP63 and
+tdTomato, thus supporting the reporter speciﬁcity ( Figures
+S3A–S3C). As expected, NGFR was only expressed in the
+basal-like population cultured in BC medium (cluster 1;
+ll
+Article
+4 Cell Stem Cell 28, 1–17, January 7, 2021
+Please cite this article in press as: Hawkins et al., Derivation of Airway Basal Stem Cells from Human Pluripotent Stem Cells, Cell Stem Cell (2020),
+https://doi.org/10.1016/j.stem.2020.09.017
+
+<<<PAGE 6>>>
+NKX2-1GFP
+TP63tdTomato
+NGFR
+SSC
+Airway Organoids
+Day 30-35 FGF2+10+DCI+Y
+UMAP
+Basal cell signature
+UMAP1
+UMAP2
+FGF2+10+DCI+Y
+BC medium
+TP63 NGFR SCGB3A2
+UMAP1
+UMAP2
+FGF2+10+DCI+YBC medium
+Kinetics of NGFR induction
+Day 0 Day 1 Day 2 Day 3 Day 4 Day 5 Day 6 Day 7 Day 8Day 8
+BC medium
+FGF2+10 
++DCI+Y
+NGFR/TOM
+1 Basal
+2 Prolif. TP63+
+3 
+Secretory
+4 
+TP63+/NGFR-
+Louvain clustering
+5 SCGB3A2+
+6 Non-lung
+Canonical Airway Markers
+A
+DCB
+FE
+G H
+100
+80
+60
+40
+20
+GFP+/TOM+
+% NGFR+
+KRT5
+Y a
+0
+20
+40
+60
+80
+****
+ScRNA-Seq of all cells in 
+FGF2+10+DCI+Y vs BC medium
+123 45 6
+0.5
+1.0
+1.5Enrichment score
+Cluster
+PneumaCult-Ex/PneumaCult-Ex 
+Plus + A8301 +DMH1+Y
+Library 
+Best fit 
+12 34 56 7 89 1 0
+1 FGF2+10+DCI+Y
+Fetal Neuroendocrine
+Fetal MCC precursor
+Fetal Basal
+Fetal MCC
+Fetal Club-like
+Fetal Goblet-like
+Fetal intermediate MCC
+Adult MCC
+Adult Basal
+Adult Secretory
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+Fetal Adult
+2 BC medium
+(legend on next page)
+ll
+Article
+Cell Stem Cell 28, 1–17, January 7, 2021 5
+Please cite this article in press as: Hawkins et al., Derivation of Airway Basal Stem Cells from Human Pluripotent Stem Cells, Cell Stem Cell (2020),
+https://doi.org/10.1016/j.stem.2020.09.017
+
+<<<PAGE 7>>>
+Figure 2F). Notably, we have previously demonstrated that, dur-
+ing lung-directed differentiation, cells can revert to non-lung
+endodermal lineages ( Hurley et al., 2020 ; McCauley et al.,
+2018a); however, less than 0.05% of all cells were characterized
+as non-lung endoderm in this analysis ( Figure S3B).
+We next sought to quantify the transcriptomic similarities and
+differences of these iPSC-derived clusters compared to their hu-
+man airway counterparts. We included freshly isolated adult and
+fetal airway epithelia to determine the transcriptomic proﬁle of
+endogenous airway epithelial cells and also cultured human
+airway epithelium, the gold standard in vitro platform of airway
+biology. First, we generated gene signatures composed of the
+top 30 DEGs in BCs, SCs, and MCCs from scRNA-seq of cultured
+HBECs (‘‘P0’’; minimal culture) before and after ALI differentiation
+(Fulcher and Randell, 2013; Table S1; Figures S4A–S4D). The val-
+idity of these signatures was conﬁrmed by quantifying their
+expression in freshly isolated human airway epithelium from 6
+adult individuals (Carraro et al., 2020; Figure S3D). The expression
+of each signature was then visualized on a Uniform Manifold
+Approximation and Projection (UMAP) of cells from BC medium
+and FGF2+10+DCI+Y and the enrichment score for BCs, SCs,
+and MCCs measured in each of clusters 1–6. Cluster 1 (BC me-
+dium) had the highest BC enrichment score for the BC signature
+and expressed canonical BC markers, including S100A2, CAV1,
+and COL17A1 in addition to TP63, KRT5, KRT17,a n dITGB4 (Fig-
+ures 2Ga n d S3C; Rock et al., 2009; Plasschaert et al., 2018).
+In order to compare our iPSC-derived cells with adult and fetal
+lung cell types and exclude the potential confounding effects of
+in vitro culture on gene expression, we ﬁrst integrated the data-
+set of freshly isolated adult airway epithelial cells with that of fetal
+airways at different developmental time points ( Carraro et al.,
+2020b; Miller et al., 2020 ). After identifying DEGs between adult
+airway cells and their iPSC-derived counterparts ( Table S2), we
+selected primary cell comparators consisting of 7 fetal and 3
+adult airway cell types and identiﬁed 366 unique markers to
+quantify the transcriptomic similarities between iPSC-derived
+cells from FGF2+10+DCI+Y or BC medium and each of these pri-
+mary cell types using Pearson’s correlation coefﬁcients (PCCs)
+(Figure 2 H; Miller et al., 2020 ). For each iPSC-derived single
+cell, the primary epithelial cell type exhibiting the maximum
+PCC was determined and indicated as ‘‘best ﬁt.’’ Cells from
+FGF2+10+DCI+Y were best ﬁt with either ‘‘fetal basal’’ or ‘‘adult
+basal.’’ On the other hand, the majority of cells in BC medium
+were most transcriptionally similar to adult basal cells. Consis-
+tent with this assignment, NGFR expression was infrequent in
+fetal BCs (1.4%) compared to adult BCs (40%), suggesting it
+marks more mature BCs. Furthermore, primary HBECs analyzed
+in the same manner also showed a best ﬁt to adult basal cells,
+verifying the approach ( Figure S3 E). In view of their more
+basal-like transcriptional proﬁle, we designated GFP+/TOM+
+cells in BC medium as iBCs.
+Next, to interrogate possible biological differences between
+iPSC-derived cells in BC medium and both fetal and adult primary
+BCs, we used gene set enrichment analysis (GSEA) ( Figure S3F).
+Based on the observation that KRAS signaling, known to be
+downstream of ﬁbroblast growth factor (FGF), was identiﬁed in
+both comparisons and data suggesting a role for FGF10 signaling
+in primary BC development in the airways ( Ornitz and Itoh, 2015;
+Volckaert et al., 2013), we modulated FGF signaling between days
+15 and 35 of iPSC differentiation and assessed changes in the
+yield of GFP+/TOM+ cells per input cell. GFP+/TOM+ cells were
+rare in the absence of FGFs, however, increased in a FGF dose-
+dependent manner ( Figure S3 G), suggesting that FGF plays a
+role in the differentiation of immature lung progenitors into
+NKX2-1+/TP63+ cells, ﬁndings in keeping with our GSEA results.
+iBCs Exhibit Stem Cell Properties: Long-Term Self-
+Renewal and Multi-lineage Differentiation
+We next asked to what extent iBCs share the key stem cell prop-
+erties of primary BCs: long-term self-renewal and multi-lineage
+differentiation (Figures 3A–3G). In BC medium, iBCs were propa-
+gated for up to 10 passages (170 days) in 3D culture, while retain-
+ing GFP/TOM expression ( Figures 3Ba n d S5A), NGFR expres-
+sion, and a normal karyotype ( Figure S5B). One input iBC plated
+on day 45 yielded 6.9 ± 1.7 3 10
+6 cells (mean ± SD) 78 days later
+with a doubling time of 1.1 days ( Figure 3B). First, to assess the
+differentiation and self-renewal of individual cells, we adapted
+the 3D tracheosphere assay previously published for primary
+BCs (Rock et al., 2009). We established a seeding density at which
+>95% of spheres were clonally derived from a single iBC ( Fig-
+ure S5C). At this clonal density, NGFR+ sorted iBCs were cultured
+in either BC maintenance or differentiation ‘‘ALI’’ media. In both
+conditions, spheres formed and were composed of a stratiﬁed-
+appearing layer of predominantly NKX2-1+ cells ( Figure 3 C). In
+BC medium, NKX2-1+/TP63+ cells were readily identiﬁed in the
+outermost cell layer of all spheres. In the differentiation medium,
+Figure 2. NKX2-1 GFP+/TP63tdTomato+ Cells Adopt a Molecular Signature Similar to Primary Basal Cells
+(A) Schematic of experiment: GFP+/TOM+-sorted cells were suspended in 3D Matrigel between days 30–35 of differentiation in FGF2+FGF10+DCI+Y or pri mary
+BC media. After 12–14 days, morphology and tdTomato ﬂuorescence were assessed (left panel) and the expression of NKX2-1 GFP, TP63 tdTomato, and NGFR
+quantiﬁed by ﬂow cytometry (middle and right panel, representative plots). See Figure S2 for additional details.
+(B) Kinetics of NGFR induction, quantiﬁed by ﬂow cytometry in response to primary BC medium compared to continued FGF2+FGF10+DCI+Y over 8 days
+between days 33–41 (n = 3).
+(C) NGFR protein immunostaining (cyan) of BU3 NGPT cells in primary BC medium compared to TP63
+tdTomato ﬂuorescence (scale bar represents 20 mm).
+(D) Percentage of NGFR+ cells (mean ± SD) quantiﬁed by ﬂow cytometry between days 40–50 (n = 12) (****p < 0.0001).
+(E) scRNA-seq of day 46 cells from BC or FGF2+FGF10+DCI+Y media. UMAP (left panel) displays the distribution based on culture conditions used to treat cells.
+Louvain clustering (res = 0.25) identiﬁes 6 clusters (1–6).
+(F) UMAP of canonical BC ( TP63, NGFR, and KRT5) and SC ( SCGB3A2) markers.
+(G) UMAP of the expression of BC signature (left) and graph of BC gene signature enrichment score (‘‘basal’’ = 0.84 ± 0.24; ‘‘proliferative TP63+’’ = 0.52 ± 0.24;
+‘‘secretory’’ = 0.51 ± 0.18 ‘‘ TP63+/NGFR/C0’’ = 0.51 ± 0.15; ‘‘ SCGB3A2+’’ = 0.32 ± 0.15; mean enrichment score ± SD). See also Figures S3 and S4.
+(H) Heatmap showing all calculated pairwise PCCs between freshly isolated primary human airway cells (without culturing) and all iPSC-derived cell s on day 46
+grown in either FGF2+FGF10+DCI+Y or BC medium. Ten fetal and adult primary airway epithelial cell types are shown. Colors of the best ﬁt annotation rep resent
+the epithelial cell type with the highest PCCs for each iBC in each cultured sample.
+ll
+Article
+6 Cell Stem Cell 28, 1–17, January 7, 2021
+Please cite this article in press as: Hawkins et al., Derivation of Airway Basal Stem Cells from Human Pluripotent Stem Cells, Cell Stem Cell (2020),
+https://doi.org/10.1016/j.stem.2020.09.017
+
+<<<PAGE 8>>>
+(legend on next page)
+ll
+Article
+Cell Stem Cell 28, 1–17, January 7, 2021 7
+Please cite this article in press as: Hawkins et al., Derivation of Airway Basal Stem Cells from Human Pluripotent Stem Cells, Cell Stem Cell (2020),
+https://doi.org/10.1016/j.stem.2020.09.017
+
+<<<PAGE 9>>>
+BCs, MCCs, and SCs were identiﬁed in all spheres, suggesting
+self-renewal and clonal multi-lineage differentiation of iBCs ( Fig-
+ures 3Ca n d S5D). In extended 3D culture in BC medium without
+passaging, some spontaneous differentiation of iBCs into secre-
+tory and MCCs was observed (Figure S5E). Next, to further study
+differentiation, we generated 2D ALI cultures from iBCs. On day
+46, NGFR+ iBCs were sorted and plated on Transwell inserts in
+differentiation ALI medium and compared to presorted cells
+(schematic in Figure 3 A). Without NGFR sorting, we observed
+patchy differentiation in Transwell cultures, evident as frequent
+areas devoid of staining for the above lung markers and some
+areas devoid of TOM expression ( Figure 3 D). In contrast,
+NGFR+ sorted iBCs initially formed a conﬂuent TOM+ epithelial
+layer in submerged culture, and after 16 days in air-phase culture,
+SCs (SCGB1A1+ and MUC5AC+) and beating MCCs were distrib-
+uted homogeneously across the entire Transwell (Figure 3E; Video
+S1). Confocal microscopy and transverse sections conﬁrmed that
+NGFR+ sorted cells had formed pseudostratiﬁed epithelia
+composed of MCCs (Acetylated tubulin [ACT]+ and FOXJ1+)
+and SCs (SCGB1A1+ and MUC5AC+; Figures 3 E–3G). Impor-
+tantly, after ALI differentiation, iBCs had also formed TP63+/
+KRT5+/NGFR+ cells with the expected basal location of bona
+ﬁde BCs, along the basal membrane ( Figure 3 G). When iBCs
+and primary HBECs were differentiated in identical ALI conditions,
+trilineage differentiation from both starting cell types was easily
+detected by immunostaining (TP63+ cells: 13.3% ± 2.7% versus
+27.9% ± 6.1%; FOXJ1+ cells: 42.4% ± 3.3% versus 19.6% ±
+2%; MUC5AC+ cells: 9.4% ± 1.7% versus 16.3% ± 4.5%;
+SCGB1A1+ cells: 8.2% ± 0.4% versus 18.8% ± 2.1% [mean
+cell frequency ± SD; iBC versus primary HBEC]). Both NGFR
+sorted and GFP+/TOM+ iBCs formed epithelial layers with similar
+TEER to primary controls and signiﬁcantly higher TEER than ALI
+differentiations prepared in parallel from GFP+/TOM+ cells that
+had been maintained in FGF2+10+DCI+Y without BC medium
+maturation (Figure 3H). Next, we tested the extent to which the
+multi-lineage differentiation capacity of iBCs was maintained after
+extended in vitro expansion in BC medium. After 10 passages of
+expansion, iBCs retained their capacity to form trilineage, pseu-
+dostratiﬁed airway epithelium when transferred to ALI culture (Fig-
+ure S5F). After cryopreservation and subsequent thaw, iBCs re-
+tained their expression of BC markers, proliferated in BC
+medium, and retained TEER and trilineage differentiation potential
+in ALI conditions (Figures 3Ia n dS6A–S6E). Taken together, these
+results indicated successful derivation from iPSCs of iBCs that
+exhibit the airway stem cell properties of self-renewal and multipo-
+tent differentiation.
+scRNA-Seq of iBC-Derived Airway Epithelium
+To more completely assess the molecular phenotypes of the differ-
+entiated cell types generated from iBCs, we performed scRNA-
+seq of ALI cultures from NGFR-sorted cells ( Figure 4A). Louvain
+clustering identiﬁed ﬁve clusters (1–5) with gene expression pro-
+ﬁles reminiscent of airway epithelial cell types and one proliferative
+cluster (6; Figures 4A–4E, S7A, and S7B). We found no discrete
+cluster of non-lung endoderm cells (low to undetectable CDX2,
+AFP,a n d ALB). We compared the top 20 DEGs in each cluster
+to the scRNA-seq dataset of differential gene expression in pri-
+mary airway epithelial cell types ( Figures 4 Ba n d S4; Table S1 )
+and published datasets ( Plasschaert et al., 2018 ) and annotated
+the cell types as follows: secretory (cluster 2, DEGs: SCGB1A1,
+SCGB3A2, MUC5B, C3, XBP1
+, CEACAM6,a n d CXCL1); basal
+(cluster 6, DEGs: KRT5, KRT17,a n d S100A2); ‘‘intermediate’’
+(cluster 1, DEGs: KRT4, KRT12, KRT13,a n d KRT15); ‘‘immature
+MCC’’ (cluster 3, DEGs: CCNO, CDC20b,a n d NEK2); and
+‘‘MCC’’ (cluster 4, DEGs: TUBB4B, TUB1A1, TPP3,a n d CAPS;
+Figures 4A–4E, S7A, and S7B). Enrichment scores for gene signa-
+tures of primary BCs, SCs, and MCCs correlated with these anno-
+tated clusters with enrichment scores of 0.77 ± 0.16, 0.54 ± 0.26,
+and 1.54 ± 0.27 (mean enrichment score ± SD), respectively (Fig-
+ures 4Da n dS7A). FOXJ1, a key transcription factor expressed in
+MCCs, was found enriched in both ciliated cell clusters (Figure 4C);
+however, FOXN4, recently identiﬁed as a marker of immature pri-
+mary human airway MCCs, was found only in the immature
+iPSC-derived MCCs (Figure S7A; Plasschaert et al., 2018). There
+was no evidence to suggest the presence of ionocytes or neuroen-
+docrine or alveolar epithelial cells among the 3,500 iPSC-derived
+cells analyzed (data not shown). To quantify the transcriptomic
+similarities of iPSC-derived SCs and MCCs to fetal and adult
+MCCs and SCs, we used PCC and the 10 fetal and adult airway
+cell types as shown in 2H ( Figure S7C). Similar to HBEC-derived
+ALI (Figure S3E), we detected cells with gene-expression patterns
+consistent with BCs, SCs, and MCCs. iPSC-derived MCCs were
+Figure 3. iBCs Undergo Self-Renewal and Multi-lineage Differentiation
+(A) Schematic of experiment: GFP+/TOM+ cells sorted on approximately day 40 of differentiation expanded in BC medium and then characterized in termsof self-
+renewal and multi-lineage differentiation in ALI.
+(B) Representative ﬂow cytometry plots of NKX2-1
+GFP versus TP63tdTomato expression in cells at passage 7, following expansion in 3D culture with BC medium
+(left panel). Per input sorted GFP+/Tom+ cell on day 45, we calculated the yield up to 123 days of directed differentiation (right panel).
+(C) Immunolabeling of representative spheroid on day 83 of differentiation in either BC medium (left and middle panel) or after 10 days in ALI differen tiation
+medium (right panel) with antibodies indicated (DNA stained with Hoechst; scale bar represents 50 mm). See also Figure S5D.
+(D and E) GFP+/TOM+ cells were expanded in BC medium until day 46 and plated on Transwells with (E) or without (D) GFP/TOM/NGFR sorting. Representative
+images of the endogenous TP63
+tdTomato ﬂuorescence during culture of BU3 NGPT-derived ALI are shown. Stitched image of whole Transwell insert (Ø = 6.5 mm;
+1st column) and zoom in (2nd column) is shown. Immunolabeling with antibodies indicated after 16 days of ALI culture is shown (3 rd and 4th columns; DNA stained
+with DRAQ5; scale bar represents 100 mm).
+(F) Confocal microscopy of BU3 NGPT-derived ALI cultures shown in (E) and immunolabeled with antibodies indicated (DNA stained with DRAQ5; scale bar
+represents 100 mm).
+(G) Transverse section of BU3 NGPT-derived ALI cultures shown in (E) and stained with hematoxylin and eosin or antibodies indicated (DNA stained with DAPI;
+scale bar represents 100 mm).
+(H) TEER measurements (mean ± SD) of Transwell ALI cultures, comparing GFP+/TOM+ from FGF2+10+DCI+Y (n = 5), BC medium with (n= 4) or without (n = 5)
+NGFR sorting, and primary HBEC controls (n = 21).
+(I) TP63
+tdTomato ﬂuorescence in BU3 NGPT iBCs after cryopreservation and thaw (scale bar represents 200 mm; left panel). Immunolabeling of ALI cultures
+generated from cryopreserved iBCs with antibodies indicated is shown (scale bar represents 100 mm).
+ll
+Article
+8 Cell Stem Cell 28, 1–17, January 7, 2021
+Please cite this article in press as: Hawkins et al., Derivation of Airway Basal Stem Cells from Human Pluripotent Stem Cells, Cell Stem Cell (2020),
+https://doi.org/10.1016/j.stem.2020.09.017
+
+<<<PAGE 10>>>
+A
+B
+C
+D
+E
+F
+(legend on next page)
+ll
+Article
+Cell Stem Cell 28, 1–17, January 7, 2021 9
+Please cite this article in press as: Hawkins et al., Derivation of Airway Basal Stem Cells from Human Pluripotent Stem Cells, Cell Stem Cell (2020),
+https://doi.org/10.1016/j.stem.2020.09.017
+
+<<<PAGE 11>>>
+transcriptionally distinct and best ﬁt with ‘‘fetal MCC’’ or ‘‘fetal
+MCC precursor’’ cell types. The remaining cells were predomi-
+nantly best ﬁt with fetal basal or ‘‘fetal club-like’’ cell types. The
+expression levels of key airway epithelial markers in iBC-derived
+ALI cultures were conﬁrmed using qRT-PCR and directly
+compared to primary controls cultured in identical conditions (Fig-
+ure 4 F). In both primary and iPSC-derived samples, there was
+robust upregulation of FOXJ1, MUC5AC,a n d SCGB1A1. FOXJ1
+expression was signiﬁcantly higher and MUC5AC expression
+lower in iPSC-derived ALI cultures (Figure 4F). SCGB3A2 was ex-
+pressed in iPSC-derived ALI cultures, but not detected at signiﬁ-
+cant levels in primary HBEC-derived ALI cultures, whereas
+SCGB1A1 expression was similar between both samples ( Fig-
+ure 4F). We note that iBCs yielded pseudostratiﬁed airway epithe-
+lium composed of BCs, MCCs, and SCs, irrespective of whether
+PneumaCult-ALI or UNC-ALI media were utilized in ALI cultures
+(Figures S7D and S7E).
+iBCs Form a Differentiated Airway Epithelium in a
+Tracheal Xenograft
+Engraftment and regenerationin vivo after transplantation is a crit-
+ical measure of stem cell function that has been successfully
+tested for several non-lung tissues, such as the hematopoietic
+system, but remains a major challenge for lung epithelia, with
+only limited success reported to date in the airways ( Ghosh
+et al., 2017 ; Miller et al., 2018 ; Nichane et al., 2017 ). We sought
+to determine whether iBCs could establish an airway epithelium
+in vivo using the tracheal xenograft model ( Everitt et al., 1989 ).
+Rat tracheas were completely decellularized by repeated freeze
+thaws, seeded with NGPT-derived iBCs, implanted subcutane-
+ously into the ﬂanks of Foxn1
+nu immune-compromised mice,
+and then followed for 3 weeks after transplantation ( Figure 5 A).
+Air exposure through the trachea was maintained in vivo using
+open-ended tubing. After 3 weeks, a stratiﬁed or pseudostratiﬁed
+epithelial layer of cells had formed ( Figure 5B). Using antibodies
+against canonical markers, we identiﬁed BCs (KRT5+) occupying
+the expected positions along the basement membrane and SCs
+(SCGB1A1+, MUC5AC+, and MUC5B+) and MCCs (ACT+) ori-
+ented toward the air-ﬁlled tracheal lumen ( Figure 5 C). NKX2-
+1
+GFP and TP63tdTomato expression were detected throughout the
+sections of epithelium analyzed, conﬁrming its origin from trans-
+planted rather than endogenous cells ( Figure 5 C). In summary,
+in the tracheal xenograft model, iBCs form an airway epithelium
+similar in structure and composition to in vivo airways.
+Selection of iBCs from Non-reporter iPSCs Lines Using
+Antibodies Directed against Surface Markers
+To expand the application of iBCs for disease modeling, we ﬁrst
+sought to adapt our approach so that a diversity of normal or pa-
+tient-speciﬁc iPSC lines could be differentiated into iBCs without
+requiring the use of knockin ﬂuorochrome reporters. We found
+through repeating our protocol with the BU3 NGPT line, we could
+replace GFP+/TOM+ sorting with antibody-based sorting of
+NGFR+ cells to prospectively isolate putative iBCs ( Figure 6 ).
+For example, cells grown until days 40–42 with our protocol ( Fig-
+ures 6A–6C) were 73.7% ± 5.9% (mean ± SD) GFP/TOM double
+positive, and gating on NGFR+/EpCAM+ cells yielded a popula-
+tion of cells highly enriched in GFP/TOM co-expressing cells
+(94.3% ± 1.1%; mean ± SD; Figure 6B). A representative exper-
+iment is shown in Figure 6 B: 73.6% of cells were GFP+/TOM+;
+55.3% were NGFR+/EPCAM+; and 94.5% of sorted NGFR+/
+EPCAM+ cells were GFP+/TOM+. Sorting solely on NGFR+ or
+NGFR+/EpCAM+ and replating cells in ALI cultures resulted in
+successful derivation of a TOM+ pseudostratiﬁed airway epithe-
+lium, similar to sorting GFP+/TOM+/NGFR+ cells and in contrast
+to unsorted controls ( Figure 6 C). Four additional iPSC lines
+(DD001m, PCD1, 1566, and 1567) and an embryonic stem cell
+(ESC) line (RUES2) were also differentiated, recapitulating our
+BC differentiation protocol while completely replacing the need
+for ﬂuorescent reporters through the use of CD47
+hi/CD26neg
+sorting on day 15 to purify NKX2-1+ progenitors as we have pub-
+lished ( Hawkins et al., 2017 ), followed by NGFR+ sorting after
+day 40 to purify candidate iBCs (see STAR Methods and sche-
+matic in Figure 6 A). NGFR+ cells from all ﬁve iPSC/ESC lines
+differentiated into pseudostratiﬁed epithelia composed of
+MCCs, SCs, and BCs ( Figures 6D–6G).
+iBCs Model Biological Features of the Airway Diseases:
+Asthma, CF, and PCD
+Human airway epithelium has diverse biologic and physiologic
+roles, some of which are uniquely affected by disease. We tested
+whether iBC-derived ALI cultures could recapitulate features of
+the three airway disorders with distinct epithelial characteristics:
+(1) mucus cell metaplasia in asthma; (2) abnormal ion-ﬂux seen in
+CF; and (3) defective ciliary beating seen in PCD. First, we tested
+whether iBC-derived ALI cultures could recapitulate the mucus
+cell metaplasia seen in asthma. Interleukin-13 (IL-13) is an in-
+ﬂammatory cytokine in asthma and can induce mucus meta-
+plasia. A number of studies, in mice and primary human airway
+epithelial cell cultures, have found IL-13 leads to increased
+MUC5AC+ cell numbers via the activation of STAT6 and SPDEF,
+at the expense of MCCs and MUC5B+ cell frequencies ( Kondo
+et al., 2002 ; Seibold, 2018 ; Woodruff et al., 2009 ). In response
+to IL-13 added on day 10 of ALI differentiation of iBCs, we found
+a signiﬁcant 1.75-fold increase in numbers of MUC5AC+ cells
+(p = 0.002), increased expression of the goblet cell transcrip-
+tional regulator SPDEF, and a decrease in MUC5B expression
+(Figures 7 A–7C). Next, we applied our antibody-based iBC
+Figure 4. scRNA-Seq Proﬁling of iBCs and Their Differentiated Progeny
+(A) Schematic of scRNA-seq experiment and UMAP with Louvain clustering (clusters 1–6) of iBC-derived ALI. See also Figures S4 and S7.
+(B) Top 20 differentially expressed genes (DEGs) per cluster.
+(C) UMAPs of primary BC, SC, and MCC gene signatures applied to iBC-derived ALI (upper row). Violin plots of the enrichment score of clusters 1–6 for BC, SC,
+and MCC gene signatures (lower panel).
+(D) UMAPs of the canonical BC, SC, and MCC markers across clusters 1–6.
+(E) Violin gene expression plots of same panel of markers shown in (D).
+(F) qRT-PCR validation of key airway markers in iBC-derived ALI (iBC-ALI) compared to primary HBEC-derived ALI (HBEC-ALI) in PneumaCult ALI medium. Fold
+change is 2
+/C0DDCt normalized to undifferentiated iPSCs (*p < 0.05; **p < 0.01, error bars represent mean ± SD).
+ll
+Article
+10 Cell Stem Cell 28, 1–17, January 7, 2021
+Please cite this article in press as: Hawkins et al., Derivation of Airway Basal Stem Cells from Human Pluripotent Stem Cells, Cell Stem Cell (2020),
+https://doi.org/10.1016/j.stem.2020.09.017
+
+<<<PAGE 12>>>
+puriﬁcation protocol for modeling the genetic airway diseases
+CF and PCD (Figure 7D). We identiﬁed a CF patient homozygous
+for the most common CFTR mutation (c.1521_1523delCTT,
+p.Phe508del) and a PCD patient homozygous for one of
+the most common mutations in DNAH5 (c.12617G>A,
+p.Trp4206Ter) and generated iPSCs from these individuals
+(see STAR Methods and Figure S1 ). For CF modeling, we ﬁrst
+used gene editing to correct the F508del CFTR mutation. Pre-
+and post-gene corrected paired syngeneic iPSC clones (here-
+after CF and Corr CF) were differentiated into iBCs in our proto-
+col, sorted using our antibody-based–method and generated ALI
+cultures composed of BCs, SCs, and MCCs ( Figures 6 A and
+S7F). CFTR-dependent current, representing ion ﬂux regulated
+by apically localized CFTR, was measured using the gold-stan-
+dard Ussing chamber approach. As expected, Ussing chamber
+analysis indicated minimal CFTR-dependent current in CF ALI
+cultures (forskolin DIsc = 0.8 mA/cm
+2; CFTRInh-172 DIsc =
+/C00.8 mA/cm2). In marked contrast, correction of the F508del mu-
+tation led to restoration of CFTR-dependent current (forskolin
+DIsc = 35.1 ± 1.8 mA/cm2; CFTRInh-172 DIsc = /C043.2 ±
+A
+B
+C
+Figure 5. iBCs Establish Pseudostratiﬁed,
+Well-Differentiated Airway Epithelium
+In Vivo in Tracheal Xenografts
+(A) Schematic of experimental procedure used to
+generate tracheal xenografts.
+(B) Magniﬁed image (left panel; scale bar repre-
+sents 50 mm) of xenograft epithelium established
+from BU3 NGPT iBCs stained with hematoxylin
+and eosin; the location of this region within the
+transverse section of the xenograft is shown in the
+right panel. White arrows indicate examples of
+MCCs.
+(C) Immunolabeling of the xenograft epithelium
+with the indicated antibodies. Anti-GFP and anti-
+RFP antibodies were used to detect the expres-
+sion of each ﬂuorochrome reporter that had been
+targeted to the donor human cell loci, NKX2-1
+GFP,
+and TP63 tdTomato, respectively. DAPI staining in-
+dicates DNA (scale bar represents 50 mm).
+2.5 mA/cm2; Figures 7 E and 7F). Similar
+results were obtained from 2 additional
+CF iPSC lines following CFTR gene
+correction (data not shown). A limitation
+of primary HBECs in CF studies is the
+decrease in CFTR-dependent current
+with extended passage of primary
+HBECs ( Gentzsch et al., 2017 ). To
+address this possibility in iPSC-derived
+airway epithelium, we performed Ussing
+chamber analysis on ALI cultures gener-
+ated from the NGPT line before and after
+cryopreservation of iBCs and after in vitro
+expansion of iBCs up to day 87 and
+found CFTR-dependent current was re-
+tained (Figure S6F).
+To develop a model for PCD, we differ-
+entiated our PCD iPSC line carrying the
+DNAH5 mutation and generated ALI cul-
+tures containing MCCs. We compared these cells to control ALI
+cultures from BU3 NGPT iBCs, primary nasal epithelium from the
+PCD donor, and normal primary HBECs. Cilia motility was not
+detected in the MCCs generated from either the DNAH5 mutant
+iPSC line or from DNAH5 mutant primary cells, in contrast to
+normal controls ( Video S2 ). The possibility that DNAH5 mutant
+iPSCs had failed to produce cilia was excluded by immunoﬂuo-
+rescent staining with antibodies against ACT, which conﬁrmed
+the widespread presence of normal-appearing cilia in all sam-
+ples (Figures 7G, S7F, and S7G). In addition, increased tethering
+of MUC5AC+ mucus strands was observed on the apical surface
+of the differentiated epithelium generated from the mutant iPSCs
+(Figure S7F).
+In MCCs generated from normal iPSCs and normal HBECs,
+DNAH5 protein was present and colocalized with ACT along
+the length of cilia although DNAH5 protein was not detected in
+either PCD iPSC-derived or primary nasal-derived MCC cells
+(Figure 7G). In contrast, DNALI1, an inner dynein arm (IDA) pro-
+tein, was detectable by immunostaining, suggesting an intact
+IDA complex ( Figure S7 G). Transmission electron microscopy
+ll
+Article
+Cell Stem Cell 28, 1–17, January 7, 2021 11
+Please cite this article in press as: Hawkins et al., Derivation of Airway Basal Stem Cells from Human Pluripotent Stem Cells, Cell Stem Cell (2020),
+https://doi.org/10.1016/j.stem.2020.09.017
+
+<<<PAGE 13>>>
+A
+B
+C
+F
+DE
+G
+(legend on next page)
+ll
+Article
+12 Cell Stem Cell 28, 1–17, January 7, 2021
+Please cite this article in press as: Hawkins et al., Derivation of Airway Basal Stem Cells from Human Pluripotent Stem Cells, Cell Stem Cell (2020),
+https://doi.org/10.1016/j.stem.2020.09.017
+
+<<<PAGE 14>>>
+of DNAH5 mutant iPSC-derived MCCs cells showed lack of the
+outer dynein arm (ODA), identical to the defect in cilia of nasal
+cells obtained from the patient and in contrast to MCCs obtained
+from control iPSC and normal HBEC ( Figures 7G and 7H). Ciliary
+beat frequency (CBF) was not detected in DNAH5 mutant MCCs
+from the patient or from mutant iPSCs, whereas CBF was similar
+between normal HBECs and BU3 NGPT-derived MCCs ( Fig-
+ure 7I). Taken together, these results indicate that iPSC-derived
+airway epithelium shares key physiologic and biologic features
+with human airway epithelium. In addition, patient-speciﬁc
+iBCs puriﬁed without using ﬂuorescent protein reporters can
+be successfully applied to model a variety of airway epithelial
+diseases, including CF and PCD.
+DISCUSSION
+Here, we report the differentiation of iPSCs into iBCs, cells that
+are molecularly and functionally similar to the predominant
+stem cell of human airways, the basal cell. We demonstrate
+the potential of these iBCs to model human development and
+disease and provide evidence of their capacity to regenerate
+airway epithelium in vivo in a tracheal xenograft model.
+The derivation of a tissue-resident stem cell from human iPSCs
+has considerable implications for regenerative medicine
+research as it overcomes several important hurdles currently
+limiting progress in this ﬁeld. For example, despite signiﬁcant
+progress in recent years, directed differentiation protocols are
+often lengthy, complex, and yield immature and heterogeneous
+cells (Dye et al., 2015 ; Firth et al., 2014 ; Gotoh et al., 2014 ; Haw-
+kins et al., 2017; Huang et al., 2014; Jacob et al., 2017; McCauley
+et al., 2017; Miller et al., 2018). Frequently, these issues are due to
+lack of precise knowledge regarding developmental roadmaps
+associated with cellular embryonic origin. TP63+ populations
+have previously been observed stochastically in iPSC-directed
+differentiation protocols, and their characterization was based
+only on the expression of a handful of canonical markers, limiting
+any conclusions as to whether basal-like cells had been pro-
+duced (Hawkins et al., 2017 ; McCauley et al., 2017 ; Chen et al.,
+2017; Konishi et al., 2016 ; Dye et al., 2015 ). Without the ability
+to purify these cells from the heterogeneous mix of other iPSC-
+derived lineages, little progress has been made in phenotyping
+or testing their functional potential. Here, we report several ad-
+vances that culminate in the efﬁcient derivation and puriﬁcation
+of BCs from iPSCs. Using a dual-ﬂuorescence BC reporter
+iPSC line, we recapitulatedin vitro the milestones of in vivo airway
+development and BC speciﬁcation ( Yang et al., 2018). First, dur-
+ing the emergence of the earliest detectable lung epithelial pro-
+gram, rare TP63+ cells were detected. Next, in response to the
+withdrawal of Wnt signaling and in the presence of FGF2 and
+FGF10, an immature airway program with upregulation of TP63
+and SCGB3A2 was evident. In response to primary BC medium
+and inhibition of SMAD signaling, these TP63+ cells adopted mo-
+lecular and functional phenotypes similar to adult BCs, including
+the capacity for extensive self-renewal for over 150 days in cul-
+ture and multi-lineage airway epithelial differentiation both
+in vitro and in vivo. We conclude that the resulting cells fulﬁll the
+criteria to be termed iBCs.
+From a practical perspective, insight and methodologies
+developed herein should expand the application of iPSC tech-
+nology. The shared properties of primary BCs and iBCs for
+expansion and differentiation in ALI culture makes them attrac-
+tive for a variety of in vitro or in vivo applications. Speciﬁcally,
+the ability to purify iBCs based on the surface marker NGFR,
+expand the resulting cells in 3D culture, and cryopreserve cells
+should minimize variability associated with directed differentia-
+tion and can potentially offset the cost and time required for
+these protocols.
+In terms of the utility of this platform for disease modeling, we
+selected diseases with unique research challenges. In asthma,
+the epithelium plays a sentinel role in pathogenesis, and there
+is signiﬁcant interest in understanding epithelial dysfunction
+and the contribution of genetic variants to asthma susceptibility
+(Loxham et al., 2014). Here, we demonstrate that a mucus meta-
+plasia phenotype is induced in iPSC-derived airway epithelium in
+response to stimulation with the Th-2 cytokine IL-13. In CF,
+where many mutations in one gene necessitate individual
+models of disease for predicting personalized therapeutics, we
+demonstrated that patient-speciﬁc iPSCs or their gene-edited
+progeny can be differentiated into iBCs and give rise to airway
+epithelia exhibiting quantiﬁable CFTR-dependent currents of
+sufﬁcient magnitude for disease modeling using the gold-stan-
+dard Ussing chamber assay of CFTR function. Although we did
+not detect airway ionocytes in our scRNA-seq proﬁles of iPSC-
+derived cells, given the known rarity of this cell type in vivo or
+in cultured HBEC preparations, further work is required to deter-
+mine whether ionocytes, which are known to be rich in CFTR
+(Plasschaert et al., 2018), occur at low frequencies in our cultures
+or contribute in any way to the currents we measured. For PCD,
+where many mutations in many genes controlling ciliogenesis
+can contribute to the disease, we determined that iBC-derived
+MCCs model both the functional and ultrastructural defects
+observed in DNAH5 mutant primary-donor-derived cells. These
+proof-of-concept experiments suggest that the iPSC platform
+may be helpful in determining mechanisms of pathogenicity for
+Figure 6. A Surface Marker Strategy for Purifying iBCs Using NGFR Replaces the Need for Fluorescent Reporters
+(A) Schematic of NKX2-1 GFP/TP63tdTomato reporter versus surface marker iBC protocols.
+(B) Representative ﬂow cytometry plots of BU3 NGPT iBCs on day 40 of differentiation and labeled with antibodies against NGFR and EpCAM. Red arrow in-
+dicates sorted NGFR+/EpCAM+ cells are 94.5% GFP+/TOM+. Enrichment is quantiﬁed (mean ± SD) in the right panel (n = 3).
+(C) Representative images of the endogenous TP63
+tdTomato ﬂuorescence in whole Transwell ﬁlters (Ø = 6.5 mm) seeded with sorted (NGFR+/EpCAM+) or un-
+sorted cells during submerged culture and after ALI culture.
+(D) Representative ﬂow cytometry plot of a non-reporter iPSC line (DD001m) stained for NGFR is shown.
+(E) Representative image of sorted NGFR+ cells plated on Transwell ﬁlters and after 7 days immunolabeled with an anti-TP63 antibody (DNA stained with
+Hoechst; scale bar represents 100 mm).
+(F) Confocal microscopy of DD001m iPSC-derived ALI cultures immunolabeled with antibodies indicated (scale bar represents 200 mm).
+(G) Representative image of RUES2 ESC-derived ALI immunolabeled with an anti-ACT antibody (DNA stained with DRAQ5; scale bar represents 200 mm; upper
+left) and confocal microscopy of it immunolabeled with antibodies indicated (DNA stained with DRAQ5; scale bar represents 100 mm).
+ll
+Article
+Cell Stem Cell 28, 1–17, January 7, 2021 13
+Please cite this article in press as: Hawkins et al., Derivation of Airway Basal Stem Cells from Human Pluripotent Stem Cells, Cell Stem Cell (2020),
+https://doi.org/10.1016/j.stem.2020.09.017
+
+<<<PAGE 15>>>
+A
+BC
+DE F
+G H
+I
+(legend on next page)
+ll
+Article
+14 Cell Stem Cell 28, 1–17, January 7, 2021
+Please cite this article in press as: Hawkins et al., Derivation of Airway Basal Stem Cells from Human Pluripotent Stem Cells, Cell Stem Cell (2020),
+https://doi.org/10.1016/j.stem.2020.09.017
+
+<<<PAGE 16>>>
+genetic airway diseases and may serve as a platform to develop
+novel therapeutics.
+Limitations of Study
+Although we conclude that iBCs share essential features with their
+endogenous counterparts, several questions remain, including the
+maturity status, regionality, genetic stability, and in vivo compe-
+tence of iBCs. Typically, iPSC-derived specialized cell types are
+at fetal stages of development ( Studer et al., 2015). Although the
+transcriptomes of iBCs were most similar to adult BCs in our anal-
+ysis, their differentiated progeny (SCs and MCCs) were more
+similar to fetal equivalent cell types than to freshly isolated adult
+cells. This may indicate differences in maturity or reﬂect the limited
+duration of in vitro differentiation from the BC state or regional dif-
+ferences not represented in scRNA-seq adult airway samples.
+We note differences in the pattern of expression of two secreto-
+globins, SCGB3A1 and SCGB3A2, in iPSC-derived cells
+compared to primary cells. SCGB3A1, predominantly expressed
+in the larger airway, is the most highly expressed gene in primary
+BC-derived SCs although SCGB3A2 is expressed at very low
+levels. iBC-derived SCs express high SCGB3A2 and low/absent
+SCGB3A1. These differences further raise the question of immatu-
+rity and/or proximal/distal patterning (Reynolds et al., 2002)o fi B C s .
+Finally, we provide evidence of the potential of iBCs to regen-
+erate an airway epithelium in vivo in a tracheal xenograft. This
+approach does not recapitulate the ultimate clinical goal of ortho-
+topic transplantation of cells for in vivo airway reconstitution.
+Limited progress has been made to date in engrafting cells in
+the airways ( Ghosh et al., 2017 ; Miller et al., 2018 ; Nichane
+et al., 2017 ). As this ﬁeld advances, determining the extent to
+which transplanted iBCs might engraft and integrate with endog-
+enous airway epithelium will be required as a ﬁrst step toward
+future therapies, whereby autologous gene-edited iBCs may
+eventually be employed therapeutically for in vivo reconstitution
+of airway epithelial function for individuals with genetic airway
+disease (Berical et al., 2019 ). That said, efﬁcient derivation of an
+identiﬁable, tissue-speciﬁc stem cell capable of long-term self-
+renewal, cryopreservation capacity, and retained multi-lineage
+differentiation overcomes many of the hurdles that face iPSC
+technology for studies of respiratory mucosa and diseases of pul-
+monary epithelium.
+STAR+METHODS
+Detailed methods are provided in the online version of this paper
+and include the following:
+d KEY RESOURCES TABLE
+d RESOURCE AVAILABILITY
+B Lead Contact
+B Materials Availability
+B Data and Code Availability
+d EXPERIMENTAL MODEL AND SUBJECT DETAILS
+B Human subjects
+B Human iPSC reprogramming and iPSC/ESC main-
+tenance
+B Basal cell reporter iPSC
+B Gene corrected CF-iPSCs
+B Primary HBECs and human airway tissue
+B Animals
+d METHOD DETAILS
+B Differentiation of hPSCs into airway organoids
+B Sorting of PSC-derived lung and airway progenitors
+B Generation, puriﬁcation and maintenance of iBCs
+B ALI culture of iBCs or other iPSCs-derived AECs
+B Flow cytometry analysis
+B Histological analysis
+B Single-cell RNA-sequencing
+B Quantiﬁcation of the similarity between AECs
+B Tracheal xenografts
+B Epithelial cell electrophysiological analysis
+B Limiting dilution and tracheosphere assays
+B Mucus cell metaplasia model
+B Quantitative RT-PCR
+B Transmission electron microscopy
+B High speed video-microscopy
+d QUANTIFICATION AND STATISTICAL ANALYSIS
+SUPPLEMENTAL INFORMATION
+Supplemental Information can be found online at https://doi.org/10.1016/j.
+stem.2020.09.017.
+ACKNOWLEDGMENTS
+We thank Brian R. Tilton of the BUSM Flow Cytometry Core and Yuriy Alek-
+seyev of the Boston University School of Medicine (BUSM) Single Cell
+Sequencing Core, supported by NIH grant 1UL1TR001430. We also acknowl-
+edge Dr. Zhengmei Mao of UTHealth Microscopy Core Facility for histological
+sample preparation. For facilities management, we are indebted to Greg Miller
+(CReM Laboratory Manager) and Marianne James (CReM iPSC Core Man-
+ager), supported by grants N01 75N92020C00005 and U01TR001810. The
+current work was supported by R01HL139799 and Cystic Fibrosis Foundation
+(CFF) grant HAWKIN17I0 to F.J.H.; Harry Shwachman Cystic Fibrosis Clinical
+Investigator Award, NIH CHRC K12HD052896, and Alfred and Gilda Slifka
+Figure 7. iBCs Enable In Vitro Modeling of Asthma, Cystic Fibrosis, and Primary Ciliary Dyskinesia
+(A) Representative images of BU3 NGPT iBC-derived ALI cultures, with or without IL-13 treatment, immunolabeled with antibodies indicated (DNA stai ned with
+Hoechst; scale bar represents 200 mm).
+(B) Quantiﬁcation of the number of MUC5AC+ cells (mean ± SD) per high power ﬁeld for IL-13-treated versus untreated wells (n = 3) (**p < 0.01).
+(C) qRT-PCR quantiﬁcation of mRNA expression levels of MUC5AC, SPDEF, and MUC5B in IL-13 treated (+IL-13) versus untreated cells (no IL-13; n = 3). Data are
+preselected as fold change over untreated iBC-derived ALI cultures (*p < 0.05; **p < 0.01; ***p < 0.001). Error bars represent mean ± SD.
+(D) Schematic of CF and PCD disease-modeling experiments, relying on surface markers. See also Figures S7F and S7G.
+(E) Representative electrophysiological traces from Ussing chamber analysis of ALI cultures generated from CF iPSCs and corrected CF iPSCs (corr CF ).
+(F) Mean and SD of electrophysiological values from (E) (n = 3).
+(G) Immunolabeling of MCCs in ALI cultures generated from DNAH5 mutant nasal epithelial cells, iPSCs, non-diseased primary HBECs, and BU3 NGPT iPSCs
+with antibodies indicated (DNA stained with DAPI; scale bar represents 10 mm). Transmission electron microscopy of cilia is shown (right column).
+(H and I) The number of outer dynein arms detected in cross sections of cilia (H, mean ± SD) or ciliary beat frequency (I, mean ± SEM) from the samples detai led in
+(G) (***p < 0.001).
+ll
+Article
+Cell Stem Cell 28, 1–17, January 7, 2021 15
+Please cite this article in press as: Hawkins et al., Derivation of Airway Basal Stem Cells from Human Pluripotent Stem Cells, Cell Stem Cell (2020),
+https://doi.org/10.1016/j.stem.2020.09.017
+
+<<<PAGE 17>>>
+Fund to R.W.; grant U54 DK110805 to T.M.S.; American Thoracic Society
+Foundation, Primary Ciliary Dyskinesia Foundation, and Kovler Family Foun-
+dation awards to A.H.; CFF grants SORSCH 13XX0 and SORSCH 14XX0 to
+E.J.S.; R01HL146601 and R01HL128370 to S.L.B.; CFF DAVIS15XX1 and DA-
+VIS17XX0 to B.R.D.; NIH R01 HL139876 to B.R.D. and E.J.S.; R01HL122442,
+R01HL095993, U01HL134745, and U01HL134766 to D.N.K.; and
+U01HL148692 to D.N.K. and F.J.H.
+AUTHOR CONTRIBUTIONS
+F.J.H., S.S., B.R.D., and D.N.K. conceived the work, designed the experi-
+ments, and wrote the manuscript. S.S., A.M.C., and B.R.D. designed the tar-
+geting strategy and generated the TP63
+tdTomato iPSCs. F.J.H., S.S., B.R.D.,
+and D.N.K. developed the BC differentiation protocol. F.J.H., S.S., C.B.,
+A.B., M.L.B., R.W., and J.L.S. performed differentiation experiments. C.V.-
+M. performed bioinformatic analysis of scRNA-seq. Y.T. and T.M.S. generated
+CF iPSCs and performed gene correction. R.W. generated ALIs from CF
+iPSCs. S.S. and N.M. performed in vivo experiments. A.R. and E.J.S. per-
+formed Ussing chamber analysis. S.X.L.H. provided critical input. S.H.R. pro-
+vided primary HBECs and critical input. J.W., J.R.S., G.C., and B.R.S. pro-
+vided scRNA-seq datasets of fetal and adult airway epithelium. A.H. and
+S.L.B. performed the experiments characterizing cilia in iPSC-derived
+MCCs, including TEM and CBF.
+DECLARATION OF INTERESTS
+The authors declare no competing interests.
+Received: December 19, 2019
+Revised: August 3, 2020
+Accepted: September 26, 2020
+Published: October 23, 2020
+REFERENCES
+Berical, A., Lee, R.E., Randell, S.H., and Hawkins, F. (2019). Challenges facing
+airway epithelial cell-based therapy for cystic ﬁbrosis. Front. Pharmacol.
+10, 74.
+Butler, A., Hoffman, P., Smibert, P., Papalexi, E., and Satija, R. (2018).
+Integrating single-cell transcriptomic data across different conditions, technol-
+ogies, and species. Nat. Biotechnol. 36, 411–420.
+Carraro, G., Mulay, A., Yao, C., Mizuno, T., Konda, B., Petrov, M., Lafkas, D.,
+Arron, J.R., Hogaboam, C.M., Chen, P., et al. (2020b). Single cell reconstruc-
+tion of human basal cell diversity in normal and IPF lung. Am. J. Respir. Crit.
+Care Med. Published online July 21, 2020. https://doi.org/10.1164/rccm.
+201904-0792OC.
+Chen, Y.-W., Huang, S.X., de Carvalho, A.L.R.T., Ho, S.-H., Islam, M.N., Volpi,
+S., Notarangelo, L.D., Ciancanelli, M., Casanova, J.-L., Bhattacharya, J., et al.
+(2017). A three-dimensional model of human lung development and disease
+from pluripotent stem cells. Nat. Cell Biol. 19, 542–549.
+Clancy, J.P., Cotton, C.U., Donaldson, S.H., Solomon, G.M., VanDevanter,
+D.R., Boyle, M.P., Gentzsch, M., Nick, J.A., Illek, B., Wallenburg, J.C., et al.
+(2019). CFTR modulator theratyping: current status, gaps and future direc-
+tions. J. Cyst. Fibros. 18, 22–34.
+Dye, B.R., Hill, D.R., Ferguson, M.A.H., Tsai, Y.-H., Nagy, M.S., Dyal, R., Wells,
+J.M., Mayhew, C.N., Nattiv, R., Klein, O.D., et al. (2015). In vitro generation of
+human pluripotent stem cell derived lung organoids. eLife 4, 1999.
+Edgar, R., Domrachev, M., and Lash, A.E. (2002). Gene Expression Omnibus:
+NCBI gene expression and hybridization array data repository. Nucleic Acids
+Res. 30, 207–210.
+Everitt, J.I., Boreiko, C.J., Mangum, J.B., Martin, J.T., Iglehart, J.D., and
+Hesterberg, T.W. (1989). Development of a tracheal implant xenograft model
+to expose human bronchial epithelial cells to toxic gases. Toxicol. Pathol.
+17, 465–473.
+Filali, M., Zhang, Y., Ritchie, T.C., and Engelhardt, J.F. (2002). Xenograft model
+of the CF airway. Methods Mol. Med. 70, 537–550.
+Finak, G., McDavid, A., Yajima, M., Deng, J., Gersuk, V., Shalek, A.K., Slichter,
+C.K., Miller, H.W., McElrath, M.J., Prlic, M., et al. (2015). MAST: a ﬂexible sta-
+tistical framework for assessing transcriptional changes and characterizing
+heterogeneity in single-cell RNA sequencing data. Genome Biol. 16, 278.
+Firth, A.L., Dargitz, C.T., Qualls, S.J., Menon, T., Wright, R., Singer, O., Gage,
+F.H., Khanna, A., and Verma, I.M. (2014). Generation of multiciliated cells in
+functional airway epithelia from human induced pluripotent stem cells. Proc.
+Natl. Acad. Sci. USA 111, E1723–E1730.
+Fulcher, M.L., and Randell, S.H. (2013). Human nasal and tracheo-bronchial
+respiratory epithelial cell culture. Methods Mol. Biol. 945, 109–121.
+Fulcher, M.L., Gabriel, S., Burns, K.A., Yankaskas, J.R., and Randell, S.H.
+(2005). Well-differentiated human airway epithelial cell cultures. Methods
+Mol. Med. 107, 183–206.
+Gentzsch, M., Boyles, S.E., Cheluvaraju, C., Chaudhry, I.G., Quinney, N.L.,
+Cho, C., Dang, H., Liu, X., Schlegel, R., and Randell, S.H. (2017).
+Pharmacological rescue of conditionally reprogrammed cystic ﬁbrosis bron-
+chial epithelial cells. Am. J. Respir. Cell Mol. Biol. 56, 568–574.
+Ghosh, M., Ahmad, S., White, C.W., and Reynolds, S.D. (2017).
+Transplantation of airway epithelial stem/progenitor cells: a future for cell-
+based therapy. Am. J. Respir. Cell Mol. Biol. 56, 1–10.
+Gotoh, S., Ito, I., Nagasaki, T., Yamamoto, Y., Konishi, S., Korogi, Y.,
+Matsumoto, H., Muro, S., Hirai, T., Funato, M., et al. (2014). Generation of alve-
+olar epithelial spheroids via isolated progenitor cells from human pluripotent
+stem cells. Stem Cell Reports 3, 394–403.
+Green, M.D., Chen, A., Nostro, M.-C., d’Souza, S.L., Schaniel, C., Lemischka,
+I.R., Gouon-Evans, V., Keller, G., and Snoeck, H.-W. (2011). Generation of
+anterior foregut endoderm from human embryonic and induced pluripotent
+stem cells. Nat. Biotechnol. 29, 267–272.
+Hafemeister, C., and Satija, R. (2019). Normalization and variance stabilization
+of single-cell RNA-seq data using regularized negative binomial regression.
+Genome Biol. 20, 296.
+Hawkins, F., Kramer, P., Jacob, A., Driver, I., Thomas, D.C., McCauley, K.B.,
+Skvir, N., Crane, A.M., Kurmann, A.A., Hollenberg, A.N., et al. (2017).
+Prospective isolation of NKX2-1-expressing human lung progenitors derived
+from pluripotent stem cells. J. Clin. Invest. 127, 2277–2294.
+Horani, A., Druley, T.E., Zariwala, M.A., Patel, A.C., Levinson, B.T., Van
+Arendonk, L.G., Thornton, K.C., Giacalone, J.C., Albee, A.J., Wilson, K.S.,
+et al. (2012). Whole-exome capture and sequencing identiﬁes HEATR2 muta-
+tion as a cause of primary ciliary dyskinesia. Am. J. Hum. Genet. 91, 685–693.
+Horani, A., Ferkol, T.W., Shoseyov, D., Wasserman, M.G., Oren, Y.S., Kerem,
+B., Amirav, I., Cohen-Cymberknoh, M., Dutcher, S.K., Brody, S.L., et al. (2013).
+LRRC6 mutation causes primary ciliary dyskinesia with dynein arm defects.
+PLoS ONE 8, e59436.
+Horani, A., Ferkol, T.W., Dutcher, S.K., and Brody, S.L. (2016). Genetics and
+biology of primary ciliary dyskinesia. Paediatr. Respir. Rev.
+18, 18–24.
+Huang, S.X.L., Islam, M.N., O’Neill, J., Hu, Z., Yang, Y.-G., Chen, Y.-W.,
+Mumau, M., Green, M.D., Vunjak-Novakovic, G., Bhattacharya, J., and
+Snoeck, H.W. (2014). Efﬁcient generation of lung and airway epithelial cells
+from human pluripotent stem cells. Nat. Biotechnol. 32, 84–91.
+Hurley, K., Ding, J., Villacorta-Martin, C., Herriges, M.J., Jacob, A., Vedaie, M.,
+Alysandratos, K.D., Sun, Y.L., Lin, C., Werder, R.B., et al. (2020).
+Reconstructed single-cell fate trajectories deﬁne lineage plasticity windows
+during differentiation of human PSC-derived distal lung progenitors. Cell
+Stem Cell 26, 593–608.e8.
+Jacob, A., Morley, M., Hawkins, F., McCauley, K.B., Jean, J.C., Heins, H., Na,
+C.-L., Weaver, T.E., Vedaie, M., Hurley, K., et al. (2017). Differentiation of hu-
+man pluripotent stem cells into functional lung alveolar epithelial cells. Cell
+Stem Cell 21, 472–488.e10.
+Kondo, M., Tamaoki, J., Takeyama, K., Nakata, J., and Nagai, A. (2002).
+Interleukin-13 induces goblet cell differentiation in primary cell culture from
+Guinea pig tracheal epithelium. Am. J. Respir. Cell Mol. Biol. 27, 536–541.
+Konishi, S., Gotoh, S., Tateishi, K., Yamamoto, Y., Korogi, Y., Nagasaki, T.,
+Matsumoto, H., Muro, S., Hirai, T., Ito, I., et al. (2016). Directed induction of
+ll
+Article
+16 Cell Stem Cell 28, 1–17, January 7, 2021
+Please cite this article in press as: Hawkins et al., Derivation of Airway Basal Stem Cells from Human Pluripotent Stem Cells, Cell Stem Cell (2020),
+https://doi.org/10.1016/j.stem.2020.09.017
+
+<<<PAGE 18>>>
+functional multi-ciliated cells in proximal airway epithelial spheroids from hu-
+man pluripotent stem cells. Stem Cell Reports 6, 18–25.
+Levrero, M., De Laurenzi, V., Costanzo, A., Gong, J., Wang, J.Y., and Melino,
+G. (2000). The p53/p63/p73 family of transcription factors: overlapping and
+distinct functions. J. Cell Sci. 113, 1661–1670.
+Loxham, M., Davies, D.E., and Blume, C. (2014). Epithelial function and
+dysfunction in asthma. Clin. Exp. Allergy 44, 1299–1313.
+McCauley, K.B., Hawkins, F., Serra, M., Thomas, D.C., Jacob, A., and Kotton,
+D.N. (2017). Efﬁcient derivation of functional human airway epithelium from
+pluripotent stem cells via temporal regulation of Wnt signaling. Cell Stem
+Cell 20, 844–857.e6.
+McCauley, K.B., Alysandratos, K.-D., Jacob, A., Hawkins, F., Caballero, I.S.,
+Vedaie, M., Yang, W., Slovik, K.J., Morley, M., Carraro, G., et al. (2018a).
+Single-cell transcriptomic proﬁling of pluripotent stem cell-derived
+SCGB3A2+ airway epithelium. Stem Cell Reports 10, 1579–1595.
+McCauley, K.B., Hawkins, F., and Kotton, D.N. (2018b). Derivation of epithe-
+lial-only airway organoids from human pluripotent stem cells. Curr. Protoc.
+Stem Cell Biol. 45, e51.
+Miller, A.J., Hill, D.R., Nagy, M.S., Aoki, Y., Dye, B.R., Chin, A.M., Huang, S.,
+Zhu, F., White, E.S., Lama, V., and Spence, J.R. (2018). In vitro induction
+and in vivo engraftment of lung bud tip progenitor cells derived from human
+pluripotent stem cells. Stem Cell Reports 10, 101–119.
+Miller, A.J., Yu, Q., Czerwinski, M., Tsai, Y.-H., Conway, R.F., Wu, A.,
+Holloway, E.M., Walker, T., Glass, I.A., Treutlein, B., et al. (2020). In vitro and
+in vivo development of the human airway at single-cell resolution. Dev. Cell
+53, 117–128.e6.
+Montoro, D.T., Haber, A.L., Biton, M., Vinarsky, V., Lin, B., Birket, S.E., Yuan,
+F., Chen, S., Leung, H.M., Villoria, J., et al. (2018). A revised airway epithelial
+hierarchy includes CFTR-expressing ionocytes. Nature 560, 319–324.
+Mou, H., Vinarsky, V., Tata, P.R., Brazauskas, K., Choi, S.H., Crooke, A.K.,
+Zhang, B., Solomon, G.M., Turner, B., Bihler, H., et al. (2016). Dual SMAD
+signaling inhibition enables long-term expansion of diverse epithelial basal
+cells. Cell Stem Cell 19, 217–231.
+Nichane, M., Javed, A., Sivakamasundari, V., Ganesan, M., Ang, L.T., Kraus,
+P., Lufkin, T., Loh, K.M., and Lim, B. (2017). Isolation and 3D expansion of mul-
+tipotent Sox9
++ mouse lung progenitors. Nat. Methods 14, 1205–1212.
+Nikoli/C19c, M.Z., Caritg, O., Jeng, Q., Johnson, J.-A., Sun, D., Howell, K.J., Brady,
+J.L., Laresgoiti, U., Allen, G., Butler, R., et al. (2017). Human embryonic lung
+epithelial tips are multipotent progenitors that can be expanded in vitro as
+long-term self-renewing organoids. eLife 6, 4139.
+Ornitz, D.M., and Itoh, N. (2015). The ﬁbroblast growth factor signaling
+pathway. Wiley Interdiscip. Rev. Dev. Biol. 4, 215–266.
+Pan, J., You, Y., Huang, T., and Brody, S.L. (2007). RhoA-mediated apical actin
+enrichment is required for ciliogenesis and promoted by Foxj1. J. Cell Sci. 120,
+1868–1876.
+Park, S., and Mostoslavsky, G. (2018). Generation of human induced pluripo-
+tent stem cells using a deﬁned, feeder-free reprogramming system. Curr.
+Protoc. Stem Cell Biol. 45, e48.
+Plasschaert, L.W., /C20Zilionis, R., Choo-Wing, R., Savova, V., Knehr, J., Roma, G.,
+Klein, A.M., and Jaffe, A.B. (2018). A single-cell atlas of the airway epithelium
+reveals the CFTR-rich pulmonary ionocyte. Nature 560, 377–381.
+Reynolds, S.D., Reynolds, P.R., Pryhuber, G.S., Finder, J.D., and Stripp, B.R.
+(2002). Secretoglobins SCGB3A1 and SCGB3A2 deﬁne secretory cell subsets
+in mouse and human airways. Am. J. Respir. Crit. Care Med. 166, 1498–1509.
+Rock, J.R., Onaitis, M.W., Rawlins, E.L., Lu, Y., Clark, C.P., Xue, Y., Randell,
+S.H., and Hogan, B.L.M. (2009). Basal cells as stem cells of the mouse trachea
+and human airway epithelium. Proc. Natl. Acad. Sci. USA 106, 12771–12775.
+Rock, J.R., Randell, S.H., and Hogan, B.L.M. (2010). Airway basal stem cells: a
+perspective on their roles in epithelial homeostasis and remodeling. Dis.
+Model. Mech. 3, 545–556.
+Seibold, M.A. (2018). Interleukin-13 stimulation reveals the cellular and func-
+tional plasticity of the airway epithelium. Ann. Am. Thorac. Soc. 15 (Suppl
+2 ), S98–S102.
+Serra, M., Alysandratos, K.-D., Hawkins, F., McCauley, K.B., Jacob, A., Choi,
+J., Caballero, I.S., Vedaie, M., Kurmann, A.A., Ikonomou, L., et al. (2017).
+Pluripotent stem cell differentiation reveals distinct developmental pathways
+regulating lung- versus thyroid-lineage speciﬁcation. Development 144,
+3879–3893.
+Sisson, J.H., Stoner, J.A., Ammons, B.A., and Wyatt, T.A. (2003). All-digital im-
+age capture and whole-ﬁeld analysis of ciliary beat frequency. J. Microsc. 211,
+103–111.
+Sommer, A.G., Rozelle, S.S., Sullivan, S., Mills, J.A., Park, S.-M., Smith, B.W.,
+Iyer, A.M., French, D.L., Kotton, D.N., Gadue, P., et al. (2012). Generation of
+human induced pluripotent stem cells from peripheral blood using the
+STEMCCA lentiviral vector. J. Vis. Exp. 4327.
+Studer, L., Vera, E., and Cornacchia, D. (2015). Programming and reprogram-
+ming cellular age in the era of induced pluripotency. Cell Stem Cell 16,
+591–600.
+Suprynowicz, F.A., Kamonjoh, C.M., Krawczyk, E., Agarwal, S., Wellstein, A.,
+Agboke, F.A., Choudhury, S., Liu, X., and Schlegel, R. (2017). Conditional cell
+reprogramming involves non-canonical b-catenin activation and mTOR-medi-
+ated inactivation of Akt. PLoS ONE 12, e0180897.
+Tirosh, I., Izar, B., Prakadan, S.M., Wadsworth, M.H., 2nd, Treacy, D.,
+Trombetta, J.J., Rotem, A., Rodman, C., Lian, C., Murphy, G., et al. (2016).
+Dissecting the multicellular ecosystem of metastatic melanoma by single-
+cell RNA-seq. Science 352, 189–196.
+Volckaert, T., Campbell, A., Dill, E., Li, C., Minoo, P., and De Langhe, S. (2013).
+Localized Fgf10 expression is not required for lung branching morphogenesis
+but prevents differentiation of epithelial progenitors. Development 140,
+3731–3742.
+Woodruff, P.G., Modrek, B., Choy, D.F., Jia, G., Abbas, A.R., Ellwanger, A.,
+Koth, L.L., Arron, J.R., and Fahy, J.V. (2009). T-helper type 2-driven inﬂamma-
+tion deﬁnes major subphenotypes of asthma. Am. J. Respir. Crit. Care Med.
+180, 388–395.
+Yang, A., Schweitzer, R., Sun, D., Kaghad, M., Walker, N., Bronson, R.T.,
+Tabin, C., Sharpe, A., Caput, D., Crum, C., and McKeon, F. (1999). p63 is
+essential for regenerative proliferation in limb, craniofacial and epithelial devel-
+opment. Nature 398, 714–718.
+Yang, Y., Riccio, P., Schotsaert, M., Mori, M., L€u, J., Lee, D.-K., Garcı´a-Sastre,
+A., Xu, J., and Cardoso, W.V. (2018). Spatial-temporal lineage restrictions of
+embryonic p63
++ progenitors establish distinct stem cell pools in adult airways.
+Dev. Cell 44, 752–761.e4.
+You, Y., Richer, E.J., Huang, T., and Brody, S.L. (2002). Growth and differen-
+tiation of mouse tracheal epithelial cells: selection of a proliferative population.
+Am. J. Physiol. Lung Cell. Mol. Physiol. 283, L1315–L1321.
+Zhang, C., Lee, H.J., Shrivastava, A., Wang, R., McQuiston, T.J., Challberg,
+S.S., Pollok, B.A., and Wang, T. (2018). Long-term in vitro expansion of epithe-
+lial stem cells enabled by pharmacological inhibition of PAK1-ROCK-myosin II
+and TGF-b signaling. Cell Rep. 25, 598–610.e5.
+ll
+Article
+Cell Stem Cell 28, 1–17, January 7, 2021 17
+Please cite this article in press as: Hawkins et al., Derivation of Airway Basal Stem Cells from Human Pluripotent Stem Cells, Cell Stem Cell (2020),
+https://doi.org/10.1016/j.stem.2020.09.017
+
+<<<PAGE 19>>>
+STAR+METHODS
+KEY RESOURCES TABLE
+REAGENT or RESOURCE SOURCE IDENTIFIER
+Antibodies
+Mouse monoclonal anti-FOXJ1 (2A5) Invitrogen Cat.# 14996580; RRID: AB_1548836
+Mouse monoclonal anti-Acetylated Tubulin (ACT) (6-11B-1) Millipore-Sigma Cat.# T7451; RRID: AB_609894
+Rabbit monoclonal anti-Acetyl- a-Tubulin (Lys40) (D20G3) Cell Signaling Technologies Cat.# 5335S: RRID: AB_10544694
+Mouse monoclonal anti-TP63 (4A4) Biocare Cat.# CM163A: RRID: AB_10582730
+Rabbit monoclonal anti-MUC5AC (E309I) Cell Signaling Technologies Cat.# 61193: RRID: AB_2799603
+Mouse monoclonal anti-MUC5AC (45M1) Invitrogen Cat.# MA5-12178: RRID: AB_10978001
+Mouse monoclonal anti-MUC5B (A-3) Santa Cruz Cat.# Sc-393952:
+Rabbit monoclonal anti-KRT5 (D4U8Q) Cell Signaling Technologies Cat.# 25807: RRID: AB_2798912
+Chicken polyclonal anti-KRT5 (Poly9059) BioLegend Cat.# 905901: RRID: AB_2565054
+Mouse monoclonal anti-NGFR (NGFR5) Invitrogen Cat.# MA5-13314: RRID: AB_10982037
+Rabbit monoclonal anti-p75NTR/NGFR (D4B3) Cell Signaling Technologies Cat.# 8238: RRID: AB_10839265
+Mouse monoclonal anti-CC10 (E-11) Santa Cruz Cat.# Sc-365992; RRID: AB_10915481
+Rabbit polyclonal anti-RFP Rockland Immunochemicals Cat.# 600-401-379; RRID: AB_2209751
+Chicken polyclonal anti-GFP Invitrogen Cat.# A10262; RRID: AB_2534023
+Rabbit monoclonal anti-NKX2-1 (EP1584Y) Abcam Cat.# ab76013; RRID: AB_1310784
+Rabbit monoclonal anti-ZO-3 (D57G7) Cell Signaling Technologies Cat.# 3704S; RRID: AB_2203606
+APC-mouse monoclonal anti-CD47 (CC2C6) Biolegend Cat.# 323123; RRID: AB_2716202
+PE-mouse monoclonal anti-CD26 (BA5b) Biolegend Cat.# 302705; RRID: AB_314289
+APC/Fire750-mouse monoclonal anti-EpCAM (9C4) Biolegend Cat.# 324234: RRID: AB_2629703
+APC-mouse monoclonal anti-human CD271/NGFR (ME20.4) Biolegend Cat.# 345108; RRID: AB_10645515
+Mouse monoclonal anti-EpCAM (AUA1) Abcam Cat.#ab20160: RRID: AB_445379
+Goat polyclonal anti-SOX17 R&D system Cat.# AF1924; RRID: AB_355060
+Mouse monoclonal anti-NESTIN (Clone 25) BD Cat.# 611658; RRID: AB_399176
+Mouse monoclonal anti- Tubulin b3 (TUJ1) Biolegend Cat.# 801201; RRID: AB_2313773
+Goat polyclonal anti-Brachyury R&D system Cat.# AF2085; RRID: AB_2200235
+Mouse IgG1kappa isotype control, APC-conjugated Biolegend Cat.# 400122; RRID: AB_326443
+Mouse IgG1 isotype control, PE-conjugated Biolegend Cat.# 400113; RRID: AB_326435
+Mouse IgG1 isotype control, PerCP/Cy5.5-conjugated Biolegend Cat.# 400149; RRID: AB_893680
+Rabbit anti-DNAH5 Millipore-Sigma Cat.#HPA037470; RRID: AB_10672348
+Rabbit anti-DNALI1 Millipore-Sigma Cat.# HPA028305; RRID: AB_10601807
+Bacterial and Virus Strains
+pHAGE-EF1alphaL-eGFP-W Addgene Plasmid# 126686; RRID: RRID:Addgene_
+126686
+pHAGE- EF1alphaL-TagBFP-W Addgene Plasmid# 126687; RRID: RRID:Addgene_
+126687
+pHAGE-CMV-DsRED-W This paper. N/A
+Biological Samples
+Parafﬁn-embedded section of human trachea The MLI Tissue Procurement and
+Cell Culture Core, University of
+Chapel Hill, North Carolina.
+N/A
+Chemicals, Peptides, and Recombinant Proteins
+SB431542 Tocris Cat.# 1614
+Dorsomorphin Stemgent Cat.# 04-0024
+CHIR99021 Tocris Cat.# 4423
+(Continued on next page )
+ll
+Article
+e1 Cell Stem Cell 28, 1–17.e1–e8, January 7, 2021
+Please cite this article in press as: Hawkins et al., Derivation of Airway Basal Stem Cells from Human Pluripotent Stem Cells, Cell Stem Cell (2020),
+https://doi.org/10.1016/j.stem.2020.09.017
+
+<<<PAGE 20>>>
+Continued
+REAGENT or RESOURCE SOURCE IDENTIFIER
+Recombinant human BMP4 R&D Systems Cat.# 314-BP
+Retinoic acid Sigma Cat.# R2625
+Y-27632 dihydrochloride Tocris Cat.# 1254
+Recombinant human FGF10 R&D Systems Cat.# 345-FG-025
+Recombinant human FGF2 R&D Systems Cat.# 233-FB
+Dexamethasone Sigma Cat.# D4902
+8-bromoadenosine 30,50-cyclic monophosphate
+sodium salt (cAMP)
+Sigma Cat.# B7880
+3-Isobutyl-1-methylxanthine (IBMX) Sigma Cat.# I5879
+A83-01 ThermoFisher Scientiﬁc Cat.# 293910
+DMH1 ThermoFisher Scientiﬁc Cat.# 412610
+Critical Commercial Assays
+RNeasy Mini Kit QIAGEN Cat. #74104
+QIAzol Lysis Reagent QIAGEN Cat.#79306
+TaqMan Fast Universal PCR Master Mix (2XX), no
+AmpErase UNG
+ThermoFisher Scientiﬁc Cat.#4364103
+Chromium Next GEM Single Cell 3
+0 Kit v3.1 10C Genomics 1000269
+Deposited Data
+Sc-RNA-Seq data of iBCs and iBC-derived ALI and
+primary HBECs and HBEC-ALI
+Kotton/Hawkins Labs GEO: GSE142246
+Experimental Models: Cell Lines
+Human: Normal donor iPSC line targeted with
+NKX2-1GFP and P63tdTomato (BU3-NGPT)
+Kotton Lab (this paper) http://www.bu.edu/dbin/stemcells/
+DD001 iPSC Hawkins Lab (this paper) N/A
+Human: Normal donor iPSC line targeted with
+NKX2-1GFP (BU3-NG)
+Kotton Lab ( Hawkins et al., 2017 ) http://www.bu.edu/dbin/stemcells/
+Human: Primary ciliary dyskinesia donor iPSC line Generated in the CReM, BU. N/A
+Human: Cystic ﬁbrosis donor iPSC line Generated at Boston Children’s
+Hospital.
+N/A
+Human: Corrected cystic ﬁbrosis donor iPSC line Generated at Boston Children’s
+Hospital.
+N/A
+Human: RUES2 embryonic stem cell line Gift from Dr. Ali H. Brivanlou,
+Rockefeller University
+N/A
+Experimental Models: Organisms/Strains
+Rat: Crl:NIH-Foxn1rnu Charles river Strain Code: 118
+Mouse: Nu/Nu:Foxn1nu The Jackson Laboratory JAX stock #002019
+Oligonucleotides
+TaqMan Gene Expression Assay
+Primer/Probe Sets ( Table S3)
+ThermoFisher Scientiﬁc See Table S3 per gene
+Primers for characterization of the integrated
+reporter, see Table S4
+This paper N/A
+Recombinant DNA
+P63-tdTomato donor GenScript, This paper N/A
+P63gRNA-CAG-Cas9-2A-GFP plasmid DNA2.0, ATUM This paper See target sequence in the method
+Software and Algorithms
+ImageJ National Institutes of Health https://Imagej.nih.gov/ij/
+Prism Software, version 7 Graphpad Software https://www.Graphpad.com
+FlowJo software Becton, Dickinson & Company https://www.Flowjo.com
+Cell Ranger version 3.0.2 10X Genomics N/A
+Seurat version 3.1.0 Satija Lab, NYU https://satijalab.org/seurat/
+(Continued on next page )
+ll
+Article
+Cell Stem Cell 28, 1–17.e1–e8, January 7, 2021 e2
+Please cite this article in press as: Hawkins et al., Derivation of Airway Basal Stem Cells from Human Pluripotent Stem Cells, Cell Stem Cell (2020),
+https://doi.org/10.1016/j.stem.2020.09.017
+
+<<<PAGE 21>>>
+RESOURCE AVAILABILITY
+Lead Contact
+Further information and requests for resources and reagents should be directed to, and will be fulﬁlled by, the Lead Contact, Darrell
+Kotton (dkotton@bu.edu).
+Materials Availability
+Induced pluripotent stem cell lines generated in this study are available from the CReM Biobank at Boston University and Boston
+Medical Center and can be found at http://www.bu.edu/dbin/stemcells/. The embryonic stem cell line RUES2 was received from
+Dr. Ali Brivanlou, Rockefeller University, NY.
+Data and Code Availability
+The accession number for the data reported in this paper is deposited in NCBI’s Gene Expression Omnibus ( Edgar et al., 2002 ) and
+are accessible through GEO Series accession number GSE142246 as well on the Kotton Lab’s Bioinformatics Portal at http://www.
+kottonlab.com. The scRNA-Seq data of primary fetal airway ( Miller et al., 2020 ) and primary adult airway Carraro et al., 2020 were
+previously deposited in NCBI’s Gene Expression Omnibus.
+EXPERIMENTAL MODEL AND SUBJECT DETAILS
+Human subjects
+The Institutional Review Board of Boston University approved the generation and differentiation of human iPSCs with documented
+informed consent obtained from participants. The generation of CF iPSCs was approved by Boston Children’s Hospital Institutional
+Review Board. Human airway tissue and primary HBECs were received from the CF Center Tissue Procurement and Cell Culture
+Core (Dr. Scott Randell) at the University of North Carolina. Human lung tissue was procured under the University of North Carolina
+Ofﬁce of Research Ethics Biomedical Institutional Review Board Protocol No. 03-1396. For PCD studies, human protocols were
+approved by the institutional review board at Washington University in St. Louis. Subjects with known mutations causative of
+PCD were recruited from the PCD and Rare Airway Disease clinic at St. Louis Children’s Hospital and Washington University.
+Informed consent was obtained from individuals (or their legal guardians). All human samples were de-identiﬁed. Details of procure-
+ment and isolation of airway epithelial cells from fetal and adult human lungs were previously described ( Miller et al., 2020 ).
+Human iPSC reprogramming and iPSC/ESC maintenance
+All iPSC and ESC lines were maintained in feeder-free conditions on hESC-qualiﬁed Matrigel (Corning) in StemFlex Medium (Thermo
+Fisher Scientiﬁc, Waltham, MA) or mTeSR1 medium (StemCell Technologies, Inc., Vancouver, Canada) and passaged with Gentle
+Cell Dissociation Reagent (StemCell Technologies, Inc.) or ReLeSR (StemCell Technologies, Inc.). All human ESC/iPSC lines used
+were characterized for pluripotency and were found to be karyotypically normal. The reprogramming and gene-editing methods
+to derive BU3 iPSCs and target the NKX2-1 locus to generate BU3 NKX2-1
+GFP iPSCs were previously described ( Hawkins et al.,
+2017). PCD1 iPSC line ( DNAH5 mutation) was generated by reprogramming peripheral blood mononuclear cells with the human
+EF1a-STEMCCA-loxp lentiviral vector followed by Cre-mediated vector excision, according to our detailed protocol ( Sommer
+et al., 2012). DD001m iPSCs were generated from ‘‘DD001m’’ P0 primary HBECs by modifying a Sendai virus based reprogramming
+Continued
+REAGENT or RESOURCE SOURCE IDENTIFIER
+Other
+mTeSR1 StemCell Technologies Cat.# 05850
+StemDiff Deﬁnitive Endoderm Kit StemCell Technologies Cat.# 05110
+PneumaCult ALI Medium StemCell Technologies Cat.# 05001
+PneumaCult ExPlus Medium StemCell Technologies Cat.# 05040
+StemFlex medium ThermoFisher Scientiﬁc Cat.# A3349401
+Matrigel Growth Factor Reduced Corning Cat.# 356230
+Matrigel hESC-Qualiﬁed Matrix Corning Cat.# 354277
+UNC-ALI The MLI Tissue Procurement
+and Cell Culture Core, University
+of Chapel Hill, North Carolina
+N/A
+BEGM The MLI Tissue Procurement
+and Cell Culture Core, University
+of Chapel Hill, North Carolina
+N/A
+ll
+Article
+e3 Cell Stem Cell 28, 1–17.e1–e8, January 7, 2021
+Please cite this article in press as: Hawkins et al., Derivation of Airway Basal Stem Cells from Human Pluripotent Stem Cells, Cell Stem Cell (2020),
+https://doi.org/10.1016/j.stem.2020.09.017
+
+<<<PAGE 22>>>
+protocol to substitute the base medium for bronchial epithelial growth medium (Park and Mostoslavsky, 2018). Homozygous F508del
+(p.Phe508del) iPSCs were generated from peripheral blood mononuclear cells at Boston Children’s Hospital Stem Cell Program by
+Sendai virus using the Cytotune 2 kit (Thermo Fisher), yielding clones 791 and 792 (‘‘CF’’). Clone 792 was selected for correction of the
+p.Phe508del deletion and the experiments in Figure 7. The RUES2 human embryonic stem cell line was a generous gift from Dr. Ali H.
+Brivanlou of The Rockefeller University, New York City, NY. Standard immunolabeling for pluripotency markers and G-band karyo-
+typing was performed to ensure pluripotency and normal karyotype in clones selected for these experiments (as shown in Figure S1).
+For BU3 NGPT iPSCs spontaneous differentiation into mesoderm, endoderm and ectodermal lineages was demonstrated by gener-
+ating embryoid bodies with iPSC medium in ultra-low attachment plate (Corning) and then replacing with base medium supple-
+mented with 10% fetal bovine serum in adherent culture. The cell types from each lineage were identiﬁed with standard immunolab-
+eling (as shown in Figure S1 ) using anti-bodies listed in Key Resources Table . Primocin (Invivogen, San Diego, CA) was routinely
+added to prevent mycoplasma contamination and all iPSC and ESC lines screened negative for mycoplasma contamination and
+were routinely tested and remained negative.
+Basal cell reporter iPSC
+The dual reporter, NKX2-1
+GFP and P63tdTomato, iPSC lines (BU3 NGPT) were derived from the published single reporter, NKX2-1 GFP,
+iPSC line (BU3 NG), a normal donor iPSC carrying homozygous NKX2-1 GFP reporters (Hawkins et al., 2017 ). The BU3 NG line was
+targeted and integrated with a P63 tdTomato ﬂuorescent reporter using CRISPR/Cas9 technology. A gRNA was designed to target
+exon 4 of the endogenous TP63 (target sequence TGCGCGTGGTCTGTGTTATA) and a donor template was constructed to contain
+the tdTomato sequence and removable antibiotic selection cassette via Cre recombination ﬂanked by arms of homology. In this
+report we used the clone BU3 NGPT c5-cre22, where P63 tdTomato ﬂuorescent reporter-integrated clone 5 was further cre-excised
+to remove selection cassette (sub-clone 22).
+Gene corrected CF-iPSCs
+Monoallelic correction of homozygous F508del CF iPSC, clone 792, was performed by nucleofecting 1M TrypLE-Select dissociated
+cells with 5 mg Cas9-GFP plasmid (Addgene, 44719), 5 mg of a U6 promoter driven sgRNA plasmid (target sequence ACCATTAAA-
+GAAAATATCAT), 10mg of a plasmid containing a 1.4kb piece of the WT CFTR that includes the exon encoding F508. Repaired clones
+were identiﬁed by ddPCR and Sanger sequencing of long-range PCR products. Clones 1566 (CFTR WT/ F508del) and 1567 (CFTR
+F508del / F508del) were conﬁrmed by DNA STR ﬁngerprint (match with donor) and karyotype analysis (no abnormalities).
+Primary HBECs and human airway tissue
+De-identiﬁed, cryopreserved human bronchial epithelial cells (HBECs) were received from the CF Center Tissue Procurement and
+Cell Culture Core, Marsico Lung Institute, University of North Carolina where they were harvested and cultured as previously
+described in detail. Parafﬁn-embedded sections of de-identiﬁed human airway tissue were also received. These samples are exempt
+from regulation by HHS regulation 45 CFR Part 46. Freshly isolated P0 HBECs were expanded in culture on collagen type I/III-coated
+tissue culture plates in non-proprietary bronchial epithelial growth medium (BEGM). At 70%–90% conﬂuence HBECs were dissoci-
+ated with Accutase (Sigma), counted and transferred to human placental type IV collagen-coated membranes (Transwell, Corning
+Inc., Corning, NY) at a density of 100,000-150,000 cells per 6.5mm insert and differentiated using air-liquid interface conditions in
+either a non-proprietary medium, ‘‘UNC-ALI’’ medium, or PneumaCult-ALI for 2-3 weeks or longer before analysis. Frequency of
+each epithelial cell-type was assessed 14 days after establishing ALI culture for both iBC and HBEC samples previously expanded
+in Basal Cell medium described below. Figure 4 F analysis was performed 21 days after establishing ALI culture for both iBC and
+HBEC samples. Figure S7D analysis was performed 30 days after establishing ALI culture.
+Animals
+All animal procedures were performed at an AAALAC accredited facility and in accordance with National Institutes of Health’s Guide
+for the Care and Use of Laboratory Animals and were approved by the University of Texas Health Science Center at Houston
+(UTHealth) Institutional Animal Care and Use Committee.
+Adult mice (Foxn1
+nu, The Jackson Laboratory) and rats (NIH-Foxn1 rnu, Charles River) used for these experiments were housed in
+the barrier facility of the Brown Institute of Molecular Medicine at the UTHealth. Animals were group housed in autoclaved, individ-
+ually ventilated cages (IVC), and provided irradiated corncob bedding with cotton square nestlets for enrichment. Animals were fed
+ad libitum a commercially available, irradiated, balanced mouse diet (no. 5058, LabDiet, St Louis, MO) and had free access to acid-
+iﬁed water. A mouse received xenografts was single housed. Rooms were maintained at 21-23 /C14C and under a 12:12-h light:dark cy-
+cle. All animals were maintained speciﬁc pathogen free (the list of tested pathogens is available upon a request).
+METHOD DETAILS
+Differentiation of hPSCs into airway organoids
+This protocol is based on previously described approaches to derive airway organoid from hPSCs ( Hawkins et al., 2017 ; McCauley
+et al., 2017) including a detailed step-by-step protocol prior to basal cell medium (McCauley et al., 2018b). NKX2-1+ lung progenitors
+were generated from hPSCs ﬁrst by inducing deﬁnitive endoderm with STEMdiff Deﬁnitive Endoderm Kit (StemCell Technologies,
+ll
+Article
+Cell Stem Cell 28, 1–17.e1–e8, January 7, 2021 e4
+Please cite this article in press as: Hawkins et al., Derivation of Airway Basal Stem Cells from Human Pluripotent Stem Cells, Cell Stem Cell (2020),
+https://doi.org/10.1016/j.stem.2020.09.017
+
+<<<PAGE 23>>>
+Inc.) for 60-72 hours. Endoderm-stage cells were dissociated and passaged in small clumps to hES-qualiﬁed Matrigel-coated (Corn-
+ing) tissue culture plates (Corning) in a complete serum free differentiation medium (cSFDM) consisting of a base medium of IMDM
+(Thermo Fisher, Waltham, MA) and Ham’s F12 (Thermo Fisher) with B27 Supplement with retinoic acid (Invitrogen, Waltham, MA), N2
+Supplement (Invitrogen), 0.1% bovine serum albumin Fraction V (Invitrogen), monothioglycerol (Sigma, St. Louis, MO), Glutamax
+(Thermo Fisher), ascorbic acid (Sigma), and antibiotics. To pattern endoderm into anterior foregut the cSFMD base medium was sup-
+plemented with 10 mM SB431542 (Tocris, Bristol, United Kingdom) and 2 mM Dorsomorphin (Stemgent, Lexington, MA) for 72 hours
+(Green et al., 2011). Cells were then cultured for 9-11 additional days (typically, 144 hr - day 15) in cSFDM containing 3mM CHIR99021
+(Tocris), 10 ng/mL recombinant human BMP4 (rhBMP4, R&D Systems), and 50-100 nM retinoid acid (Millipore-Sigma) to induce
+NKX2-1 primordial lung progenitors ( Serra et al., 2017 ). NKX2-1+ lung progenitors were sorted by NKX2-1
+GFP expression for BU3
+NGPT or enriched based on the expression of cell surface markers CD47hi/CD26- for non-reporter iPSC (see below) and then
+were resuspended in three-dimensional growth factor reduced Matrigel (Corning) at a density of 400 cells per ml and pipetted in
+25-50 mL droplets onto the base of tissue culture plates (Hawkins et al., 2017). After 10-15 minutes at 37/C14C to allow gelling of Matrigel
+airway medium composed of cSFDM containing 250ng/ml FGF2 (rhFGFbasic; R&D Systems), 100ng/ml FGF10, 50nM dexametha-
+sone, 100nM 8-Bromoadenosine 30,50-cyclic monophosphate sodium salt (cAMP; Millipore-Sigma), 100 mM 3-Isobutyl-1-methylxan-
+thine (IBMX; Millipore-Sigma), and 10 mM Y-27632 (Y; Tocris) (FGF2+10+DCI+Y) was added.
+Sorting of PSC-derived lung and airway progenitors
+To facilitate directed differentiation from hPSCs, NKX2-1+ lung progenitors and airway progenitors of iBCs were puriﬁed by cell sort-
+ing. This sorting protocol is further detailed in previous publications ( Hawkins et al., 2017; McCauley et al., 2018b). On /C24day 15, cells
+were harvested by incubation with 0.05% Trypsin-EDTA for 15-20 min at 37
+/C14C. Trypsin was neutralized and cells were washed with
+medium containing 10% fetal bovine serum (FBS, Thermo Fisher). Harvested cells were spun at 300 RCF for 5 min and resuspended
+in the buffer containing Hank’s Balanced Salt Solution (Thermo Fisher), 2% FBS, 25mM HEPES 2mM EDTA (FACS buffer) supple-
+mented with 10 mM Y-27632 and stained with propidium iodide (PI, ThermoFisher) or calcein blue AM (Thermo Fisher) for live cell
+selection during ﬂow cytometry. Live cells were sorted based on NKX2-1
+GFP expression for BU3 NGPT or by staining for CD47 (Bio-
+legend) and CD26 (Biolegend) for non-reporter PSCs and gating for CD47hi/CD26-. Airway progenitors were sorted on /C24day 30 of
+directed differentiation. Organoids cultured in 3D Matrigel were harvested by incubation with 1 U/mL Dispase (Stemcell technologies)
+or 2mg/ml Dispase (Thermo Fisher) for /C2460 min at 37C until Matrigel was fully dissolved. Dissociated organoids were collected with a
+1000 mL pipette, transferred to a 15ml conical and and centrifuged at 200 RCF for 3 min. The cells were resuspended and incubated in
+0.05% trypsin at 37 /C14C for approximately 10min until a single cell suspension was achieved. Trypsin was inactivated by adding 10%
+fetal bovine serum (Hyclone) in DMEM (GIBCO). Cells were then centrifuged at 300 RCF for 5 min at 4/C14C, counted and resuspended in
+FACS buffer. 10 mM of the cell viability dye Calcein blue (ThermoFisher) was added and Calcein Blue+/NKX2-1 GFP+/TP63tdTomato+ or
+PI-/NKX2.1GFP+/TP63tdTomato+ cells were sorted and replated at 400 cells per ml of density in Matrigel (Corning) and cultured in
+FGF2+10+DCI+Y medium.
+Generation, puriﬁcation and maintenance of iBCs
+The iPSC-derived basal cells (iBCs) were generated from airway organoids in FGF2+10+DCI+Y described above. For BU3
+NGPT, one day after (unless indicated) sorting and replating NKX2-1 GFP+/TP63tdTomato+ on /C24day 30 of directed differentiation,
+culture medium was switched to Pneumacult ExPlus (StemCell Technologies, Inc.) supplemented with 1 mM A83-01 (Tocris),
+1 mM DMH1 (Tocris), and 10 mM Y-27632 (Basal cell medium). In some cases, Pneumacult Ex (Stemcell technologies) supple-
+mented with 1 mM A83-01, 1 mMD M H 1 ,a n d1 0mM Y-27632 was used as indicated in ﬁgures. For non-reporter iPSCs, single
+cells dissociated from airway organoids in FGF2+10+DCI+Y wer e replated without a sorting step and changed to basal cell me-
+dium as above. Viable iBCs at /C24Day 40 of directed differentiation or later were sorted based by dissociating organoids to a
+single-cell suspensions as above and ﬂow sorting based NKX2-1GFP+/TP63tdTomato+/NGFR+ cells for BU3 NGPT, or by
+labeling with mouse monoclonal anti-NGFR (Cat.# 345108, Bioleg end) and mouse monoclonal anti-EpCAM (Cat.# 24234, Bio-
+legend) with isotype controls (mouse monoclonal IgG1k APC-con jugated, Cat.#400122, Biolegend). Both anti-NGFR and anti-
+EpCAM antibodies were used at a dilution of 1:100 in a suspension of 1x10 6 cells per 50 or 100 mLo ni c ef o r3 0m i n .F o rt h e s e
+sorting experiments a MoFlo Astrios Cell sorter (Beckman Coulter, Indianapolis, IN) was used at Boston University Medical
+Center Flow Cytometry Core Facility or BD FACSMelody (BD bio sciences) was used at the UTHealth Flow Cytometry Service
+Center. Sorted iBCs were either replated in A LI culture (see below) or resuspended in Ma trigel (Corning) droplets at 400 cells/ul,
+plated and cultured in basal cell medium as above for expansion of iBCs. iBCs in 3D Matrigel droplets were fed with basal cell
+medium every 2-3 days and required passaging every /C2410-14 days. iBCs were cryopreserved by ﬁrst dissociating organoids to
+single-cells as above and resuspending in basal cell medium su pplemented with 10% dimethylsulfoxide (ThermoFisher) and
+transferred to cryovials. Cryovials we re placed in cryostorage containers in a /C080
+/C14C freezer to cool at /C01/C14C /min for 24 hours
+and then transferred to /C0150/C14C freezer or into liquid nitrogen the following day for long-term storage. iBCs were thawed by
+warming to 37 /C14C in a water or bead bath, diluting in 5-10ml of basal cell medium (37 /C14C) added dropwise and centrifuged at
+300 RCF for 5min. The cell pellet was the n resuspended in Matrigel at 1000cells/ ml, plated in tissue culture plates and after
+10-15 min at 37 /C14C basal medium was added to the well. Expanded or cryopreserved cells-derived organoids in 3D Matrigel
+were dissociated and sorted for iBC makers prior to replating in ALI culture.
+ll
+Article
+e5 Cell Stem Cell 28, 1–17.e1–e8, January 7, 2021
+Please cite this article in press as: Hawkins et al., Derivation of Airway Basal Stem Cells from Human Pluripotent Stem Cells, Cell Stem Cell (2020),
+https://doi.org/10.1016/j.stem.2020.09.017
+
+<<<PAGE 24>>>
+ALI culture of iBCs or other iPSCs-derived AECs
+To differentiate iBCs in Air Liquid Interface (ALI) culture we adapted existing, detailed protocols for primary HBECs ( Fulcher and Ran-
+dell, 2013). iPSCs-derived airway epithelial cells (AECs) including iBCs were seeded on 6.5 mm Transwells with 0.4mm pore polyester
+membrane inserts (Corning Inc., Corning, NY), coated with Matrigel diluted in DMEM/F12 (GIBCO) according to the recommended
+dilution factor from the lot-speciﬁc certiﬁcate of analysis, at 150,000-200,000 cells per insert with a medium used to culture each cell
+culture (e.g., iBCs cultured in Basal cell medium were plated on Transwells and cultured in Basal cell medium) for 3 to 7 days. Once
+visual inspection conﬁrmed the Transwell membranes were covered by a conﬂuent sheet of cells the culture medium was switched to
+PneumaCult-ALI medium (StemCell Technologies, Inc.) or non-proprietary ‘‘UNC-ALI medium ( Fulcher and Randell, 2013 ) in both
+apical and basal chambers. The following day, the medium from top chamber was removed and the cells were further differentiated
+in air-liquid interface conditions for 2-3 weeks or longer before analysis. ScRNA-Seq (Figures 4A–4E), qRT-PCR (Figures 4F and S7E)
+were analyzed 21 days after establishing ALI culture.
+Flow cytometry analysis
+Flow cytometry analysis was performed as described above. NKX2-1
+GFP, TP63tdTomato expression or ﬂuorochrome-conjugated pri-
+mary antibodies (listed in the Key Resources Table ) were detected using a FACS Calibur (BD Biosciences), Stratedigm S1000 EXi
+(Stratedigm Inc, San Jose, CA) or MoFlo Astrios (Beckman Coulter) at Boston University Medical Center or with BD FACSMelody
+and BD FACSChorus software (BD Biosciences) at the UTHealth Flow Cytometry Service Center. Calcein blue or PI was used to iden-
+tify viable cells depending on the ﬂow cytometer used. FlowJo software (BD biosciences) was used for further analysis.
+Histological analysis
+Organoids in 3D Matrigel were harvested by incubation in Dispase as described above, and then ﬁxed in 4% paraformaldehyde (PFA)
+(ThermoFisher or Electron Microscopy Sciences, Hatﬁeld, PA) for four hours at room temperature, parafﬁn-embedded and immuno-
+stained as previously described (McCauley et al., 2017, McCauley et al., 2018b). ALI cultures were ﬁxed by placing Transwell ﬁlters in
+4% PFA at 4
+/C14C overnight. Either whole mount immunostaining of Transwell ﬁlters or parafﬁn-embedding was performed. Tracheal
+xenografts were also ﬁxed with 4% PFA at 4 /C14C overnight and embedded in the parafﬁn. For parafﬁn sections, ﬁxed samples were
+dehydrated with a series of increasing concentrations of ethanol, cleared with xylene and inﬁltrated with parafﬁn before embedding
+in wax. Sections of 5 mm thickness were transversely cut using an HM 325 Rotary Microtome (Thermo Fisher Scientiﬁc). Sectioned
+samples were stained with hematoxylin and eosin. For immunoﬂuorescence analysis, antigen retrieval was performed on sectioned
+samples using Antigen retrieval reagent-Basic (R&D Systems) or Antigen Unmasking Solution, Citric Acid Based (Vector Labs, Bur-
+lingame CA) following manufacturer’s instructions. Whole inserts and sectioned samples were stained with primary and secondary
+antibodies (antibody information and sources are detailed in the Key Resources Table). Brieﬂy, samples were permeabilized with with
+0.1% or 0.3% Triton X-100 (Sigma) in PBS for 15-30 min and blocked with 2% bovine serum albumin (BSA) with or without 4% Normal
+Donkey Serum and 0.1% Triton X-100 or 0.1% Tween20 for 1 hour at room temperature. Samples were then incubated with primary
+antibodies overnight at 4
+/C14C, followed by the incubation with the respective secondary antibodies at room temperature for one to two
+hours. Prolong Gold Antifade Mountant with DAPI (Thermo Fisher Scientiﬁc) was added to counter-stain and coverslipped. Images
+were acquired using a Leica DMi8 microscope (Leica Microsystems, Wetzlar, Germany) and Leica Application Suite Software (Leica
+Microsystems) or a Nikon Eclipse Ni-E microscope (Melville, NY). In order to generate an image of whole transwell or of large ﬁeld with
+AECs in Xenograft model, the automated tile-scanning and stitching functions were used through Leica Application Suite Software.
+Confocal microscopy was performed for whole mount staining samples stained with antibodies as described above and counter-
+stained with DRAQ5 (Cell Signaling Technology, Beverely, MA) using Leica Application Suite Software. Quantiﬁcation of each epithe-
+lial cell-type was performed manually by counting the number of cells stained for speciﬁc markers in transverse sections. Three in-
+serts for each condition were independently prepared and approximately 1,000 cells in random 40x magniﬁcation ﬁelds were
+analyzed for each insert. The frequency of each cell-type was calculated relative to the total number of cells as determined by
+DAPI-stained nuclei.
+To characterize the ciliary defect in DNAH5 mutant cells ( Figure 7; Video S2), airway cells were ﬁxed and immunostained as pre-
+viously described ( Pan et al., 2007 ; You et al., 2002 ). Primary and secondary antibodies used to detect dynein arms included anti-
+DNAH5 (1:100, HPA037470, Millipore-Sigma, St. Louis, MO), ACT (1:4000, clone 6-11-B1, Millipore-Sigma), DNALI1 (1:100,
+HPA028305, Millipore-Sigma). Primary antibodies were detected using ﬂuorescently labeled secondary antibodies (Alexa Fluor,
+Life Technologies, Grand Island, NY, USA). Nuclei were stained using DAPI (Vector Laboratories, Burlingame, CA, USA). Images
+were acquired using an epiﬂourescent microscope interfaced with imaging software (LAS X, Leica, Buffalo Grove, IL) and adjusted
+globally for brightness and contrast using Afﬁnity Photo (Serif Ltd, Nottingham, UK).
+Single-cell RNA-sequencing
+Cells were prepared for sc-RNA-Seq by dissociating organoids or ALI cultures using the methods described above. Live cells were
+sorted on a MoFlo Astrios Cell sorter (Beckman Coulter, Indianapolis, IN) at Boston University Medical Center Flow Cytometry Core
+and scRNA-Seq was performed using the Chromium Single Cell 3
+0 system (10X Genomics) at the Single Cell Sequencing Core at
+Boston University Medical Center according to the manufacturer’s instructions (10X Genomics). Single cell reads were aligned to
+the reference genome GRCh38 to obtain a gene-to-cell count matrix with Cell Ranger version 3.0.2 (10x Genomics). The average
+sample had a mean of 40,154 reads per cell (ranging from 18,415 to 50,219 depending of the library). The median number of genes
+ll
+Article
+Cell Stem Cell 28, 1–17.e1–e8, January 7, 2021 e6
+Please cite this article in press as: Hawkins et al., Derivation of Airway Basal Stem Cells from Human Pluripotent Stem Cells, Cell Stem Cell (2020),
+https://doi.org/10.1016/j.stem.2020.09.017
+
+<<<PAGE 25>>>
+detected per cell on the average sample was 3,303 genes. This matrix was pre-processed using Seurat version 3.1.0 ( Butler et al.,
+2018), and ﬁltered to remove stressed or dead cells (those with a high percentage of reads mapping to mitochondrial genes, that is
+beyond 10%–20%, depending on the shape of the distribution of mitochondrial reads per cell) and potential doublets (where the
+number of genes detected is above a percentile set as threshold based on the expected proportion of doublets at any given cell den-
+sity (100 - (number of cells/1000) / 100). After normalizing, scaling and regressing out unwanted sources of variation (like cell degra-
+dation), we identiﬁed highly variable genes and used them for linear dimensionality reduction (PCA). The ﬁrst 20 principal components
+were then used for clustering based on the Louvain method for community detection at different resolutions (from 0.25 to 1.5 at in-
+tervals of 0.25). Further non-linear dimensionality reduction was performed using Uniform Manifold Approximation and Projection
+(UMAP) for visualization purposes. Clusters identiﬁed with the Louvain method were annotated based on their differentially ex-
+pressed genes (computed using hurdle models for sparse single cell data from the MAST package) ( Finak et al., 2015 ). Gene set
+enrichment analysis for molecular signatures was done using the method described by Tirosh et al. (2016), as implemented in Seurat.
+In order to obtain a molecular signature of airway epithelial cell types that could be used to characterize iPSC-derived lung cells, we
+ﬁrst analyzed a combination of two datasets of primary airway epithelial cells: (1) P0 HBECs in BEGM medium and (2) ALI cultures
+subsequently derived from these cells. We used the single cell pipeline above with one variation during the preprocessing: in addition
+to regressing the mitochondrial content, we also regressed out the ‘‘library’’ batch effect. Once we had annotated (based on the
+expression of known markers of basal, secretory and ciliated cells) the clusters obtained by the Louvain method ( Figure S4B), we
+proceeded to compare each cell type against all others. In the cases where the cell type of interest was represented in more than
+one cluster, we combined such clusters before performing the comparison to ensure the purity of both query and background pop-
+ulations. This rationale is to ensure that the fold changes were not diluted by the presence of the same cell type in both the query and
+the background of each comparison, for example, when we grouped basal cell populations that were originally in different clusters
+belonging to HBEC samples and ALI samples, and to avoid noise by excluding clusters with poorly characterized or intermediate
+phenotypes. All single cell visualizations were made with Seurat (heatmaps, UMAPs, violin plots).
+Quantiﬁcation of the similarity between AECs
+In order to quantify the similarity between the iPSC-derived airway epithelial cells and the freshly isolated primary airway epithelial cells
+of both fetal and adult tissues, we used a similar procedure asMiller et al. (2020). As a positive control, we included correlations between
+primary cultured HBECs and HBECs differentiated in ALI. Brieﬂy this assessment consists of two steps: ﬁrst, selecting a list of informa-
+tive markers whose proﬁle can discriminate between cell types and developmental stages; and second, calculating the correlation be-
+tween cells in the in-vitro organoid cultures and the primary fresh cell types using the markers selected. For the ﬁrst step (marker se-
+lection), we analyzed separately the single-cell primary fetal airway(Miller et al., 2020) and the single-cell primary adult airway(Carraro
+et al., 2020). Each dataset was normalized using regularized-negative binomial transformation (Hafemeister and Satija, 2019), and its
+percentage of mitochondrial reads was regressed out. Then we performed differential expression test (Finak et al., 2015) and selected
+the top 50 markers for each cell type. This resulted in 353 unique markers for fetal cell types and 149 unique markers for adult cell types.
+These two lists were combined into one and confounding genes (cell cycle markers) were excluded, resulting in a total of 419 unique
+markers. From this list, we ﬁltered out those that were not expressed in any of the in-vitro samples, resulting in a total of 366 unique
+markers. For the second step (computing the correlations), we averaged the normalized expression for each cell type (for both adult
+and fetal cell types), and then iteratively computed the Pearson correlation of the features selected in the previous step between in-vitro
+cells (normalized with the same method) and the in-vivo averaged cell types. A heatmap with the resulting coefﬁcients for the epithelial
+cell types was generated (Figure 2H), with each cell being annotated with the epithelial cell type to which it had the highest correlation.
+The data discussed in this publication have been deposited in NCBI’s Gene Expression Omnibus (Edgar et al., 2002) and are acces-
+sible through GEO Series accession number:GSE142246 (https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE142246).
+Tracheal xenografts
+The tracheal xenograft model was utilized to assay the ability of iBCs to establish well-differentiated airway epithelium in an in vivo
+setting. Open-ended xenografts were prepared as previously described (Filali et al., 2002). Brieﬂy, following multiple freeze and thaw
+cycles to decellularize rat tracheas, tubing was attached, and xenografts were seeded with 10
+6 iBCs (NKX2-1GFP+/TP63tdTomato+/
+NGFR+/EpCAM+) per trachea. Tracheas (two per mouse) were then implanted subcutaneously into the ﬂanks of immune-compromised
+Nu/Nu mice, maintaining air exposure through the open-ended tubing. Three weeks after transplantation, tracheas were removed and
+examined via H&E staining and immunostaining for the establishment of pseudostratiﬁed, well-differentiated airway epithelium.
+Epithelial cell electrophysiological analysis
+Barrier function of the Air Liquid Interface Cultures (ALI) was measured using the Millicell ERS-2 Volt-ohm Meter (Millipore cat#
+MERS00002). The transepithelial electrical resistance (TEER) was measured at varying time points after the medium was removed
+from the apical chambers. All Transwells, including blanks (no cells), received 0.6ml of fresh PneumaCult-ALI medium in the baso-
+lateral chamber and 0.2ml in the apical chamber. Ohms ( U) were measured by inserting the longer portion of the electrode into the
+lower chamber of the Transwell while the shorter end was kept in the apical chamber, and after readings were stabilized for at least six
+seconds. All measurements were performed in triplicate. The resistance across each cell layer (R
+tissue) was obtained by calculating
+the average resistance of the blank wells (Rblank) and subtracting them from the average of an individual Transwell’s 3 readings (Rtotal):
+(Rtissue =R total-R blank). TEER ( U.c m2)=( R tissue)* surface area (cm 2) of the Transwell.
+ll
+Article
+e7 Cell Stem Cell 28, 1–17.e1–e8, January 7, 2021
+Please cite this article in press as: Hawkins et al., Derivation of Airway Basal Stem Cells from Human Pluripotent Stem Cells, Cell Stem Cell (2020),
+https://doi.org/10.1016/j.stem.2020.09.017
+
+<<<PAGE 26>>>
+Ussing chamber experiments were performed on EasyMount Ussing Chamber Systems at voltage clamp mode, and Acquire &
+Analyze software (Physiologic Instruments) was employed to record and analyze data. Brieﬂy, Transwell inserts were mounted into
+chambers and bathed in low chloride Ringer’s solution (1.2 mM NaCl, 140 mM Na-gluconate, 25 mM NaHCO 3,3 . 3 3m MK H2PO4,
+0.83 mM K 2HPO4,1 . 2 m MC a C l2, 1.2 mM MgCl 2, 10 mM glucose) at apical and Ringer’s solution (120 mM NaCl, 25 mM NaHCO 3,
+3.33 mM KH2PO 4,0 . 8 3m MK 2HPO4, 1.2mM CaCl 2, 1.2 mM MgCl 2, 10 mM glucose) at basolateral side of monolayer. After base
+line is stabilized, 100 mM amiloride (Sigma) applied to both sides of the chamber to carry out complete inhibition of ENaC (Epithelial so-
+dium channel). Subsequently, 10mM forskolin (Sigma) were administered to stimulate chloride current. At the end of experiments, 10mM
+CFTR inhibitor-172 (Sigma) employed at the apical side to speciﬁcally inhibit CFTR function followed by 100mM UTP at the apical side to
+assess the integrity of developed epithelium. For BU3 NGPT derived ALI, 5 mM VX-770, CFTR modulator, was treated subsequent to
+forskolin. The resulting change in short circuit current was calculated as DIsc. The data were expressed in mean ± SD.
+Ussing chamber analysis was also used to measure TEER at the beginning of each recording, prior to compound administration, in
+some cases. Brieﬂy, a blank insert was mounted into the Ussing chamber and each side was incubated with Ringer solution as above,
+followed by compensation for voltage electrode asymmetry and ﬂuid resistance. The blank insert was now replaced with the insert
+with cells, which was then voltage clamped and monitored for short-circuit current to calculate TEER based on Ohm’s law.
+Limiting dilution and tracheosphere assays
+On day 10 of directed differentiation, cells were treated with 5 mg/ml polybrene and then separate wells were infected with pHAGE-
+EF1alphaL-eGFP-W, pHAGE-Ef1alphaL-TagBFP-W, or pHAGE- CMV-DsRED-W at an MOI = 1 for 24 hr. On Day 20 of differenti-
+ation, cells were dissociated and GFP+, BFP+ and DsRed+ cells were sorted according to the same protocol described above.
+Equal numbers of GFP+, BFP+ and dsRED+ cells were combined and plated at 1000 cell/ mL, 400 cells/ mL and 200 cells/ mLi n
+50ul droplets of 3D Matrigel in triplicate. On day 34, the Matri gel droplets were imaged and the number of GFP, BFP, dsRed or
+mixed colonies were manually counted. For the tracheosphere assay GFP+/TOM+/NGFR+ BU3 NGPT cells were sorted as above
+and plated at a density of 200cells/ mL in basal cell medium. Onc e organoids had formed, /C2410 days, triplicate wells were either
+continued in basal cell medium or changed to PneumaCult-AL I for an additional 10 days. For the scRNA-Seq experiment in Fig-
+ure S5 E, GFP+/TOM+/NGFR+ BU3 NGPT cells were sorted as above and plated at a density of 400cells/ mL in basal cell medium
+and cultured for 29 days.
+Mucus cell metaplasia model
+BU3 NGPT iBSC-derived ALI culture was prepared as described above. Ten days after air-lifted, cells were treated with 10ng/ml
+IL-13 and cultured for 10 days prior to the assessments. Mucus cell metaplasia was assessed by immunoﬂuorescence staining
+for the increment of MUC5AC expressing cells or gene expression changes via qRT-PCR. Quantiﬁcation of MUC5AC+ cells was per-
+formed using ImageJ software by manually counting MUC5AC+ cells in 3 randomly selected ﬁelds per well (n = 3 wells per condition).
+Quantitative RT-PCR
+RNA was extracted by ﬁrst lysing cells in QIAzol (QIAGEN) and subsequently using the RNeasy Mini kit (QIAGEN). Taqman Fast Uni-
+versal PCR mastermix (Applied Biosystems) were used to reverse transcribe RNA into cDNA and analyzed during 40 cycles of real
+time PCR using Taqman probes (Applied Biosystems). Relative gene expression, normalized to 18S control, was calculated as fold
+change in 18S-normalized gene expression, over baseline, using the 2
+(-DDCT) method. Baseline, deﬁned as fold change = 1, was set to
+undifferentiated iPSCs. If undetected, a cycle number of 40 was assigned to allow fold change calculations.
+Transmission electron microscopy
+Electron microscopy was performed as previously described ( Horani et al., 2012 , 2013). In short, cultured airway epithelial cells
+collected from subjects with PCD, or iPSC derived cells were ﬁxed using 2.5% glutaraldehyde + 2% paraformaldehyde in 0.15M ca-
+codylate buffer at 37 /C14C. Secondary ﬁxation was performed in 1% OsO4 / 1.5% potassium ferrocyanide, and then in 2% uranyl ac-
+etate. Post-staining with 0.1% lead citrate and 0.2% tannic acid was done for additional contrast enhancement. At least 10 cilia cross
+sections were evaluated per group.
+High speed video-microscopy
+Cilia beat frequency was analyzed live in at least 5 ﬁelds obtained from each preparation, using a high-speed video camera and processed
+with the Sisson-Ammons Video Analysis system (Amons Engineering, Mt Morris, MI) as described (Horani et al., 2012; Sisson et al., 2003).
+QUANTIFICATION AND STATISTICAL ANALYSIS
+Statistical methods relevant to each ﬁgure are outlined in the accompanying ﬁgure legend or described in Results section.
+Unless otherwise indicated unpaired, two-tailed Student’s t tests were applied to two groups of n = 3 or more samples, where each repli-
+cate (‘‘n’’) represents either entirely separate differentiations from the pluripotent stem cell stage or replicates differentiated simultaneously
+and sorted into separate wells. A p value < 0.05 was considered to indicate a signiﬁcant difference between groups.
+ll
+Article
+Cell Stem Cell 28, 1–17.e1–e8, January 7, 2021 e8
+Please cite this article in press as: Hawkins et al., Derivation of Airway Basal Stem Cells from Human Pluripotent Stem Cells, Cell Stem Cell (2020),
+https://doi.org/10.1016/j.stem.2020.09.017

@@ -1,0 +1,613 @@
+
+
+<<<PAGE 1>>>
+Generation of Complete Multi− Cell Type
+LungOrganoidsFromHumanEmbryonic
+and Patient-Specific Induced Pluripotent
+Stem Cells for Infectious Disease
+Modeling and Therapeutics Validation
+Sandra L. Leibel,1,2,3,4 Rachael N. McVicar,2,3 Alicia M. Winquist,2,3
+Walter D. Niles,2,3 a n dE v a nY .S n y d e r1,2,3,4
+1Department of Pediatrics, University of California, San Diego School of Medicine, La
+Jolla, California
+2Sanford Consortium for Regenerative Medicine, La Jolla, California
+3Sanford Burnham Prebys Medical Discovery Institute, La Jolla, California
+4Corresponding authors:saleibel@health.ucsd.edu;esnyder@sbp.edu
+The normal development of the pulmonary system is critical to transitioning
+from placental-dependent fetal life to alveolar-dependent newborn life. Hu-
+man lung development and disease have been difficult to study due to the lack
+of an in vitro model system containing cells from the large airways and distal
+alveolus. This article describes a system that allows human embryonic stem
+cells (hESCs) and induced pluripotent stem cells (hiPSCs) to differentiate and
+form three-dimensional (3D) structures that emulate the development, cytoar-
+chitecture, and function of the lung (“organoids”), containing epithelial and
+mesenchymal cell populations, and including the production of surfactant and
+presence of ciliated cells. The organoids can also be invested with mesoderm
+derivatives, differentiated from the same human pluripotent stem cells, such
+as alveolar macrophages and vasculature. Such lung organoids may be used to
+study the impact of environmental modifiers and perturbagens (toxins, micro-
+bialorviralpathogens,alterationsinmicrobiome)ortheefficacyandsafetyof
+drugs, biologics, and gene transfer. © 2020 Wiley Periodicals LLC.
+Basic Protocol:hESC/hiPSC dissection, definitive endoderm formation, and
+lung progenitor cell induction
+Keywords: ciliated cells r differentiation r endoderm r human pluripotent
+stemcells rlungdevelopment rlungorganoid rpulmonarydiseasemodeling
+rSARS-CoV-2viralinfection rsmoothmuscle rsurfactant rtype1alveolar
+cells rtype 2 alveolar cells
+How to cite this article:
+Leibel, S. L., McVicar, R. N., Winquist, A. M., Niles, W. D., &
+Snyder, E. Y. (2020). Generation of complete multi− cell type lung
+organoids from human embryonic and patient-specific induced
+pluripotent stem cells for infectious disease modeling and
+therapeutics validation.CurrentProtocolsinStemCellBiology ,54,
+e118. doi: 10.1002/cpsc.118
+INTRODUCTION
+This article describes a protocol for the differentiation of human pluripotent stem cells
+(hPSCs)—both human embryonic stem cells (hESCs) and human induced pluripotent
+stemcells(hiPSCs)—intothree-dimensional(3D)arrangementsofthemultiplecelltypes
+CurrentProtocolsinStemCellBiology e118, Volume 54
+Published in Wiley Online Library (wileyonlinelibrary.com).
+doi: 10.1002/cpsc.118
+© 2020 Wiley Periodicals LLC
+Leibel et al.
+1o f1 0
+
+
+<<<PAGE 2>>>
+thatconstitutethefullyfunctioning,maturelung(i.e.,lung“organoids”).Enzymaticdis-
+ruption of hPSCs and subsequent growth in inductive media specifying endodermal dif-
+ferentiationonatwo-dimensional(2D)matrixallowsthecellstoproceedtolungprogen-
+itorcells(LPC),expressingthetranscriptionfactorNKX2-1.Atthatpoint,theLPCsare
+enzymatically disrupted again and suspended in a Matrigel matrix on transwell inserts
+as 3D “organoids” which follow lung branching morphogenesis and maturation into a
+combinationoflungepithelialandmesenchymalcellsfromboththeproximalairwayand
+distalalveolus.Ifandonlyif,the3Dconfigurationismaintaineddosurfactant-producing
+alveolar cells develop. If exposed to an air-liquid interface, the organoids develop cili-
+ated cells. Further, the organoids can be invested with appropriate non-endoderm, non-
+pulmonary lineages derived from the same hiPSCs (i.e., isogenic) by protocols not de-
+scribed here but available in other articles in Current Protocols, in order to emulate
+even more completely the structure of the mature lung—e.g., mesoderm-derived alve-
+olarmacrophagesandvasculature.Thismodelcanthenbeusedtoexaminelungdisease
+due to SARS-CoV-2 or any other respiratory virus.
+BASIC
+PROTOCOL
+hESC/hiPSC DISSECTION, DEFINITIVE ENDODERM FORMATION, AND
+LUNG PROGENITOR CELL INDUCTION
+This protocol will begin with pluripotent stem cell dissection and definitive endoderm
+(DE) formation, followed by anterior foregut endoderm (AFE) and lung progenitor cell
+(LPC) differentiation. It will then proceed into 3D lung organoid development and anal-
+ysis. hPSCs are routinely passaged by using RLeSR (StemCell Technologies, cat. no.
+05872) or mechanical dissection.
+NOTE:ThefollowingproceduresareperformedinaClassIIbiologicalhazardflowhood
+or a laminar-flow hood.
+NOTE: All solutions and equipment coming into contact with live cells must be sterile,
+and proper aseptic technique should be used accordingly.
+NOTE: All incubations are performed in a humidified 37°C, 5% CO2 incubator unless
+otherwise specified.
+Materials
+Matrigel human growth factor− reduced matrix (Corning, cat. no. 354230)
+DMEM/F12 medium (Gibco, cat. no. 10565042)
+hESCs/iPSCs (human pluripotent stem cells or hPSCs) grown on feeder-free
+Matrigel in plate wells at 70% confluence
+mTeSR Plus defined feeder-free medium (StemCell Technologies, cat. no. 05825)
+10 mM Y-27632 stock (Tocris, cat. no. 1254)
+Phosphate-buffered saline (PBS; Gibco, cat. no. 10010023)
+Accutase (Innovative Cell Technologies, cat. no. AT104)
+Stem cell passage medium (see recipe)
+mTeSR Plus medium (StemCell Technologies, cat. no. 05825) supplemented with
+10 μM Y-27632 (Tocris, cat. no. 1254)
+DE induction medium (see recipe)
+AFE induction medium (see recipe)
+Quenching medium (see recipe)
+LPC induction medium (see recipe)
+3D organoid induction medium (see recipe)
+3D organoid branching medium (see recipe)
+3D organoid maturation medium (see recipe)
+Reagents for detecting endodermal and lung markers (Table 1)
+4% paraformaldehydeLeibel et al.
+2o f1 0
+Current Protocols in Stem Cell Biology
+
+<<<PAGE 3>>>
+Table 1 Antibodies Used in FACS and Immunoﬂuorescence
+Primary antibodies Company Cat. no. Dilution rate
+CXCR4-PE R&D Systems FAB170P 1:200 (F)
+EPCAM-488 BD Bioscience 347197 1:500 (F)
+FOXJ1 Invitrogen 14-9965-82 1:300
+HOPX Santa Cruz Biotech sc-398703 1:200
+HTII-280 Terrace Biotech TB-27AHT2-280 1:150
+ID2 Abcam ab52093 1:300
+KRT5 abcam ab52635 1:200
+MUC5AC Millipore MAB2011 1:200
+NKX2-1 abcam ab76013 1:300
+NKX2-1-APC LS-BIO LS-C264437 1:1000 (F)
+p63 Boster PB9152 1:250
+PDPN abcam ab10288 1:500
+pSPC abcam ab40871 1:250
+SCGB3A2 abcam ab181853 1:300
+SOX2 Invitrogen MA1-014 1:200
+SOX9 R&D Systems AF3075 1:200
+SPB abcam ab40876 1:250
+SPB (mature) 7 Hills 48604 1: 1500 (F) 1:500 (W)
+a
+SPC (mature) LS Bio LS-B9161 1:100 (F); 1:500 (W)
+a
+aF, FACS; W, western blot.
+Sterile 12- or 6-well tissue culture plates
+Repeat pipettor and filtered pipet tips (P-10, P-20, P-200, and P-1000)
+Disposable pipets (2, 5, 10, 25 and 50 ml)
+Sterile 15- and 50-ml conical tubes
+Humidified 37°C incubator with 5% CO2
+12-well transwells, 0.4-μm pore size (Corning)
+Additional reagents and equipment for basic cell culture techniques including cell
+counting (see Current Protocols article: Phelan & May, 2017)
+Endoderm induction and differentiation to lung progenitor cells (LPCs)
+1. Thaw growth factor− reduced Matrigel on ice and dilute 1:1 (volume/volume) in
+cold DMEM/F12 medium.
+2. Add1mlofDMEM/F12:Matrigelperwellofa6-wellplateor0.5mlperwellof12-
+wellplate,ensurethatitcoverstheentirebottomofthewell,thenremoveremaining
+volumeofDMEM/F12:MatrigelwithacoldP-1000pipettipandplaceintothenext
+well.Becarefulnottoaddbubbles.Oncedesirednumberofwellsarecoated,remove
+any excess DMEM/F12:Matrigel and/or bubbles from wells and place plate on ice
+for 20 min. Transfer plate to a humidified 37°C, 5% CO2 incubator overnight and
+use the next day.
+3. Add 10 μM of Y-27632 to wells of hPSCs in mTESR Plus medium that are 70%
+confluent, and continue incubation for 1 hr.
+4. Aspirate off mTESR Plus medium and wash wells once with PBS.
+Leibel et al.
+3o f1 0
+Current Protocols in Stem Cell Biology
+
+<<<PAGE 4>>>
+5. AddAccutase(1ml/wellfor6-wellplate;0.5ml/wellfor12-wellplate)andincubate
+for 20 min at 37°C in a 5% CO2 incubator.
+6. Add stem cell passage medium directly to the Accutase at an equal volume and
+gently pipet cells up and down using a P-1000 tip to make a single-cell suspension.
+7. Transfer individual wells into one 15-ml conical tube and centrifuge for 5 min at
+300 ×g, room temperature.
+8. Aspirate medium and resuspend the cell pellet with 1 ml of mTESR Plus supple-
+mented with 10μM Y-27632.
+9. Performacellcountusingahemocytometerandtrypanblue(seeCurrentProtocols
+article: Phelan & May, 2017), then aliquot out the appropriate volume to obtain
+2.0 × 105 cells/ml and plate onto a 12-well Matrigel-coated plate prepared in
+steps1and2.Bringtotalvolumeofwellupto1mlwithmTESRPlussupplemented
+with 10μM Y-27632.
+Cellnumbermustbeoptimizedpercellline.24hrafterplating,wellsshouldbe50%-70%
+confluent.
+10. Incubate at 37°C for 24 hr in a humidified 5% CO2 incubator.
+11. 24 hr later, aspirate mTESR Plus and add DE induction medium.
+CHIR99021shouldberemovedafter20-24hrforsuccessfulDEinduction.
+12. Ondays2and3,addDEinductionmediumsupplementedwith100ng/mlofhuman
+activin A only.
+DEdifferentiationshouldnotexceedatotalof72hr,orefficacywilldecrease.
+DEdifferentiationcanbeanalyzedafterday3.
+13. On day 4, change medium to AFE induction medium. Change AFE induction
+medium daily (days 4, 5, and 6)
+AFEdifferentiationcanbeanalyzedafterday6.
+14. On day 7, aspirate out AFE medium and wash wells with PBS.
+15. Add 1 ml of Accutase for 10 min at 37°C.
+16. Add 1 ml of quenching medium. Pipet up and down gently and make sure all cells
+are dislodged.
+17. Transfer individual wells into one 15-ml conical tube and centrifuge for 5 min at
+300 ×g, room temperature.
+18. Resuspend in LPC induction medium with all additives plus 10μM of Y-27632.
+19. Perform a cell count (see Current Protocols article: Phelan & May, 2017), then
+aliquot out the appropriate volume to obtain 2.5× 105 cells/ml and plate onto a
+12-well Matrigel-coated plate prepared in steps 1 and 2. Bring total volume of well
+up to 1 ml with LPC induction medium supplemented with 10 μM Y-27632.
+In24hr,theconfluenceofthecellsshouldbe70%-90%forsuccessfulLPCinduction.
+20. Adayafter,changetoLPCinductionmediumwithoutY-27632.Changethemedium
+every other day for 9-11 days (1.5 ml of LPC induction medium/well of a 12-well
+plate).
+LPCdifferentiationcanbeanalyzedondays15,16,or17.
+Leibel et al.
+4o f1 0
+Current Protocols in Stem Cell Biology
+
+<<<PAGE 5>>>
+Figure 1 Timeline of differentiation of hPSC to LPC. (A) Timeline showing monolayer culture steps from hPSC
+to deﬁnitive endoderm (DE), anterior foregut endoderm (AFE), and lung progenitor cells (LPCs). Also shown are
+the markers expressed by the respective cell types and the combination of growth factors and small molecules
+used for their differentiation. ( B) Representative phase-contrast images of Day 3 DE, Day 6 AFE, and Day 16
+LPCs. (C) Representative ﬂuorescence-activated cell sorting (FACS) plots of DE (96% efﬁciency); also shown
+is an immunoﬂuorescence (IF) image of AFE cells that are dual SOX2 and FOXA2 immunopositive, and a FACS
+plot of NKX2-1 LPCs (yielded with 51% efﬁciency).
+3D lung organoid formation, branching, and maturation
+21. Thaw growth factor− reduced Matrigel on ice and place pipet tips in the freezer.
+22. Add 10 μM of Y-27632 to each well from step 20 containing LPC induction
+medium.
+23. Aspirate LPC induction medium and wash 1× with PBS.
+24. Add Accutase (0.5 ml/12-well) and incubate for 10 min at 37°C in a 5% CO2 incu-
+bator.
+25. Add 1 ml of quenching medium. Pipet up and down forcefully and make sure all
+cells are dislodged.
+Epithelialcellsarevery“sticky,”somakesurethatallcellsaredissociatedfromthewell.
+26. Transfer individual wells into one 15-ml conical tube and centrifuge for 5 min at
+300 ×g, room temperature.
+27. Resuspend in quenching medium plus 10μM Y-27632.
+Leibel et al.
+5o f1 0
+Current Protocols in Stem Cell Biology
+
+<<<PAGE 6>>>
+Figure 2 Timeline of differentiation of LPCs to 3D lung organoids. ( A) Timeline showing monolayer culture of
+LPCs passaged on to 3D Matrigel on transwells. ( B) Phase-contrast images of live organoids as they appear
+at the end of each step. All images were obtained at 10 × power. Scale bars, 50 μm.
+28. Performacellcount(seeCurrentProtocolsarticle:Phelan&May,2017)andaliquot
+outthedesiredvolumeofquenchingmedium/Y-27632withcellsinto1.5-mlmicro-
+centrifuge tubes to obtain 4.0× 104 cells per transwell (see steps below) for ESCs
+and 8.0× 104 cells for iPSCs.
+Cellnumbermustbeoptimizedpercellline;thecellsshouldnotbecomeoverlyconfluent
+within18daysofdifferentiation.
+29. Microcentrifuge the tubes for 5 min at 300×g, room temperature.
+30. Aspirate off the medium and re-suspend cells in cold Matrigel, adding 200 μl Ma-
+trigelforevery4.0 ×104 cellspertranswellforESCsand8.0 ×104 cellsforiPSCs.
+Keep Matrigel with cells on ice.
+31. Add 200 μl of Matrigel/cell mixture on to a 12-well transwell insert suspended in a
+12-well plate.
+32. Place plate into the 5% CO2 humidified incubator at 37°C for 30-60 min to allow
+gelling of Matrigel.
+33. Add 1 ml of 3D organoid induction medium with all additive plus 10μMo fY -
+27632 to the lower chamber of the well and change the medium every other day for
+6d a y s .
+Attheendof3Dorganoidinduction,thereshouldbemultipleclumpsofcellsbeginning
+toshow“sprouts.”
+34. On day 23, change the medium to 3D organoid branching medium.
+35. Change medium every other day for 6 days using 3D organoid branching medium.
+Atday6of3Dbranchingdifferentiation,thereshouldbemultiplebranchingorganoids
+(seeFig.2).
+36. On day 29, change the medium to 3D organoid maturation medium.
+37. Change medium every other day for 6 days using 3D organoid maturation medium.
+Leibel et al.
+6o f1 0
+Current Protocols in Stem Cell Biology
+
+<<<PAGE 7>>>
+24 hr after 3D maturation, the branching organoids should inflate into large, clear
+spheres.
+Attheendof3Dmaturation,themajorityoforganoidsshouldbeclear,largespheres(see
+SupportingInformation,Movie#1).
+Analyze differentiation
+38. ToanalyzeDEefficiency,performflowcytometryformarkersCXCR4andEPCAM
+or perform ICC for SOX17 (day 3).
+39. To analyze AFE efficiency, perform immunocytochemistry (ICC) for SOX2 and
+FOXA2 (day 6).
+40. To analyze LPC efficiency, perform immunocytochemistry (ICC) for NKX2-1 or
+flow cytometry for CD47hi/CD36low or CPM (days 15-17).
+41. For3Dorganoidanalysis,addthefixative4%PFAdirectlyontotheMatrigelinthe
+transwell, as well as to the bottom well, for 1 hr at 4°C. Embed in paraffin wax and
+dehydrate per published protocols. Perform antigen retrieval prior to staining.
+AirwaymarkersincludeKRT5,MUC5AC,andSCGB3A2.AlveolarmarkersincludeSP-
+C,SP-B,HTII-280,andAGER
+REAGENTS AND SOLUTIONS
+Stem cell passaging medium (day 0)
+500 ml DMEM/F12 (Gibco, 10565042)
+129 ml KSR (Life Technologies, 10828028)
+6.5 ml Glutamax (Life Technologies, 35050061)
+6.5 ml NEAA (Life Technologies, 11140050)
+1.3 ml 2-mercaptoethanol (Sigma-Aldrich, M3148)
+6.5 ml pen/strep (Lonza, 17-602F)
+S t o r eu pt o2w e e k sa t4 ° C
+Quenching medium
+49 ml DMEM/F12 (Gibco, 10565042)
+1 ml FBS (Gibco, 10082139)
+S t o r eu pt o1m o n t ha t4 ° C
+DE induction medium (day 1-3)
+48.5 ml RPMI1640+Glutamax (Life Technologies, 12633012)
+1 ml B27 without retinoic acid (ThermoFisher, 12587010)
+500 μl HEPES (1%) (Gibco, 15630-080)
+500 μl pen/strep (Lonza, 17-602F)
+Store with above ingredients up to 2 weeks at 4°C
+Supplemented with:
+Human activin A (R&D Systems; 100 ng/ml)
+CHIR99021 (Stemgent; 5μM)
+Addthetwogrowthfactorsaboveimmediatelypriortouse.
+Serum-free basal medium
+375 ml Iscove’s Modified Dulbecco’s Medium (IMDM)+Glutamax (Invitrogen,
+31980030)
+125 ml Ham’s F12 (Invitrogen, 11765-054)
+5 ml B27 without retinoic acid (ThermoFisher, 12587010)
+2.5 ml N2 (ThermoFisher, 17502048)
+500 μl ascorbic acid, 50 mg/ml (Sigma, A4544) Leibel et al.
+7o f1 0
+Current Protocols in Stem Cell Biology
+
+<<<PAGE 8>>>
+19.5 μl monothioglycerol, 500μg/ml (Sigma, M6145)
+3.75 ml bovine serum albumin (BSA) Fraction V, 7.5% solution (Gibco,
+15260-037)
+500 μl pen/strep (Lonza, 17-602F)
+S t o r eu pt o2w e e k sa t4 ° C
+AFE induction medium (day 4-6)
+Serum-freebasalmedium(seerecipe)supplementedwith :
+10 μM SB431542 (R&D Systems)
+2 μM dorsomorphin (Stemgent)
+Addthetwogrowthfactorsaboveimmediatelypriortouse.
+LPC induction medium (day 7-16)
+Serum-freebasalmedium(seerecipe)supplementedwith :
+10 ng/ml of human recombinant BMP4 (R&D Systems)
+0.1 μMo fa l l -transretinoic acid (RA) (Sigma-Aldrich)
+3 μM of CHIR99021 (Stemgent)
+Addthethreegrowthfactorsaboveimmediatelypriortouse.
+3D organoid induction medium (day 17-22)
+Serum-freebasalmedium(seerecipe)supplementedwith :
+FGF7 (R&D Systems; 10 ng/ml)
+FGF10 (R&D Systems; 10 ng/ml)
+CHIR99021 (Stemgent; 3μM)
+EGF (R&D Systems; 10 ng/ml)
+Addthegrowthfactorsaboveimmediatelypriortouse.
+3D organoid branching medium (day 23-28)
+Serum-freebasalmedium(seerecipe)supplementedwith :
+FGF7 (R&D Systems; 10 ng/ml)
+FGF10 (R&D Systems; 10 ng/ml)
+CHIR99021 (Stemgent; 3μM)
+all-transretinoic acid (RA; Sigma-Aldrich; 0.1μM)
+EGF (R&D Systems; 10 ng/ml)
+VEGF/PIGF (R&D Systems; 10 ng/ml)
+Addthegrowthfactorsaboveimmediatelypriortouse.
+3D organoid maturation medium (day 29-34)
+3Dorganoidbranchingmedium(seerecipe)supplementedwith :
+Dexamethasone (Sigma-Aldrich; 50 nM)
+cAMP (Sigma-Aldrich; 100μM)
+IBMX (Sigma-Aldrich; 100μM)
+Addthegrowthfactorsaboveimmediatelypriortouse.
+COMMENTARY
+Background Information
+hPSCs have the ability to differentiate into
+most cell types of the body when exposed
+to induction signals that emulate what occurs
+during normal gastrulation and then normal
+development and lineage commitment (Taka-
+hashi et al., 2007; Thomson et al., 1998). Be-
+cause they can be differentiated into these
+manycelltypes(Shi,Inoue,Wu,&Yamanaka,
+2017), they can provide a platform for study-
+ing human development and disease under
+exceptional scrutiny, and with the ability to
+systematically manipulate, for experimental
+purposes, the genetic and environmental con-
+ditions.Wearecomingtoappreciate,however,
+that having the correct complement of cells
+of a given organ is not sufficient. The normal
+human body plan has multiple cell types, inLeibel et al.
+8o f1 0
+Current Protocols in Stem Cell Biology
+
+<<<PAGE 9>>>
+thecorrectratio,notinmonolayerbutinthree
+dimensions where cell-cell contact, mechani-
+cal forces, differences in diffusion gradients,
+and oxygen tension all play a role in normal
+functioning. Hence, the stem cell field has be-
+guntoevolvesuchthatithasbecomepossible
+for the hPSC-derived cell types to form three-
+dimensional aggregates that might more au-
+thenticallyreproduceagivenorganinvitro—a
+“mini-organ” or “organoid.”
+To generate lung organoids, many groups
+have focused on directed differentiation of
+PSCs into lung epithelial cells (Dye et al.,
+2015; Gotoh et al., 2014; Green et al., 2011;
+Hawkins et al., 2017; Huang et al., 2014;
+Konishi et al., 2016; Leibel et al., 2019; Mc-
+Cauley et al., 2017) via the addition of regu-
+lators of cell signaling pathways. First is the
+induction of definitive endoderm (D’Amour
+et al., 2005), then anterior foregut endoderm
+(Green et al., 2011), and finally specifica-
+tionintolungprogenitorcells(LPCs)express-
+ing the transcription factor NKX2-1(Minoo
+et al., 2007). Some groups sort at this stage
+topurifytheLPCsandmake“epithelial-only”
+lung organoids (Gotoh et al., 2014; Hawkins
+et al., 2017), while others utilize fully formed
+spheres that bud off the monolayer cultures
+(Dye et al., 2015; Huang et al., 2014). Subse-
+quentlungdifferentiationoccursin3Dculture
+systems, usually on Matrigel, and can be used
+to make specific cell types including alveoli
+(Gotoh et al., 2014, Jacob et al., 2017), prox-
+imal airways (Konishi et al., 2016; McCauley
+et al., 2017), or a mix of both (Huang et al.,
+2015;Leibeletal.,2019).Smoothmusclealso
+emerges in the organoids which, at times, en-
+dows them with the ability to evince respira-
+tory contractions (Movie 2 in Supporting In-
+formation).
+Such lung organoids can be used to help
+decipher normal and aberrant human lung de-
+velopment, study pulmonary disease, and test
+therapies (whether through gene transfer, use
+of drugs, or exposure to biologics). Indeed,
+some tests of the efficacy of a therapy may
+only be proven using lung organoids. For ex-
+ample, the viral vector-mediated genetic cor-
+rection of the lethal inborn error of surfac-
+tant B production (due to a deletion mutation
+in the surfactant B gene) could be demon-
+strated recently only in lung organoids, be-
+cause only in that configuration could Type 2
+alveolarcells(thelung’ssurfactant-producing
+cells) robustly emerge (Leibel et al., 2019).
+Most recently, lung organoids are being
+used to assess the pathophysiology of such
+environmental perturbagens as vaping toxins,
+nicotine, and viral infections such as SAR2-
+CoV-2.Becausethelungorganoidscanbein-
+vestedwithhPSCderivativesotherthansolely
+from endoderm but nevertheless representa-
+tiveofthetruehumanlunginsitu—e.g.,alve-
+olar macrophages and vasculature—the true
+panoply of the viral-mediated pathology can
+be assessed.
+In addition, because the lung organoids
+can be derived from hiPSCs generated from
+a wide spectrum of individuals of both sexes
+and from a broad spectrum of racial back-
+grounds, ages, and genetic predispositions to
+disease, “patient-specific lung organoids” can
+also be created. Such lung organoids may
+be used to help explain disparities is disease
+susceptibility—forexample,inresponsetoin-
+fection with viruses such as SARS-CoV-2—
+as well as help to adjust the doses of ther-
+apeutic compounds that might obviate such
+disparities.
+Critical Parameters and
+Troubleshooting
+The starting cell population is extremely
+important for a successful differentiation. The
+hPSCsneedtobeofhighquality,withminimal
+differentiation. Timing of growth factor addi-
+tion is critical and must be monitored closely.
+The medium can become acidotic (yellow),
+and therefore must be changed daily to en-
+sure healthy differentiating cells. Cell num-
+ber at each passage is crucial, as is the ad-
+dition of Y-27632 after every passage. The
+most critical step is achieving an efficient
+LPC differentiation. If the yield of NKX2-1
+or CD47hi/CD36low or CPM is less than 30%,
+wedonotrecommendcontinuingwiththe3D
+lungorganoidinduction.Weusuallycheckthe
+yield on day 15 or 16, and then passage the
+cells into organoid induction medium if there
+is >30% NKX2-1.
+Anticipated Results
+Generally, if the protocol is followed with
+a close eye on timing of growth factors and
+cell number, there should be a yield of>30%
+NKX2-1+ LPCs, which can then be trans-
+ferred into 3D Matrigel for lung organoid in-
+duction. The 3D culture protocol is easy to
+follow, and the organoids should go through
+thestagesofbranchingandbuddingasseenin
+Figure2andSupportingInformationMovie1.
+Once mature, the organoids can be passaged,
+frozen. or used in various assays.
+While the amount of time to gener-
+ate authentic organoids seems protracted,
+it is likely required to yield truly mature Leibel et al.
+9o f1 0
+Current Protocols in Stem Cell Biology
+
+<<<PAGE 10>>>
+organoidsthatmimictruedevelopment.How-
+ever, we are working on making the pro-
+cess more automated, higher-throughput, less
+labor-intensive,andwithgreateryieldviapar-
+allel processing.
+Time Considerations
+This assay requires up to 35 days for com-
+pletion, so proper planning of experiments is
+important. We recommend setting up the ex-
+periment on a Monday, undergoing endoderm
+inductiononaTuesday,andchangingmedium
+all weekend for AFE. Then, the cells can be
+passaged into LPCs on the following Monday
+andchangedevery2daysuntilreadyforanal-
+ysis and 3D induction. We recommend eval-
+uation of NKX2-1 expression on Day 9-10 of
+LPCgeneration,thenpassagingthecellswhen
+>30% LPCs are present into 3D Matrigel on
+the following day.
+Acknowledgments
+WethankJamesShortforhelpingtocreate
+the movie of the lung organoids developing.
+Literature Cited
+D’Amour, K. A., Agulnick, A. D., Eliazer, S.,
+Kelly, O. G., Kroon, E., & Baetge, E. E.
+(2005). Efficient differentiation of human em-
+bryonic stem cells to definitive endoderm.Na-
+tureBiotechnology,23(12),1534–1541.doi:10.
+1038/nbt1163.
+Dye,B.R.,Hill,D.R.,Ferguson,M.A.,Tsai,Y.H.,
+Nagy, M. S., Dyal, R., … Spence, J. R. (2015).
+In vitro generation of human pluripotent stem
+cell derived lung organoids.Elife, 4, e05098.
+doi: 10.7554/eLife.05098.
+Gotoh,S.,Ito,I.,Nagasaki,T.,Yamamoto,Y.,Kon-
+ishi, S., Korogi, Y., … Mishima, M. (2014).
+Generation of alveolar epithelial spheroids via
+isolatedprogenitorcellsfromhumanpluripotent
+stem cells.Stem Cell Reports, 3(3), 394–403.
+doi: 10.1016/j.stemcr.2014.07.005.
+Green,M.D.,Chen,A.,Nostro,M.C.,d’Souza,S.
+L., Schaniel, C., Lemischka, I. R., … Snoeck,
+H. W. (2011). Generation of anterior foregut
+endoderm from human embryonic and induced
+pluripotent stem cells. Nature Biotechnology,
+29(3), 267–272. doi: 10.1038/nbt.1788.
+Hawkins, F., Kramer, P., Jacob, A., Driver, I.,
+Thomas, D. C., McCauley, K. B., … Kotton,
+D. N. (2017). Prospective isolation of NKX2-
+1-expressing human lung progenitors derived
+frompluripotentstemcells. TheJournalofClin-
+ical Investigation, 127(6), 2277–2294. doi: 10.
+1172/JCI89950.
+Huang, S. X., Islam, M. N., O’Neill, J., Hu, Z.,
+Yang, Y. G., Chen, Y. W., … Snoeck, H. W.
+(2014). Efficient generation of lung and airway
+epithelial cells from human pluripotent stem
+cells.Nature Biotechnology,32(1), 84–91. doi:
+10.1038/nbt.2754.
+Huang, S. X. L., Green, M. D., de Carvalho, A.
+T.,Mumau,M.,Chen,Y.-W.,D’Souza,S.L.,&
+Snoeck, H.-W. (2015). The in vitro generation
+oflungandairwayprogenitorcellsfromhuman
+pluripotent stem cells.NatureProtocols,10(3),
+413–425. doi: 10.1038/nprot.2015.023.
+Jacob, A., Morley, M., Hawkins, F., McCauley,
+K. B., Jean, J. C., Heins, H., … Kotton, D.
+N. (2017). Differentiation of human pluripotent
+stem cells into functional lung alveolar epithe-
+lial cells.Cell Stem Cell,21(4), 472–488.e410.
+doi: 10.1016/j.stem.2017.08.014.
+Konishi, S., Gotoh, S., Tateishi, K., Yamamoto,
+Y., Korogi, Y., Nagasaki, T., … Mishima,
+M. (2016). Directed induction of functional
+multi-ciliatedcellsinproximalairwayepithelial
+spheroids from human pluripotent stem cells.
+Stem CellReports,6(1), 18–25. doi: 10.1016/j.
+stemcr.2015.11.010.
+Leibel, S. L., Winquist, A., Tseu, I., Wang, J.,
+Luo, D., Shojaie, S., … Post, M. (2019). Re-
+versal of surfactant protein B deficiency in pa-
+tient specific human induced pluripotent stem
+cell derived lung organoids by gene therapy.
+Scientific Reports, 9(1), 13450. doi: 10.1038/
+s41598-019-49696-8.
+McCauley, K. B., Hawkins, F., Serra, M., Thomas,
+D. C., Jacob, A., & Kotton, D. N. (2017). Effi-
+cient derivation of functional human airway ep-
+ithelium from pluripotent stem cells via tempo-
+ral regulation of wnt signaling.Cell Stem Cell,
+20(6),844–857.e846.doi:10.1016/j.stem.2017.
+03.001.
+Minoo, P., Hu, L., Xing, Y., Zhu, N. L., Chen,
+H., Li, M., … Li, C. (2007). Physical and
+functional interactions between homeodomain
+NKX2.1 and winged helix/forkhead FOXA1 in
+lungepithelialcells. MolecularandCellularBi-
+ology, 27(6), 2155–2165. doi: 10.1128/MCB.
+01133-06.
+Shi, Y., Inoue, H., Wu, J. C., & Yamanaka, S.
+(2017). Induced pluripotent stem cell technol-
+ogy: A decade of progress. Nature Reviews
+DrugDiscovery ,16(2), 115–130. doi: 10.1038/
+nrd.2016.245.
+Takahashi, K., Tanabe, K., Ohnuki, M., Narita,
+M., Ichisaka, T., Tomoda, K., & Yamanaka, S.
+(2007).Inductionofpluripotentstemcellsfrom
+adulthumanfibroblastsbydefinedfactors. Cell,
+131(5), 861–872. doi: 10.1016/j.cell.2007.11.
+019.
+Thomson, J. A., Itskovitz-Eldor, J., Shapiro, S. S.,
+Waknitz, M. A., Swiergiel, J. J., Marshall, V.
+S., & Jones, J. M. (1998). Embryonic stem cell
+lines derived from human blastocysts.Science,
+282(5391), 1145–1147. doi: 10.1126/science.
+282.5391.1145.
+Leibel et al.
+10 of 10
+Current Protocols in Stem Cell Biology

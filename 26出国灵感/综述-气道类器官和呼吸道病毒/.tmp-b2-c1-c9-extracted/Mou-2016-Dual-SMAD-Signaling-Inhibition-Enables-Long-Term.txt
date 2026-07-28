@@ -1,0 +1,1287 @@
+
+
+<<<PAGE 1>>>
+Article
+Dual SMAD Signaling Inhibition Enables Long-Term
+Expansion of Diverse Epithelial Basal Cells
+Graphical Abstract
+Highlights
+d SMAD activity is active in suprabasal cells but is weaker in
+basal epithelial cells
+d SMAD signaling activity correlates with mucociliary
+differentiation in the airway
+d Dual TGFb/BMP inhibition prevents spontaneous
+differentiation in culture
+d Dual TGFb/BMP inhibition allows prolonged culture of
+diverse epithelial basal cells
+Authors
+Hongmei Mou, Vladimir Vinarsky,
+Purushothama Rao Tata, ...,
+John F. Engelhardt, Ya-Chieh Hsu,
+Jayaraj Rajagopal
+Correspondence
+jrajagopal@partners.org
+In Brief
+Mou et al. show that small-molecule-
+mediated SMAD signaling inhibition
+allows prolonged feeder-free culture of
+diverse functional epithelial basal stem
+cells in a 2D format. This methodology
+provides a facile patient-speciﬁc
+epithelial disease modeling platform, as
+shown by the expansion of airway
+epithelium from non-invasively obtained
+specimens from cystic ﬁbrosis patients.
+Mou et al., 2016, Cell Stem Cell 19, 1–15
+August 4, 2016 ª 2016 Elsevier Inc.
+http://dx.doi.org/10.1016/j.stem.2016.05.012
+
+<<<PAGE 2>>>
+Cell Stem Cell
+Article
+Dual SMAD Signaling Inhibition Enables Long-Term
+Expansion of Diverse Epithelial Basal Cells
+Hongmei Mou,1,2,3 Vladimir Vinarsky,1,2,4 Purushothama Rao Tata, 1,2 Karissa Brazauskas,1,3 Soon H. Choi, 5
+Adrianne K. Crooke, 5 Bing Zhang,6 George M. Solomon, 7,10 Brett Turner,8 Hermann Bihler,11 Jan Harrington,11
+Allen Lapey,3 Colleen Channick,4 Colleen Keyes,4 Adam Freund,12 Steven Artandi,12 Martin Mense,11 Steven Rowe,7,8,9,10
+John F. Engelhardt, 5 Ya-Chieh Hsu,6 and Jayaraj Rajagopal 1,2,3,4,13,*
+1Center for Regenerative Medicine, Massachusetts General Hospital, 185 Cambridge Street, Boston, MA 02114, USA
+2Harvard Stem Cell Institute, Cambridge, MA 02138, USA
+3Division of Pediatric Pulmonary Medicine, Massachusetts General Hospital for Children, Boston, MA 02114, USA
+4Division of Pulmonary and Critical Care Medicine, Department of Internal Medicine, Massachusetts General Hospital, Boston,
+MA 02114, USA
+5Department of Anatomy and Cell Biology, College of Medicine, University of Iowa, Iowa City, IA 52242, USA
+6Department of Stem Cell and Regenerative Biology, Harvard University and Harvard Stem Cell Institute, 7 Divinity Avenue, Cambridge,
+MA 02138, USA
+7Department of Medicine, University of Alabama at Birmingham, Birmingham, AL 35233, USA
+8Department of Pediatrics, University of Alabama at Birmingham, Birmingham, AL 35233, USA
+9Department of Cell, Developmental, and Integrative Biology, University of Alabama at Birmingham, AL 35294, USA
+10Gregory Fleming James Cystic Fibrosis Research Center, University of Alabama at Birmingham, Birmingham, AL 35233, USA
+11CFFT Lab, Cystic Fibrosis Foundation Therapeutics, Lexington, MA 01730, USA
+12Departments of Medicine and Biochemistry, Stanford University, Stanford, CA 94305, USA
+13Division of Otology and Laryngology, Massachusetts Eye and Ear, Boston, MA 02114, USA
+*Correspondence: jrajagopal@partners.org
+http://dx.doi.org/10.1016/j.stem.2016.05.012
+SUMMARY
+Functional modeling of many adult epithelia is limited
+by the difﬁculty in maintaining relevant stem cell pop-
+ulations in culture. Here, we show that dual inhibition
+of SMAD signaling pathways enables robust expan-
+sion of primary epithelial basal cell populations. We
+ﬁnd that TGF b/BMP/SMAD pathway signaling is
+strongly activated in luminal and suprabasal cells
+of several epithelia, but suppressed in p63+ basal
+cells. In airway epithelium, SMAD signaling promotes
+differentiation, and its inhibition leads to stem cell
+hyperplasia. Using dual SMAD signaling inhibition in
+a feeder-free culture system, we have been able to
+expand airway basal stem cells from multiple species.
+Expanded cells can produce functional airway epithe-
+lium physiologically responsive to clinically relevant
+drugs, such as CFTR modulators. This approach is
+effective for the clonal expansion of single human
+cells and for basal cell populations from epithelial
+tissues from all three germ layers and therefore may
+be broadly applicable for modeling of epithelia.
+INTRODUCTION
+Many epithelia are maintained by the regenerative capacity of
+adult stem cells. In stratiﬁed epithelia, basement membrane-
+resident p63 + basal cells can self-renew and often act as stem
+cells that give rise to differentiated progeny ( Van Keymeulen
+and Blanpain, 2012; Melino et al., 2015; Mills et al., 1999; Yang
+et al., 1999). In some instances, adult basal cells function as uni-
+potent stem cells ( Choi et al., 2012; Van Keymeulen et al., 2011 ),
+although these basal cells demonstrate a bipotent stem cell plas-
+ticity on transplantation (Van Keymeulen et al., 2011; Prater et al.,
+2014). Epithelial stem cell culture relying on co-culture with irra-
+diated ﬁbroblasts was pioneered by Rheinwald and Green (1975)
+and remains the standard method for long-term expansion of
+human keratinocytes. The use of Rho-associated protein kinase
+(ROCK) inhibition has further improved epithelial culture systems
+(Liu et al., 2012 ) and has been recently used to culture many or-
+gan-speciﬁc progenitor cells ( Wang et al., 2015 ).
+Despite these remarkable achievements, the prolonged expan-
+sion of adult epithelial stem cells remains challenging, and for
+many stratiﬁed and pseudostratiﬁed tissues there are no adequate
+culture systems and, importantly, no methodology to clone cells.
+Furthermore, feeders, as a contaminating cell population, may
+interfere with the mechanistic interpretation of the effects of ge-
+netic and pharmacologic manipulation. Organoid culture models
+offer an alternative to ﬁbroblast co-culture systems allowing
+stem cells from many organs to be propagated ( Barcellos-Hoff
+et al., 1989; Rock et al., 2009; Sato et al., 2009; Tadokoro et al.,
+2016; Yin et al., 2014 ). However, after decades of epithelial stem
+cell culture research, the ability to expand and manipulate pure
+adult stratiﬁed and pseudostratiﬁed epithelial stem cells remains
+limited.
+The transforming growth factor-b (TGFb) superfamily signaling
+has been implicated in regulating hematopoietic, hair follicle, me-
+lanocyte stem cell, and neural stem cell quiescence and activa-
+tion ( Genander et al., 2014; Kandasamy et al., 2014; Kobielak
+et al., 2007; Mira et al., 2010; Nishimura et al., 2010; Oshimori
+and Fuchs, 2012; Yamazaki et al., 2009 ). Additionally, BMP and
+Cell Stem Cell 19, 1–15, August 4, 2016 ª 2016 Elsevier Inc. 1
+Please cite this article in press as: Mou et al., Dual SMAD Signaling Inhibition Enables Long-Term Expansion of Diverse Epithelial Basal Cells, Cell S tem
+Cell (2016), http://dx.doi.org/10.1016/j.stem.2016.05.012
+
+<<<PAGE 3>>>
+A
+B
+C
+D
+E
+P-SMAD1/5/8p63KRT8DAPI P-SMAD1/5/8p63DAPI P-SMAD1/5/8KRT8DAPI
+0
+20
+40
+60
+80
+100
+120
+Basal
+(p63+)
+Prolifera/g415ve
+(Ki67+)
+Ciliated
+(FOXJ1+)
+Club
+(SSEA1+)
+P-SMAD1,5,8 P-SMAD2,3
+%ofp-SMADposi/g415vecells
+0
+20
+40
+60
+80
+100
+120
+Basal
+(p63+)
+Prolifera/g415ve
+(Ki67+)
+Luminal
+(CK8+)
+Ciliated
+(FOXJ1+)
+P-SMAD1,5,8 P-SMAD2,3
+F
+Mousetrachea Humanbronchus
+G
+%ofp-SMADposi/g415ve cells
+P-SMAD1//5/8FOXJ1DAPI P-SMAD1/5/8SSEA1DAPI P-SMAD1/5/8Ki67DAPI
+P-SMAD1/5/8KRT5KRT8DAPI P-SMAD1/5/8 KRT5 KRT8
+P-SMAD1/5/8p63DAPI P-SMAD1/5/8Ki67DAPI P-SMAD1/5/8FOXJ1DAPI
+P-SMAD2/3p63DAPI P-SMAD2/3KRT8DAPI P-SMAD2/3FOXJ1DAPI P-SMAD2/3Ki67DAPI
+Mousetrachea
+Mousetrachea
+Humanbronchus
+Humanbronchus
+Humanbronchus
+P-SMAD2/3p63KRT8DAPI P-SMAD2/3p63DAPI P-SMAD2/3KRT8DAPI
+P-SMAD2/3FOXJ1DAPI P-SMAD2/3SSEA1DAPI P-SMAD2/3Ki67DAPI
+(legend on next page)
+2 Cell Stem Cell 19, 1–15, August 4, 2016
+Please cite this article in press as: Mou et al., Dual SMAD Signaling Inhibition Enables Long-Term Expansion of Diverse Epithelial Basal Cells, Cell S tem
+Cell (2016), http://dx.doi.org/10.1016/j.stem.2016.05.012
+
+<<<PAGE 4>>>
+TGFb signaling balances stem cell proliferation, differentiation,
+and reversible cell-cycle exit and thereby regulates the mainte-
+nance and dynamic behavior of normal reservoirs of stem cells
+capable of responding to tissue injury ( Guasch et al., 2007; He
+et al., 2004; Kobielak et al., 2007; Oshimori and Fuchs, 2012 ).
+Indeed, BMP/TGF b signaling antagonists have been used to
+facilitate the colon and mouse tracheal organoid culture ( Sato
+et al., 2009; Tadokoro et al., 2016 ).
+Given their roles in diverse stem cell systems, we assessed the
+role of BMP and TGF b signaling in epithelia at large. We demon-
+strate that BMP and TGF b signaling activity is relatively sup-
+pressed in p63 + basal cells, but is highly active in luminal and
+suprabasal cells, which can represent either differentiated epithe-
+lial cells or unipotent non-basal progenitor cells (Choi et al., 2012;
+Van Keymeulen et al., 2011 ). We have exploited the use of dual
+SMAD signaling inhibition to overcome the growth arrest and dif-
+ferentiation encountered in the culture of primary adult basal cells.
+As a result, expanded murine and human cells maintain their
+ability to differentiate into functional tissues. Thus, we describe
+a culture system that may allow for the generation of non-invasive
+clinically relevant disease models across many organ systems.
+Additionally, the methodology allows for cloning human stem
+cells. This, in turn, provides the key to reproducibly developing
+clonally derived, genetically modiﬁed human epithelia. Airway
+epithelia derived in this manner do lose some of their physiologic
+properties over time, despite preserved cell differentiation. Future
+work will be needed to resolve this limitation.
+RESULTS
+SMAD Signaling Is Highly Active in the Luminal Cells of
+the Airway Epithelium
+We used the mouse trachea as a model system to understand
+how TGF b/BMP/SMAD signaling regulates basal stem cell
+behavior. The mouse trachea contains p63
++/KRT5+ basal stem
+cells, which can self-renew and give rise to luminal (KRT8 +)
+secretory club cells and ciliated cells (Rock et al., 2009). Staining
+for both p-SMAD1/5/8 and p-SMAD2/3 (indicators of BMP and
+TGFb signaling activity, respectively) was strongly positive in
+KRT8+ luminal cells ( Figures 1A and 1B). In contrast, p63 + basal
+stem cells displayed weak or negative p-SMAD protein expres-
+sion ( Figures 1 A and 1B). Furthermore, co-staining of p-SMAD
+with lineage-speciﬁc makers revealed that 92% ± 8% of
+FOXJ1
++ ciliated cells and 88% ± 7% of SSEA1 + secretory cells
+were positive for p-SMAD1/5/8, while 94% ± 10% of ciliated
+cells and 93% ± 9% of secretory cells were positive for
+p-SMAD2/3 ( Figure 1 F), reﬂecting the dual activation of BMP
+and TGFb signaling in luminal epithelia. In p63 + basal stem cells,
+while the vast majority of cells were negative for p-SMAD, a small
+fraction of p63 + cells were clearly positive for p-SMAD1/5/8
+(9% ± 4%) and p-SMAD2/3 (10% ± 4%) ( Figure 1F). We specu-
+lated that this population represents differentiating basal cells.
+In fact, these p63 +p-SMADlow cells also expressed a low level
+of KRT8, consistent with the onset of differentiation. Nearly all
+Ki67+ replicating cells were negative or only weakly positive for
+p-SMAD1/5/8 and p-SMAD2/3 ( Figures 1 F and 1G), suggest-
+ing an inverse relationship between proliferation and SMAD
+signaling activity. The p-SMAD1/5/8 and p-SMAD2/3 staining
+pattern in the human bronchus mimicked the pattern seen in
+the mouse trachea ( Figures 1C–1E and 1G).
+SMAD Signaling Is Highly Active in Luminal and
+Suprabasal Cells, but Is Suppressed in Basal Cells in
+Epithelial Tissues of All Three Germ Layers
+Next, we examined p-SMAD status in diverse mouse epithelia
+developmentally derived from each of the three germ layers
+(Figure 2 A), including ectoderm-derived (skin and mammary
+gland), endoderm-derived (vocal fold, esophagus, and prostate),
+and mesoderm-derived (epididymis) tissues. The epithelial
+tissues were either stratiﬁed squamous (skin, vocal fold, and
+esophagus) or pseudostratiﬁed (trachea, prostate, mammary
+gland, and epididymis). All of these epithelial tissues possess
+p63
++ basal cells and p63 /C0luminal and suprabasal cells that
+are the progeny of basal cells (such as in skin, vocal fold, esoph-
+agus, airway, and epididymis) or that self-sustain (such as in
+mammary gland and prostate). We found that in all of these
+tissues, p-SMAD1/5/8 and p-SMAD2/3 proteins were largely
+absent or weakly positive in p63
++ basal cells and Ki67 + replica-
+tive cells, but were strongly positive in the p63 /C0luminal and
+suprabasal cells ( Figures 2 B–2G). This consistent staining
+pattern suggests that the TGF b/BMP/SMAD signaling pathways
+play a common role in diverse epithelia.
+Activation of SMAD Signaling Occurs in Differentiating
+Luminal Cells following Injury
+Since p-SMAD expression was primarily present in the differenti-
+ated luminal cells of airway, we assessed whether the phosphory-
+lation of SMAD is associated with the progression of luminal differ-
+entiation during the early course of regeneration after sulfur dioxide
+(SO
+2) injury ( Pardo-Saganta et al., 2015; Tata et al., 2013 ). We
+found that at 8 hours post-injury (8 hpi), the majority of CK8 +p-
+SMAD+ luminal cells in the proximal airway were sloughed off
+or loosely attached to the trachea, leaving behind a single layer
+of p63 +SMAD/C0basal stem cells ( Figures 3 A, 3B, and S1A). At
+24 hpi, we observed massive proliferation and expansion of basal
+cells (Figures S1B and S1C). These replicating cells, which were
+p63
++ but KRT8/C0, were negative for p-SMAD (Figures 3A, 3B, and
+S1A–S1C). Recently, we have demonstrated that c-MYB-express-
+ing basal cells and N2ICD-expressing basal cells start to segregate
+as early as 6 hr after SO 2 injury, are fully segregated by 24 hr
+post-injury, and differentiate into ciliated and secretory cells,
+respectively (Pardo-Saganta et al., 2015 ). This suggests that the
+Figure 1. SMAD Signaling Is Active in Differentiated Cells, but Is Suppressed in Basal Stem Cells of the Airway Epithelium
+(A and B) Co-staining of p-SMAD1/5/8 (A) or p-SMAD2/3 (B) with basal stem cell marker p63, differentiation maker KRT8, ciliated cell marker FOXJ1, clu b cell
+marker SSEA1, and proliferation marker Ki67 on mouse tracheal sections.
+(C and D) Co-staining of p-SMAD1/5/8 with KRT5 and KRT8 (C) and with p63, FOXJ1, and Ki67 (D) on human bronchial sections.
+(E) Co-staining of p-SMAD2/3 with p63, KRT8, FOXJ1, and Ki67 on human bronchial sections.
+(F and G) Quantiﬁcation of the percentage of p-SMAD1/5/8
++ and p-SMAD2/3+ cells of the indicated cell types in mouse trachea (F) and human bronchus (G), n = 3.
+Scale bars, 20 mm.
+Cell Stem Cell 19, 1–15, August 4, 2016 3
+Please cite this article in press as: Mou et al., Dual SMAD Signaling Inhibition Enables Long-Term Expansion of Diverse Epithelial Basal Cells, Cell S tem
+Cell (2016), http://dx.doi.org/10.1016/j.stem.2016.05.012
+
+<<<PAGE 5>>>
+A
+3germlayers
+Ectoderm Endoderm Mesoderm
+Skin
+Mammarygland
+Larynx,Airway
+Esophagus,Prostate
+Epididymis
+B
+D
+E
+F
+G
+C
+P-SMAD1/5/8p63DAPI P-SMAD1/5/8Ki67DAPI P-SMAD1/5/8KRT13DAPI
+p-SMAD1/5/8p63DAPI
+MouseSkin
+p-SMAD1/5/8Ki67DAPI p-SMAD1/5/8KRT10DAPI
+MouseMammary Gland
+P-SMAD1/5/8p63DAPI P-SMAD1/5/8Ki67DAPI P-SMAD1/5/8KRT8DAPI
+MouseLarynxMouseEsophagusMouseProstateMouseEpididymis
+P-SMAD1/5/8p63DAPI P-SMAD1/5/8Ki67DAPI P-SMAD1/5/8KRT8DAPI
+P-SMAD2/3p63DAPI P-SMAD2/3Ki67DAPI P-SMAD2/3KRT13DAPI
+P-SMAD2/3p63DAPI P-SMAD2/3Ki67DAPI P-SMAD2/3KRT10API
+P-SMAD2/3p63DAPI P-SMAD2/3Ki67DAPI P-SMAD2/3KRT8DAPI
+P-SMAD2/3p63DAPI P-SMAD2/3Ki67DAPI P-SMAD2/3KRT8DAPI
+Figure 2. SMAD Signaling Is Active in Luminal and Suprabasal Cells but Is Suppressed in Basal Cells in Epithelial Tissues Derived from
+All Three Germ Layers
+(A) Schematic of the analyzed p63 + basal cell-containing murine tissues derived from each germ layer.
+(B–G) Co-staining of p-SMAD1/5/8 and p-SMAD2/3 with p63, Ki67, and a luminal and suprabasal marker KRT10 (B), KRT13 (D and E), or KRT8 (C, F, and G).
+Scale bar, 20 mm.4 Cell Stem Cell 19, 1–15, August 4, 2016
+Please cite this article in press as: Mou et al., Dual SMAD Signaling Inhibition Enables Long-Term Expansion of Diverse Epithelial Basal Cells, Cell S tem
+Cell (2016), http://dx.doi.org/10.1016/j.stem.2016.05.012
+
+<<<PAGE 6>>>
+14daysAdCreGFP
+A SO2
+TracheaAnalysis
+24hpi 48hpi 72hpi8hpi
+B
+Basal stemcells Regenera/g415ng
+epithelium
+Maturemucociliary
+epithelium
+SMADssignalingisinac/g415ve
+SMADssignalingac/g415vated CK8+luminal diﬀeren/g415ated
+P63+CK8-stemcells
+24hpi i ph27iph84iph8
+C
+D
+P-SMAD1/5/8 p63KRT8 DAPI
+Control TGFβRIIf/fBMPRIAf/f SMAD4f/f
+CK5p63
+KRT8DAPI
+CK5p63
+DAPI
+E
+F
+CCSP AcTub DAPI
+Control
+TGFβRIIf/f
+BMPRIAf/f
+SMAD4f/f
+14days
+Inhibitors
+Control
+CCSP AcTub DAPI
+DMH-1
+A8301 DMH-1+A8301
+0.0
+0.2
+0.4
+0.6
+0.8
+1.0
+1.2
+1.4
+Control TGFβRII f/f BMPRIAf/f SMAD4f/f
+Ciliated Club
+Rela/g415venumbersoffully
+diﬀeren/g415atedcells
+Relative differentiation efficiency0.0
+0.2
+0.4
+0.6
+0.8
+1.0
+1.2
+1.4
+Ciliated Club
+Control DMH-1 A8301 DMH-1
++A8301
+KRT8KRT5 DAPI
+KRT5Ki67DAPI
+KRT8KRT5 DAPI
+KRT5Ki67DAPI
+Control Dualinhibitors
+KRT5p63 DAPI KRT5p63 DAPI
+CCSPFOXJ1 DAPI CCSPFOXJ1 DAPI
+Control Dualinhibitors
+∗∗ ∗∗
+∗∗
+∗∗
+∗ ∗
+∗∗
+∗∗
+∗∗
+∗∗
+∗∗ ∗∗
+(legend on next page)
+Cell Stem Cell 19, 1–15, August 4, 2016 5
+Please cite this article in press as: Mou et al., Dual SMAD Signaling Inhibition Enables Long-Term Expansion of Diverse Epithelial Basal Cells, Cell S tem
+Cell (2016), http://dx.doi.org/10.1016/j.stem.2016.05.012
+
+<<<PAGE 7>>>
+phosphorylation of SMAD is not involved in the cell-fate segrega-
+tion of basal stem cells during regeneration, but rather is associ-
+ated with the actual process of luminal cell formation, as marked
+by KRT8 expression. Indeed, luminal cells at 48 hpi began
+to express KRT8, coincident with increasing SMAD phosphoryla-
+tion (Figures 3A, 3B, and S1A–S1C). By 72 hpi, the luminal cells
+further differentiated and began to express mature lineage-spe-
+ciﬁc markers ( Pardo-Saganta et al., 2015; Tata et al., 2013 ).
+Consistently, these luminal cells were now strongly positive for
+p-SMAD, while basal stem cells remained p-SMAD weak or nega-
+tive (Figures 3A, 3B, and S1A–S1C).
+We also examined SMAD phosphorylation during human
+airway stem cell mucociliary differentiation in air-liquid interface
+(ALI) culture (Figure S1D). 12 hr after ALI initiation (day 0.5), stem
+cells remained p63
++KRT8/C0and also negative for both p-SMAD1/
+5/8 and p-SMAD2/3 (Figure S1E). The following day (day 1.5), the
+cells began to stratify to form a differentiated second layer of
+KRT8
++p-SMAD+ cells ( Figure S1 E). Some p63 + cells were also
+positive for p-SMAD, perhaps suggesting that they are actively
+differentiating ( Figure S1 E). At days 2.5 and 3.5, more KRT8 +
+p-SMAD+ differentiated cells appeared, while the p63 + basal
+cells were entirely p-SMAD negative or weak ( Figure S1 E). At
+day 13.5, when the luminal cells have already matured into cili-
+ated cells and secretory cells, the phosphorylation of SMAD re-
+mained strongly positive in KRT8
++ luminal cells, but was largely
+absent or weak in KRT5 + basal cells ( Figure S1E). Thus, activa-
+tion of SMAD signaling correlates with the appearance of
+KRT8
++ luminal cells in both mouse and human airway epithelial
+differentiation ( Figure 3 B). Furthermore, phosphorylation of
+SMAD is persistent in mature airway luminal cells.
+Inhibition of SMAD Signaling Compromises Mucociliary
+Differentiation
+Next, we tested whether SMAD signaling blockade inhibits
+mucociliary differentiation. We isolated GSI b4
++EpCAM+ murine
+airway basal stem cells ( Zhao et al., 2014 ) from the trachea of
+wild-type, BMPRIAf/f, TGFbRIIf/f, and SMAD4f/f mice and infected
+them with Adeno-CreGFP virus to delete the various signaling
+pathway components (Figures 3C and S1F). Mucociliary differen-
+tiation from the airway stem cells was performed using standard
+ALI culture. 2 weeks after initiation of ALI, a mature airway epithe-
+lium generated from WT-infected cells consisted of ciliated cells
+and secretory cells. Deletion of BMPRIA, TGF bRII, and SMAD4
+resulted in signiﬁcantly fewer differentiated cells ( Figure 3 C).
+Consistent with this ﬁnding, loss of BMPRIA, TGF bRII, and
+SMAD4 all resulted in airway epithelia with increased stratiﬁca-
+tion and basal cells co-labeled with KRT8 (Figure 3D), suggesting
+that many basal stem cells have been trapped in a transitional
+state while differentiating into KRT8
++ luminal cells. Such differen-
+tiating cells are rarely found in the normal airway epithelium.
+We also used BMP and TGF b antagonists to examine
+mucociliary differentiation when BMP signaling or/and TGF b
+signaling was blocked ( Figure 3E). In controls, airway basal cells
+differentiated into airway epithelium with high efﬁciency after
+2 weeks. In the presence of BMP antagonist (DMH-1) or TGF b
+antagonist (A-83-01), fewer ciliated cells and club cells were
+generated. When both antagonists were used, the effect was
+more pronounced, with a >95% decrease in the production of
+differentiated cells ( Figure 3 E). Similarly, treatment with BMP
+and TGF b antagonists induced basal cell hyperplasia with
+hyper-proliferative KRT5
++/p63+ cells and transitional KRT5 +/
+KRT8+ cells lining the luminal compartment ( Figure 3F). Of note,
+ciliated cells and club cells did appear after prolonged ALI cul-
+ture, even in the presence of the dual BMP/TGF b inhibitors (Fig-
+ure S1 G). However, those ciliated and club cells that escaped
+inactivation were positive for p-SMAD staining (data not shown),
+supporting the tight association of differentiation with p-SMAD
+status. In summary, both genetic deletion and pharmacological
+inhibition abrogated efﬁcient generation of secretory and ciliated
+cells, suggesting that SMAD activation promotes continued
+differentiation of early committed cells to terminal maturation.
+Blockade of SMAD signaling also compromised mucociliary
+differentiation in human cells. Differentiation was signiﬁcantly
+suppressed when SMAD4 expression was reduced ( Figures
+S1H and S1I). Only a small number of ciliated cells with truncated
+cilia were detected and club cells were nearly absent after
+2 weeks of ALI culture ( Figure S1 I). Again, prolonged differ-
+entiation was associated with some mucociliary differentia-
+tion ( Figure 1 J). Consistently, the epithelia derived from
+SMAD4 shRNA-treated cells have numerous KRT5
++KRT8+ and
+p63+KRT8+ cells trapped in transitional state. We also observed
+more Ki67 + cells in the SMAD4 small hairpin RNA (shRNA)
+epithelia compared to controls, suggesting that SMAD loss
+leads to increased proliferation ( Figure S1 J). These data indi-
+cate cross-species conservation in the requirement for SMAD
+signaling to execute epithelial differentiation.
+Dual SMAD Signaling Inhibition Enables Long-Term
+Airway Stem Cell Expansion
+Based on our observations that SMAD signaling is highly
+activated in non-cycling and differentiated luminal cells, we
+hypothesized that SMAD pathway inhibition would promote
+Figure 3. Activation of SMAD Signaling Is Associated with Progressive Mucociliary Differentiation
+(A) C57B6 mice were exposed to SO 2. At 8, 24, 48, and 72 hr post-SO 2 injury, the mice were sacriﬁced, and trachea were collected for co-staining of
+p-SMAD1/5/8 with p63 and KRT8. The dashed line separates the sloughed luminal cell debris from the attached residual basal cell layer.
+(B) Schematic of SMAD signaling activation changes along the course of mucocilary differentiation.
+(C) Tracheal stem cells isolated from wild-type, BMPRIA
+f/f, TGFbRIIf/f, and SMAD4 f/f mice were treated with Ad-Cre-GFP virus. The GFP + cells were sorted to
+purity 1–2 days post-infection. The cells were brieﬂy expanded and then subjected to ALI differentiation. Left: quantiﬁcation of ciliated cells and club cells in
+various conditions (mean ± SD, n = 3; **p % 0.001). Right: whole-mount staining of CCSP + club cells and AcTub + ciliated cells on ALI membranes.
+(D) Immunostaining for KRT5, p63, and KRT8 of transverse sections of ALI membranes. The arrows indicate representative transitional differentiati ng cells.
+(E) Tracheal stem cells were isolated from WT mice and differentiated on ALI for 14 days. At day 0, 1 mM DMH-1 and/or 1 mM A-83-01 were added to the lower
+chamber and upper chamber (as a thin layer) to inhibit the corresponding SMAD signaling activity. Left: quantiﬁcation of ciliated cells and club cell s in various
+conditions (mean ± SD, n = 5; **p % 0.001, *p % 0.01). Right: whole-mount staining of CCSP + club cells and AcTub + ciliated cells on ALI membranes.
+(F) Immunostaining for indicated markers of transverse sections of ALI membranes. The arrows indicate representative transitional differentiati ng cells.
+Scale bars, 20 mm. See also Figure S1.
+6 Cell Stem Cell 19, 1–15, August 4, 2016
+Please cite this article in press as: Mou et al., Dual SMAD Signaling Inhibition Enables Long-Term Expansion of Diverse Epithelial Basal Cells, Cell S tem
+Cell (2016), http://dx.doi.org/10.1016/j.stem.2016.05.012
+
+<<<PAGE 8>>>
+airway stem cell growth in vitro. Thus, we cultured human
+airway stem cells in various conditions ( Figure 4 A). Both BMP4
+(50 ng/ml) and TGF b (10 ng/ml) strongly suppressed cell
+growth. ROCK inhibitor (10 mM) alone modestly promoted cell
+expansion. However, both DMH-1 (1 mM) and A-83-01 (1 mM)
+greatly stimulated cell expansion. The three inhibitors together
+had the most profound effect ( Figure 4 A). The resultant cells
+were homogenous, small, and tightly packed, as is expected
+for stem cells. All cells were positive for KRT5 and p63, and
+>85% of cells were positive for Ki67 ( Figure 4A). We also exam-
+ined commonly used SMAD signaling inhibitors and found that
+they all similarly promoted cell growth ( Figures S2 A and S2B).
+Furthermore, we tested multiple previously reported culture
+media, including BEGM ( Fulcher et al., 2005 ) and HTEK ( You
+and Brody, 2013)( Figure S2C). Again, dual TGFb/BMP inhibitors
+greatly enhanced cell proliferation in each of these media
+formulations. BMP and TGFb are known to act through pathways
+other than the canonical SMAD pathway, including the MEK/
+MAPK, PI3K, and PKC-related cascades. Therefore, we tested
+the growth of human airway stem cells in the presence of
+their corresponding inhibitors. These compounds either had no
+effect or a detrimental effect on cell growth, suggesting that
+BMP and TGF b inhibitors are indeed acting through SMAD
+(Figure S2D).
+Days
+0 40 80 120 160
+Doublings
+0
+20
+40
+60
+80
+100
+DMH-1+A8301
+Inhibitors
+Control
+P0 P3
+A B
+Human airwaystemcells
+(3%seeding density)
+Compounds x4days
+C D
+04 0 8 0 1 2 0 1 6 0
+0
+20
+40
+60
+80Popula/g415on doublings
+Days
+DMH-1+A8301
+Inhibitors
+Control
+Mouse airwaystemcells 4days
+1:10 1:10
+Control Medium 
+P2 P5
+P2 P6
+P15 P25
+Medium + DMH-1 + A8301
+Control Medium Medium + DMH-1 + A8301
+P20P3P0P3
+1:10 1:10
+Control TGFβ+BMP4 DMH-1 + A8301
+SOX2 Ki67 DAPI p63 KRT5 DAPI Phase
+KRT5 p63 NKX2.1
+FOXA2SOX2T1α
+Doubling time (hours)
+0
+20
+40
+60
+80
+100
+inhibitors
+control
+p63 KRT5
+Control
+DMH-1 A8301 3 Inhibitors
+Ki67 DAPI
+BMP4 TGFβ BMP4 +TGFβ
+ROCK Inhibitor
+Control
+DMH-1 A8301 3 Inhibitors
+BMP4 TGFβ BMP4 +TGFβ
+ROCK Inhibitor
+p63 KRT5Ki67 DAPI
+Figure 4. Dual SMAD Signaling Inhibition Facilitates Long-Term Expansion of Human Airway Stem Cells
+(A) Human airway stem cells were expanded for 4 days in varying culture conditions. The cells were ﬁxed and stained for p63, KRT5, and Ki67. Scale bar: up per
+two rows, 50 mm; lower two rows, 20 mm.
+(B) Serial expansion of human airway stem cells in the control medium or the same medium with addition of TGF b/BMP inhibitors. Left: phase-contrast images of
+the cells at various passages. Right: the average population doubling times (mean ± SD, n = 10; ***p % 0.0001) and a plot of number of doublings versus the
+culture times of the human airway stem cells cultured in various media (from one representative culture).
+(C) Mouse tracheal stem cells were expanded for 4 days in varying culture conditions. The cells were ﬁxed and stained for p63/KRT5 and Ki67/SOX2. Scale bar:
+upper, 100 mm, bottom, 50 mm.
+(D) Serial expansion of mouse tracheal stem cells in the control medium or the same medium with addition of TGFb/BMP inhibitors. Top: phase-contrast images of
+the mouse tracheal stem cells at various passages. Bottom: (left) the plot of number of doublings versus the culture times of mouse tracheal stem cells cultured in
+various conditions (from one representative culture) and (right) the staining of cell-fate markers on mouse tracheal stem cells at passage 20. Scale bar, 20 mm.
+See also Figures S2 and S5.
+Cell Stem Cell 19, 1–15, August 4, 2016 7
+Please cite this article in press as: Mou et al., Dual SMAD Signaling Inhibition Enables Long-Term Expansion of Diverse Epithelial Basal Cells, Cell S tem
+Cell (2016), http://dx.doi.org/10.1016/j.stem.2016.05.012
+
+<<<PAGE 9>>>
+A B
+C D
+E F
+G
+Figure 5. Expanded Airway Stem Cells Preserve the Potential to Differentiate into Functional Airway Epithelia
+(A) Expanded human airway stem cells at different passages were differentiated on ALI for 16–20 days. The resultant membranes were ﬁxed and stained fo r
+CCSP+ club cells and AcTub + ciliated cells. Scale bar, 50 mm.
+(B) Mucociliary differentiation efﬁciency at various passages (normalized to the efﬁciency of stem cell differentiation at P1 with TGF b/BMP inhibitors) (mean ± SD,
+n = 3; **p % 0.001, *p % 0.01).
+(C) Immunoﬂuorescence staining for markers of differentiation using whole-mount (scale bar, 100 mm) and histology sections (scale bar, 20 mm) of P7 ALI cultures.
+Bottom, H&E staining of an ALI section (scale bar, 50 mm).
+(legend continued on next page)
+8 Cell Stem Cell 19, 1–15, August 4, 2016
+Please cite this article in press as: Mou et al., Dual SMAD Signaling Inhibition Enables Long-Term Expansion of Diverse Epithelial Basal Cells, Cell S tem
+Cell (2016), http://dx.doi.org/10.1016/j.stem.2016.05.012
+
+<<<PAGE 10>>>
+Next, we examined whether TGF b/BMP inhibitors allow long-
+term expansion of human airway stem cells without ﬁbroblast
+feeders. In the control medium, cells can be passaged only to
+P6 (/C2420 doublings at a 1:10 splitting ratio;Figure 4B). Cells grown
+in the presence of TGFb or BMP4 did not expand beyond P1. With
+dual TGFb/BMP inhibition, however, cells were able to expand to
+P18–P25 without a loss of replicative potential (/C2460–80 doublings,
+n=9 ; Figure 4B). They divided faster and were more homogenous
+in size in contrast to controls (Figure 4B). Nearly all cells expressed
+the stem cell markers, as well as the transcription factors that
+deﬁne airway epithelial cell identity ( Figures S2 E and S2F). We
+did not detect KRT8 expression in the replicative p63 + cells
+(data not shown), suggesting that dual TGF b/BMP inhibitors
+completely blocked differentiation in 2D culture. Furthermore,
+TGFb/BMP inhibition enabled single-cell cloning. Human airway
+stem cells from two healthy subjects were sorted as singles and
+individually expanded to test their proliferation potential and
+mucociliary differentiation capacity following cloning. All clones
+examined had full capacity for signiﬁcant expansion and multi-
+potent differentiation into ciliated cells and secretory cells ( Fig-
+ure S2 G). We also assessed our ability to expand bronchial
+stem cells from two patients harboring the DF508/DF508-CFTR
+mutation ( Figure S2 H). With control medium, the cells reached
+an expected expansion barrier at P4 and P5, whereas in the
+presence of TGF b/BMP inhibitors, these cell lines expanded to
+P12 and P17 and remained proliferative (Figure S2H). A similar ef-
+fect was seen in mouse tracheal stem cell culture. Dual TGF b/
+BMP inhibition strongly enhanced cell proliferation ( Figure 4 C).
+As a result, mouse tracheal stem cells can be expanded in a
+feeder-free culture system for a considerably larger number of
+passages than previously possible, while maintaining normal
+cell morphology and preserved stem cell identity ( Figure 4D).
+Loss of TGF b signaling has been previously noted to lead to
+tumor formation in stratiﬁed epithelia ( Guasch et al., 2007 ). To
+assess whether serial passaging is associated with tumorigen-
+esis, we transplanted expanded human and mouse airway
+stem cells and human lung cancer A549 cells subcutaneously
+into NSG mice (Figure S2I). A549 cells robustly generated tumors
+in all cases after 2–8 weeks, with a latency determined by the
+number of injected cells ( Figure S2I). We did not retrieve a single
+tissue outgrowth 8 months after injection of expanded hu-
+man airway stem cells. Transplanted expanded mouse tracheal
+stem cells formed cystic structures, and immunoﬂuorescence
+demonstrated that they were not tumors, but rather were
+comprised of differentiated ciliated and club cells ( Figure S2 J).
+The expanded cells remained genomically stable with no signif-
+icant DNA alterations (no focal deletion, insertion, or aneuploidy)
+when compared to early passage HUES8 and HUES9 cells ( Fig-
+ure S2 K). Furthermore, transcriptome analysis of airway stem
+cells at early and late passages did not reveal any changes in
+tumor-associated gene expression ( Figure S2L; GSE80408).
+Expanded Airway Stem Cells Maintain the Potential to
+Differentiate into Functional Airway Epithelia
+We then tested the differentiation capacity of expanded human
+airway stem cells from early to late passages. The airway stem
+cells cultured in conventional medium can undergo efﬁcient
+mucociliary differentiation only at early passages ( Figure 5 A).
+In contrast, human airway stem cells expanded in TGF b/BMP
+inhibitors generated airway epithelium with extremely high
+efﬁciency through passage 12, representing approximately 40
+doublings ( Figures 5 A and 5B). Mucociliary differentiation re-
+mained robust through later passages, although the efﬁciency
+gradually declined. Secretory cell production appeared to be
+more stable than ciliogenesis, as airway stem cells at P25 could
+still generate club cells ( Figures 5A and 5B). Mouse airway stem
+cells also expanded and differentiated through passage 12 ( Fig-
+ures S3A and S3B).
+Expanded airway stem cells not only maintained their differen-
+tiation potential but also the resultant epithelia preserved their
+physiologic functions. For example, differentiated airway epithe-
+lial cells responded to IL-13 by induction of MUC5AC
++ goblet
+cells in both human and murine epithelia ( Figures 5D and S3C).
+Additionally, airway epithelia maintained the ion channel physi-
+ology expected for their CFTR genotypes. Epithelium derived
+from CFTR- DF508 stem cells (P4) effectively responded to
+benzamil, an inhibitor of the epithelial sodium channel (ENaC)
+(Figure S3 D). CFTR chloride ion transport activity was readily
+stimulated following addition of the cyclic AMP (cAMP) agonist
+forskolin in combination with the VX770 potentiator. Pre-incuba-
+tion with various CFTR- DF508 trafﬁcking correctors (VX-809,
+VX-661, and C18) produced the anticipated salutary effects on
+chloride transport ( Figures 5 E and S3D). Chloride currents also
+appropriately diminished with the addition of the speciﬁc CFTR
+inhibitor, CFTRinh-172 ( Figure S3 D). Importantly, Na
++ currents
+and CFTR-mediated transmembrane Cl/C0-conductance declined
+over serial passages, in both normal and CFTR- DF508 epithelia,
+while transepithelial resistance was preserved ( Figures 5F, S3E,
+and S3F).
+Given the ability to expand airway stem cells, we proceeded
+to test whether we could generate a large number of patient-
+speciﬁc airway stem cells from small clinically relevant tissue
+biopsies. We performed mucosal biopsy with clinical biopsy for-
+ceps on discarded human trachea and bronchi. Thirty biopsies
+(ten biopsies from each of three donors) were taken throughout
+the proximal upper airways. We have obtained 100 to 2,000
+viable airway basal stem cells per biopsy, and these cells
+robustly proliferated in the media with dual TGF b/BMP inhibitor.
+Within 1 week, these cells expanded to nearly 1 million cells, and
+we could passage them at a 1:10 splitting ratio to /C241 3 10
+15 cells
+by P10 within 50 days. Differentiation analysis at P10 demon-
+strated that the cells were capable of forming polarized differen-
+tiated airway epithelia ( Figure 5G).
+(D) Staining for MUC5AC on human ALI cultures after treatment with IL-13. Scale bar, 50 mm.
+(E) Area under the curve (AUC) ratios for CFTR correctors (Cmpd/Veh) measured on DF508/DF508 human bronchial ALI cultures (P4) (mean ± SD, n = 4;
+*p % 0.01).
+(F) Chloride current density gradually declines with increased passages. Up to passage 8, the response to C18 remains at /C243-fold the vehicle response; at P10
+and P12 with the decrease in currents, compound effects can no longer be resolved (mean ± SD, n = 3; *p % 0.01).
+(G) The expansion and differentiation of airway stem cells isolated from human tracheal biopsies (n = 30).
+See also Figures S3–S5.
+Cell Stem Cell 19, 1–15, August 4, 2016 9
+Please cite this article in press as: Mou et al., Dual SMAD Signaling Inhibition Enables Long-Term Expansion of Diverse Epithelial Basal Cells, Cell S tem
+Cell (2016), http://dx.doi.org/10.1016/j.stem.2016.05.012
+
+<<<PAGE 11>>>
+AB
+C
+D
+E
+F
+(legend on next page)
+10 Cell Stem Cell 19, 1–15, August 4, 2016
+Please cite this article in press as: Mou et al., Dual SMAD Signaling Inhibition Enables Long-Term Expansion of Diverse Epithelial Basal Cells, Cell S tem
+Cell (2016), http://dx.doi.org/10.1016/j.stem.2016.05.012
+
+<<<PAGE 12>>>
+Bronchoscopy with transbronchial biopsy is an invasive pro-
+cedure associated with complications. Thus, we tested the pos-
+sibility to expand airway stem cells from bronchoalveolar lavage
+(BAL) or simply from an induced sputum. We demonstrate that
+by using media with dual TGF b/BMP inhibitors, a small number
+of cells (<2,000 cells) from sputum or discarded BAL can be
+expanded to 10
+9–10 cells within a month and still remain prolifer-
+ative (Figures S4A and S4B). Of patient samples, only one airway
+cell line was established from a total of ﬁve sputum samples.
+In the case of lavage, we produced three patient-speciﬁc lines
+out of three samples. The expanded cells were positive for the
+characteristic airway stem cell markers and capable of forming
+polarized mucociliary airway epithelia ( Figures S4 A and S4B).
+Thus, large amounts of airway epithelium can be obtained from
+patients entirely non-invasively. We also tested dual TGF b/
+BMP inhibition in pig and ferret, species for which clinically rele-
+vant animal models of cystic ﬁbrosis have been generated
+(Rogers et al., 2008; Sun et al., 2010 ). Our culture approach
+robustly expanded functional airway basal stem cells from the
+pig and the ferret ( Figures S4 C–S4E). Short-circuit current (Isc)
+measurements of differentiated ferret (P18) and pig epithelial
+cells (P7) demonstrate that, although the chloride current density
+diminished, the CFTR activity was still intact at the indicated
+passage numbers ( Figure S4F).
+SMAD Signaling Inhibition Promotes Stem Cell Self-
+Renewal by Inhibiting Differentiation, Independent of
+Telomere Crisis-Induced Cellular Senescence
+Cellular senescence, deﬁned as an irreversible cessation of cell
+division, has been proposed as the major obstacle preventing
+the long-term expansion of adult epithelial stem cells ( Kiyono
+et al., 1998; Walters et al., 2013 ). However, we found that
+expression of the senescence marker p16ink4a is not corre-
+lated with growth arrest of human airway epithelial cells cultured
+in conventional medium ( Figure S5 A). On the other hand, we
+found that the majority of growth arrested cells are positive for
+KRT8, p-SMAD, and display a downregulation of p63 ( Fig-
+ure S5 A). This staining pattern also occurs when early passage
+stem cells (P0–P1) were exposed to TGF b and BMP4 ( Figures
+S5B and S5C). Indeed, TGF b and BMP4-exposed cells stopped
+proliferating, turned on KRT8, and did not alter p16ink4a expres-
+sion ( Figures S5 B and S5C). Therefore, dual TGF b/BMP inhibi-
+tion contributes to sustained long-term stem cell expansion
+primarily by suppressing differentiation.
+Telomere crisis has been suggested as the mechanism for
+growth arrest ( Kiyono et al., 1998 ). Thus, we measured telome-
+rase activity and telomere length in human airway stem cells dur-
+ing serial passaging. We did not detect any endogenous telome-
+rase activity in human airway stem cells (Figure S5D), even at P0.
+As a result, telomeres gradually shortened during successive cell
+divisions (Figure S5E). In control cultures, proliferation of airway
+stem cells ceased after passage 5–6, a barrier that has been pre-
+viously noted (Fulcher et al., 2005; Walters et al., 2013). However,
+telomere lengths of cells in control culture were similar to the
+telomere lengths of cells cultured in TGF b/BMP inhibitors at
+the same passage ( Figure S5 E). Thus, the observed growth ar-
+rest in control medium was not caused by telomere short-
+ening-induced crisis as we predicted before. Furthermore, dual
+TGFb/BMP inhibition does not stabilize the telomeres, as the
+telomeres continued to shorten over passaging ( Figure S5 E).
+After P25–P30 (depending on the donor), airway stem cells
+abruptly stopped proliferating. This ultimate growth arrest pre-
+cisely correlates with complete erosion of telomeres. Telomere
+length likely demarcates the intrinsic proliferative potential of a
+primary cell, while TGF b/BMP dual inhibition facilitates stem
+cell self-renewal until eventually it reaches a bona ﬁde telomere
+crisis-induced growth arrest. To test this hypothesis, we overex-
+pressed hTERT in airway stem cells at early passage (P3) in order
+to stabilize the telomeres, and we saw a corresponding increase
+in the number of passages tolerated ( Figures S5 F and S5G).
+As predicted, cells with hTERT-stabilized telomeres remained
+acutely sensitive to differentiation induction triggered by with-
+drawal of the TGF b
+/BMP inhibitors and the addition of TFG b
+and BMP ( Figure S5 H). These data in aggregate demonstrate
+that precocious differentiation is the mechanism explaining the
+decreased cell replication and growth arrest that occurs in con-
+ventional cultures.
+Next, we examined the effect of dual TGF b/BMP inhibition on
+differentiated cells. Our laboratory has reported that airway club
+cells can undergo dedifferentiation into basal stem cells ( Tata
+et al., 2013 ). By using CCSP-YFP club cells, we demonstrated
+that inhibition of SMAD signaling enhanced the dedifferentiation
+of club cells into p63
++ basal cells, while forced activation of
+SMAD signaling prevented it ( Figures S5I–S5L).
+Dual SMAD Signaling Inhibition Enables the In Vitro
+Expansion of Functional Keratinocytes
+We hypothesized that dual SMAD signaling inhibition can be
+used to expand many diverse epithelial basal cell types. We ﬁrst
+tested this hypothesis with epidermal keratinocytes as they his-
+torically have been the ﬁrst extensively cultured basal stem cells
+(Rheinwald and Green, 1975 ). Our data indicated that human
+keratinocytes cannot be expanded without the use of feeder
+cells, consistent with the published literature ( Rheinwald and
+Green, 1975, 1977 )( Figure 6A). With feeder cells, keratinocytes
+formed holoclones and could be passaged for many generations
+Figure 6. Dual SMAD Signaling Inhibition Enables Long-Term Expansion of Functional Keratinocytes
+(A) Doubling time of adult human keratinocytes cultured in four different conditions: (1) standard media, (2) standard media + J2 feeder cells, (3) in hibitor media,
+and (4) inhibitor media + J2 feeder cells (mean ± SD, n = 3; **p % 0.001).
+(B) Phase-contrast images and marker staining of human keratinocytes at indicated passages expanded in a feeder-free mode in the medium containing T GFb/
+BMP inhibitors. Scale bar, 100 mm.
+(C) Section immunoﬂuorescence of various basal and differentiation markers on ALI culture (P4 and P12) and on human skin. Scale bar, 20 mm.
+(D) Isolated mouse keratinocytes were seeded at 3% cell density and expanded for 4 days in various culture conditions. The cells were then ﬁxed and stai ned for
+p63, KRT5, and Ki67. Scale bar, 100 mm.
+(E) Phase-contrast images of mouse skin keratinocytes at indicated passages. Scale bar, 50 mm.
+(F) Differentiation of expanded mouse skin keratinocytes (P10) on ALI. The derived stratiﬁed epithelia were positive for KRT10 and involucrin.
+Cell Stem Cell 19, 1–15, August 4, 2016 11
+Please cite this article in press as: Mou et al., Dual SMAD Signaling Inhibition Enables Long-Term Expansion of Diverse Epithelial Basal Cells, Cell S tem
+Cell (2016), http://dx.doi.org/10.1016/j.stem.2016.05.012
+
+<<<PAGE 13>>>
+EsophagealBasal CellExpansionwithDMH-1+A8301
+P2 P20
+P12 P12
+P63 KRT5 DAPIP63SOX2 DAPI
+EsophagealBasal CellDiﬀeren/g415a/g415on onALI
+P12
+P12
+P63 KRT13 DAPI H&E
+BA
+C
+p63 KRT5 DAPI p63 KRT5
+tdTomatoBrightﬁeldBrightﬁeld
+p10 p10
+p10
+P2
+EpididymisProgenitorExpansionwithDMH-1+A8301
+F MouseEpididymisOrganoidSec/g415ons(P6)
+tdTomato KRT14 DAPI
+tdTomato KRT8 DAPI
+tdTomato KRT5 DAPItdTomato p63DAPI
+tdTomato SOX9 DAPI
+G
+KRT5-tdTomato-B1EGFP
+TMX
+1wk
+tdTomato+
+KRT5+cells
+3DEpididymis
+organoids
+Serial Expansion
+Harvest
+P6
+ClearCellDiﬀeren/g415a/g415on
+ED
+tdTomato EGFP DAPI
+tdTomato-B1EGFPEpididymisOrganoids
+Organoidsec/g415onstaining Organoid liveimaging
+P6
+KRT5 KRT13 DAPIp63 KRT14 DAPI SOX2DAPINGFR DAPI
+MouseEsophagus MouseEso.ALIP12
+KRT5 KRT13 DAPIp63 KRT14 DAPI SOX2DAPINGFR DAPI
+(legend on next page)
+12 Cell Stem Cell 19, 1–15, August 4, 2016
+Please cite this article in press as: Mou et al., Dual SMAD Signaling Inhibition Enables Long-Term Expansion of Diverse Epithelial Basal Cells, Cell S tem
+Cell (2016), http://dx.doi.org/10.1016/j.stem.2016.05.012
+
+<<<PAGE 14>>>
+as previously described ( Rheinwald and Green, 1977 ), but with
+the expected long doubling time (experiments were terminated
+at P8) ( Figure 6A). In the presence of TGF b/BMP inhibitors, ker-
+atinocyte growth was no longer dependent on feeder cells ( Fig-
+ure 6A). Indeed, the cells showed faster growth rates, with a 2- to
+3-fold decrease in the population doubling time compared to
+growth on feeders. Interestingly, in the presence of TGF b/BMP
+inhibitors, the addition of feeder cells did not further promote ker-
+atinocyte proliferation (Figure 6A). Human keratinocytes grown in
+inhibitor media were uniformly positive for typical stem cell
+markers ( Figure 6 B). When differentiated on ALI, expanded hu-
+man keratinocytes generated stratiﬁed epithelial cells with the
+appropriate cellular architecture and markers akin to their in vivo
+counterparts (Figure 6C).
+Mouse keratinocyte expansion also depends on a feeder layer
+at the start of the culture, although unlike human keratinocytes,
+mouse keratinocytes can be cultured off feeders after several
+generations. We cultured and expanded murine skin keratino-
+cytes in feeder-free manner with and without TGF b/BMP4, as
+well as with their inhibitors ( Figures 6 D and 6E). Murine skin
+keratinocytes failed to grow in the presence of TGF b or BMP4.
+In control media, the cells grew slowly and could not be
+expanded to higher passages ( Figures 6 D and 6E). However,
+TGFb/BMP inhibitors robustly stimulated cell proliferation and
+enabled prolonged cell expansion (Figures 6D and 6E). Similarly,
+the expanded mouse skin keratinocytes produced a stratiﬁed
+epithelium when differentiated on ALI ( Figure 6F).
+Dual SMAD Signaling Inhibition Enables In Vitro
+Expansion of a Diverse Set of Epithelial Basal Cells
+In order to further explore the potential generalized use of dual
+SMAD signaling inhibition in promoting epithelial basal cell
+expansion, we isolated murine basal cells from representative
+epithelial tissues from each of the three germ layers. We
+demonstrate that epithelial basal cells isolated from esophagus
+(Figure 7 A), epididymis ( Figures 7 D and 7E), larynx/vocal fold
+(Figures S6 A and S6B), forestomach ( Figures S6 D and S6E),
+and mammary gland ( Figures S7A and S7B) could be expanded
+to high passage numbers, while still maintaining their replicative
+potential, as well as normal cell morphology and appropriate
+stem cell markers.
+The expanded cells also retained the capacity to differentiate
+efﬁciently. We demonstrate that expanded esophageal basal
+cells efﬁciently generated a stratiﬁed epithelium on transwell
+membranes ( Figures 7 B and 7C). The differentiated stratiﬁed
+esophageal epithelium had appropriate cellular morphology
+and markers, consistent with those of esophageal tissue (Figures
+7B and 7C). Similarly, the expanded laryngeal basal cells and
+forestomach basal cells produced stratiﬁed epithelia when
+differentiated on ALI, and they possessed the same cellular ar-
+chitecture and marker expression as their corresponding tissues
+(Figures S6C and S6F).
+Expanded epididymis basal cells and mammary basal cells
+efﬁciently generated organoids in Matrigel. Epididymis basal
+cells from a KRT5-tdTomato-B1EGFP mouse (V-ATPase B1 is
+a differentiated clear cell marker; V-ATPase B1-GFP is referred
+to as ‘‘B1EGFP’’) ( Miller et al., 2005 ) generated organoids con-
+taining GFP
++ cells, indicating the presence of clear cells ( Fig-
+ure 7F). The epithelia were also positive for typical markers found
+in the epididymis tissue ( Figures 7G and S7G). Furthermore, the
+expanded epididymis basal cells formed spheres after subcu-
+taneous injection in vivo ( Figures S7E and S7F). Tubular organo-
+ids contained a pseudostratiﬁed epididymal epithelium charac-
+terized by KRT5
++ basal cells and KRT8 + luminal cells, as well
+as principal cells marked by AQP9 ( Figure S7 F). Similarly,
+derived mammospheres from expanded mammary basal cells
+possessed typical cellular architecture and marker expression
+characteristic of mammary tissue ( Figures S7C and S7D). Taken
+together, we identiﬁed a method to expand epithelial basal cells
+from a diverse collection of murine tissues and demonstrated
+preserved differentiation potential of the expanded basal cells.
+DISCUSSION
+Dual SMAD signaling inhibition permits the expansion of adult
+epithelial basal cells from a wide array of organs and highlights
+a commonality of the role of the TGF b/BMP/SMAD signaling
+pathway in regulating epithelial basal cell behavior. Prior cultures
+considered to have been arrested because of senescence likely
+failed due to unwanted differentiation. Interestingly, dedifferenti-
+ation can be enhanced using TGF b/BMP/SMAD signaling inhib-
+itors, demonstrating that the pathway has consistent effects on
+differentiation and dedifferentiation and implying that differentia-
+tion and dedifferentiation are mechanistically two sides of the
+same coin. Strictly speaking, TGF b/BMP/SMAD signaling inhi-
+bition compromises terminal differentiation. A nearly identical
+phenotype has been reported following YAP overexpression in
+airway basal stem cells ( Zhao et al., 2014 ). These converging
+phenotypes are no doubt related to the mechanisms governing
+speciﬁc steps of the differentiation cascade. We speculate that
+the effect of dual SMAD signaling inhibition reﬂects the presence
+of a highly evolutionarily conserved signaling network that regu-
+lates p63 and its associated pathways to maintain epithelial
+basal cell identity and prevent differentiation.
+Figure 7. Dual SMAD Signaling Inhibition Enables In Vitro Expansion of a Diverse Set of Organ-Speciﬁc Basal Cells
+(A) Phase-contrast images and marker staining of mouse esophageal basal cells at indicated passages expanded in the medium containing TGF b/BMP4
+inhibitors. Scale bar, 100 mm (phase-contrast images) and 50 mm (immunoﬂuorescence).
+(B and C) H&E (B) and immunoﬂuorescence (B and C) of ALI culture sections derived from esophageal basal cells (P12) and of mouse esophageal. Scale bar,
+20 mm.
+(D) Schematic and example of organoid differentiation of expanded mouse epididymis basal cells isolated from KRT5-tdTomato-B1EGFP mouse.
+(E) Phase-contrast images and immunoﬂuorescence of mouse epididymis basal cells at indicated passages expanded with TGF b/BMP4 inhibitors. Scale bar,
+100 mm.
+(F) Fluorescence images of tdTomato and EGFP in differentiated organoids from (D) (upper panels are whole-mount 3D organoids (scale bar, 100 mm) and bottom
+panels are sections of the organoids (scale bar, 20 mm).
+(G) Co-immunoﬂuorescence of indicated markers with tdTomato on epididymis organoid sections. Scale bar, 20 mm.
+See also Figures S6 and S7.
+Cell Stem Cell 19, 1–15, August 4, 2016 13
+Please cite this article in press as: Mou et al., Dual SMAD Signaling Inhibition Enables Long-Term Expansion of Diverse Epithelial Basal Cells, Cell S tem
+Cell (2016), http://dx.doi.org/10.1016/j.stem.2016.05.012
+
+<<<PAGE 15>>>
+A single bronchoscopic lavage reproducibly generates the
+substrate for large quantities of airway epithelium. Remarkably,
+in 1 out of 5 cases, even sputum from CF patients was sufﬁcient
+to generate diseased airway epithelium. If methods for sputum
+induction could be improved, this would represent the least inva-
+sive way to generate human stem cells in any existing organ. It is
+possible that organs damaged in a disease process would be
+more likely to yield stem cells since more epithelial cell are being
+shed. Similar non-invasive methodologies might be used to
+generate epithelia from the secretions of many other epithelial
+organs, so that the collection of human stem cells is less invasive
+than a routine blood test. For now, a bronchoscopic lavage or
+nasal brushing is required for a perfect yield, but, again, sinus
+lavage is likely sufﬁcient to reproducibly yield large quantities
+of respiratory epithelium for study. Furthermore, we hope our
+newfound ability to clone human epithelial stem cells will enable
+the creation of reproducible human model systems that can be
+genetically modiﬁed.
+Despite these promising results, it is necessary to recognize
+that in vitro culture still has limitations. For example, we observed
+that expanded human airway stem cell-derived epithelia gradu-
+ally lose CFTR-mediated chloride and ENaC-mediated sodium
+conductance, but, interestingly, they do maintain transepithelial
+resistance and differentiation potential. In fact, several studies
+(Pavlov et al., 2014; Staruschenko et al., 2004 ) have demon-
+strated the negative effect of ROCK inhibitor Y-27632 and EGF
+on ENaC activity, which may explain the gradual decrease in
+ENaC-mediated sodium conductance in cells expanded in the
+presence of Y-27632 and EGF. Partial loss of cellular physiolog-
+ical function in in vitro culture systems may be more common
+than previously recognized and may be tissue and function spe-
+ciﬁc. For example, airway epithelium appears to preserve club
+cell differentiation potential longer than ciliated cell differentiation
+potential, and CFTR-mediated function appears to be lost even
+faster than ciliated cell differentiation. We speculate that the
+mechanisms involved in the differential deterioration of different
+physiologic cellular functions at distinct passage numbers are
+likely epigenetic. If so, epigenetic modulation is likely to be of
+value.
+EXPERIMENTAL PROCEDURES
+Human and Mouse Airway Stem Cell Isolation and Serial Expansion
+Human and mouse airway stem cells were isolated from fresh human tissues
+(trachea and mainstem bronchi) or mouse trachea ( Zhao et al., 2014). The cells
+were cultured in the medium either alone or with 5–10 mM ROCKi, 0.5–1 mM
+A-83-01, 0.5–1 mM DMH-1, and 1 mM CHIR99021 separately or in various
+combinations on plates pre-coated with laminin-enriched 804G-conditioned
+medium. To split the cell cultures, the cells were dissociated with trypsin
+and reseeded at a 1:10 ratio (see the Supplemental Experimental Procedures
+for detailed isolation and culture method).
+Mucociliary Differentiation on Air-Liquid Interface Culture
+Human or mouse airway stem cell cultures were seeded onto 0.4- mmt r a n s -
+well membranes pre-coated with 804G-conditioned medium with a density
+of >6,000 cells/mm
+2. After cell attachment for >12 hr, excess cells were removed
+and the medium was replaced with complete Pneumacult-ALI medium (StemCell
+Technology, cat. 05001) or vertex ALI medium (Neuberger et al., 2011)ﬁ l l i n gb o t h
+the upper and lower chambers. The next day, ALI medium was added only in the
+lower chamber to initiate airway-liquid interface. Then the medium was changed
+daily until differentiation was well established. Ciliogenesis was monitored by
+inverted-phase microscopy for beating cilia. We cultured ALI for 14–16 days
+as a standard protocol. For some experiments, we extended the ALI culture for
+4–5 weeks.
+TSA-Based Immunoﬂuorescence
+All Phospho-SMAD staining was performed using tyramide signal ampliﬁca-
+tion (TSA) method. After antigen retrieval, the slides were incubated with
+diluted primary antibody at 4
+/C14C overnight. Of note, the primary antibodies
+used in TSA staining were usually diluted at 1:5,000–1:10,000. The next
+day, the slides were incubated with HRP-conjugated antibody at 1:2,000 for
+1–2 hr and then with TSA working solution (1:100 dilution) for 15 min, followed
+by incubation with Streptavidin-594 diluted at 1:200 for 10–30 min (see the
+Supplemental Experimental Procedures for detailed staining method).
+SUPPLEMENTAL INFORMATION
+Supplemental Information includes Supplemental Experimental Procedures
+and seven ﬁgures and can be found with this article online at http://dx.doi.
+org/10.1016/j.stem.2016.05.012.
+AUTHOR CONTRIBUTIONS
+H.M. designed and conducted the experiments and wrote the manuscript. V.V.
+implemented the human cell and tissue protocols. V.V., P.R.T, and K.B. assis-
+ted in the mouse work. S.H.C., A.K.C., and J.F.E. performed the ferret and pig
+tracheal stem cells culture and analysis. B.Z. and Y.-C.H. performed the hu-
+man keratinocyte culture and analysis. G.M.S., B.T., J.H, H.B., M.M., and
+S.R. conducted the CFTR physiological function analysis. A.L., C.C., and
+C.K. collected sputum and BAL. A.F. and S.A. performed the TRAP and TRF.
+V.V., P.R.T., and J.R. edited the manuscript. J.R. oversaw the work and co-
+wrote the manuscript.
+ACKNOWLEDGMENTS
+J.R. is a New York Stem Cell Foundation Robertson Investigator and a Maroni
+Research Scholar at MGH. We thank Marina Mazur (the University of Alabama
+at Birmingham) for assistance with cell culture and the entire J.R. laboratory for
+constructive comments. This research was supported by grants from the NIH
+(R01HL116756 and R01HL118185 to J.R.; DK047967 and HL051670 to J.F.E;
+K08HL124298 to V.V.; T32HL087735 to H.M.; K99HL127181 to P.R.T.; R00
+AR063127 to Y.-C.H.), the Cystic Fibrosis Foundation (RAJAGO12G0 and
+RAJAGO12I0 to J.R.), and the Smith Family Awards and March of Dimes Basil
+O’Connor Starter Scholar Awards (to Y.-C.H.).
+Received: March 11, 2016
+Revised: April 30, 2016
+Accepted: May 13, 2016
+Published: June 16, 2016
+REFERENCES
+Barcellos-Hoff, M.H., Aggeler, J., Ram, T.G., and Bissell, M.J. (1989).
+Functional differentiation and alveolar morphogenesis of primary mammary
+cultures on reconstituted basement membrane. Development 105, 223–235.
+Choi, N., Zhang, B., Zhang, L., Ittmann, M., and Xin, L. (2012). Adult murine
+prostate basal and luminal cells are self-sustained lineages that can both serve
+as targets for prostate cancer initiation. Cancer Cell 21, 253–265.
+Fulcher, M.L., Gabriel, S., Burns, K.A., Yankaskas, J.R., and Randell, S.H.
+(2005). Well-differentiated human airway epithelial cell cultures. Methods
+Mol. Med. 107, 183–206.
+Genander, M., Cook, P.J., Ramsko¨ ld, D., Keyes, B.E., Mertz, A.F., Sandberg,
+R., and Fuchs, E. (2014). BMP signaling and its pSMAD1/5 target genes differ-
+entially regulate hair follicle stem cell lineages. Cell Stem Cell 15, 619–633.
+Guasch, G., Schober, M., Pasolli, H.A., Conn, E.B., Polak, L., and Fuchs, E.
+(2007). Loss of TGFbeta signaling destabilizes homeostasis and promotes
+squamous cell carcinomas in stratiﬁed epithelia. Cancer Cell 12, 313–327.
+14 Cell Stem Cell 19, 1–15, August 4, 2016
+Please cite this article in press as: Mou et al., Dual SMAD Signaling Inhibition Enables Long-Term Expansion of Diverse Epithelial Basal Cells, Cell S tem
+Cell (2016), http://dx.doi.org/10.1016/j.stem.2016.05.012
+
+<<<PAGE 16>>>
+He, X.C., Zhang, J., Tong, W.-G., Tawﬁk, O., Ross, J., Scoville, D.H., Tian, Q.,
+Zeng, X., He, X., Wiedemann, L.M., et al. (2004). BMP signaling inhibits in-
+testinal stem cell self-renewal through suppression of Wnt-beta-catenin
+signaling. Nat. Genet. 36, 1117–1121.
+Kandasamy, M., Lehner, B., Kraus, S., Sander, P.R., Marschallinger, J., Rivera,
+F.J., Tru¨ mbach, D., Ueberham, U., Reitsamer, H.A., Strauss, O., et al. (2014).
+TGF-beta signalling in the adult neurogenic niche promotes stem cell quies-
+cence as well as generation of new neurons. J. Cell. Mol. Med. 18, 1444–1459.
+Kiyono, T., Foster, S.A., Koop, J.I., McDougall, J.K., Galloway, D.A., and
+Klingelhutz, A.J. (1998). Both Rb/p16INK4a inactivation and telomerase activ-
+ity are required to immortalize human epithelial cells. Nature 396, 84–88.
+Kobielak, K., Stokes, N., de la Cruz, J., Polak, L., and Fuchs, E. (2007). Loss of
+a quiescent niche but not follicle stem cells in the absence of bone morphoge-
+netic protein signaling. Proc. Natl. Acad. Sci. USA 104, 10063–10068.
+Liu, X., Ory, V., Chapman, S., Yuan, H., Albanese, C., Kallakury, B., Timofeeva,
+O.A., Nealon, C., Dakic, A., Simic, V., et al. (2012). ROCK inhibitor and feeder
+cells induce the conditional reprogramming of epithelial cells. Am. J. Pathol.
+180, 599–607.
+Melino, G., Memmi, E.M., Pelicci, P.G., and Bernassola, F. (2015). Maintaining
+epithelial stemness with p63. Sci. Signal. 8, re9.
+Miller, R.L., Zhang, P., Smith, M., Beaulieu, V., Paunescu, T.G., Brown, D.,
+Breton, S., and Nelson, R.D. (2005). V-ATPase B1-subunit promoter drives
+expression of EGFP in intercalated cells of kidney, clear cells of epididymis
+and airway cells of lung in transgenic mice. Am. J. Physiol. Cell Physiol. 288,
+C1134–C1144.
+Mills, A.A., Zheng, B., Wang, X.J., Vogel, H., Roop, D.R., and Bradley, A.
+(1999). p63 is a p53 homologue required for limb and epidermal morphogen-
+esis. Nature 398, 708–713.
+Mira, H., Andreu, Z., Suh, H., Lie, D.C., Jessberger, S., Consiglio, A., San
+Emeterio, J., Hortigu¨ ela, R., Marque´ s-Torrejo´ n, M.A., Nakashima, K., et al.
+(2010). Signaling through BMPR-IA regulates quiescence and long-term activ-
+ity of neural stem cells in the adult hippocampus. Cell Stem Cell 7, 78–89.
+Neuberger, T., Burton, B., Clark, H., and Van Goor, F. (2011). Use of primary
+cultures of human bronchial epithelial cells isolated from cystic ﬁbrosis
+patients for the pre-clinical testing of CFTR modulators. Methods Mol. Biol.
+741, 39–54.
+Nishimura, E.K., Suzuki, M., Igras, V., Du, J., Lonning, S., Miyachi, Y., Roes, J.,
+Beermann, F., and Fisher, D.E. (2010). Key roles for transforming growth factor
+beta in melanocyte stem cell maintenance. Cell Stem Cell 6, 130–140.
+Oshimori, N., and Fuchs, E. (2012). Paracrine TGF- b signaling counterbal-
+ances BMP-mediated repression in hair follicle stem cell activation. Cell
+Stem Cell 10, 63–75.
+Pardo-Saganta, A., Law, B.M., Tata, P.R., Villoria, J., Saez, B., Mou, H., Zhao,
+R., and Rajagopal, J. (2015). Injury induces direct lineage segregation of func-
+tionally distinct airway basal stem/progenitor cell subpopulations. Cell Stem
+Cell 16, 184–197.
+Pavlov, T.S., Levchenko, V., and Staruschenko, A. (2014). Role of Rho GDP
+dissociation inhibitor a in control of epithelial sodium channel (ENaC)-medi-
+ated sodium reabsorption. J. Biol. Chem. 289, 28651–28659.
+Prater, M.D., Petit, V., Alasdair Russell, I., Giraddi, R.R., Shehata, M., Menon,
+S., Schulte, R., Kalajzic, I., Rath, N., Olson, M.F., et al. (2014). Mammary stem
+cells have myoepithelial cell properties. Nat. Cell Biol. 16, 942–950.
+Rheinwald, J.G., and Green, H. (1975). Serial cultivation of strains of human
+epidermal keratinocytes: the formation of keratinizing colonies from single
+cells. Cell 6, 331–343.
+Rheinwald, J.G., and Green, H. (1977). Epidermal growth factor and the multi-
+plication of cultured human epidermal keratinocytes. Nature 265, 421–424
+.
+Rock, J.R., Onaitis, M.W., Rawlins, E.L., Lu, Y., Clark, C.P., Xue, Y., Randell,
+S.H., and Hogan, B.L.M. (2009). Basal cells as stem cells of the mouse trachea
+and human airway epithelium. Proc. Natl. Acad. Sci. USA 106, 12771–12775.
+Rogers, C.S., Stoltz, D.A., Meyerholz, D.K., Ostedgaard, L.S., Rokhlina, T.,
+Taft, P.J., Rogan, M.P., Pezzulo, A.A., Karp, P.H., Itani, O.A., et al. (2008).
+Disruption of the CFTR gene produces a model of cystic ﬁbrosis in newborn
+pigs. Science 321, 1837–1841.
+Sato, T., Vries, R.G., Snippert, H.J., van de Wetering, M., Barker, N., Stange,
+D.E., van Es, J.H., Abo, A., Kujala, P., Peters, P.J., and Clevers, H. (2009).
+Single Lgr5 stem cells build crypt-villus structures in vitro without a mesen-
+chymal niche. Nature 459, 262–265.
+Staruschenko, A., Nichols, A., Medina, J.L., Camacho, P., Zheleznova, N.N.,
+and Stockand, J.D. (2004). Rho small GTPases activate the epithelial Na(+)
+channel. J. Biol. Chem. 279, 49989–49994.
+Sun, X., Sui, H., Fisher, J.T., Yan, Z., Liu, X., Cho, H.-J., Joo, N.S., Zhang, Y.,
+Zhou, W., Yi, Y., et al. (2010). Disease phenotype of a ferret CFTR-knockout
+model of cystic ﬁbrosis. J. Clin. Invest. 120, 3149–3160.
+Tadokoro, T., Gao, X., Hong, C.C., Hotten, D., and Hogan, B.L.M. (2016). BMP
+signaling and cellular dynamics during regeneration of airway epithelium from
+basal progenitors. Development 143, 764–773.
+Tata, P.R., Mou, H., Pardo-Saganta, A., Zhao, R., Prabhu, M., Law, B.M.,
+Vinarsky, V., Cho, J.L., Breton, S., Sahay, A., et al. (2013). Dedifferentiation
+of committed epithelial cells into stem cells in vivo. Nature 503, 218–223.
+Van Keymeulen, A., and Blanpain, C. (2012). Tracing epithelial stem cells
+during development, homeostasis, and repair. J. Cell Biol. 197, 575–584.
+Van Keymeulen, A., Rocha, A.S., Ousset, M., Beck, B., Bouvencourt, G., Rock,
+J., Sharma, N., Dekoninck, S., and Blanpain, C. (2011). Distinct stem cells
+contribute to mammary gland development and maintenance. Nature 479,
+189–193.
+Walters, M.S., Gomi, K., Ashbridge, B., Moore, M.A.S., Arbelaez, V., Heldrich,
+J., Ding, B.-S., Raﬁi, S., Staudt, M.R., and Crystal, R.G. (2013). Generation of a
+human airway epithelium derived basal cell line with multipotent differentiation
+capacity. Respir. Res. 14, 135.
+Wang, X., Yamamoto, Y., Wilson, L.H., Zhang, T., Howitt, B.E., Farrow, M.A.,
+Kern, F., Ning, G., Hong, Y., Khor, C.C., et al. (2015). Cloning and variation
+of ground state intestinal stem cells. Nature 522, 173–178.
+Yamazaki, S., Iwama, A., Takayanagi, S., Eto, K., Ema, H., and Nakauchi, H.
+(2009). TGF-beta as a candidate bone marrow niche signal to induce hemato-
+poietic stem cell hibernation. Blood 113, 1250–1256.
+Yang, A., Schweitzer, R., Sun, D., Kaghad, M., Walker, N., Bronson, R.T.,
+Tabin, C., Sharpe, A., Caput, D., Crum, C., and McKeon, F. (1999). p63 is
+essential for regenerative proliferation in limb, craniofacial and epithelial devel-
+opment. Nature 398, 714–718.
+Yin, X., Farin, H.F., van Es, J.H., Clevers, H., Langer, R., and Karp, J.M. (2014).
+Niche-independent high-purity cultures of Lgr5+ intestinal stem cells and their
+progeny. Nat. Methods 11, 106–112.
+You, Y., and Brody, S.L. (2013). Culture and differentiation of mouse tracheal
+epithelial cells. Methods Mol. Biol. 945, 123–143.
+Zhao, R., Fallon, T.R., Saladi, S.V., Pardo-Saganta, A., Villoria, J., Mou, H.,
+Vinarsky, V., Gonzalez-Celeiro, M., Nunna, N., Hariri, L.P., et al. (2014). Yap
+tunes airway epithelial size and architecture by regulating the identity, main-
+tenance, and self-renewal of stem cells. Dev. Cell 30, 151–165.
+Cell Stem Cell 19, 1–15, August 4, 2016 15
+Please cite this article in press as: Mou et al., Dual SMAD Signaling Inhibition Enables Long-Term Expansion of Diverse Epithelial Basal Cells, Cell S tem
+Cell (2016), http://dx.doi.org/10.1016/j.stem.2016.05.012

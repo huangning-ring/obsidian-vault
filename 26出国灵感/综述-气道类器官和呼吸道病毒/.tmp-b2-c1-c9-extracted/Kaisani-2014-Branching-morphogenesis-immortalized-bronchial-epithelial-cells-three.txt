@@ -1,0 +1,725 @@
+
+
+<<<PAGE 1>>>
+Branching morphogenesis of immortalized human bronchial epithelial
+cells in three-dimensional culture
+Aadil Kaisani a, Oliver Delgado a, Gail Fasciani a, Sang Bum Kim a, Woodring E. Wright a,
+John D. Minna b,c,d, Jerry W. Shay a,e,n
+a Department of Cell Biology, UT Southwestern Medical Center at Dallas, Dallas, TX 75390, USA
+b Hamon Center for Therapeutic Oncology, UT Southwestern Medical Center at Dallas, Dallas, TX 75390, USA
+c Department of Internal Medicine, UT Southwestern Medical Center at Dallas, Dallas, TX 75390, USA
+d Department of Pharmacology, UT Southwestern Medical Center at Dallas, Dallas, TX 75390, USA
+e Center for Excellence in Genomics Medicine Research, King Abdulaziz University, Jeddah, Saudi Arabia
+article info
+Article history:
+Received 18 April 2013
+Received in revised form
+6 February 2014
+Accepted 6 February 2014
+Keywords:
+Fibroblasts
+Distal airways
+Bronchial epithelial cells
+Branching
+Differentiation
+abstract
+While mouse models have contributed in our understanding of lung development, repair and regene-
+ration, inherent differences between the murine and human airways requires the development of new
+models using human airway epithelial cells. In this study, we describe a three-dimensional model system
+using human bronchial epithelial cells (HBECs) cultured on reconstituted basement membrane. HBECs
+form complex budding and branching structures on reconstituted basement membrane when
+co-cultured with human lung fetal ﬁbroblasts. These structures are reminiscent of the branching
+epithelia during lung development. The HBECs also retain markers indicative of epithelial cell types
+from both the central and distal airways suggesting their multipotent potential. In addition, we illustrate
+how the model can be utilized to understand respiratory diseases such as lung cancer. The 3D novel cell
+culture system recapitulates stromal –epithelial interactions in vitro that can be utilized to understand
+important aspects of lung development and diseases.
+& 2014 International Society of Differentiation. Published by Elsevier B.V. All rights reserved.
+1. Introduction
+Due to lack of good in vitro models, our understanding of
+development and stem cell biology of the human lung remains
+limited. Important aspects of human lung development, repair and
+regeneration have been studied through the use of mouse models
+(Morrisey and Hogan, 2010 ). Although these murine models have
+provided valuable insights into lung homeostasis and regenera-
+tion, there are intrinsic differences between the human and mouse
+airway epithelia ( Rock and Hogan, 201 1; Rock et al., 2010 ). Basal
+cells are limited to the trachea in mice while they are present
+throughout the human airways ( Boers et al., 1998; Evans et al.,
+2001). Clara cells (also referred to as club cells) are found
+throughout the murine airways but are enriched only in the distal
+bronchioles of the human lung ( Boers et al., 1999; Rawlins et al.,
+2009). Conversely, variant Clara cells have been demonstrated in
+the murine lung to self-renew and give rise to differentiated
+progeny in an event of injury, but there is no evidence of these
+cells in the human lung ( Hong et al., 2001; Rackley and Stripp,
+2012). These differences support the importance of developing
+in vitro model systems using human airway epithelial cells.
+In an effort to recapitulate the native airway architecture and
+differentiation, different in vitro model systems using human
+bronchial epithelial cells (HBECs) have previously been established
+(Bals et al., 2004; Fessart et al., 2013; Franzdottir et al., 2010;
+Pageau et al., 201 1 ). When primary HBECs are cultured on a
+contracted ﬁbroblast matrix and raised to air –liquid interface
+(ALI), the HBECs are able to differentiate into ciliated and goblet
+cells ( Vaughan et al., 2006 ). Although the ALI culture system
+demonstrates the ability of HBECs to differentiate into lung epithelial
+cells lining the central lung, it does not address differentiation in the
+distal airways. Recent studies havealso described culturing HBECs in
+reconstituted basement membrane (Matrigels) to reproduce a more
+physiologically relevant microenvironment for cell differentiation
+(McQualter et al., 2010; Rock et al., 2009 ). HBECs cultured in three-
+dimensional (3D) Matrigels models differentiate into distinct lung
+Contents lists available at ScienceDirect
+journal homepage: www.elsevier.com/locate/diff
+Differentiation
+http://dx.doi.org/10.1016/j.diff.2014.02.003
+Join the International Society for Differentiation (www.isdifferentiation.org)
+0301-4681 & 2014 International Society of Differentiation. Published by Elsevier B.V. All rights reserved.
+Abbreviations: HBECs, human bronchial epithelial cells; 3D, three-dimensional;
+2D, two-dimensional; CDK4, cyclin-dependent kinase 4 (K); hTERT, human telo-
+merase reverse transcriptase (T); ALI, air liquid interface; CCSP, Clara cell secretory
+protein; HUVECs, human umbilical vein endothelial cells
+n Corresponding author at: Department of Cell Biology, UT Southwestern Medical
+Center at Dallas, Dallas, Texas, 75390, U.S.A Tel.: þ1 214 633 1994.
+E-mail address: Jerry.Shay@UTSouthwestern.edu (J.W. Shay).
+Please cite this article as: Kaisani, A., et al., Branching morphogenesis of immortalized human bronchial epithelial cells in three-
+dimensional culture. Differentiation (2014), http://dx.doi.org/10.1016/j.diff.2014.02.003i
+Differentiation ∎ (∎∎∎∎ ) ∎∎∎ –∎∎∎
+
+<<<PAGE 2>>>
+epithelial lineages however, these studies did not address the
+importance of stromal epithelial interactions ( Wu et al., 2011 ).
+Signaling from the mesenchyme plays a critical role in lung devel-
+opment. Cues from stromal cell types such as ﬁbroblasts, endothelial
+cells and smooth muscle cells are important in determining epithelial
+cell fate ( Kimura and Deutsch, 2007 ). These interactions also con-
+tribute to respiratory diseases such as lung cancer where the stroma
+plays a critical role in cancer progression and metastasis (Mueller and
+Fusenig, 2004 ). Current in vitro models also fail to recapitulate
+phenotypic features such as branching morphogenesis of the distal
+lung airway during development. These phenotypes have mostly
+been mimicked using primary ti ssues from embryonic human and
+mouse lungs (Miura and Shiota, 2000; Weaver et al., 2000 ).
+Previously, it has also been suggested that ectopically intro-
+duced telomerase and cyclin-dependent kinase 4 immortalized
+HBECs display characteristics of multipotent stem cells of the lung
+(Delgado et al., 201 1 ). These HBECs express markers indicative of
+several epithelial cell types from both central and distal airway
+lineages in two-dimensional culture (2D). When cultured in
+different types of 3D systems, subtle changes in the microenvir-
+onment result in the ability of HBECs to differentiate into multiple
+central and distal lung epithelial cell types. In ALI conditions, these
+HBECs can differentiate into ciliated and goblet cells ( Vaughan
+et al., 2006 ). When embedded in Matrigel s, HBECs form cyst like
+structures resembling and expressing markers indicative of cells
+from the distal lung airways ( Delgado et al., 201 1). These observa-
+tions are consistent with the hypothesis that the adult human lung
+may contain a multipotent stem-like cell capable of differentiating
+into multiple cell lineages in different microenvironments.
+In the present study, we describe a novel HBEC 3D culture
+system that displays the phenotype reminiscent of lung branching
+morphogenesis during development. Branching of the lung buds
+terminating into alveoli, the site of gas exchange during lung
+development, signi ﬁes differentiation of lung epithelium into
+distal airway cell types such as Clara and Type II pneumocytes
+(Warburton et al., 2010 ). We demonstrate that when HBECs are
+seeded on top of Matrigel s, overlaying fetal lung ﬁbroblasts
+(IMR90 cells), the HBECs form an aggregate structure that buds
+and branches (resembling the canalicular/saccular period of lung
+development). HBECs in this culture system maintain markers of
+multiple cell types in the airway epithelium indicating their
+multipotent stem-like characteristics. We also describe how this
+new 3D system can be utilized to not only understand lung
+development, but also lung diseases such as lung cancer.
+2. Material and methods
+2.1. Cell culture
+Immortalized HBEC3, HBEC13, and the experimentally transformed
+HBEC3 cells were cultured in Keratinocyte Serum Free media (KSFM)
+(Gibco) at 37 1Ca n d5 %C O
+2.T h eK S F Mm e d i ac o n t a i n e d5 0μg/mL of
+bovine pituitary extract and 5 μg/mL of epidermal growth factor.
+These cells were also cultured on porcine gelatin coated tissue culture
+dishes (Sigma Aldrich) as described previously (Ramirez et al., 2004).
+For 3D culture studies, HBECs were cultured in air liquid interface
+media (Vaughan et al., 2006 ). IMR90s and other primary ﬁbroblasts
+derived from normal lung tissues were cultured in DMEM media
+(Thermo Scienti ﬁc) supplemented with 10% Cosmic Calf Serum
+(Thermo Scientiﬁc) at 37 1Ci n5 %C O 2 and 2% O2.
+2.2. 3D Matrigel s culture
+HBECs 3D cultures were performed as previously described
+(Lee et al., 2007 ) with minor modi ﬁcations. IMR90 ﬁbroblasts were
+seeded as a feeder layer at a density of 1.25 /C2 105 cells/cm2 48 h
+prior to seeding HBECs. Pre-thawed growth factor reduced and
+phenol-red free Matrigel s (BD Biosciences) was layered on top of
+the ﬁbroblasts (75 μL/cm2) and then allowed to gel at 37 1C for
+15 min. The Matrigel s plated was at 100% concentration and was
+not diluted with media. 1.0 /C2 105/cm2 HBECs were suspended in
+ALI media and seeded on top of the Matrigel s. Approximately
+24 h after plating the HBECs, ALI medium was removed and
+replaced with ALI medium containing 10% Matrigel. There is no
+difference between the phenotype of HBECs cultured on top of
+Matrigels with or without the 10% overlay ( Supplementary Fig. 1).
+Adding 10% Matrigel aids in extending the integrity of the 3D
+culture. The 3D cultures were done in triplicates and repeated
+multiple times. Cultures were grown at 37 1C and 5% CO 2 for up to
+15 days with media being changed every other day.
+2.3. Immuno ﬂuorescence staining
+For 3D immuno ﬂuorescence analysis of the HBEC Matrigel s
+cultures, the aggregated lung budding structures were washed
+twice with cold phosphate buffer saline (PBS) and ﬁxed for 30 min
+at RT with 4% paraformaldehyde. Following ﬁxation, the structures
+were washed twice with PBS and 2% agarose was poured directly
+into the well containing the 3D HBEC structures to create a plug.
+The agarose was allowed to cool down at RT and the plugs
+containing the 3D HBEC structures were placed in histology
+cassettes. The samples were then processed, embedded and
+5 μm thick sections were cut for immuno ﬂuorescence analysis.
+The sections were de-paraf ﬁnized through three different xylenes,
+rehydrated in a series of ethanol and washed in de-ionized water
+for 5 min. Following heat induced antigen retrieval, sections were
+blocked at RT with 10% goat serum albumin (Zymed) in PBS
+containing 1% bovine serum albumin (Sigma Aldrich) and 0.025%
+Triton X-100 (Sigma Aldrich) for 2 h. Sections were rinsed with
+PBS and incubated with primary antibodies overnight at 4 1Ci na
+humidiﬁed chamber. The following primary antibodies were used
+for 3D immuno ﬂuorescence analysis: mouse monoclonal anti-p63
+(Millipore; clone 4A4), mouse monoclonal anti-Keratin 14
+(Thermo Scienti ﬁc; Cat. #MS-1 15-P), rabbit polyclonal anti-CCSP
+(Santa Cruz; sc-25554), rabbit polyclonal anti-SP-A (gift from Dr.
+Carole Mendelson, University of Texas Southwestern Medical
+Center, Dallas, TX) ( Odom et al., 1987 ), mouse monoclonal anti-
+MUC5AC (Abcam; ab24070), and mouse monoclonal anti-TTF1
+(Santa Cruz; 8G7G3/1). The antibodies used have been tested for
+immunoﬂuorescence analysis of paraf ﬁn-embedded samples.
+Sections were washed three times in PBS after overnight
+primary antibody incubation and stained with secondary antibo-
+dies. A secondary antibody deletion control to check the speci ﬁcity
+was performed with each primary antibody. The sections were
+incubated at a dilution of 1:500 for an hour at RT in a dark
+humidiﬁed chamber (Alexa Fluor 488 goat anti-rabbit (Invitrogen;
+A-1 1008) or Alexa Fluor 488 goat anti-mouse (Invitrogen;
+A-1 1001)). Sections were then washed three times with PBS and
+mounted with Vecta Shield mounting medium with DAPI (Vector
+Labs) cover-slipped, and imaged. (Axiovert 200M ﬂuorescence
+microscope). Each staining was performed on multiple sections
+in triplicates.
+2.4. Electron microscopy
+3D structures were ﬁxed in 2.5% glutaraldehyde (in 0.1 M
+cacodylate) solution overnight at 4 1C. The samples were then
+placed in a 2% agarose plug and processed according to standard
+electron microscopy procedures. The ﬁnal samples were then
+imaged using a Tecnai G2 Spirit 120KV TEM.
+A. Kaisani et al. / Differentiation ∎ (∎∎∎∎ ) ∎∎∎ –∎∎∎2
+Please cite this article as: Kaisani, A., et al., Branching morphogenesis of immortalized human bronchial epithelial cells in three-
+dimensional culture. Differentiation (2014), http://dx.doi.org/10.1016/j.diff.2014.02.003i
+
+<<<PAGE 3>>>
+3. Results
+3.1. IMR90 ﬁbroblasts stimulate branching morphogenesis of HBEC3
+KTs when cultured on reconstituted basement membrane matrix
+HBEC3s used in the current study were obtained from a central
+lung bronchi and immortalized using ectopic expression of human
+telomerase reverse transcriptase (hTERT; T) and cyclin-dependent
+kinase 4 (CDK4; K) as described previously ( Ramirez et al., 2004 ).
+Immortalized HBEC3 KTs retain a normal/non-malignant pheno-
+type in cell culture thus allowing the use of an isogenic human
+bronchial cell population to characterize aspects of lung develop-
+ment and differentiation in vitro (Ramirez et al., 2004; Sato et al.,
+2006). When cultured on gelatin-coated dishes, HBEC3 KTs pro-
+liferate into a two-dimensional con ﬂuent monolayer that has a
+cobblestone appearance ( Fig. 1A). However, when HBEC3 KTs are
+cultured on top of reconstituted basement (Matrigel s) in the
+presence of IMR90 fetal lung ﬁbroblasts seeded as feeder layer
+underneath ( Fig. 1 B), HBEC3 KTs form aggregate structures that
+develop into complex branching structures by day ten ( Fig. 1C). In
+the absence of an IMR90 monolayer, HBEC3 KTs fail to form any
+self-aggregating structures and do not further develop into any
+budding and branching structures ( Fig. 1 D). The monolayer of
+IMR90 cells under the Matrigel s culture remains viable for the
+duration of the culture and does not form any structures ( Fig. 1E).
+HBEC3 KTs cultured with other lung ﬁbroblast cell lines seeded as
+monolayer under Matrigel s also form branching structures
+(Fig. 1F), indicating that the phenotype of HBEC3 KTs is not limited
+to one type of feeder layer.
+To further investigate the formation of branching structures
+by HBEC3 KT cells on Matrigel s,t h ec u l t u r e sw e r eo b s e r v e d
+over multiple days. When HBEC3 KTs are seeded on top of
+Matrigel s, the cells self-aggregated into tubule-like structures
+after one day ( Fig. 2 A). This phenotype is very similar to what is
+observed in endothelial cell organotypic cultures ( Madri and
+Williams, 1983 ). Small bud-like structures emerge alongside of
+the tubules by the third day; as indicated by the arrows ( Fig. 2 B).
+The budding structures form complex branching structures by
+the sixth day ( Fig. 2 C) and continue to increase in size and
+complexity by day ten ( Fig. 2 D). The complex branching struc-
+tures are reminiscent of bronchoalveolar units in the lung during
+the canalicular and saccular stages of development. Since the
+aggregation and formation of branching structures by HBEC3 KTs
+is dependent on the presence of IMR90s seeded under the
+Matrigel s, we tested the effects of varying IMR90 monolayer
+densities during the Matrigel s culture ( Supplementary Fig. 2 ).
+Signiﬁcant differences are observed in the phenotype of HBEC3
+KTs in 3D culture depending on the density of IMR90s. Lower
+densities of these ﬁ
+broblasts are unable to induce complex
+branching in HBEC3 KTs. The ﬁbroblasts also remain as a
+monolayer on the bottom of the culture dish and do not make
+direct contact with the HBEC3 KTs above the Matrigel s layer
+(Supplementary Fig. 3 ). These observations emphasize the
+importance of cues from the microenvironment that are neces-
+sary for lung development and differentiation ( Kimura and
+Deutsch, 2007; Warburton et al., 2010 ).
+The branching structures that formed on top of Matrigel s are
+organized at the buds as indicated by the expression of E-cadherin at
+the cell–cell junctions (Fig. 2E). Hematoxylin and eosin staining of the
+structures after eight days in culture also demonstrate polarity and
+organization within the budding structures (Fig. 2F). Cells within the
+buds display a cuboidal to low columnar morphology. HBEC3 KT cells
+along the tubular structure seem to form a cavity with cells
+o r g a n i z e da l o n gt h ee d g e(Fig. 2 G). This may signify the formation
+of a lumen within the aggregated budding structure.
+3.2. HBEC3 KTs express basal cell markers when cultured in 3D
+We analyzed the expression of several epithelial cell markers in
+the branching 3D structures on Matrigel s. Mature cell-types in
+the adult lung can be identi ﬁed by the expression of unique
+differentiation markers or a combination of a few markers
+(Wuenschell et al., 1996 ). Previously, we have shown that HBEC3
+KTs under 2D conditions express the basal cell marker p63
+Fig. 1. HBEC3 KT cells exhibit different morphologies under different culture conditions. (A) Under 2D culture conditions on gelatin coated plates, HBEC3 K Ts grow in a
+monolayer with a cobblestone appearance. (B) When seeded on top of Matrigel s in the presence of IMR90s seeded as a monolayer, (C) HBEC3 KT cells aggregate into tubular
+structures which bud and branch (Day 10). (D) In the absence of IMR90s, HBEC3 KTs fail to form complex branching structures when cultured on Matrigel s. (E) IMR90s
+seeded as a monolayer under the Matrigel s culture do not form any structures or invade the Matrigel s. (F) The phenotype of HBEC3 KTs on Matrigel s is not limited to
+IMR90s and can be recapitulated with other primary lung ﬁbroblast cells. Scale bar 100 μm.
+A. Kaisani et al. / Differentiation ∎ (∎∎∎∎ ) ∎∎∎ –∎∎∎ 3
+Please cite this article as: Kaisani, A., et al., Branching morphogenesis of immortalized human bronchial epithelial cells in three-
+dimensional culture. Differentiation (2014), http://dx.doi.org/10.1016/j.diff.2014.02.003i
+
+<<<PAGE 4>>>
+(Delgado et al., 201 1 ). HBEC 3KTs retain expression of p63 in 3D
+culture by day 8 as observed by immuno ﬂuorescence analysis
+(Fig. 3 A). Both the buds and the tubules within the branching
+structures express p63 which is localized within the nuclei. HBEC3
+KTs also express Keratin 14 (K14), another marker of basal cells in
+3D culture ( Fig. 3 B) ( Rock et al., 2010 ). K14 is expressed within
+the cytoplasm of the branching structures. Immunostaining for
+mature goblet cells with Muc5AC was negative (data not show).
+Basal cells in the human airways are present throughout but
+enriched in the central airways ( Rackley and Stripp, 2012; Rock
+et al., 2010 ). Even though the branching phenotype of HBEC3 KTs
+resembles the morphology observed in the distal lung, all the cells
+retained basal cell expression. These observations suggest that
+further microenvironmental cues from the human lung stroma
+may be necessary to completely differentiate HBEC3 KTs into distal
+lung lineages.
+3.3. Differentiation markers from distal lung cell types are expressed
+by HBEC3 KTs in 3D culture
+Examining the expression of different cell type markers in 3D
+culture suggests HBEC3 KTs also retain the potential to differenti-
+ate into cell types originating in the distal lung. HBEC 3KTs express
+Clara cell secretory protein (CCSP) when cultured on Matrigel s
+(Fig. 4A). CCSP is a marker of Clara cells with limited expression in
+Type II pneumocytes ( Rawlins et al., 2009 ). CCSP was uniformly
+expressed in the cytoplasm of HBEC3 KT cells in 3D culture (Day
+8). No difference in the expression is observed between cells that
+are present within the buds or tubules. CCSP expression has
+not been previously reported in cells from the central airways
+(e.g. basal cells) and is restricted to cell types in the distal airway
+(Rock et al., 2010). Expression of Surfactant Protein-A (SP-A) is also
+observed in HBEC3 KTs (Day 8) cultured on Matrigel s (Fig. 4 B)
+Fig. 2. When co-cultured with IMR90s on Matrigel s, (A) HBEC3 KTs aggregate and form tubule-like structures after day 1. This phenotype is very similar to what is observed
+in 3D cultures of endothelial cells. (B) Small budding structures emerge from the initial tubule-like structure by day 3. (C) Initial budding structu res start to branch by day 6.
+The aggregated structures continue to grow and (D) develop a more complex branching by day 10. (E) E-cadherin immunostaining shows formation of cell- cell junctions and
+organization within the HBEC3 KT structures. (F) HBEC3 KT cells in the buds are organized and exhibit a columnar morphology by day 8 as indicated by the H &E stain.
+(G) Cells in the tubule part of the structure are also organized along the length of the structure by day 8. Scale bar 100 μm ((A) –(D), (F), (G)), 10 μm (E).
+A. Kaisani et al. / Differentiation ∎ (∎∎∎∎ ) ∎∎∎ –∎∎∎4
+Please cite this article as: Kaisani, A., et al., Branching morphogenesis of immortalized human bronchial epithelial cells in three-
+dimensional culture. Differentiation (2014), http://dx.doi.org/10.1016/j.diff.2014.02.003i
+
+<<<PAGE 5>>>
+Fig. 3. Branching HBEC3 KT structures express basal cell markers (Day 8). (A) Nuclear staining with DAPI is shown in blue. p63 expression is observed in all the nuclei within
+the branching structures. (B) Keratin 14, another basal cell marker is expressed in the cytoplasm of all the cells within the branching structure. Sca le bar 10 μm. (For
+interpretation of the references to color in this ﬁgure legend, the reader is referred to the web version of this article.)
+Fig. 4. HBEC3 KTs express markers of distal lung lineages when cultured on Matrigel s (Day 8). (A) Nuclear stain with DAPI is shown in blue. CCSP (red) is expressed in
+HBEC3 KTs 3D culture. The protein is localized within the cytoplasm of the cells in the branching structure. (B) Immunostaining with antibody against SP-A (red), a marker
+for type II pneumocytes cells. The expression of the protein is localized towards the apical side of the buds of the branching structures. (C) TTF1 is ex pressed in HBEC3 KTs
+cultured on top of Matrigel s. TTF1 is expressed in the cytoplasm in a majority of the cells with weak nuclear expression within a few cells. Scale bar 10 μm ((A)–(C)). ((D)–
+(E)) Transmission EM analysis on branching structures after 8 days in culture demonstrate the presence of lamellar-like bodies within the HBEC3 KT ce lls in 3D culture. Scale
+bar 0.5 μm ((D) and (E)). (For interpretation of the references to color in this ﬁgure legend, the reader is referred to the web version of this article.)
+A. Kaisani et al. / Differentiation ∎ (∎∎∎∎ ) ∎∎∎ –∎∎∎ 5
+Please cite this article as: Kaisani, A., et al., Branching morphogenesis of immortalized human bronchial epithelial cells in three-
+dimensional culture. Differentiation (2014), http://dx.doi.org/10.1016/j.diff.2014.02.003i
+
+<<<PAGE 6>>>
+which is expressed in both Type II pneumocytes and Clara cells
+(Madsen et al., 2003). Although SP-A is expressed in HBEC3 KTs in 2D
+culture, expression of SP-A in 3D is more representative of its
+expression and secretionin vivo. SP-A expression is more prominent
+within the buds of the branching structures with more distinct
+expression towards the apical side of HBEC3 KTs. The expression of
+SP-A within the branching structure resembles its secretion into the
+alveolar space where it facilitates air exchange ( Warburton et al.,
+2010). Transmission electron microscopy on HBEC3 KTs branching
+structures after 8 days of culture identi ﬁed structures that resemble
+lamellar bodies within individual HBEC3 KT cells (Fig. 4Da n dE ) .S P - A
+is generally associated with lamellar bodies which are surrounded by
+lipid vesicles. Lamellar bodies secret surfactant to reduce surface area
+tension at the site of air-exchange within the alveolar sacs
+(Fehrenbach, 2001). HBEC 3KTs also express aquaporin 5, a marker
+of alveolar type I cells that is potentially expressed in many other cell
+types of the lung including basal cells (Krane et al., 2001). HBEC 3KTs
+express AQP5 under both 2D ( Delgado et al., 201 1)a n d3 Dc u l t u r e
+conditions (Supplementary Fig. 4).
+Thyroid-transcription factor 1 (TTF-1) is a multifunctional tran-
+scription factor expressed by the multipotent progenitor cells of the
+airway during development (Boggaram, 2009). TTF-1 is expressed in
+Clara cells and Type II pneumocytes in the adult lung. TTF-1 drives the
+transcription of CCSP and other surfactant protein expressed by Clara
+cells and Type II pneumocytes (Maeda et al., 2007). TTF-1 expression is
+observed in the HBEC3 KT branching structures on Matrigels (Fig. 4C)
+by day 8. Although TTF-1 is a transcription factor, a majority of the
+protein is expressed within the cytoplasm. TTF-1 is variably detected
+in HBEC3 KTs under 2D conditions while it's constituently expressed
+in cells cultured on Matrigels. These observations indicate that HBEC3
+K T sw h e nc u l t u r e do nM a t r i g e ls in the presence of IMR90 cells
+contain the capacity to differentiate into cell types originating in the
+distal lung.
+3.4. Analyzing partially/fully transformed HBEC3 KTs and other
+HBECs in 3D culture model
+To investigate if other HBEC cell lines can recapitulate the
+phenotype of HBEC3 KTs in 3D, we cultured another normal HBEC
+immortalized cell line (HBEC13 KT) on Matrigel s. Similar to
+HBEC3 KTs, HBEC13 KTs form a monolayer with cobblestone
+appearance under 2D conditions ( Fig. 5 A). When cultured on top
+of Matrigel s, HBEC13 KTs reproduces the branching phenotype
+observed in HBEC3 KTs ( Fig. 5 B). In the absence of IMR90s as a
+feeder layer under the 3D culture, HBEC13 KTs also fail to form
+complex branching structures (data not shown). This observation
+suggests that the 3D culture system can be used to study multiple
+HBEC cell lines and that the phenotype observed is not limited to
+HBEC3 KTs. The importance of signaling from the stroma during
+branching process is also con ﬁrmed in HBEC13 KTs.
+To evaluate if the HBEC 3D model could be utilized to study
+lung cancer progression we cultured partially or completely
+transformed HBEC3 KTs on Matrigel s. HBEC3 KTs with ectopic
+expression of mutant K-ras v12 ( Fig. 5C) or HBEC3 KTs with ectopic
+expression of mutant K-rasv12 and shRNA TP53 stably knocked
+down ( Fig. 5 E) exhibit normal HBEC phenotype in 2D. These cell
+lines also produce branching structures similar to normal HBEC3
+KTs when cultured in 3D with IMR90s ( Fig. 5 D and F). The
+observations suggest that introduction of oncogenic K-ras v12
+and signi ﬁcant down regulation of the tumor suppressor TP53 is
+not suf ﬁcient to cause loss of branching phenotype in 3D. HBEC3
+KT cells with over-expression of K-ras v12, c-myc and knocked
+down TP53 are completely transformed and do not display normal
+HBEC cell morphology in 2D ( Fig. 5 G). The cells do not display a
+cobblestone epithelial appearance; rather the cells convert to a
+mesenchymal phenotype in 2D. When cultured on Matrigel s, the
+cells aggregate and form tubular structures after day 1 but fail to
+progress into branching structures ( Fig. 5H). Instead, the cells form
+invasive structures within the Matrigel s (indicated by the arrows
+in Fig. 5 H) correlating to their phenotype in 2D. These results
+demonstrate how this in vitro 3D system can be utilized in
+studying lung cancer progression.
+4. Discussion
+Development of human cell culture models is an important
+complement to animal models in understanding basic developmental,
+Fig. 5. The 3D system can be used to understand lung cancer progression by analyzing the branching phenotype on Matrigel s. The branching characteristic that HBEC 3KTs
+demonstrate on Matrigel s can also be recapitulated by other HBECs. (A) HBEC13 KTs exhibit cobblestone monolayer appearance in 2D. (B) When cultured on top of
+Matrigels in the presence of IMR90s, HBEC13 KTs forms complex branching structures. (C) Mutant K-rasv12 or (E) both K-rasv12 and stable TP53 knockdown HBECs ret ain
+normal epithelial morphology in 2D. ((D), (F)) These partially transformed cells also form branching structures when cultured on Matrigel s. (G) HBEC3 KTs expressing
+K-rasv12, c-myc and knockdown TP53 display a mesenchymal morphology in 2D culture. (H) These HBECs fail to form branching structures when cultured on top of
+Matrigels. The cells invade through the reconstituted basement membrane (pointed by the arrows). Scale bar 100 μm.
+A. Kaisani et al. / Differentiation ∎ (∎∎∎∎ ) ∎∎∎ –∎∎∎6
+Please cite this article as: Kaisani, A., et al., Branching morphogenesis of immortalized human bronchial epithelial cells in three-
+dimensional culture. Differentiation (2014), http://dx.doi.org/10.1016/j.diff.2014.02.003i
+
+<<<PAGE 7>>>
+differentiation, and diseases processes. In the present study, we have
+described a novel in vitro lung epithelial cell culture system that is
+reminiscent in part to the process of lung branching morphogenesis
+during development. In our model, we also discovered that interaction
+between ﬁbroblasts and the HBECs are critical to reproduce the
+branching phenotype in vitro . This is analogous to human lung
+development where critical signaling from the mesenchyme leads to
+the branching and differentiation of the airway epithelium. Develop-
+mental processes such as branching morphogenesis of the lung have
+primarily been studied using embryonic human or mouse tissue
+extracts (Miura and Shiota, 2000; Weaver et al., 2000 ). This model
+allows the use of immortalized HBECs to study such process in vitro
+and also recapitulates important stromal epithelial interactions. While
+our understanding of the lung epithelium homeostasis, repair and
+regeneration has been greatly enhanced by the use of mouse models,
+translating them to the human lung has been hindered due to the
+inherent anatomical differences between the two species (Rackley and
+Stripp, 2012; Rock and Hogan, 201 1; Warburton et al., 2010 ). The
+present study demonstrates a new cell-based model to understand
+these processes within the human lung.
+A critical role in organogenesis and tissue maintenance is
+performed through the crosstalk between the epithelial and
+mesenchymal cells. This signaling is critical for many tissues
+including mammary and prostate glands ( Cunha, 2008; Kimura
+and Deutsch, 2007; Ronnov-Jessen and Bissell, 2009 ). The initial
+lung emerges from the ventral foregut endoderm and requires a
+coordinated sequence of processes to develop ( Kimura and
+Deutsch, 2007 ). The mesenchyme originates from the mesoderm
+which includes ﬁbroblasts, endothelial cells and other connective
+tissue and these cell types progress in parallel to the surrounding
+developing airways. Induction of transcription factors and growth-
+factor signaling in a temporal-spatial manner orchestrate migra-
+tion and branching of the lung airway epithelium ( Kimura and
+Deutsch, 2007 ). The signaling also plays a role in speci ﬁcation of
+cell fate once the airway has developed ( Boggaram, 2009; Maeda
+et al., 2007; Rock and Hogan, 201 1 ). While several reports have
+described the formation of spheroid structures when human or
+mouse airway epithelial cells are cultured in Matrigel s, these
+models do not account for the epithelial –mesenchymal interac-
+tions ( McQualter et al., 2010; Rock et al., 2009; Wu et al., 201 1 ).
+The lack of such interaction may explain why HBECs in these
+models do not differentiate into cells associated with the distal
+airway. Interaction between stromal components such as ﬁbro-
+blasts and endothelial cells is much more intimate in the distal
+airway. Septation of terminal sacs in the branching lung epithelia
+involves interactions between airway epithelial cells, myo ﬁbro-
+blasts and endothelial cells ( Warburton et al., 2010 ). Fibroblast
+growth factor (FGF) signaling in particular FGF-10 from the
+mesenchyme also plays a critical role in differentiation and
+branching in the developing distal lung ( Nyeng et al., 2008 ).
+Furthermore, ﬁbroblasts adjacent to Type II pneumocytes in adult
+human tissue are responsible for maintaining communication
+between epithelia and migrating leukocytes ( Sirianni et al.,
+2003). Branching morphology of HBECs in our 3D model support
+the notion that co-culturing mesenchymal and epithelial cells may
+be required to differentiate HBECs into cells enriched in the distal
+airways.
+Most prior studies involving cell culture models have also failed
+to recapitulate the branching phenotype in vitro using immorta-
+lized HBECs. Branching morphogenesis of HBECs in 3D culture was
+recently described ( Franzdottir et al., 2010 ). There are distinct
+differences under which cells are cultured in our versus the
+Franzdottir et al. (2010) studies. Franzdottir and co-workers
+embedded HBECs immortalized with E6/E7 viral oncogenes in
+Matrigels. The HBECs were co-cultured with human umbilical
+vein endothelial cells (HUVECs) resulting in the formation of
+branching structures ( Asgrimsson et al., 2006 ). In our model,
+HBECs immortalized with CDK4 and TERT are not embedded but
+overlaid on top of Matrigel s with fetal lung ﬁbroblasts below the
+Matrigel as a monolayer. Under these conditions the HBECs
+aggregated to form budding and branching structures. When
+HBEC3 KTs are cultured on Matrigel s with HUVECs seeded as
+the feeder layer, HBEC 3KTs did not form any tubule-like structures
+after day 1 but aggregated and formed cyst-like structures
+(Supplementary Fig. 5A ). When HUVECs are used a branching
+phenotype was rarely observed and the vast majority of struc-
+tures failed to demonstrate branching phenotypes by day 10
+(Supplementary Fig. 5B). Interestingly, the endothelial cells seeded
+under the Matrigels formed tubule-like structures (Supplementary
+Fig. 5C). The results demonstrate that while signaling from multiple
+stromal components may be required for development and differen-
+tiation of the lung epithelium, factors secreted from ﬁbroblasts are
+crucial in our 3D cell culture system for HBEC3 KTs. Although HBECs
+grown with endothelial cells or ﬁbroblasts under certain conditions
+may have similar phenotypes, the effects of different immortalization
+processes on differentiation are also not completely understood and
+certain subtle variations may exist between different HBEC lines.
+HBEC3 KTs encompass multipotent capacity in vitro as
+described in the current study and by us previously ( Delgado
+et al., 201 1). The cells were derived from the central airway of the
+lung but in 2D culture, express markers of both central and distal
+lung. The cells express basal cell markers p63 and keratin 14
+(central) while also expressing Surfactant protein A, C, D and CCSP
+(distal). When placed in different 3D culture conditions, HBEC3
+KTs demonstrate the capacity to differentiate into both central and
+distal lineages of the human airways ( Delgado et al., 201 1;
+Vaughan et al., 2006 ). These observations support the suggestion
+that there may be a human lung stem-like cell type capable of
+multipotent differentiation. When cultured on top of Matrigel s
+HBEC3 KTs form branching structures that retain these markers
+from multiple cell lineages. Immuno ﬂuorescence analysis of the
+branching structures demonstrate that HBEC3 KTs during branch-
+ing continue to express basal cell, Clara cell and Type II pneumo-
+cytes cell markers. This indicates that signaling from other cell
+types beside ﬁbroblasts or further changes in the microenviron-
+ment may be necessary to entirely differentiate the HBEC3 KTs
+into distal airway. TTF-1 a transcription factor which regulates
+surfactant proteins and CCSP expression in the distal lung was also
+expressed in 3D ( Maeda et al., 2007 ). Expression of TTF-1 in HBEC3
+KTs is variable in 2D, but TTF-1 is constituently expressed evenly in
+the cytoplasm of HBEC3 KTs in the branching structures. This
+indicates that HBEC3 KTs in the branching structures are primed to
+differentiate into distal lineages but additional signaling from the
+stroma may be required.
+We also tested the utility of this novel 3D model to analyze
+lung cancer progression. HBEC3 KTs have previously been utilized
+to understand lung cancer progression. Partially transformed
+HBEC3 KTs with the addition of oncogenic mutant K-ras v12,
+knockdown of TP53 or both do not form xenograft tumors in
+immuno-compromised mice at a high frequency ( Sato et al., 2006 ).
+Our 3D branching model was able to predict this in vitro, as these
+cells were able to branch and bud and appeared similar to
+unprogressed HBEC3 KTs. Fully transformed HBEC3 KTs with
+oncogenic K-ras v12, c-myc and knocked down TP53 are able to
+form tumors in mice at a higher frequency compared to partially
+transformed HBEC3 KTs (Sato et al., 2013) and when cultured in 3D
+on top of Matrigel s failed to branch and bud. The cells formed
+invasive structures in Matrigel s indicating their malignant trans-
+formation and their capacity to invade the basement membrane.
+The 3D model was able to distinguish between partial and fully
+transformed cell lines in vitro and predict their behavior in vivo .
+Therefore, the culture system may provide a physiologically
+A. Kaisani et al. / Differentiation ∎ (∎∎∎∎ ) ∎∎∎ –∎∎∎ 7
+Please cite this article as: Kaisani, A., et al., Branching morphogenesis of immortalized human bronchial epithelial cells in three-
+dimensional culture. Differentiation (2014), http://dx.doi.org/10.1016/j.diff.2014.02.003i
+
+<<<PAGE 8>>>
+relevant system that may help predict tumorigenic behavior
+in vivo. Loss of differentiation is a critical event in cancer progres-
+sion and in vitro models such as the one described in the present
+study may assist in understanding certain aspects of lung cancer
+progression and may be a useful system for testing therapeutic
+regimens. The 3D model can also help understand the epithelial –
+mesenchymal interactions in lung cancer progression.
+Overall, our results characterize a novel model of branching
+morphogenesis using hTERT and Cdk4 immortalized human bron-
+chial epithelial cells. We demonstrate that signaling from
+mesenchymal cells is critical for HBEC3 KTs to branch and bud
+when cultured on top of Matrigel s. The current model can also be
+extended further to recapitulate complex signaling between
+epithelium and stroma by including other stromal factors. Con-
+versely, the model can also be simpli ﬁed to understand the role of
+individual factors in lung development and diseases.
+Acknowledgement
+This work was supported in part by the National Aeronautics
+and Space Administration (NNJ05HD36GD, NNX09AU95G, and
+NNX1 1AC15G), the National Cancer Institute (Lung SPORE
+P50CA70907), and Department of Defense pre-doctoral fellowship
+(W81XWH-1 1-1-0160). This work was performed in laboratories
+constructed with support from National Institute of Health grant
+C06 RR30414. We would like to thank Tom Januszewski for
+assistance with electron microscopy, and Dr. Carole Mendelson
+for providing anti-SP-A.
+Appendix A. Supporting information
+Supplementary data associated with this article can be found in
+the online version at http://dx.doi.org/10.1016/j.diff.2014.02.003.
+References
+Asgrimsson, V., Gudjonsson, T., Gudmundsson, G.H., Baldursson, O., 2006. Novel
+effects of azithromycin on tight junction proteins in human airway epithelia.
+Antimicrob. Agents Chemother. 50, 1805 –1812.
+Bals, R., Beisswenger, C., Blouquit, S., Chinet, T., 2004. Isolation and air –liquid
+interface culture of human large airway and bronchiolar epithelial cells. J. Cystic
+Fibrosis: Of ﬁcial Journal of the European Cystic Fibrosis Society 3 (Suppl. 2),
+49–51.
+Boers, J.E., Ambergen, A.W., Thunnissen, F.B., 1998. Number and proliferation of
+basal and parabasal cells in normal human airway epithelium. Am. J. Respir.
+Crit. Care Med. 157, 2000 –2006.
+Boers, J.E., Ambergen, A.W., Thunnissen, F.B., 1999. Number and proliferation of
+Clara cells in normal human airway epithelium. Am. J. Respir. Crit. Care Med.
+159, 1585–1591.
+Boggaram, V., 2009. Thyroid transcription factor-1 (TTF-1/Nkx2.1/TITF1) gene
+regulation in the lung. Clin. Sci. (London) 1 16, 27 –35.
+Cunha, G.R., 2008. Mesenchymal –epithelial interactions: past, present, and future.
+Differ. Res. Biol. Divers. 76, 578 –586.
+Delgado, O., Kaisani, A.A., Spinola, M., Xie, X.J., Batten, K.G., Minna, J.D., Wright, W.
+E., Shay, J.W., 201 1. Multipotent capacity of immortalized human bronchial
+epithelial cells. PLoS One 6, e22023 .
+Evans, M.J., Van Winkle, L.S., Fanucchi, M.V., Plopper, C.G., 2001. Cellular and
+molecular characteristics of basal cells in airway epithelium. Exp. Lung Res. 27,
+401–415.
+Fehrenbach, H., 2001. Alveolar epithelial type II cell: defender of the alveolus
+revisited. Respir. Res. 2, 33 –46.
+Fessart, D., Begueret, H., Delom, F., 2013. 3D culture model to distinguish normal
+from malignant human bronchial epithelial cells. Eur. Respir. J.: Of ﬁcial Journal
+of the European Society for Clinical Respiratory Physiology
+Franzdottir, S.R., Axelsson, I.T., Arason, A.J., Baldursson, O., Gudjonsson, T., Mag-
+nusson, M.K., 2010. Airway branching morphogenesis in three dimensional
+culture. Respir. Res. 1 1, 162.
+Hong, K.U., Reynolds, S.D., Giangreco, A., Hurley, C.M., Stripp, B.R., 2001. Clara cell
+secretory protein-expressing cells of the airway neuroepithelial body microenvir-
+onment include a label-retaining subset and are critical for epithelial renewal after
+progenitor cell depletion. Am. J. Respir. Cell Mol. Biol. 24, 671 –681.
+Kimura, J., Deutsch, G.H., 2007. Key mechanisms of early lung development.
+Pediatric Dev. Pathol.: The Of ﬁcial Journal of the Society for Pediatric Pathology
+and the Paediatric Pathology Society 10, 335 –347.
+Krane, C.M., Fortner, C.N., Hand, A.R., McGraw, D.W., Lorenz, J.N., Wert, S.E., Towne,
+J.E., Paul, R.J., Whitsett, J.A., Menon, A.G., 2001. Aquaporin 5-de ﬁcient mouse
+lungs are hyperresponsive to cholinergic stimulation. Proc. Nat. Acad. Sci. U.S.A.
+98, 141 14–14119.
+Lee, G.Y., Kenny, P.A., Lee, E.H., Bissell, M.J., 2007. Three-dimensional culture models
+of normal and malignant breast epithelial cells. Nat. Methods 4, 359 –365.
+Madri, J.A., Williams, S.K., 1983. Capillary endothelial cell cultures: phenotypic
+modulation by matrix components. J. Cell Biol. 97, 153 –165.
+Madsen, J., Tornoe, I., Nielsen, O., Koch, C., Steinhilber, W., Holmskov, U., 2003.
+Expression and localization of lung surfactant protein A in human tissues. Am. J.
+Respir. Cell Mol. Biol. 29, 591
+–597.
+Maeda, Y., Dave, V., Whitsett, J.A., 2007. Transcriptional control of lung morpho-
+genesis. Physiol. Rev. 87, 219 –244.
+McQualter, J.L., Yuen, K., Williams, B., Bertoncello, I., 2010. Evidence of an epithelial
+stem/progenitor cell hierarchy in the adult mouse lung. Proc. Nat. Acad. Sci. U.S.
+A. 107, 1414–1419.
+Miura, T., Shiota, K., 2000. Time-lapse observation of branching morphogenesis of
+the lung bud epithelium in mesenchyme-free culture and its relationship with
+the localization of actin ﬁlaments. Int. J. Dev. Biol. 44, 899 –902.
+Morrisey, E.E., Hogan, B.L., 2010. Preparing for the ﬁrst breath: genetic and cellular
+mechanisms in lung development. Dev. Cell 18, 8 –23.
+Mueller, M.M., Fusenig, N.E., 2004. Friends or foes —bipolar effects of the tumour
+stroma in cancer. Nat. Rev. Cancer 4, 839 –849.
+Nyeng, P., Norgaard, G.A., Kobberup, S., Jensen, J., 2008. FGF10 maintains distal lung
+bud epithelium and excessive signaling leads to progenitor state arrest,
+distalization, and goblet cell metaplasia. BMC Dev. Biol 8, 2 .
+Odom, M.J., Snyder, J.M., Mendelson, C.R., 1987. Adenosine 3',5'-monophosphate
+analogs and beta-adrenergic agonists induce the synthesis of the major surfactant
+apoprotein in human fetal lung in vitro. Endocrinology 121, 1 155–116 3.
+Pageau, S.C., Sazonova, O.V., Wong, J.Y., Soto, A.M., Sonnenschein, C., 201 1. The
+effect of stromal components on the modulation of the phenotype of human
+bronchial epithelial cells in 3D culture. Biomaterials 32, 7169 –7180.
+Rackley, C.R., Stripp, B.R., 2012. Building and maintaining the epithelium of the
+lung. J. Clin. Invest. 122, 2724 –2730.
+Ramirez, R.D., Sheridan, S., Girard, L., Sato, M., Kim, Y., Pollack, J., Peyton, M., Zou, Y.,
+K u r i e ,J . M . ,D i m a i o ,J . M . ,M i l c h g r u b ,S . ,S m i t h ,A . L . ,S o u z a ,R . F . ,G i l b e y ,L . ,Z h a n g ,X . ,
+Gandia, K., Vaughan, M.B., Wright, W.E., Gazdar, A.F., Shay, J.W., Minna, J.D., 2004.
+Immortalization of human bronchial epithelial cells in the absence of viral
+oncoproteins. Cancer Res. 64, 9027–9034.
+Rawlins, E.L., Okubo, T., Xue, Y., Brass, D.M., Auten, R.L., Hasegawa, H., Wang, F., Hogan,
+B.L., 2009. The role of Scgb1a1 þ Clara cells in the long-term maintenance and
+repair of lung airway, but not alveolar, epithelium. Cell Stem Cell 4, 525 –534.
+Rock, J.R., Hogan, B.L., 201 1. Epithelial progenitor cells in lung development,
+maintenance, repair, and disease. Annu. Rev. Cell Dev. Biol. 27, 493 –512.
+Rock, J.R., Onaitis, M.W., Rawlins, E.L., Lu, Y., Clark, C.P., Xue, Y., Randell, S.H., Hogan,
+B.L., 2009. Basal cells as stem cells of the mouse trachea and human airway
+epithelium. Proc. Nat. Acad. Sci. U.S.A. 106, 12771 –12775.
+Rock, J.R., Randell, S.H., Hogan, B.L., 2010. Airway basal stem cells: a perspective on
+their roles in epithelial homeostasis and remodeling. Dis. Models Mech. 3,
+545–556.
+Ronnov-Jessen, L., Bissell, M.J., 2009. Breast cancer by proxy: can the microenvir-
+onment be both the cause and consequence? Trends Mol. Med. 15, 5 –13.
+Sato, M., Larsen, J.E., Lee, W., Sun, H., Shames, D.S., Dalvi, M.P., Ramirez, R.D., Tang,
+H., Dimaio, J.M., Gao, B., Xie, Y., Wistuba, II, Gazdar, A.F., Shay, J.W., Minna, J.D.,
+2013. Human lung epithelial cells progressed to malignancy through speci ﬁc
+oncogenic manipulations. Mol. Cancer Res.: MCR
+Sato, M., Vaughan, M.B., Girard, L., Peyton, M., Lee, W., Shames, D.S., Ramirez, R.D.,
+Sunaga, N., Gazdar, A.F., Shay, J.W., Minna, J.D., 2006. Multiple oncogenic
+changes (K-RAS(V12), p53 knockdown, mutant EGFRs, p16 bypass, telomerase)
+are not suf ﬁcient to confer a full malignant phenotype on human bronchial
+epithelial cells. Cancer Res. 66, 21 16 –2128.
+Sirianni, F.E., Chu, F.S., Walker, D.C., 2003. Human alveolar wall ﬁbroblasts directly
+link epithelial type 2 cells to capillary endothelium. Am. J. Respir. Crit. Care
+Med. 168, 1532 –1537.
+Vaughan, M.B., Ramirez, R.D., Wright, W.E., Minna, J.D., Shay, J.W., 2006. A three-
+dimensional model of differentiation of immortalized human bronchial epithe-
+lial cells. Differ. Res. Biol. Divers. 74, 141 –148.
+Warburton, D., El-Hashash, A., Carraro, G., Tio z z o ,C . ,S a l a ,F . ,R o g e r s ,O . ,D eL a n g h e ,S . ,
+K e m p ,P . J . ,R i c c a r d i ,D . ,T o r d a y ,J . ,B e l l u s c i ,S . ,S h i ,W . ,L u b k i n ,S . R . ,J e s u d a s o n ,E . ,2 0 1 0 .
+Lung organogenesis. Curr. Top. Dev. Biol. 90, 73–158.
+Weaver, M., Dunn, N.R., Hogan, B.L., 2000. Bmp4 and Fgf10 play opposing roles
+during lung bud morphogenesis. Development 127, 2695 –2704.
+Wu, X., Peters-Hall, J.R., Bose, S., Pena, M.T., Rose, M.C., 201 1. Human bronchial
+epithelial cells differentiate to 3D glandular acini on basement membrane
+matrix. Am. J. Respir. Cell Mol. Biol. 44, 914 –921.
+Wuenschell, C.W., Sunday, M.E., Singh, G., Minoo, P., Slavkin, H.C., Warburton, D.,
+1996. Embryonic mouse lung epithelial progenitor cells co-express immuno-
+histochemical markers of diverse mature cell lineages. J. Histochem. Cytochem.:
+Ofﬁcial Journal of the Histochemistry Society 44, 1 13 –123.
+A. Kaisani et al. / Differentiation ∎ (∎∎∎∎ ) ∎∎∎ –∎∎∎8
+Please cite this article as: Kaisani, A., et al., Branching morphogenesis of immortalized human bronchial epithelial cells in three-
+dimensional culture. Differentiation (2014), http://dx.doi.org/10.1016/j.diff.2014.02.003i

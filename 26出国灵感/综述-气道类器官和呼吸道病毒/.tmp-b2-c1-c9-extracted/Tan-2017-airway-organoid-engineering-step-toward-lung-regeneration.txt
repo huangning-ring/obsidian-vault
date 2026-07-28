@@ -1,0 +1,1138 @@
+
+
+<<<PAGE 1>>>
+Human airway organoid engineering as a step toward lung
+regeneration and disease modeling
+Qi Tan, Kyoung Moo Choi, Delphine Sicard, Daniel J. Tschumperlin *
+Department of Physiology and Biomedical Engineering, Mayo Clinic, Rochester, MN, USA
+article info
+Article history:
+Received 2 September 2016
+Received in revised form
+14 October 2016
+Accepted 27 October 2016
+Available online 28 October 2016
+Keywords:
+3D culture
+Self-organization
+de novo lung regeneration
+YAP
+Organoid implantation
+Pulmonary ﬁbrosis modeling
+abstract
+Organoids represent both a potentially powerful tool for the study cell-cell interactions within tissue-like
+environments, and a platform for tissue regenerative approaches. The development of lung tissue-like
+organoids from human adult-derived cells has not previously been reported. Here we combined hu-
+man adult primary bronchial epithelial cells, lung ﬁbroblasts, and lung microvascular endothelial cells in
+supportive 3D culture conditions to generate airway organoids. We demonstrate that randomly-seeded
+mixed cell populations undergo rapid condensation and self-organization into discrete epithelial and
+endothelial structures that are mechanically robust and stable during long term culture. After conden-
+sation airway organoids generate invasive multicellular tubular structures that recapitulate limited as-
+pects of branching morphogenesis, and require actomyosin-mediated force generation and YAP/TAZ
+activation. Despite the proximal source of primary epithelium used in the airway organoids, discrete
+areas of both proximal and distal epithelial markers were observed over time in culture, demonstrating
+remarkable epithelial plasticity within the context of organoid cultures. Airway organoids also exhibited
+complex multicellular responses to a prototypical ﬁbrogenic stimulus (TGF-
+b1) in culture, and limited
+capacity to undergo continued maturation and engraftment after ectopic implantation under the murine
+kidney capsule. These results demonstrate that the airway organoid system developed here represents a
+novel tool for the study of disease-relevant cell-cell interactions, and establishes this platform as a ﬁrst
+step toward cell-based therapy for chronic lung diseases based on de novo engineering of implantable
+airway tissues.
+© 2016 Elsevier Ltd. All rights reserved.1. Introduction
+Respiratory diseases such as chronic obstructive pulmonary
+disease and pulmonary ﬁbrosis represent a large and growing
+public health burden [1,2], are associated with substantial
+morbidity and mortality, and currently lack curative therapies. At
+their end-stage, such diseases require lung transplantation for
+therapy, but the supply of donor organs is extremely limited, and
+lung transplant outcomes remain suboptimal [3]. Regenerative
+approaches offer potential long-term hope for addressing both the
+epidemic of chronic lung diseases, and the shortage of donor or-
+gans, but critical hurdles remain to be overcome [4]. While recent
+studies have made great progress delineating the mechanisms of
+lung development and developing methods to drive iPS cells to-
+ward mature lung lineages [5e7], relatively less progress has been
+made in designing strategies by which these advances might be
+translated into tissue repair, and ultimately advanced toward hu-
+man studies. Current approaches to engraft dissociated cells in the
+lung show promise, but have thus far been limited to the setting of
+severe infections [8] or radiation-induced preconditioning [9].A
+major alternative emphasis has been on the generation of decel-
+lularized and recellularized lung scaffolds as an engineered organ
+replacement [10e13]. Relatively less attention has been devoted to
+the de novo generation of complex three-dimensional lung-like
+tissues in culture suitable for eventual translational applications. A
+potential additional bene ﬁt from developing such complex engi-
+neered lung tissues is for disease modeling. Chronic lung diseases
+are distinguished by speci ﬁc tissue remodeling processes and
+complex cell-cell interactions that are not easily recapitulated in
+typical cell culture systems. Therefore, we sought to develop an
+airway organoid culture system combining multiple lung cell types
+as both a step toward eventual regenerative approaches, and as a
+system to study disease-relevant cell-cell interactions and complex
+* Corresponding author.
+E-mail address: tschumperlin.daniel@mayo.edu (D.J. Tschumperlin).
+Contents lists available at ScienceDirect
+Biomaterials
+journal homepage: www.elsevier.com/locate/biomaterials
+http://dx.doi.org/10.1016/j.biomaterials.2016.10.046
+0142-9612/© 2016 Elsevier Ltd. All rights reserved.
+Biomaterials 1 13 (2017) 1 18e132
+
+<<<PAGE 2>>>
+tissue remodeling processes.
+To generate highly organized 3D tissues that mimic organ
+structure and function, tissue engineers have attempted to reca-
+pitulate the in vivo organogenesis process by manipulating critical
+aspects of the cell culture environment. During embryonic devel-
+opment, the lungs and other internal organs ﬁrst emerge as organ
+buds composed of epithelial and mesenchymal progenitors.
+Through repeated rounds of outgrowth and branching primitive
+organ buds grow into mature organs [14]. The reciprocal epithelial-
+mesenchymal interactions critical to organogenesis during em-
+bryonic development can be recapitulated in three dimensional co-
+culture systems to guide formation of similar tissue-like structures
+in vitro [15]. Recently, complex structures termed organoids [16]
+have been generated for brain [1 7], liver [18], pancreas, and lung
+[19] using combinations of induced pluripotent stem cells, induc-
+tive soluble factors, and supportive three dimensional culture
+conditions. Alternatively, resident progenitor cells from adult tis-
+sues can be cultured in supportive 3D systems, and can also
+generate organoids. Typical examples include LGR5 þ cells from
+intestine and liver [20], and in the ﬁeld of lung biology, the gen-
+eration of tracheospheres [21] and alveospheres [22,23] from
+airway and alveolar epithelial progenitors. While organoids have
+shown promise in transplantation models in the colon [24] and
+liver [25], similar advances have not been reported using adult-
+derived lung progenitors. Similarly, although organoids have po-
+tential for disease modeling and drug screening, tractable human
+lung cell-based organoid systems have not been reported.
+Here we combined adult human primary bronchial epithelial
+cells, lung ﬁbroblasts, and lung microvascular endothelial cells in
+3D culture conditions to generate airway organoids. By combining
+epithelial differentiation conditions with a multicellular aggrega-
+tion culture system, we generated self-assembling bioengineered
+airway organoids that are amenable to ectopic transplantation and
+study of cell-cell interactions crucial to tissue biology. This system
+represents a novel tool for studying disease-relevant cellular and
+molecular function, and an important step toward cell-based
+therapy for chronic lung diseases based on de novo engineered
+airway tissues.
+2. Material and methods
+2.1. 2D cell culture and labeling
+Human bronchial epithelial cells (NHBE, 8 cell lines used) were
+purchased from Lonza and cultured in bronchial epithelial growth
+medium (BEGM, Lonza) with 1% Antibiotic-Antimycotic. Human
+microvascular lung endothelial cells (HMVEC-L, 3 cell lines used)
+were also purchased from Lonza and cultured in Endothelial Cell
+Growth Medium (EBM-2MV, Lonza) with 1% Antibiotic-
+Antimycotic. Human lung ﬁbroblasts (generously provided by
+Carol Feghali-Bostwick) previously isolated by explant culture from
+donor lungs rejected for transplantation under a protocol approved
+by the University of Pittsburgh Institutional Review Board, were
+culture in DMEM with 10% FBS, 1% Antibiotic-Antimycotic. The cells
+were regularly maintained in humidi ﬁed 5% CO2 at 37
+/C14 C. For cell
+labeling, cells were incubated with pre-warmed CellTracker ™
+Working Solution (1 mM from 1000X DMSO dissolved stock solu-
+tion) for 30 min.
+2.2. 3D cell culture and generation of human airway organoids
+Culture plates were coated with 40% Matrigel (Corning) com-
+bined with PneumaCult-ALI Maintenance Medium (Stemcell
+Technologies). The former is an extracellular matrix preparation
+derived from a gelatinous protein mixture secreted by Engelbreth-
+Holm-Swarm (EHS) mouse sarcoma cells, composed of approxi-
+mately 60% laminin, 30% collagen IV, and 8% entactin. Entactin is a
+bridging molecule that interacts with laminin and collagen IV, and
+contributes to structural organization. Although Matrigel has
+inherent long term limitations for clinical use, it is a valuable proof
+of concept matrix system for supporting organoid morphogenesis
+[26]. PneumaCult-ALI is a media formulation optimized to induce
+primary human bronchial epithelial cell mucociliary differentiation
+under air-liquid interface (ALI) culture conditions. After 45 min
+incubation at 37 /C14 C for gelation of the thick Matrigel layer, a single
+cell suspension including NHBE, HMVEC-L and HLF cells was
+combined with 5% Matrigel and PneumaCult- ALI Maintenance
+Medium, and was seeded on top of the Matrigel layer. The ratio of
+each type of cell was human NHBE:HMVEC-L:HLF ¼ 10:7:2
+following a previously described approach for generation of liver
+organoids [18]. The cells were fed with 5% Matrigel in PneumaCult-
+ALI Maintenance Medium every other day and observed by light
+microscopy. Cells labeled with Fluorescent CellTracker ™ were
+observed in a Cytation 5 Cell Imaging Multi-Mode Reader for 24 h
+time-lapse ﬂuorescence microscopy to visualize organoid
+compaction and formation.
+2.3. Organoid actomyosin and YAP analysis
+Day 2 organoids were used for treatment. ON-TARGETplus Hu-
+man YAP1 (10413) siRNA SMARTpool (30 pmol, Dharmacon) in
+Opti-Mem medium (Life Technologies) was transfected using Lip-
+ofectamine RNAi Max (Life Technologies) followed by incubation
+for 24 h at 37 /C14 C, with media than changed to the normal differ-
+entiation medium for another 48 h. Non-muscle myosin inhibitor
+blebbistatin (10 mmol, Sigma, B0560), F-actin inhibitor cytochalasin
+D( 1 0 mmol, Sigma, C8273) and Rho kinase inhibitor Y-27632
+(100 mmol, Stemcell Technologies, 72304) were used to treat day 2
+organoids for 72 h. Photos were taking by Nikon TMS Microscope or
+Cytation 5 Cell Imaging system. Buds or invasive tubular structures
+were counted manually and average diameters of organoids were
+counted in 3 organoids per group using ImageJ.
+2.4. Atomic force microscopy
+Organoids were embedded in O.C.T (Optimal Cutting Tempera-
+ture, n/C14 4583) and stored at /C0 80 /C14 C. 10 mm thickness organoid slices
+were cut by cryosection (Leica) at /C0 21 /C14 C and mounted on poly- L-
+lysine coated glass slides. To avoid drying, tissue slices were
+maintained in PBS. Measurements were performed using a Bio-
+Scope Catalyst AFM (Bruker) mounted on an inverted microscope
+equipped with epi ﬂuorescence (Olympus) using a spherical tip
+(Novascan) with a radius of 2.5 mm and a spring constant of ~98 pN/
+nm. Force curves were acquired with MIRO 2.0 (NanoScope 9.1,
+Bruker) at room temperature in PBS. The indentation was estimated
+at ~250 nm for an applied force of ~24 nN. The preparation of
+organoid slice sample and the AFM measurements were performed
+on the same day. Force curves were analyzed by NanoScope Anal-
+ysis (Bruker). The extend curve was ﬁtted to determine the Young's
+modulus using the Hertz model assuming Poisson's ratio of 0.4 [27].
+2.5. Gene expression analysis (RNA isolation, cDNA synthesis, RT-
+PCR)
+Total RNA was isolated with RNeasy Plus Mini kit and cDNA was
+synthesized with SuperScript ™ IV Reverse Transcriptase. Gene
+expression levels were quantiﬁed by qRT-PCR on the Lightcycler 96
+Real-Time PCR System (Roche) according to the manufacturer's
+instruction. qRT-PCR was performed by incubating at 95 /C14 C for
+10 min and then cycling 40 times at 95 /C14 C for 10 s, 60 /C14 C for 10s,
+Q. Tan et al. / Biomaterials 1 13 (2017) 1 18 e132 119
+
+<<<PAGE 3>>>
+72 /C14 C for 10s. Ct values within each experiment were normalized
+against GAPDH. Primers are listed in Supplemental Table 1.
+2.6. ELISA for MUC5AC
+Total protein was collected from organoids and Human MUC5AC
+ELISA Quantitation Kit (LifeSpan BioSciences) was used to assess
+protein expression of MUC5AC according to the manufacturer's
+instructions. One measurement was made per single organoid.
+2.7. Tissue processing, histological tissue assessment,
+immunostaining and confocal microscopy
+Organoids were collected and embedding in O.C.T. 10 mm cry-
+osections were placed on Poly- L-Lysine Coated Slides (Fisher Sci-
+entiﬁc) for immunostaining or standard histological staining with
+the BBC Histo $Perfect H &E Staining kit. For immunostaining, tis-
+sues were ﬁxed in 4% paraformaldehyde for 20 min and per-
+meabilized using 0.25% Triton X-100 for 15 min. Antigen retrieval
+was applied with PH ¼ 6.0 citrate buffer when necessary. Organoids
+were treated with 5% goat serum in 1% BSA/PBS (block solution) for
+1 h. Following two additional PBS washes, samples were incubated
+overnight with primary antibodies at 4
+/C14 C. Specimens were washed
+twice in PBS and incubated with the corresponding secondary an-
+tibodies at 1:500 dilution for 1 h (Alexa Fluor488, 546, 555; Invi-
+trogen). Samples were mounted with mounting media containing
+nuclear counterstain DAPI (Vector Lab). Images were acquired using
+the LSM780 inverted laser scanning confocal microscope (Carl
+Zeiss). Images were processed using ZEN microscope and imaging
+software, Photoshop or ImageJ. Cell quanti ﬁcation of immune-
+positive cells and DAPI was performed using the Cytation 5 Cell
+Imaging Reader software GEN 2.09 or ImageJ using the cell counter
+plugin. Antibodies are listed in Supplemental Table 2 .
+2.8. Statistical analysis
+Data are presented as mean ± SEM. Statistical analyses were
+performed using GraphPad Prism 5 (GraphPad Software). The sig-
+niﬁcance of the differences between two mean values was deter-
+mined using an unpaired t-test. P values less than 0.05 were
+accepted as signi ﬁcant.
+3. Results
+3.1. Development of an airway organoid from adult lung cells
+To develop airway organoids from adult lung cells we combined
+methods optimized for growth and differentiation of human airway
+epithelial cells [21] with mesenchymal cell-guided condensation on
+a supportive Matrigel layer [28]. Speci ﬁcally, we combined adult
+primary human bronchial epithelial cells (NHBE) at a ratio of 10:7:2
+with adult primary human microvascular lung endothelial cells
+(HMVEC-L) and adult primary human lung ﬁbroblasts (HLF) atop a
+3D Matrigel-coating in each well of a 96 well culture plate ( Fig. 1A).
+The cells rapidly condensed atop the Matrigel layer and formed 3D
+cell aggregates within approximately 24 h, continuing to condense
+up to 72 h. When seeding fewer than 1 /C2 10
+5 epithelial cells per
+well, multiple spheroids formed in each well, sometimes with large
+variance in organoid size, and with increasing organoid numbers
+and smaller organoids observed as the epithelial cell density was
+decreased ( Fig. 1 B and S1). For seeding densities of 1 /C2 105
+epithelial cells and higher, a single organoid formed in each well,
+with consistent formation noted across multiple NHBE donor lines
+(Fig. S1 ). In order to minimize variation in organoid formation
+associated with low seeding density, and potential complications
+introduced by diffusion limitations associated with high seeding
+densities and larger organoids, we chose to focus all subsequent
+studies on organoids formed from 1 /C2 105 adult primary human
+bronchial epithelial cells (total cell number of ~1.9 /C2 105 cells/well).
+At this seeding density, multicellular aggregates remained stable in
+overall size after 3 days, with diameters in the range of
+~1000e2000 mm( Fig. 1C). To identify the critical cell types for this
+dynamic and directed condensation process, we examined single
+cell type behaviors and various combinations of the three cell lin-
+eages (Fig. 1DeF). Omitting ﬁbroblasts from the co-culture led to a
+failure in cell aggregate condensation, though smaller spherical
+colonies did ultimately appear ( Fig. 1 D), recapitulating previous
+descriptions of tracheosphere formation [21]. In contrast, omission
+of endothelial cells did not prevent organoid formation in the 3D
+culture system. Fibroblasts alone ( Fig. 1 E) or in combination
+(Fig. 1 F) with either or both other cell types were suf ﬁcient for
+aggregation, con ﬁrming that the presence of ﬁbroblasts is critical
+for the self-condensation process. These observations are consis-
+tent with previous reports that ﬁbroblast-dependent paracrine
+support through the activation of FGF and BMP pathways and
+ﬁbroblast-dependent cytoskeletal contractions are essential for cell
+aggregate condensation [28].
+Because of our ultimate interest in regenerative and disease-
+modeling applications, we continued to focus on three cell co-
+cultures that include epithelial, endothelial and mesenchymal
+resident populations of the mature lung in all subsequent work. We
+termed our organ bud-like 3D structures “airway organoids ”
+because the epithelial cell type used originated in human bronchial
+airways. Comparison of epithelial markers expressed in primary
+NHBE cells in monolayer culture con ﬁrmed the dominant proximal
+basal phenotype (P63þ) of this starting cell population ( Fig. 1G and
+Fig. S2 ). As a preliminary evaluation of the self-organizing capa-
+bility and mechanical stability of airway organoids, we labeled the
+cells individually with different CellTracker ™ probes in 2D culture
+conditions before seeding them randomly on Matrigel-coated
+plates for organoid culture. Fluorescence time-lapse images were
+then obtained, allowing us to visualize self-organization of endo-
+thelial cell (Cyan) and ﬁbroblast (Green) clusters among compara-
+tively homogenously distributed NHBE cells (Red) ( Fig. 1A). Using
+the approach detailed above, successful organoids formed (diam-
+eter larger than 500 mm) at a rate of ~80% (64/80), and airway
+organoids were manipulable with spatulas or forceps, suggestion
+potential for surgical handling and implantation. Atomic force mi-
+croscopy (AFM) micro-indentation was performed to evaluate the
+local elastic modulus within airway organoids (expressed as
+Young's modulus) guided by light and ﬂuorescence microscopy
+(Fig. 1H). The relatively high modulus observed within the aggre-
+gates was consistent with our manual manipulation observations,
+and suggested that nascent airway organoids form physically
+robust aggregates through a mechanically dynamic process that
+includes considerable mechanical heterogeneity during the process
+of condensation and self-organization ( Fig. 1I).
+3.2. Epithelial, mesenchymal, and endothelial cells re-organize
+within the airway organoid
+To further study the self-organization of lung epithelium,
+endothelium and mesenchyme within airway organoids, we per-
+formed immunostaining and confocal microscopy at various time
+points after cell seeding. At early time points, we found that airway
+organoids possessed broadly distributed mesenchymal cells, iden-
+tiﬁed by vimentin immunostaining, and clusters of epithelial cells
+positive for E-Cadherin (CDH1), airway epithelial basal marker P63
+[5], and luminal marker KRT8 [21] (day 7, Fig. 2 A, B, L). Epithelial
+cell clusters self-assembled into tubular structures of varying shape
+Q. Tan et al. / Biomaterials 1 13 (2017) 1 18 e132120
+
+<<<PAGE 4>>>
+and size. The expression of basal airway stem cell [5] transcripts
+(P63þ, KRT5þ, KRT14þ) diminished in 3D airway organoid culture
+compared with 2D cultures of NHBE cells (Fig. 2C), consistent with a
+transition away from the predominant basal stem cell phenotype
+expressed by these primary cells in 2D culture. A gradual basal to
+luminal shift in epithelial phenotype was con ﬁrmed by the
+increased observation of the luminal airway epithelial marker
+(KRT8þ) in the airway organoids ( Fig. 2 C).
+Similar to the observed epithelial self-organization,
+CD31þ endothelial cells were also visualized to form cell clusters
+along with tube like-structures in airway organoids ( Fig. 2D and E).
+These endothelial structures were closely associated with ﬁbro-
+blasts, but not epithelial cells. CD31 þ endothelial cells decreased
+dramatically in abundance over time ( Fig. 2 D and E) and after 14
+days CD31þ cells were rarely observed. This ﬁnding was con ﬁrmed
+by the gradual loss of CD31 transcripts over time in airway organoid
+co-cultures ( Fig. 2 F). Such a ﬁnding was not surprising given our
+use of culture media optimized for NHBE cells. These ﬁndings thus
+demonstrate the capacity of human microvascular endothelial cells
+to self-organize in airway organoid culture, but clearly indicate the
+need to optimize long term culture to promote endothelial 3D
+stabilization and maturation of vascular structures.
+Proliferations in the airway organoids, assessed and quanti ﬁed
+by Ki67 expression, was most abundant at the earliest time point
+analyzed (day 3, Fig. 2 H) and decreased over time ( Fig. 2 HeK, N),
+consistent with the relative stability in airway organoid size over
+time. The vast majority of Ki67 expression was not in cells
+expressing epithelial lineage markers (CDH1 þ), but rather in cells
+expressing the mesenchymal lineage (VIM þ, CD31 /C0 ), suggesting
+that only limited epithelial proliferation and modest ﬁbroblast
+proliferation was present during long-term culture of airway
+organoids. The apparent low cell turn over in airway organoids
+mimics adult lung and airway homeostasis [29], but also suggests
+that more proliferative progenitor populations, or more stimulative
+culture conditions, may be required to enhance organoid growth.
+Taken together the results documented in Fig. 2 demonstrate that
+Fig. 1. Airway organoid formation from adult human lung cells. Schematic overview of methods for forming and growing airway organoids in vitro and transplan ting into NSG mice
+in vivo (A). Early formation of a cell aggregate visualized at day 3 by confocal imaging using Cell Tracker labeled cells (Green ¼ HLF, Red ¼ NHBE, Cyan ¼ HMVEC-L) is shown in the
+inset. Correlation between the number of NHBE cells input and organoid sizes (B). Light microscopy images show the self-condensation of mixed NHBE, H MVEC-L and HLF cells and
+formation of airway organoids over time (C) NHBE cells alone form small spheres in 3D culture at 21days (D). HLFs only in 3D culture at 21 days (E). Mixed N HBE and HLF 3D culture
+at 21 days (F). Epithelial lineage marker quanti ﬁcation for NHBE cells (mean ± SEM from 4 individuals) in monolayer culture demonstrate a dominant basal cell (P63 þ) phenotype
+prior to organoid culture (G). The highly heterogeneous mechanical properties of airway organoids (day 7) were measured by AFM (I) and correlated wit h light microscopy and
+ﬂuorescence images (Green ¼ HLF, H). Values in graph represent mean ± SEM; n ¼ 4 (B, G). Scale bars, 200 mm( C eF).
+Q. Tan et al. / Biomaterials 1 13 (2017) 1 18 e132 121
+
+<<<PAGE 5>>>
+the airway organoids formed from adult human bronchial epithe-
+lial, ﬁbroblast and endothelial cell populations undergo rapid self-
+organization over time into highly dense epithelial-lined structures
+surrounded by mesenchyme, with a gradual loss of vascular
+endothelium.
+3.3. Proximal airway epithelial differentiation in airway organoids
+NHBE cells cultured under de ﬁned conditions at air-liquid
+interface are capable of undergoing maturation and differentia-
+tion to a pseudo-stratiﬁed, mucociliary epithelium [30]. To evaluate
+Fig. 2. Self-organization of cells within airway organoids. P63 (red, A), KRT8 (red, B) and E-cadherin (CDH1, red, L and green, H, I, J, K) positive epithelial cells clustered together and
+were also visualized in close contact with vimentin positive mesenchymal cells in airway organoids at day 7 (A, B, L). CD31 positive cells also cluster ed together with close in-
+teractions with vimentin positive (green) cells in the airway at day 7 (D) and day 14 (E). Relative gene expression of P63, KRT5, KRT14, KRT8, vimentin, CD31 and CDH1 in the airway
+organoids at different time points was compared to NHBE (C, M), HMVEC-L (F) or HLF (G) cells in traditional 2D mono-cultures. Proliferation was assess ed by ki67 (red) in the airway
+organoids at various time points (H, I, J, K) and quanti ﬁed (N). Values in graphs represent mean ± SEM; n ¼ 3, *P < 0.05; **P < 0.01; t-test. Scale bars, 100 mm( A eJ), 50 mm (K).
+Q. Tan et al. / Biomaterials 1 13 (2017) 1 18 e132122
+
+<<<PAGE 6>>>
+the capacity of NHBE cells to undergo such differentiation in 3D
+airway organoid culture, we analyzed epithelial protein and tran-
+script markers by immunostaining and quantitative PCR respec-
+tively. Airway organoids demonstrated gradual increases in
+expression of the key secretory product of airway club cells, the
+protein uteroglobin [31], denoted SCGB1A1 or Club Cell-Speci ﬁc1 0
+kD Protein (CC10, Fig. 3 AeC). Club cells are responsible for detox-
+ifying harmful substances inhaled into the lungs, including
+engulfment of airborne toxins and breakdown via their cytochrome
+P-450 enzymes [32]. Consistent with this function, we found that
+mRNA expression of cytochrome P-450 enzymes increased signif-
+icantly in the 3D culture ( Fig. 3 D). Secretory club cells are mitoti-
+cally active and also act as progenitors for epithelial repair, as they
+are able to differentiate into ciliated cells or non-ciliated cells to
+regenerate the bronchiolar epithelium [31]. CC10 protein
+(Fig. 3 AeC) and transcript levels ( Fig. 3 D) increased dramatically
+over time in the airway organoid 3D culture compared with NHBE
+2D culture ( Fig. 3 D).
+Goblet cells are specialized secretory cells found in the respi-
+ratory epithelium of the trachea, bronchi, and larger bronchioles,
+and are responsible for mucus secretion and maintenance [33].
+Goblet cells are denoted by secretory vesicles containing the highly
+charged glycoprotein MUC5AC. We observed increasing organiza-
+tion of MUC5AC þ immunostaining inside apparent lumens within
+airway organoids over time ( Fig. 3 AeC), consistent with epithelial
+organization and goblet cell differentiation. Transcript levels for
+MUC5AC were also signi ﬁcantly increased in prolonged airway
+organoid culture, consistent with epithelial secretory differentia-
+tion over time in airway organoids ( Fig. 3 D). Moreover, robust
+MUC5AC protein expression was detected by ELISA, peaking at day
+7 but maintained out to day 21 in airway organoids ( Fig. 3 E).
+In contrast to abundant signs of secretory differentiation,
+comparatively few cells expressed the ciliated cell marker [34]
+FOXJ1 (Fig. 3 F and G), suggesting that the 3D culture environment
+employed here does not adequately promote terminal differentia-
+tion of all airway epithelial cell types. Recent work has highlighted
+a prominent role for Notch signaling in controlling airway epithelial
+differentiation [35]. Notch signaling inhibition with DAPT treat-
+ment increased the mRNA expression level of FOXJ1 (Fig. 3J) as well
+as FOXJ1 immunostaining ( Fig. 3 H and I). FOXJ1 þ cells were
+accompanied by intense and polarized co-staining for acetylated-
+alpha tubulin ( Fig. 3 HeI), consistent with mature ciliogenesis
+[36]. DAPT treatment also dramatically reduced transcript levels of
+CC10 while increasing transcript levels of MUC5AC ( Fig. 3 J). In
+combination, these data demonstrate that the current airway
+organoid culture conditions support gradual club and goblet cell
+epithelial differentiation over time, and that the cells remain
+capable of responding to additional cues to undergo enhanced
+ciliated cell formation, recapitulating many of the maturation and
+differentiation processes that play out in gold-standard ALI culture
+of NHBE cells.
+3.4. Expression of distal lung epithelial lineage markers in airway
+organoids
+In addition to epithelial clustering within compacted organoids,
+we also observed invasive tubular structures emanating from
+airway organoids with prolonged culture, as shown in a represen-
+tative H &E stained section ( Fig. 4 A) and bright ﬁeld images of live
+organoid cultures ( Fig. S3A, S3B ). In contrast, we did not observe
+any invasive tubular structures forming from long-term NHBE
+mono-cultures (day21, Fig. S3C) which instead remained uniformly
+spherical in shape. Organoid invasive structures invariably
+demonstrated close apposition of E-cadherin and vimentin im-
+munostaining, suggesting close epithelial-mesenchymal cell
+interactions ( Fig. 4 B). E-cadherin positive epithelial cells were
+typically tightly surrounded by vimentin positive cells ( Fig. 4 C),
+recapitulating epithelial-mesenchymal orientation during airway
+branching morphogenesis [14,37]. Some epithelial- ﬁbroblast inva-
+sive structures extended far from the originating organoid, with a
+transition to a more ﬂattened and extended epithelial morphology
+(Fig. 4 D) suggesting the possibility that aspects of distal lung
+development might also be evoked within airway organoid culture.
+The distal epithelium of the lung is lined by Type I and type II
+alveolar epithelial cells (AECI, AECII). The AECI marker Aquaporin 5
+(AQP5) [38e40] was strongly expressed within tubular structures
+near the periphery of the main airway organoid body, and within
+the thin epithelial lining of invasive projections ( Fig. 4 E and F),
+where it co-stained with E-cadherin ( Fig. 4 G). Podoplanin (PDPN),
+another marker of AECs highly expressed in lung parenchyma [41],
+but also in lung ﬁbroblasts [42], was much more broadly distrib-
+uted in the ﬁbroblast-populated area of human airway organoids,
+but not typically in AQP5 þ or E-cadherin þ cells ( Fig. 4 E and F,
+Fig. S3D ). In multiple instances we observed co-staining of the
+more proximal epithelial marker CC10 with the distal epithelial
+markers AQP5 and HOPX ( Fig. 4 IeL), implying considerable
+complexity and the presence of immature or mixed-lineage
+expression within areas of organoid-derived tubular structures,
+consistent with noted epithelial cell type diversity in distal lung
+development [43]. In other locations, relatively strong and exclu-
+sive expression of distal epithelial markers were observed within
+tubular structures ( Fig. 4 F, L), consistent with cells undergoing
+further distal lineage-speci ﬁc differentiation. Additional evidence
+for AECI lineage expression within airway organoids was obtained
+by qPCR, which demonstrated prominent upregulation of AECI
+markers AQP5, PDPN and HOPX
+[5,23] over time ( Fig. 4M). Within
+organoids, but distinct from invasive structures, we also observed
+large epithelial clusters that were relatively devoid of interacting
+ﬁbroblasts ( Fig. 4 H), and stained positively for CC10, the AECII
+marker SPC, or both [31,44,45] (Fig. 4H), suggesting further regional
+complexity in epithelial lineage marker expression within airway
+organoids, and the potential emergence of unique mixed lineage
+cells distinct from the original basal bronchial epithelial cell pop-
+ulation. Taken together, our data demonstrates that the epithelium
+within airway organoids displays remarkable plasticity, and in a
+limited and surprising fashion recapitulates aspects of both prox-
+imal airway and distal alveolar cell self-assembly and
+differentiation.
+3.5. Invasive tubular structures require actomyosin contraction and
+localized YAP activation
+The omission of ﬁbroblasts in our organoid culture led not only
+to formation of smaller aggregates, but also to a failure of invasive
+tubular structures to form ( Fig. 1 D, Fig. S3C ). These observations
+suggested to us that both organoid formation and invasion requires
+mechanical contributions, particularly those generated by con-
+tractile ﬁbroblasts. In agreement with this concept, inhibition of
+myosin II with blebbistatin both attenuated organoid compaction
+and reduced the number and extent of invasive bud formation at
+the periphery of airway organoids ( Fig. 5 AeC). Similar ﬁndings
+were observed with the Rho kinase inhibitor Y27632 and the in-
+hibitor of actin polymerization cytochalasin D ( Fig. 5 C), consistent
+with an essential role for actomyosin-mediated contractile forces in
+organoid formation as previously observed [25,28], and also for
+tubular invasion as noted here. Interestingly, we observed that the
+overall levels of cell proliferation, as quanti ﬁed by Ki67 immuno-
+positive cells, were signi ﬁcantly higher in organoids treated with
+blebbistatin, cytochalasin D and Y-27632 ( Fig. 5 HeJ, S3J, S3K )
+consistent with proliferative effects of actomyosin inhibition in
+Q. Tan et al. / Biomaterials 1 13 (2017) 1 18 e132 123
+
+<<<PAGE 7>>>
+Fig. 3. Proximal airway epithelial differentiation in airway organoids. Immunostaining of airway markers CC10 (red) and MUC5AC (green) at day 7, day 14, and day 21 (A eC).
+Relative gene expression of CC10, CYP2E1, CYP3A5 and MUC5AC in the airway organoids at different time points as compared to NHBE 2D cell culture (D), n ¼ 3. ELISA mea-
+surements of human MUC5AC production per organoid at each time point, n ¼ 5 (E). Airway organoids were stained with ciliated markers acetylated alpha-tubulin (red) and FOXJ1
+(green) with low and high power magni ﬁcation in the airway organoids under control (F, G) and DAPT treatment conditions (H, I). Comparison of relative gene expression of FOXJ1,
+CC10 and MUC5AC in the airway organoids between control and DAPT treated conditions (J), n ¼ 3. Values in graphs represent mean ± SEM; *P < 0.05; **P < 0.01; t-test. Scale bars,
+10 0 mm (A, B, C, F, H), 50 mm (G, I).
+Q. Tan et al. / Biomaterials 1 13 (2017) 1 18 e132124
+
+<<<PAGE 8>>>
+other contexts [46,47], and suggestive of enhanced proliferation
+also contributing to greater organoid size under these conditions.
+The mechanoresponsive transcriptional regulator YAP has been
+widely implicated in tissue morphogenesis [48,49], and plays
+important roles in both lung epithelium [50e52] and mesenchyme
+[53e55]. Therefore, we hypothesized that YAP activation may play
+key roles in the formation of organoids and invasive tubular
+structures. Knockdown of YAP by siRNA did not signiﬁcantly reduce
+organoid compaction ( Fig. 5 C). However, immunostaining for YAP
+demonstrated robust nuclear localization at the periphery of
+organoids associated with invasive tubular structures ( Fig. 5 D and
+F). Knockdown of YAP by siRNA ( Fig. S4D) signiﬁcantly diminished
+invasive bud formation ( Fig. 5 C), demonstrating an essential role
+for YAP in formation and invasion of these structures. Notably, YAP
+knockdown disrupted the organization of epithelial and mesen-
+chymal cells, as well as deposition of an organized ﬁbronectin
+matrix ( Fig. 5 M), suggesting profound reliance on this mechanor-
+esponsive pathway for tissue organization and morphogenesis
+(S4A, S4E). Consistent with the mechanoresponsive nature of this
+process, blebbistatin ( Fig. 5 E, G and N), cytochalasin D ( Fig. S4B,
+Fig. 4. Expression of distal lung epithelial lineage markers in airway organoids. H &E staining of airway organoid section (A). Co-staining of E-cadherin (red) and Vimentin (green)
+reveals diverse architecture of epithelial and mesenchymal compartments within airway organoids at day 21 in vitro with low- and high-power imaging (BeD). AECI markers AQP5
+(red) and PDPN (green) were seen throughout the airway organoids with low- and high-power magni ﬁcation (E, F), as well as with E-cadherin (green) in the airway organoids (G).
+Co-staining AQP5 (red) with CC10 (green) in the airway organoids with low- and high-power magni ﬁcation (I, J). AECII marker SPC (red) co-staining with Vimentin (green) the
+airway organoids (H). Co-staining CC10 (red) with HOPX (green) in the airway organoids with low- and high-power magni ﬁcation (K, L). Relative gene expression of SPC, AQP5,
+HOPX, and PDPN in airway organoids at different time points compared to NHBE 2D cell culture (M). Values in graphs represent mean ± SEM; n ¼ 3, *P < 0.05; **P < 0.01; t-test.
+Scale bars, 200 mm (A, B), 100 mm (E, G, H, I, K), 50 mm (C, D, F, J, L).
+Q. Tan et al. / Biomaterials 1 13 (2017) 1 18 e132 125
+
+<<<PAGE 9>>>
+Q. Tan et al. / Biomaterials 1 13 (2017) 1 18 e132126
+
+<<<PAGE 10>>>
+S4F) and Y-27632 ( Fig. S4C, S4G ) disrupted the localized pattern of
+YAP expression, as well as dramatically disorganizing epithelial-
+mesenchymal distribution and patterns of ﬁbronectin deposition
+within airway organoids. While overall cell proliferation was not
+signiﬁcantly altered with YAP siRNA knockdown ( Fig. 5J, I, S4I), the
+localized pattern of proliferation typically observed in invasive
+tubular structures at the organoid edge ( Fig. 5H) was lost with YAP
+knockdown ( Fig. S4I ). Similar disorganization of proliferation pat-
+terns was observed with blebbistatin ( Fig. 5 I), cytochalasin D
+(Fig. S4J ) and Y-27632 treatment ( S4K), consistent with prior ob-
+servations of mechanical patterning of proliferation via YAP [56].
+Based on previous observations that YAP plays a critical role in
+airway epithelial patterning, we also examined expression of basal
+and luminal epithelial markers after treatment to disrupt actomy-
+osin or knockdown YAP by siRNA. Real-time PCR analysis demon-
+strated that basal cell markers KRT5 and KRT14 were signi ﬁcantly
+reduced ( Fig. 5 L) and airway club cell differentiation marker CC10
+were up-regulated with YAP siRNA or actomyosin disruption
+(Fig. 5K). We also observed YAP nuclear localization and expression
+of CC10 were exclusive of one another in the organoid ( Fig. S4H,
+S4L). These observations are consistent with prior in vivo ﬁndings
+that YAP expression controls progenitor cell fate in the lungs and
+promotes a basal cell expression program [52,57], demonstrating
+that the organoid system recapitulates aspects of YAP-mediated
+epithelial fate determination observed in mouse models of lung
+development.
+3.6. Modeling a ﬁbrogenic stimulus response in human airway
+organoids
+Currently, in vitro studies of lung ﬁbrosis typically focus on a
+single cell types, especially ﬁbroblasts [58] or lung epithelial cells
+[59]. The close proximity of primary lung epithelial cells and
+mesenchymal cells within airway organoids prompted us to
+investigate whether our model could be useful for studying the
+orchestrated responses of multiple cell types to a ﬁbrogenic stim-
+ulus. Therefore we employed a pathophysiologically relevant pro-
+ﬁbrotic stimulus, TGF- b1 [60]. Not only is TGF- b1 highly relevant
+in the context of pulmonary ﬁbrosis [61], it is implicated in lung
+development [62], airway and alveolar remodeling [63], and is
+known to evoke profound responses in primary human epithelial,
+endothelial and mesenchymal cell types [60]. To evaluate the
+response to TGF- b1, we treated airway organoids (AOs) with 5 ng/
+mL TGF-b1 for 96 h and then analyzed gene expression by qPCR and
+organoid morphology by immunoﬂuorescence. We found that TGF-
+b1 treatment inhibited/reversed tubular invasion of the matrix at
+the periphery of airway organoids ( Fig. 6A), consistent with known
+inhibitory effects of TGF- b1 on lung branching and epithelial dif-
+ferentiation in embryonic and fetal lung in vivo [64]. Immuno ﬂu-
+orescence imaging demonstrated increasing aSMA expression
+(Fig. 6 B) with TGF- b1 treatment, and qPCR con ﬁrmed signi ﬁcant
+induction of several ﬁbrogenic genes in airway organoids, including
+FN(1.5-fold), ACTA2 (2.3-fold), CTGF(1.6-fold) as shown in Fig. 6 C.
+To address which cell types contribute to increased aSMA, we
+labeled either ﬁbroblasts (HLF) or epithelial cells (NHBE) with
+CellTracker™ Red CMTPX prior to organoid formation, then treated
+with TGF- b1 as above and used immuno ﬂuorescence imaging to
+visualize aSMA þ cells. Co-staining of aSMA was observed with
+both CellTracker þ ﬁbroblasts ( Fig. S5A ) and epithelial cells
+(Fig. S5B ), indicating the both ﬁbroblasts and epithelial cells
+contribute to the enhanced aSMA expression under TGF- b1 treat-
+ment, echoing prior observations of TGF- b1 responses in primary
+bronchial epithelial cells [65]. Interestingly, TGF- b1 had the oppo-
+site effect on expression of proximal lung epithelial cell markers
+CC10 and FOXJ1 and the distal lung epithelial cell marker AQP5, all
+of which decreased dramatically after treatment ( Fig. 6 D). Mean-
+while, the expression of airway epithelial basal cell markers (P63,
+KRT5) were increased by TGF- b1 treatment ( Fig. 6 E). These obser-
+vations highlight the robust multicellular effects of TGF- b1i n
+airway organoids, with simultaneous increases in ﬁbrogenic gene
+expression and decreases in expression of epithelial differentiation
+markers, and support the potential for this model to be used in
+elucidating cell-cell interactions that regulate tissue level responses
+to ﬁbrogenic stimuli.
+3.7. Ectopic transplantation of human airway organoids
+To evaluate whether airway organoids can be transplanted
+in vivo and are capable of surviving and vascularizing in vivo, we
+transplanted day 7 airway organoids, embedded within Matrigel,
+under the kidney capsule of NSG mice. Kidneys were harvested
+after 1 week or 6 weeks for visual and microscopic examination.
+Organoids were easily visible after 1 week in the kidney capsule
+(Fig. S6A ). At 1 week after implantation there was prominent pro-
+liferation in the vicinity of the implanted organoid, particularly at
+the interface between host tissue and airway organoid grafts.
+However, co-staining with human speci ﬁc E-cadherin ( Fig. 7B) and
+vimentin ( Fig. 7 C), along with an antibody speci ﬁc to human
+mitochondria ( Fig. 7 A), demonstrated that the vast majority of
+proliferation was not within airway organoid cells, but rather
+within host tissue. Human speci ﬁc CD31
+þ endothelial cells were
+observed within airway organoids ( Fig. 7 EeH), with some in close
+proximity to epithelial tubular structures ( Fig. 7EeF), while others
+were distributed outside epithelial structures surrounded by ﬁ-
+broblasts (Fig. 7 GeH).
+By week 6 after implantation organoids regressed in size. Under
+microscopic visualization the remaining human cells appeared to
+be fewer in number ( Fig. 7 D), and although human speci ﬁc
+CD31þ endothelial cells were observed, they were less abundant
+than at 1 week, and restricted to the edge of the implanted orga-
+noid ( Fig. S6B, S6C ). In contrast, abundant host vasculature, as
+indicated by anti-CD31 antibody that reacts with both mouse and
+human (green) was found to have broadly invaded the organoid
+area ( Fig. S6B, S6C ). Thus, while we did not observe any direct
+human to mouse vasculature connection, these observations are
+consistent with a robust capability of airway organoids to recruit
+host vasculature. Further immunostaining with lung epithelial
+differentiation markers demonstrated enriched and relatively
+distinct expression of proximal secretory airway epithelial cell
+marker CC10 ( Fig. 7 K, L, S6D) or distal alveolar epithelial markers
+AQP5 ( Fig. 7 K, L, S6E) and SPC ( Fig. 7 I and J), consistent with the
+remarkable epithelial plasticity observed in airway organoids
+Fig. 5. Invasive tubular structures require localized YAP and actomyosin. Tubular outgrowths from airway organoids invade surrounding matrix shown in the control (A), loss of
+such structures with blebbistatin treatment (B). Quanti ﬁcation the number of invasive tubular structures (number of buds) and the average diameter of airway organoids in different
+treatment groups comparing with control (C). Co-staining of YAP/TAZ (red) and E-cadherin (CDH1, green) reveals high expressing YAP/TAZ cells withi n invasive epithelial tubular
+structures of airway organoids in the control (D) and their relative loss and disorganization in blebbistatin treatment group (E). Co-staining of YA P/TAZ (red) and Vimentin (green) in
+the control (F) and blebbistatin treatment group (G). Co-staining of Ki67 (red) and Vimentin (green) in the control (H) and blebbistatin treatment gr oup (I), along with quanti ﬁcation
+of Ki67 positive cells (J). Co-staining of Fibronectin (red) and Vimentin (green) in the control (M) and blebbistatin treatment group (N). Relative g ene expression of KRT5, KRT14 and
+CC10 in airway organoids with and without Si-YAP, blebbistatin and cytochalasin D treatment (K, L). Values in graphs represent mean ± SEM; n ¼ 3, *P < 0.05; **P < 0.01; t-test. Scale
+bars, 200 mm( A eB), 100 mm (D, E, F, G, H, I, M, N).
+Q. Tan et al. / Biomaterials 1 13 (2017) 1 18 e132 127
+
+<<<PAGE 11>>>
+Q. Tan et al. / Biomaterials 1 13 (2017) 1 18 e132128
+
+<<<PAGE 12>>>
+in vitro, but with less evidence of the mixed-lineage cells observed
+in vitro. In combination with the relative paucity of proliferation
+observed at 1 week, and the general lack of ectopic tissue growth
+from week 1 e6, our results suggest that ectopic transplantation of
+airway organoids in vivo prompted a shift toward cell lineage
+commitment and differentiation toward mature, non-proliferating
+states. Thus our data demonstrate that the bronchial epithelial,
+mesenchymal and vascular cells in the airway organoid can survive
+and undergo considerable maturation following engraftment
+in vivo. However, under the present conditions adult human airway
+organoids did not undergo robust growth and expansion when
+ectopically transplanted under the kidney capsule, suggesting a
+somewhat limited regenerative potential of the current system.
+4. Discussion
+We report the development of airway organoids from a mixed
+population of human adult lung epithelial, mesenchymal and
+endothelial cells. We observed a remarkable capacity for self-
+assembly, morphogenesis, and differentiation within airway orga-
+noids that mimicked many aspects of lung tissue formation and
+maturation. Lung organoids have recently been reported from
+human iPS cells [19], and smaller organoids have been formed from
+deﬁned lung progenitors alone or in combination with supportive
+niche cells [21e23]. Our study differs from these efforts in two key
+ways. First, we used an unsorted population of human adult-
+derived cells. This is advantageous from a tissue sourcing
+perspective as all of the cells were commercially available, but
+clearly limiting in delineating mechanisms of differentiation, and in
+the observed limited proliferative potential of human adult cell-
+derived airway organoids. Second, we used organ bud culture
+conditions [25] which allowed a mixed population of cells to
+rapidly aggregate and self-condense, organize and engage in
+reciprocal cell-cell interactions. Such a method is ideal for engi-
+neering organ buds from a large mixed cell population, and offers
+the potential to create relatively large and transplantable tissue-
+like aggregates, but is clearly less amenable to mechanistic
+dissection of cellular lineage and fate choices during organoid
+culture.
+Interestingly, we observed expression of both proximal and
+distal epithelial markers within airway organoids. Our source for
+lung epithelium was commercially available normal human bron-
+chial epithelial cells with a predominant basal cell phenotype. Lung
+epithelial cells in general display tremendous plasticity in
+Fig. 7. Ectopic transplantation of human airway organoids. Human mitochondria (green, A, D), human E-Cadherin (green, B) human Vimentin (green, C), and pro liferating cells
+(Ki67, red, A-D) were assessed by immunostaining at the week 1(A eC) and week 6 (D). Human endothelial cells were assessed by human CD31 (red) co-staining with human E-
+cadherin (green, E, F) and human Vimentin (green, G, H) at week 1. SPC (red) were used for additional epithelial staining with low- and high-power magni ﬁcation (I, J), as was
+double staining for AQP5 (red) and CC10 (green) with low- and high-power magni ﬁcation (K, L). Scale bars, 200 mm (B, C), 100 mm (A, D, E, G, I, K), 50 mm (F, H, J, L). n ¼ 4.
+Fig. 6. TGF-b1 responses in human airway organoids. Tubular outgrowths from airway organoids invade surrounding matrix without TGF- b1 treatment, absence of such outgrowths
+with TGF-b1 treatment (A). aSMA (green) staining of airway organoids with and without TGF- b1 treatment (B). Relative gene expression of ACTA2, CTGF, FN (C), CC10, FOXJ1, AQP5
+(D) and P63, KRT5, KRT14 (E) in airway organoids with and without TGF- b1 treatment. Values in graphs represent mean ± SEM; n ¼ 4, *P < 0.05; **P < 0.01; t-test. Scale bars, 100 mm
+(A), 50 mm (B).
+Q. Tan et al. / Biomaterials 1 13 (2017) 1 18 e132 129
+
+<<<PAGE 13>>>
+regenerative contexts [66]. Recent studies have shown that adult
+airway epithelial cells preserve the potential, when needed, to
+proliferate, migrate and differentiate into several cell types during
+the severe lung injury [8,67 ,68]. Our study shows that an unsorted
+population of NHBE cells maintains surprising potential to express
+hallmarks of both proximal and distal epithelial lineages found in
+the adult lung. Recent studies have shown that the fate and mul-
+tilineage potential of epithelial stem cells can change depending on
+whether a stem cell exists within its resident niche and responds to
+normal tissue homeostasis, whether it is mobilized to repair a
+wound, or whether it is taken from its niche and undergoes de novo
+tissue morphogenesis after transplantation [69]. Additional efforts
+will be needed to determine if the remarkable epithelial plasticity
+observed here re ﬂects the unique niche(s) provided by organoid
+culture, or instead re ﬂects the mixed starting epithelial population
+and the possible presence of alveolar (or other) lung progenitors
+with distal lineage potential. In addition, further investigation of
+additional niche cells speci ﬁc to the proximal airways, such as
+airway smooth muscle cells [70], may offer additional insight into
+the cell-cell interactions that regulate airway epithelial differenti-
+ation within our organoid system. Whatever the outcome of these
+future studies, the results provided here demonstrate a remarkable
+potential for an adult human lung epithelial population to self-
+organize and mature toward both airway and alveolar lineages,
+suggesting the presence of important cell-cell interactions within
+airway organoids that merit further investigation.
+One striking observation from our airway organoids was the
+formation of invasive tubular structures that recapitulated the basic
+architecture of epithelial and mesenchyme juxtaposition observed
+during lung development. Multicellular tubular structures are
+essential elements in formation of complex organs and tissues, and
+their formation here by budding from the central organoid mass
+mimics, though clearly in a limited fashion, a basic aspect of organ
+development. Despite the formation of these invasive structures,
+we note that distinct highly-organized and integrated proximal and
+distal structures mimicking mature airway and alveoli were not
+commonly observed in the organoids. Rather, while the organoids
+display remarkable self-organization capacity, the patterns of
+cellular differentiation and morphogenesis suggest a relatively
+stochastic process, as is apparent in detailed IF images ( Figs. 3e4).
+This is perhaps due to the organoid formation process we have
+adopted, in which compaction of the mixed cell population gen-
+erates local variations in epithelial, endothelial and ﬁbroblast cell
+densities, superimposed on the cellular variability inherent to these
+cell populations. Thus while the organoids display robust self-
+organizing capacity and potential for differentiation in vitro, they
+remain far from mature lung tissue. Our observations are similar to
+other organoids studies [25,71,72]that show that in vivo incubation
+is essential to further maturation and organization of tissue like
+functionality in organoids beyond the relatively primitive embry-
+onic tissue-like states that form in vitro.
+Excitingly, we were able to demonstrate that molecular control
+over organoid invasion and differentiation appears to be governed
+by YAP, consistent with its important role in airway branching,
+morphogenesis and differentiation in the developing lung
+[50e52,54,55,57], suggesting that airway organoid formation re-
+capitulates key signaling aspects of lung development. Better un-
+derstanding the morphogenetic function of YAP could facilitate
+advances in generating complex tissue engineered structures such
+as organoids, and given YAP's mechanoresponsive nature [53,56],
+our ﬁndings suggests that exogenous control of mechanical forces
+to better mimic the developmental environment may be necessary
+to promote enhanced organoid growth and morphogenesis [73].A
+major goal going forward will be to focus on cell signaling and
+genetic factors that guide branching morphogenesis of airway
+organoids, as well as regulatory cues from ECM, mesenchyme and
+vascular endothelial cells that in ﬂuence cellular differentiation and
+organoid morphogenesis.
+We also demonstrated the capacity for ectopic transplantation
+of human adult airway organoids into immuno-deﬁcient mice, with
+the presence of both recruited host vascular cells and lineage-
+speciﬁc differentiation of graft epithelial cells. While the observed
+in vivo differentiation potential was supportive of possible future
+application of this approach in regenerating functional lung tissue,
+several barriers remain. Notably, engrafted airway organoids did
+not grow over time, suggesting limited proliferative potential of the
+adult-derived cells used in our approach. More proliferative re-
+sponses have been previously reported when using selected resi-
+dent lung epithelial progenitor subpopulations [67,74] or
+immortalized airway derived cells [75]; thus, sorting and utilization
+of resident progenitor populations may provide improvements in
+organoid growth [76]. Alternatively, fetal-derived lung cells may
+offer growth advantages innate to their developmental state, and
+have been shown previously to undergo organoid-like organization
+and growth [77,78]. Ultimately, human iPS-derived cells driven
+toward lung lineages may provide the clinically-relevant cell source
+needed for patient-speci ﬁc applications [79,80]. Moving from
+ectopic transplantation of airway organoids to lung-speci ﬁc appli-
+cation will require further development of tissue implantation
+strategies. Recent work has demonstrated successful attachment
+and vascular recruitment into biocompatible hydrogels on the
+pleural surface of the lung [81], suggesting one possible path for-
+ward. Further efforts to improve vascularization may also be critical
+in supporting organoid engraftment and growth. A recent study
+demonstrated that co-seeding of endothelial and perivascular cells
+is essential to successful revascularization of decellularized lung
+tissue [82]. Sorting and seeding of mesenchymal cell sub-
+populations that support vascularization in organoids may be one
+means by which to enhance organoid growth and engraftment
+potential. Finally, inclusion of additional matrix and soluble cues
+[13] will likely be essential to further optimize cell organization,
+growth and differentiation, and in vivo integration of airway
+organoid grafts with host tissue.
+A more immediate opportunity for use of airway organoids is
+apparent in the realm of disease-modeling. There is a clear ratio-
+nale and drive to develop new 3D multi-cell culture models that
+overcome limitations of traditional 2D culture systems, allowing
+cells to grow and respond in environments that mimic native tissue
+and promote close interactions between cells, ECM, and soluble
+cues [83]. In this study, we demonstrated that the ﬁbrogenic factor
+TGF-
+b1 not only enhances expression of mesenchymal genes
+implicated in ﬁbrosis, but simultaneously and dramatically atten-
+uates expression of both proximal and distal lung epithelial dif-
+ferentiation markers. The airway organoid method developed here
+provides a tractable method by which cellular and molecular re-
+sponses to disease-relevant perturbations can be studied within a
+3D tissue-like environment approximating the native lung. Because
+mixed human cell populations are used, extension of this method
+to human primary disease-derived cells is straight-forward, and
+will allow comparison of normal and pathological cell population
+interactions under baseline and disease modeling conditions. The
+resulting platform has the potential to become a valuable tool for
+assessing tissue-, cell- and molecular-level responses, and for
+evaluating novel therapies and patient-speci ﬁc interventions.
+5. Conclusion
+Our results demonstrate that multicellular airway organoids
+derived from adult human cells are able to self-organize and
+mature toward lung tissue-like structures. Fibroblasts are essential
+Q. Tan et al. / Biomaterials 1 13 (2017) 1 18 e132130
+
+<<<PAGE 14>>>
+for the self-condensation of aggregates into mechanically stable
+airway organoids, and likely play a continuing role in reciprocal
+interactions with endothelial and epithelial cells. YAP was neces-
+sary for organization and invasion of tubular structures, and
+controlled aspects of epithelial differentiation, mimicking key as-
+pects of in vivo lung development. Despite the proximal source of
+primary epithelium used in the airway organoids, both proximal
+and distal epithelial markers were expressed over time both in vitro
+and in vivo, demonstrating remarkable epithelial plasticity within
+organoid cultures. Successful ectopic engraftment of airway orga-
+noids represented an important initial step toward future applica-
+tion in lung regenerative approaches, though many challenges
+remain. Finally, airway organoids assembled from adult human
+primary cells represent a new and potentially powerful tool within
+which to study physiologic and pathologic cell-cell interactions.
+Acknowledgments
+This work was supported by NIH HL092961, the Caerus Foun-
+dation, as well as a Postdoctoral Fellowship Award in Regenerative
+Medicine and Science from the Mayo Clinic Center for Regenerative
+Medicine. We thank Dr. Gary C. Sieck and Dr. Y.S. Prakash for
+providing access to cryosection facility and other equipment sup-
+port. We thank Dr. Andrew Haak for image analysis support, and Dr.
+Giovanni Ligresti for helpful discussion. We thank Yunhua Fang and
+Kristin J. Mantz for their technical support.
+Appendix A. Supplementary data
+Supplementary data related to this article can be found at http://
+dx.doi.org/10.1016/j.biomaterials.2016.10.046.
+References
+[1] T. Ferkol, D. Schraufnagel, The global burden of respiratory disease, Ann. Am.
+Thorac. Soc. 11 (2014) 404 e406.
+[2] K.F. Rabe, S. Hurd, A. Anzueto, P.J. Barnes, S.A. Buist, P. Calverley, et al., Global
+strategy for the diagnosis, management, and prevention of chronic obstructive
+pulmonary disease: GOLD executive summary, Am. J. Respir. Crit. Care Med.
+176 (2007) 532 e555.
+[3] S.M. Arcasoy, R.M. Kotloff, Lung transplantation, N. Engl. J. Med. 340 (1999)
+1081e1091.
+[4] A.N. Lau, M. Goodwin, C.F. Kim, D.J. Weiss, Stem cells and regenerative
+medicine in lung biology and diseases, Mol. Ther. 20 (2012) 1116 e1130.
+[5] D.N. Kotton, E.E. Morrisey, Lung regeneration: mechanisms, applications and
+emerging stem cell populations, Nat. Med. 20 (2014) 822 e832.
+[6] B.L. Hogan, C.E. Barkauskas, H.A. Chapman, J.A. Epstein, R. Jain, C.C. Hsia, et al.,
+Repair and regeneration of the respiratory system: complexity, plasticity, and
+mechanisms of lung stem cell function, Cell Stem Cell. 15 (2014) 123 e138.
+[7] S.X. Huang, M.D. Green, A.T. de Carvalho, M. Mumau, Y.W. Chen, S.L. D'Souza,
+et al., The in vitro generation of lung and airway progenitor cells from human
+pluripotent stem cells, Nat. Protoc. 10 (2015) 413 e425.
+[8] W. Zuo, T. Zhang, D.Z. Wu, S.P. Guan, A.A. Liew, Y. Yamamoto, et al., p63( þ)
+Krt5(þ) distal airway stem cells are essential for lung regeneration, Nature
+517 (2015) 616 e620.
+[9] C. Rosen, E. Shezen, A. Aronovich, Y.Z. Klionsky, Y. Yaakov, M. Assayag, et al.,
+Preconditioning allows engraftment of mouse and human embryonic lung
+cells, enabling lung repair in mice, Nat. Med. 21 (2015) 869 e879.
+[10] H.C. Ott, B. Clippinger, C. Conrad, C. Schuetz, I. Pomerantseva, L. Ikonomou, et
+al., Regeneration and orthotopic transplantation of a bioarti ﬁcial lung, Nat.
+Med. 16 (2010) 927 e933.
+[11] A.P. Price, K.A. England, A.M. Matson, B.R. Blazar, A. Panoskaltsis-Mortari,
+Development of a decellularized lung bioreactor system for bioengineering
+the lung: the matrix reloaded, Tissue Eng. Part A 16 (2010) 2581 e2591.
+[12] T.H. Petersen, E.A. Calle, L. Zhao, E.J. Lee, L. Gui, M.B. Raredon, et al., Tissue-
+engineered lungs for in vivo implantation, Science 329 (2010) 538 e541.
+[13] Y.S. Prakash, D.J. Tschumperlin, K.R. Stenmark, Coming to terms with tissue
+engineering and regenerative medicine in the lung, Am. J. Physiol. Lung Cell
+Mol. Physiol. 309 (2015) L625 eL638.
+[14] A.M. Zorn, J.M. Wells, Vertebrate endoderm development and organ forma-
+tion, Annu. Rev. Cell Dev. Biol. 25 (2009) 221 e251.
+[15] Y. Sasai, Next-generation regenerative medicine: organogenesis from stem
+cells in 3D culture, Cell Stem Cell 12 (2013) 520 e530.
+[16] M.A. Lancaster, J.A. Knoblich, Organogenesis in a dish: modeling development
+and disease using organoid technologies, Science 345 (2014) 1247125 .
+[17] N. Hattori, Cerebral organoids model human brain development and micro-
+cephaly, Mov. Disord. 29 (2014) 185 .
+[18] T. Takebe, R.R. Zhang, H. Koike, M. Kimura, E. Yoshizawa, M. Enomura, et al.,
+Generation of a vascularized and functional human liver from an iPSC-derived
+organ bud transplant, Nat. Protoc. 9 (2014) 396 e409.
+[19] B.R. Dye, D.R. Hill, M.A. Ferguson, Y.H. Tsai, M.S. Nagy, R. Dyal, et al., In vitro
+generation of human pluripotent stem cell derived lung organoids, Elife
+(2015) 4 .
+[20] M. Huch, H. Gehart, R. van Boxtel, K. Hamer, F. Blokzijl, M.M. Verstegen, et al.,
+Long-term culture of genome-stable bipotent stem cells from adult human
+liver, Cell 160 (2015) 299 e312.
+[21] J.R. Rock, M.W. Onaitis, E.L. Rawlins, Y. Lu, C.P. Clark, Y. Xue, et al., Basal cells as
+stem cells of the mouse trachea and human airway epithelium, Proc. Natl.
+Acad. Sci. U. S. A. 106 (2009) 12771 e12775.
+[22] J.H. Lee, D.H. Bhang, A. Beede, T.L. Huang, B.R. Stripp, K.D. Bloch, et al., Lung
+stem cell differentiation in mice directed by endothelial cells via a BMP4-
+NFATc1-thrombospondin-1 axis, Cell 156 (2014) 440 e455.
+[23] C.E. Barkauskas, M.J. Cronce, C.R. Rackley, E.J. Bowie, D.R. Keene, B.R. Stripp, et
+al., Type 2 alveolar cells are stem cells in adult lung, J. Clin. Investig. 123
+(2013) 3025 e3036.
+[24] S. Yui, T. Nakamura, T. Sato, Y. Nemoto, T. Mizutani, X. Zheng, et al., Functional
+engraftment of colon epithelium expanded in vitro from a single adult
+Lgr5(þ) stem cell, Nat. Med. 18 (2012) 618 e623.
+[25] T. Takebe, K. Sekine, M. Enomura, H. Koike, M. Kimura, T. Ogaeri, et al., Vas-
+cularized and functional human liver from an iPSC-derived organ bud trans-
+plant, Nature 499 (2013) 481 e484.
+[26] C. Greggio, F. De Franceschi, M. Figueiredo-Larsen, S. Gobaa, A. Ranga,
+H. Semb, et al., Arti ﬁcial three-dimensional niches deconstruct pancreas
+development in vitro, Development 140 (2013) 4452 e4462.
+[27] T. Thundat, R.J. Warmack, G.Y. Chen, D.P. Allison, Thermal and ambient-
+induced de ﬂections of scanning force microscope cantilevers, Appl. Phys.
+Lett. 64 (1994) 2894 e2896.
+[28] T. Takebe, M. Enomura, E. Yoshizawa, M. Kimura, H. Koike, Y. Ueno, et al.,
+Vascularized and complex organ buds from diverse tissues via mesenchymal
+cell-driven condensation, Cell Stem Cell 16 (2015) 556 e565.
+[29] C. Wansleeben, C.E. Barkauskas, J.R. Rock, B.L. Hogan, Stem cells of the adult
+lung: their development and role in homeostasis, regeneration, and disease,
+Wiley Interdiscip. Rev. Dev. Biol. 2 (2013) 131 e148.
+[30] M.L. Fulcher, S. Gabriel, K.A. Burns, J.R. Yankaskas, S.H. Randell, Well-differ-
+entiated human airway epithelial cell cultures, Methods Mol. Med. 107 (2005)
+183e206.
+[31] E.L. Rawlins, T. Okubo, Y. Xue, D.M. Brass, R.L. Auten, H. Hasegawa, et al., The
+role of Scgb1a1 þ Clara cells in the long-term maintenance and repair of lung
+airway, but not alveolar, epithelium, Cell Stem Cell 4 (2009) 525 e534.
+[32] M.V. Fanucchi, M.E. Murphy, A.R. Buckpitt, R.M. Philpot, C.G. Plopper, Pul-
+monary cytochrome P450 monooxygenase and Clara cell differentiation in
+mice, Am. J. Respir. Cell Mol. Biol. 17 (1997) 302 e314.
+[33] D.F. Rogers, Airway goblet cells: responsive and adaptable front-line de-
+fenders, Eur. Respir. J. 7 (1994) 1690 e1706.
+[34] E.L. Rawlins, B.L. Hogan, Ciliated epithelial cell lifespan in the mouse trachea
+and lung, Am. J. Physiol. Lung Cell Mol. Physiol. 295 (2008) L231 eL234.
+[35] J.R. Rock, X. Gao, Y. Xue, S.H. Randell, Y.Y. Kong, B.L. Hogan, Notch-dependent
+differentiation of adult airway basal stem cells, Cell Stem Cell 8 (2011)
+639e648.
+[36] H. Ishikawa, W.F. Marshall, Ciliogenesis: building the cell's antenna, Nat. Rev.
+Mol. Cell Biol. 12 (2011) 222 e234.
+[37] M. Herriges, E.E. Morrisey, Lung development: orchestrating the generation
+and regeneration of a complex organ, Development 141 (2014) 502 e513.
+[38] M.C. McElroy, M. Kasper, The use of alveolar epithelial type I cell-selective
+markers to investigate lung injury and repair, Eur. Respir. J. 24 (2004)
+664e673.
+[39] P. Flodby, Z. Borok, A. Banfalvi, B. Zhou, D. Gao, P. Minoo, et al., Directed
+expression of Cre in alveolar epithelial type 1 cells, Am. J. Respir. Cell Mol. Biol.
+43 (2010) 173 e178.
+[40] S.M. Kreda, M.C. Gynn, D.A. Fenstermacher, R.C. Boucher, S.E. Gabriel,
+Expression and localization of epithelial aquaporins in the adult human lung,
+Am. J. Respir. Cell Mol. Biol. 24 (2001) 224 e234.
+[41] M.I. Ramirez, G. Millien, A. Hinds, Y. Cao, D.C. Seldin, M.C. Williams, T1alpha, a
+lung type I cell differentiation gene, is required for normal lung cell prolif-
+eration and alveolus formation at birth, Dev. Biol. 256 (2003) 61 e72.
+[42] A. Hoshino, G. Ishii, T. Ito, K. Aoyagi, Y. Ohtaki, K. Nagai, et al., Podoplanin-
+positive ﬁbroblasts enhance lung adenocarcinoma tumor formation: podo-
+planin in ﬁbroblast functions for tumor progression, Cancer Res. 71 (2011)
+4769e4779.
+[43] B. Treutlein, D.G. Brown ﬁeld, A.R. Wu, N.F. Neff, G.L. Mantalas, F.H. Espinoza,
+et al., Reconstructing lineage hierarchies of the distal lung epithelium using
+single-cell RNA-seq, Nature 509 (2014) 371 e375.
+[44] C.F. Kim, E.L. Jackson, A.E. Woolfenden, S. Lawrence, I. Babar, S. Vogel, et al.,
+Identi
+ﬁcation of bronchioalveolar stem cells in normal lung and lung cancer,
+Cell 121 (2005) 823 e835.
+[45] C.F. Kim, Paving the road for lung stem cell biology: bronchioalveolar stem
+cells and other putative distal lung stem cells, Am. J. Physiol. Lung Cell Mol.
+Physiol. 293 (2007) L1092 eL1098.
+[46] F.A. Suprynowicz, G. Upadhyay, E. Krawczyk, S.C. Kramer, J.D. Hebert, X. Liu, et
+Q. Tan et al. / Biomaterials 1 13 (2017) 1 18 e132 131
+
+<<<PAGE 15>>>
+al., Conditionally reprogrammed cells represent a stem-like state of adult
+epithelial cells, Proc. Natl. Acad. Sci. U. S. A. 109 (2012) 20035 e20040.
+[47] J.D. Mih, A. Marinkovic, F. Liu, A.S. Sharif, D.J. Tschumperlin, Matrix stiffness
+reverses the effect of actomyosin tension on cell proliferation, J. Cell Sci. 125
+(2012) 5974 e5983.
+[48] S. Porazinski, H. Wang, Y. Asaoka, M. Behrndt, T. Miyamoto, H. Morita, et al.,
+YAP is essential for tissue tension to ensure vertebrate 3D body shape, Nature
+521 (2015) 217 e221.
+[49] B.C. Low, C.Q. Pan, G.V. Shivashankar, A. Bershadsky, M. Sudol, M. Sheetz, YAP/
+TAZ as mechanosensors and mechanotransducers in regulating organ size and
+tumor growth, FEBS Lett. 588 (2014) 2663 e2670.
+[50] R. Zhao, T.R. Fallon, S.V. Saladi, A. Pardo-Saganta, J. Villoria, H. Mou, et al., Yap
+tunes airway epithelial size and architecture by regulating the identity,
+maintenance, and self-renewal of stem cells, Dev. Cell 30 (2014) 151 e165.
+[51] J.E. Mahoney, M. Mori, A.D. Szymaniak, X. Varelas, W.V. Cardoso, The hippo
+pathway effector Yap controls patterning and differentiation of airway
+epithelial progenitors, Dev. Cell 30 (2014) 137 e150.
+[52] A.D. Szymaniak, J.E. Mahoney, W.V. Cardoso, X. Varelas, Crumbs3-Mediated
+polarity directs airway epithelial cell fate through the hippo pathway effector
+yap, Dev. Cell 34 (2015) 283 e296.
+[53] S. Dupont, L. Morsut, M. Aragona, E. Enzo, S. Giulitti, M. Cordenonsi, et al., Role
+of YAP/TAZ in mechanotransduction, Nature 474 (2011) 179 e183.
+[54] F. Liu, D. Lagares, K.M. Choi, L. Stopfer, A. Marinkovic, V. Vrbanac, et al.,
+Mechanosignaling through YAP and TAZ drives ﬁbroblast activation and
+ﬁbrosis, Am. J. Physiol. Lung Cell Mol. Physiol. 308 (2015) L344 eL357.
+[55] T. Bertero, K.A. Cottrill, Y. Lu, C.M. Haeger, P. Dieffenbach, S. Annis, et al.,
+Matrix remodeling promotes pulmonary hypertension through feedback
+mechanoactivation of the YAP/TAZ-miR-130/301 circuit, Cell Rep. 13 (2015)
+1016e1032.
+[56] M. Aragona, T. Panciera, A. Manfrin, S. Giulitti, F. Michielin, N. Elvassore, et al.,
+A mechanical checkpoint controls multicellular growth through YAP/TAZ
+regulation by actin-processing factors, Cell 154 (2013) 1047 e1059.
+[57] A.W. Lange, A. Sridharan, Y. Xu, B.R. Stripp, A.K. Perl, J.A. Whitsett, Hippo/Yap
+signaling controls epithelial progenitor cell proliferation and differentiation in
+the embryonic and adult lung, J. Mol. Cell Biol. 7 (2015) 35 e47.
+[58] R.T. Kendall, C.A. Feghali-Bostwick, Fibroblasts in ﬁbrosis: novel roles and
+mediators, Front. Pharmacol. 5 (2014) 123 .
+[59] T.S. Blackwell, A.M. Tager, Z. Borok, B.B. Moore, D.A. Schwartz, K.J. Anstrom, et
+al., Future directions in idiopathic pulmonary ﬁbrosis research. An NHLBI
+workshop report, Am. J. Respir. Crit. Care Med. 189 (2014) 214 e222.
+[60] A. Leask, D.J. Abraham, TGF-beta signaling and the
+ﬁbrotic response, Faseb J.
+18 (2004) 816 e827.
+[61] T.A. Wynn, Integrating mechanisms of pulmonary ﬁbrosis, J. Exp. Med. 208
+(2011) 1339 e1350.
+[62] U. Bartram, C.P. Speer, The role of transforming growth factor beta in lung
+development and disease, Chest 125 (2004) 754 e765.
+[63] C.G. Lee, H.R. Kang, R.J. Homer, G. Chupp, J.A. Elias, Transgenic modeling of
+transforming growth factor-beta(1): role of apoptosis in ﬁbrosis and alveolar
+remodeling, Proc. Am. Thorac. Soc. 3 (2006) 418 e423.
+[64] X. Zeng, M. Gray, M.T. Stahlman, J.A. Whitsett, TGF-beta1 perturbs vascular
+development and inhibits epithelial differentiation in fetal lung in vivo, Dev.
+Dyn. 221 (2001) 289 e301.
+[65] T.L. Hackett, S.M. Warner, D. Stefanowicz, F. Shaheen, D.V. Pechkovsky,
+L.A. Murray, et al., Induction of epithelial-mesenchymal transition in primary
+airway epithelial cells from patients with asthma by transforming growth
+factor-beta1, Am. J. Respir. Crit. Care Med. 180 (2009) 122 e133.
+[66] C. Blanpain, E. Fuchs, Stem cell plasticity. Plasticity of epithelial stem cells in
+tissue regeneration, Science 344 (2014) 1242281 .
+[67] A.E. Vaughan, A.N. Brumwell, Y. Xi, J.E. Gotts, D.G. Brown ﬁeld, B. Treutlein, et
+al., Lineage-negative progenitors mobilize to regenerate lung epithelium after
+major injury, Nature 517 (2015) 621 e625.
+[68] P.A. Kumar, Y. Hu, Y. Yamamoto, N.B. Hoe, T.S. Wei, D. Mu, et al., Distal airway
+stem cells yield alveoli in vitro and during lung regeneration following H1N1
+inﬂuenza infection, Cell 147 (2011) 525 e538.
+[69] G. Donati, F.M. Watt, Stem cell heterogeneity and plasticity in epithelia, Cell
+Stem Cell 16 (2015) 465 e476.
+[70] T. Volckaert, E. Dill, A. Campbell, C. Tiozzo, S. Majka, S. Bellusci, et al., Para-
+bronchial smooth muscle constitutes an airway epithelial stem cell niche in
+the mouse lung after injury, J. Clin. Investig. 121 (2011) 4409 e4419.
+[71] C.L. Watson, M.M. Mahe, J. Munera, J.C. Howell, N. Sundaram, H.M. Poling, et
+al., An in vivo model of human small intestine using pluripotent stem cells,
+Nat. Med. 20 (2014) 1310 e1314.
+[72] C. Xinaris, V. Benedetti, P. Rizzo, M. Abbate, D. Corna, N. Azzollini, et al., In vivo
+maturation of functional renal organoids formed from embryonic cell sus-
+pensions, J. Am. Soc. Nephrol. 23 (2012) 1857 e1868.
+[73] C.M. Nelson, J.P. Gleghorn, Sculpting organs: mechanical regulation of tissue
+development, Annu. Rev. Biomed. Eng. 14 (2012) 129 e154.
+[74] H.A. Chapman, X. Li, J.P. Alexander, A. Brumwell, W. Lorizio, K. Tan, et al.,
+Integrin alpha6beta4 identi
+ﬁes an adult distal lung epithelial population with
+regenerative potential in mice, J. Clin. Investig. 121 (2011) 2855 e2862.
+[75] S.R. Franzdottir, I.T. Axelsson, A.J. Arason, O. Baldursson, T. Gudjonsson,
+M.K. Magnusson, Airway branching morphogenesis in three dimensional
+culture, Respir. Res. 11 (2010) 162 .
+[76] E.J. Ruiz, F. Oeztuerk-Winder, J.J. Ventura, A paracrine network regulates the
+cross-talk between human lung stem cells and the stroma, Nat. Commun. 5
+(2014) 3175 .
+[77] M.J. Mondrinos, S. Koutzaki, P.I. Lelkes, C.M. Finck, A tissue-engineered model
+of fetal distal lung tissue, Am. J. Physiol. Lung Cell Mol. Physiol. 293 (2007)
+L639eL650.
+[78] M.J. Mondrinos, P.L. Jones, C.M. Finck, P.I. Lelkes, Engineering de novo as-
+sembly of fetal pulmonary organoids, Tissue Eng. Part A 20 (2014)
+2892e2907.
+[79] M. Ghaedi, E.A. Calle, J.J. Mendez, A.L. Gard, J. Balestrini, A. Booth, et al., Human
+iPS cell-derived alveolar epithelium repopulates lung extracellular matrix,
+J. Clin. Investig. 123 (2013) 4950 e4962.
+[80] S.X. Huang, M.N. Islam, J. O'Neill, Z. Hu, Y.G. Yang, Y.W. Chen, et al., Ef ﬁcient
+generation of lung and airway epithelial cells from human pluripotent stem
+cells, Nat. Biotechnol. 32 (2014) 84 e91.
+[81] T. Mammoto, A. Mammoto, Implantation of ﬁbrin gel on mouse lung to study
+lung-speciﬁc angiogenesis, J. Vis. Exp. 94 (2014) e52012 .
+[82] X. Ren, P.T. Moser, S.E. Gilpin, T. Okamoto, T. Wu, L.F. Tapias, et al., Engineering
+pulmonary vasculature in decellularized rat and human lungs, Nat. Bio-
+technol. 33 (2015) 1097 e1102.
+[83] B.M. Baker, C.S. Chen, Deconstructing the third dimension: how 3D culture
+microenvironments alter cellular cues, J. Cell Sci. 125 (2012) 3015 e3024.
+Q. Tan et al. / Biomaterials 1 13 (2017) 1 18 e132132

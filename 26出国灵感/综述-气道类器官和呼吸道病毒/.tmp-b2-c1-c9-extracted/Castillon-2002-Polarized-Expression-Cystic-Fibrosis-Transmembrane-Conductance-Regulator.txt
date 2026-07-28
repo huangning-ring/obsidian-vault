@@ -1,0 +1,850 @@
+
+
+<<<PAGE 1>>>
+Polarized Expression of Cystic Fibrosis
+Transmembrane Conductance Regulator and
+Associated Epithelial Proteins during the Regeneration
+of Human Airway Surface Epithelium in
+Three-Dimensional Culture
+Nicolas Castillon, Jocelyne Hinnrasky, Jean-Marie Zahm, Hervé Kaplan,
+Noël Bonnet, Pascal Corlieu, Jean-Michel Klossek, Karima Taouil,
+Aurélie Avril-Delplanque, Bruno Péault, and Edith Puchelle
+INSERM UMRS 514 (NC, JH, J-MZ, NB, KT, EP) and IFR53 (HK), Centre Hospitalier Universitaire Maison Blanche,
+Reims, INSERM U506 (AA-D, BP), Hôpital Paul Brousse, Villejuif, Hôpital Jean Bernard (J-MK), Poitiers, and Hôpital
+Tenon (PC), Paris, France
+SUMMARY: We have previously shown that, in normal human airway tissue, localization of the cystic fibrosis transmembrane
+conductance regulator (CFTR) can be affected by epithelial maturation, polarity, and differentiation and that CFTR trafficking and
+apical localization depend on the integrity of the airway epithelium. In this study, we addressed the question of whether the
+three-dimensional (3-D) organization of adult human airway epithelial cells in suspension culture under rotation, leading to
+spheroid-like structures, could mimic the in vivo phenomenon of differentiation and polarization. The kinetics of the differentiation,
+polarity, and formation of the CFTR-ZO-1-ezrin complex was analyzed by transmission, scanning, and immunofluorescence
+microscopy. Functional activity of the airway surface epithelium was assessed by monitoring the degree of cAMP-stimulated
+chloride efflux from cultured cells. Our results show that after the initial step of dedifferentiation, characterized by a loss of ciliated
+cells and disappearance of epithelial subapical CFTR-ezrin-ZO-1 complex, the isolated cells formed 3-D spheroid structures
+within 24 hours. After 15 days, progressive ciliogenesis was observed and secretory cells could be identified. After 35 days of 3-D
+culture, ZO-1, CFTR, ezrin, and CD59 were apically or subapically located, and well-differentiated secretory and ciliated cells
+were identified. CFTR functionality was assessed by analyzing the Cl /H11002secretion after amiloride and forskolin perfusion. After 35
+days of culture of spheroids in suspension, a significant increase in Cl /H11002efflux was observed in well-differentiated ciliated cells.
+(Lab Invest 2002, 82:989 –998 ).
+I
+n normal human airway epithelial tissue, the cystic
+fibrosis transmembrane conductance regulator
+(CFTR) protein is restricted to the apical membrane
+domain of well-differentiated epithelial cells such as
+ciliated cells (Denning et al, 1992; Puchelle et al, 1992).
+We have reported previously that abnormal expres-
+sion and distribution of the CFTR protein is not only
+caused by mutations of the CF gene, but may be
+observed in non-CF airway tissue when the surface
+epithelium is remodeled and dedifferentiated (Brezillon
+et al, 1995, 1997; Dupuit et al, 1995). Several reports
+demonstrate that F508 del-CFTR may be normally
+processed in CF airway and intestinal epithelial cells
+(Ka¨ lin et al, 1999; Penque et al, 2000) and that CFTR
+maturation and apical targeting are dependent on
+epithelium polarization (Hollande et al, 1998). All of
+these observations suggest that the regulation and
+transport function of CFTR are dependent on the state
+of differentiation and polarization of epithelial cell
+cultures (Morris et al, 1992). It has recently been
+reported that mutations of CFTR may overlap with
+PSD95/Dlg/ZO-1 (PDZ)-interacting domains of the
+C-terminus of CFTR that are required for CFTR polar-
+ization to the apical aspect of the respiratory epithe-
+lium (Moyer et al, 1999) and that CFTR interacts with a
+cytosolic protein network, including ezrin, actin, and
+the tight junction protein ZO-1 (Fanning and Anderson,
+1999). Polarized organization of the organelles, cy-
+toskeleton, and membrane components directly de-
+pends on cell-cell adhesion and cell-substratum inter-
+DOI: 10.1097/01.LAB.0000022221.88025.43
+Received December 29, 2001.
+Part of this work was presented at the 2nd European Meeting of the CF
+European Network (Lisbon, Portugal) and at the 24th European Cystic
+Fibrosis Conference (Vienna, Austria). Nicolas Castillon is a doctoral fellow
+of the French Association Vaincre la Mucoviscidose. This work was funded
+by the French Association Vaincre la Mucoviscidose and by a contract from
+INSERM/AFM (Association Française contre les Myopathies).
+Address reprint requests to: Edith Puchelle, INSERM UMRS 514, IFR53,
+CHU Maison Blanche, 45, rue Cognacq-Jay, 51092 Reims Cedex, France.
+E-mail: epuche@worldnet.fr
+0023-6837/02/8208-989$03.00/0
+LABORATORY INVESTIGATION Vol. 82, No. 8, p. 989, 2002
+Copyright © 2002 by The United States and Canadian Academy of Pathology, Inc. Printed in U.S.A.
+Laboratory Investigation • August 2002 • Volume 82 • Number 8 989
+
+<<<PAGE 2>>>
+actions (Ojakian et al, 2001; Rodriguez-Boulan and
+Powell, 1992).
+In vitro maintenance of well-differentiated and po-
+larized epithelial cells for long periods is very difficult.
+To retain the differentiated and polarized state of the
+epithelium, several investigators have developed a
+three-dimensional (3-D) culture model in which epithe-
+lial sheets derived from human airway cells form
+free-floating epithelial spheroids in which ciliary activ-
+ity and ion transports can be preserved for several
+months (Jorissen et al, 1989; Pedersen et al, 1999;
+Ulrich et al, 1998).
+We addressed the question of whether isolated cells
+from adult human airway surface epithelium, after
+complete dissociation and subsequent dedifferentia-
+tion, could regenerate a well-polarized, junctional, and
+differentiated surface epithelium in 3-D suspension
+culture. We analyzed, in such developed structures,
+the cAMP-stimulated efflux of chloride from the cells.
+We show that after an initial dedifferentiation step,
+isolated epithelial cells form free-floating spheroids
+and exhibit progressive redifferentiation, polarization,
+and apical expression of CFTR and associated pro-
+teins. After polarization and regeneration of the sur-
+face epithelium, the cAMP-stimulated chloride efflux
+was also restored.
+Results
+Airway Cell Differentiation into Spheroid Structures
+Dissociated airway epithelial cells cultured in suspen-
+sion under permanent rotation reassembled as 3-D
+structures during the first 24 hours. Using light micros-
+copy, we followed the formation of spheroid struc-
+tures with an average diameter ranging from 50 to 100
+/H9262m (Fig. 1A). Within the first 5 days of culture, sphe-
+roids were generally formed of an epithelial mono-
+layer, although in some spheroids, we could observe a
+two-layer structure (Fig. 1B) surrounding a large inte-
+rior lumen where necrotic cells could be observed.
+After 35 days of culture, a columnar epithelium, char-
+acterized by the presence of one or two cell layers
+covered with long microvilli and ciliated cells, could be
+observed (Fig. 1C).
+Using a mouse antibody to Ki67 (a nuclear marker of
+cell proliferation) we did not observe any labeling at
+the different observation time-points (1, 2, 3, 4, 5, 15,
+25, and 35 days). Scanning electron microscopy
+(SEM), showed that, after 5 days of 3-D culture, the
+spheroids were composed of undifferentiated cells
+with numerous microvilli (Fig. 2, A and B). Cilia could
+not be identified at the same time. After 15 days,
+epithelial cells appeared to be more cohesive (Fig. 2, C
+and D) and some differentiated ciliated cells could be
+identified (Fig. 2C). After 35 days of culture, confocal
+microscopy and SEM highlighted the presence of
+numerous ciliated cells with mature and actively beat-
+ing cilia all around the 3-D structure (Fig. 2, E and F).
+Beating frequency assessed by videomicroscopy was
+10 /H110064 Hz, a similar value to that found for well-
+differentiated human airway epithelial tissue.
+By transmission electron microscopy (TEM), we
+observed deuterosomes and basal bodies migrating
+toward the apex of epithelial cells (Fig. 3A) and then
+forming mature cilia after 35 days of culture (Fig. 3B).
+At 15 days, tight junctions and desmosomes could be
+observed in TEM images (Fig. 3C). Secretory cells with
+Figure 1.
+Histology of the spheroids. A, Phase-contrast microscopy image of spheroid
+after 5 days of culture showing the characteristic three dimensional (3-D)
+spherical shape. B, Transmission electron microscopy image of a semi-thin
+spheroid section observed after 5 days of 3-D culture. The spheroids are
+generally formed of monolayered epithelial cells with an inner lumen contain-
+ing cellular debris. C, After 35 days of 3-D culture, a pseudostratified structure
+characteristic of mature airway epithelium is observed. A, Bar /H1100530 /H9262m; B and
+C, Bar /H110057 /H9262m.
+Castillon et al
+990 Laboratory Investigation • August 2002 • Volume 82 • Number 8
+
+<<<PAGE 3>>>
+secretory granules (Fig. 3D) were also detectable after
+15 days of culture. At this stage, the mucin content of
+the secretory cells expressed MUC5AC (data not
+shown) but no immunolabeling of MUC1 was ob-
+served (not shown). The apical immunolocalization of
+MUC1 only appeared after 25 days of 3-D culture and
+was located apically after 35 days (Fig. 4A). At the
+same time, MUC5AC was still expressed (Fig. 4B). At
+these stages, the proportion of ciliated and secretory
+cells remained stable, with an average of 38/H110063% and
+32 /H110064%, respectively.
+Evaluation of Airway Cell Types during Spheroid
+Maturation
+After complete enzymatic and mechanical tissue dis-
+sociation, the percentage of cytokeratin (CK) 13 –
+positive basal cells was 6.8 /H110061.3% and that of
+superficial CK18-positive cells was 92.2 /H110063.1%. As
+shown in Table 1, the percentage of basal and super-
+ficial cells did not significantly differ over the 35-day
+period of spheroid organization and differentiation.
+Interestingly, we observed differences in the superfi-
+cial CK18-positive cells during the culture period.
+Before culture, the percentage of ciliated cells was low
+(5.7 /H110060.4%) and they were not evident in the structure
+of the spheroids until Day 25 (17.6 /H110061.3%) and Day
+35 (34.1 /H110062.6%). Mature secretory cells characteristic
+of surface epithelial goblet cells in vivo were identified
+in the spheroids after 15 days of culture (36.1/H110062.7%)
+and reached 43.7 /H110065.3% after 35 days. Hence, after
+35 days of culture in suspension, more than 79% of
+the cells present in the spheroids are differentiated
+epithelial cells.
+Polarization of CFTR and CFTR-Associated Proteins
+To follow cell polarization, we analyzed the distribution
+in spheroids of four polarity markers: CD59 (a GPI-
+anchored protein), CFTR, and two CFTR-associated
+proteins, ezrin (a cytosolic protein that binds to CFTR
+through the Na/H11001/H/H11001exchanger regulatory factor pro-
+tein) and ZO-1 (a junctional protein linked to CFTR by
+the actin cytoskeleton).
+On 5-day-old spheroids, no labeling was observed
+for ZO-1, ezrin, CD59, or CFTR and all controls were
+negative (not shown). After 15 days of 3-D culture,
+immunostaining of adjacent sections for CD59 (Fig.
+5A) and ezrin (Fig. 5B) showed cytosolic staining. At
+the same time, a cytosolic labeling was observed for
+CFTR (Fig. 5C). For the ZO-1 protein, the immunolo-
+calization was mainly pericellular as seen in Figure 5D.
+After 35 days of culture, we observed the exclu-
+sively apical localization of CD59 (Fig. 5E), ezrin (Fig.
+5F), CFTR (Fig. 5G), and ZO-1 (Fig. 5H). Using double
+immunolabeling of CFTR (Fig. 6, A and D) with either
+ezrin (Fig. 6B) or CD59 (Fig. 6E), after 35 days we
+observed by confocal microscopy that CFTR was
+apically distributed and colocalized with ezrin (Fig. 6C)
+and CD59 (Fig. 6F).
+Chloride Efflux
+After 35 days of 3-D spheroid culture, we observed
+that CFTR was correctly localized to the apical mem-
+brane of ciliated cells. We addressed the question of
+whether this apically localized CFTR was functional
+and could be stimulated by forskolin and ATP ago-
+nists. We analyzed variations in fluorescence intensity
+Figure 2.
+Scanning electron microscopy of the 3-D cell culture. After 5 days of culture,
+microvilli are present on the surface epithelium of the spheroid (A and B). After
+15 days, a more cohesive structure (C and D) with some ciliated cells can be
+observed (arrow in C). After 35 days of 3-D culture, mature cilia at the surface
+of the spheroids are apparent (F) in scanning electron microscopy images. The
+presence of numerous ciliated cells covering the spheroid surface is evident in
+35-day-old spheroids, as observed by scanning confocal microscopy (E). A, C,
+and E, Bar /H1100530 /H9262m; B and D, Bar /H110055 /H9262m; F, Bar /H110052 /H9262m.
+Figure 3.
+Transmission electron microscopy of the 3-D cell culture. A, After 15 days of
+3-D culture, migration of centrioles ( arrows) to the apical part of the cell can
+be seen in the cytoplasm along with the presence of long microvilli at the
+surface of ciliated cells in the process of ciliogenesis. B, Tight junctions and
+desmosomes ( arrows) can be observed after 15 days. C, Mature cilia are
+identified after 35 days of 3-D culture. D, Secretory cells with secretory
+granules ( arrow) are observed at 15 days of 3-D cell culture. A and D, Bar /H11005
+6 /H9262m; B and C, Bar /H110053 /H9262m.
+Polarized Expression of CFTR in 3-D Culture
+Laboratory Investigation • August 2002 • Volume 82 • Number 8 991
+
+<<<PAGE 4>>>
+under chloride stimulations using SPQ fluorescence
+imaging. After sequential stimulation with amiloride,
+forskolin, and adenosine 5'-triphosphate (ATP), we
+observed a significant ( p /H110210.05) increase in fluores-
+cence intensity (Fig. 7). Assays carried out on noncili-
+ated spheroids (15-day-old) under the same condi-
+tions and with the same protocol did not show any
+variation of fluorescence intensity (not shown). These
+results confirm that, in the absence of apically local-
+ized CFTR in the 3-D culture, there was no chloride
+efflux after cAMP or ATP stimulation.
+Discussion
+Our results clearly demonstrate that after complete
+dissociation of human airway epithelial cells, the ex-
+pression of apical membrane proteins disappear and
+the re-establishment of cell-cell junctionality, polarity,
+and differentiation in 3-D cultures is associated with
+the apical plasma membrane localization of CFTR and
+associated proteins ezrin and CD59 (a GPI-anchored
+protein). Several investigators have previously shown
+that epithelial sheets, dissociated from adult airway
+surface epithelium, nasal brushings, or nasal polyps
+and cultured in suspension spontaneously reform
+free-floating epithelial spheroids in which ciliary activ-
+ity and ion transport functions could be maintained for
+several months (Bridges et al, 1991; Jorissen et al,
+1991; Pedersen et al, 1999; Ulrich et al, 1998). In all of
+these studies, the native well-organized surface epi-
+thelial cell structures were preserved and no informa-
+tion could therefore be obtained on the depolarization
+and repolarization process.
+During growth of human pancreatic cells in 2-D
+culture, targeting of CFTR to the apical plasma mem-
+branes is directly linked to the process of cell polar-
+ization (Hollande et al, 1998). In the present study, we
+observed an initial step of cell dedifferentiation fol-
+lowed by restoration of the ZO-1 tight junction protein
+after 15 days of culture and progressive neodifferen-
+tiation of ciliated and secretory cells. 3-D spheroid
+cultures of surface epithelial cells formed very rapidly
+during the first 24 hours of culture in suspension. The
+diameter of these spheroids averaged 50 to 100 /H9262m
+and remained within this range throughout the course
+of the study. The morphology of these spheroids is
+similar to that described by Bridges et al (1991),
+Jorissen et al (1991), Pedersen et al (1999), and Ulrich
+et al (1998) and is generally composed of a monolay-
+ered or occasionally two-layered epithelium. Percent-
+age of basal CK13-positive cells and CK18-positive
+cells did not differ significantly before and after 3-D
+culture. We did not observe airway cell proliferation
+even during the first days of 3-D culture. This is in
+agreement with the data reported by Bridges et al
+(1991), Jorissen et al (1991), Pedersen et al (1999), and
+Ulrich et al (1998), which suggest that these cells
+cease to proliferate as soon as they aggregate and
+form junctions. During the first 15 days of culture,
+ciliated cells could not be identified and all spheroid
+surface epithelial cells were covered with microvilli.
+After 15 days of 3-D culture, TEM images highlighted
+different aspects of ciliogenesis, such as deutero-
+somes and basal bodies migrating to the apical mem-
+brane of epithelial cells, similar to that observed during
+human fetal airway epithelium development (Gaillard
+et al, 1989), although primary cilia were never identi-
+fied. This ciliogenesis has previously been described
+by Jorissen et al (1989), who reported that after 2
+weeks in suspension, aggregates of pronase-released
+epithelial cell sheets exhibit ciliogenesis and ciliated
+Figure 4.
+Immunocytolocalization of MUC1 and MUC5AC antibody coupled with fluorescein isothiocyanate (FITC). A, After 35 days of 3-D culture, MUC1 can be obse rved at
+the apical membrane ( arrow). B, At the same time, a cytosolic distribution of MUC5AC is observed. A and B, Bar /H1100520 /H9262m.
+Table 1. Percentage of Epithelial Cell Types during
+Spheroid Maturation
+CK13 (%) CK18 (%)
+Dissociated spheroids at
+Day 5
+8.7 /H110060.4 89.3 /H110061.2
+Dissociated spheroids at
+Day 15
+7.5 /H110060.2 85.1 /H110061.0
+Dissociated spheroids at
+Day 25
+8.3 /H110060.3 90.5 /H110061.7
+Dissociated spheroids at
+Day 35
+8.2 /H110060.4 90.0 /H110061.5
+Results are expressed as the mean percentage ( /H11006SE) of cytokeratin (CK)
+13-positive basal cells and CK18-positive superficial cells, analyzed on three
+different samples, after mechanical dissociation of the spheroids.
+Castillon et al
+992 Laboratory Investigation • August 2002 • Volume 82 • Number 8
+
+<<<PAGE 5>>>
+cell maturation. After 25 days of 3-D culture, we
+observed that the percentage of mature and actively
+beating ciliated cells increased and after 35 days, the
+spheroids continuously rotate in the culture medium.
+The ciliary beating frequency, analyzed by quantitative
+video-microscopy, was similar to that reported in
+Figure 5.
+Immunocytochemical distribution during the 3-D spheroid differentiation. After 15 days, the localization of CD59 (A), ezrin (B), and the cystic fib rosis transmembrane
+conductance regulator (CFTR) (C) is cytosolic and the junctional protein ZO-1 is pericellular ( arrows) (D). After 35 days, CD59 (E), ezrin (F), CFTR (G), and ZO-1 (H)
+are apically located ( arrows). A, B, and D, Bar /H1100520 /H9262m; C, E, F, G, and H, Bar /H1100535 /H9262m.
+Polarized Expression of CFTR in 3-D Culture
+Laboratory Investigation • August 2002 • Volume 82 • Number 8 993
+
+<<<PAGE 6>>>
+organotypic cultures of human adult ciliated cells
+(Zahm et al, 1990). These well-differentiated spheroid-
+like structures of human airway epithelial cells could
+be maintained for up to 2 months in suspension
+culture. We could identify here, after 15 days of 3-D
+culture, secretory cells typical of goblet cells with
+secretory granules as described by Bals et al (1998) in
+organ-culture system of bronchial epithelial cells. Le-
+suffleur et al (1993) previously reported that mucin
+secretion is related to the growth and differentiation of
+different mucus-secreting intestinal epithelial cells.
+After 15 days of culture, MUC5AC, which is a major
+mucin component of airway secretory cells (Hoven-
+berg et al, 1996; Park et al, 1996), was detected in the
+secretory cells although no MUC1 was present. The
+expression of MUC1 was observed on the apical
+surface of cells after 35 days of culture. Apical distri-
+bution of MUC1 distinct from that of MUC5AC in
+secretory granules has been described for different
+types of polarized epithelial cells (Lesuffleur et al,
+1993; Ormerod et al, 1981) and particularly in airway
+epithelial cells. Our data confirm the results from
+Hovenberg et al (1996), who showed by immunocyto-
+chemistry that the MUC5AC mucin is produced by the
+goblet cells in airway cells and that MUC1 is a glyco-
+protein associated with the cell membrane and does
+not belong to the large family of secreted mucins.
+MUC1, which was only detected in fully-differentiated
+spheroids after 35 days of culture, appears to be a
+good marker of airway epithelial cell differentiation.
+In this work, we have also investigated the targeting
+of CFTR and associated proteins during polarization of
+Figure 6.
+Scanning confocal microscopy observation. After 35 days of 3-D culture, an apical localization of CFTR revealed with streptavidin alexa fluor 594 (A ) and an apical
+localization of ezrin revealed by streptavidin alexa fluor 488 (B) can be observed by using double immunolabeling. By superimposition, CFTR and ezri n are seen to
+be colocalized (C). CFTR, revealed with streptavidin alexa fluor 594 (D), and CD59, revealed with alexa fluor 488 (E), are also seen to be colocalized ( F). A, B, and
+C, Bar /H1100520 /H9262m; D, E, and F, Bar /H1100510 /H9262m.
+Castillon et al
+994 Laboratory Investigation • August 2002 • Volume 82 • Number 8
+
+<<<PAGE 7>>>
+human airway epithelial cells. The apical localization of
+CFTR is critical for its channel and regulatory function.
+CF is a lethal genetic disorder characterized by abnor-
+mal transepithelial transport caused by mutations in
+the apical membrane protein. Confinement of CFTR to
+the apical membrane is dependent on interactions
+between proteins containing PDZ domains, generally
+restricted to specific subcellular domains (Milewski et
+al, 2000; Short et al, 1998; Wang et al, 1998). The PDZ
+proteins, have been shown to be expressed at the
+apical membrane of human epithelia and are pro-
+posed to play structural and regulatory roles in many
+plasma membrane-based processes (Bretscher,
+1999). Ezrin is a structural component of microvilli and
+other actin-containing cell surface structures
+(Bretscher et al, 1997; Granés et al, 2000). It has been
+recently reported, for experiments employing confocal
+immunofluorescence microscopy, that in polarized
+intestinal epithelial cells, CFTR and ezrin were associ-
+ated with the Na /H11001/H/H11001exchanger type 3 kinase A
+regulatory protein that potentiates cAMP-stimulated
+CFTR chloride currents (Moyer et al, 1999). Because
+ezrin is an actin-binding protein, this protein scaffold-
+ing appears to be of major importance in stabilizing
+CFTR at the apical membrane domain of airway cells
+and in mediating their Cl /H11002secreting capacity (Sun et
+al, 2000). We therefore analyzed the progressive tar-
+geting of CFTR, ZO-1, and ezrin during the epithelial
+polarization and differentiation. By confocal immuno-
+fluorescence microscopy, we observed after 35 days
+of 3-D culture the apical localization of CFTR/ezrin and
+ZO-1 proteins. We also analyzed, by confocal immu-
+nofluorescence microscopy, the localization of a GPI-
+anchored membrane protein, CD59, which has been
+shown to be colocalized with CFTR in human airway
+epithelial Calu-3 cells (Bulteau et al, 2000). After 35
+days of 3-D culture, we observed that apically distrib-
+uted CFTR colocalized with the CD59 molecule and
+ezrin.
+All of these results suggest that human adult airway
+epithelial cells, which are initially completely dissoci-
+ated, isolated and nondifferentiated, can regenerate a
+polarized, junctional, and differentiated surface epi-
+thelium after one month in 3-D suspension culture.
+The progressive apical expression of CFTR is associ-
+ated with the polarization of other associated proteins
+such as ezrin, ZO-1 protein, and CD59. After 35 days
+of 3-D culture in suspension, in parallel with the
+membrane localization of CFTR, chloride secretion
+was observed after cAMP agonist and ATP stimula-
+tion. These results are in complete agreement with
+those of Pedersen et al (1999), who demonstrated that
+sheets of nasal epithelial cells in suspension cultures
+develop free-floating monolayer epithelial cells that
+exhibit a lumen-positive transepithelial potential differ-
+ence inhibited by amiloride. These authors also
+showed a cAMP-induced increase in potential differ-
+ence and an ATP-induced chloride secretion. All of
+these results indicate that the anchorage of a func-
+tional CFTR to the plasma membrane is progressive
+and parallels the apical targeting of membrane-
+associated proteins such as ezrin and CD59, thereby
+confirming that targeting of CFTR and associated
+membrane and submembrane scaffolding proteins are
+directly linked to the process of cellular polarization.
+This long-term 3-D airway epithelial cell culture
+exhibits evident advantages as compared with the
+classical 2-D culture, because it allows the repolariza-
+tion and maintenance of functional apical membrane-
+associated proteins. These primary spheroids can be
+mechanically dissociated and their capacity of self-
+renewing studied. Additional studies will be carried out
+to determine whether, under optimal growth factors
+culture conditions, the spheroids are able to regener-
+ate, in injured human airway xenograft, a functional
+airway epithelium.
+Materials and Methods
+3-D Cell Culture
+Human airway surface epithelial tissue was collected
+from nasal polyps ( n /H1100530) obtained from non-CF
+patients undergoing nasal polypectomy. After disso-
+ciation with 1% pronase (Sigma, St. Louis, Missouri) in
+Hank’s HEPES salts overnight at 4° C, isolated airway
+surface epithelial cells were completely dissociated by
+flushing through a 0.5 mm diameter needle attached
+to a syringe. Cell viability, as assessed by the trypan
+blue exclusion procedure, was in excess of 80%.
+Epithelial cells were then suspended in Ham ’s F12
+medium (Invitrogen, Carlsbad, California) with 2%
+Ultroser G and 1% antibiotics (200 U/ml of penicillin
+and 200 /H9262g/ml of streptomycin; Invitrogen) and sub-
+mitted to permanent horizontal rotation (100 rpm) for 2
+days in a 6-well plate at 37 ° C and 5% CO 2. The
+Figure 7.
+Chloride efflux measurement. A, Spheroids were incubated with the
+6-methoxy-N-(3-sulfopropyl) quinolinium (SPQ) fluorescent probe and held in
+nitrate buffer using a microcapillary tube to prevent their rotation during
+measurements. B, The intensity of fluorescence was analyzed after sequential
+stimulation by amiloride (10 /H9262M), forskolin (25 /H9262M), and ATP (10 /H110023 M). Data
+are expressed as mean values /H11006standard error. A significant ( p /H110210.05)
+increase of fluorescence intensity was observed after forskolin and ATP
+stimulation. Control assays, carried out in nitrate buffer, did not show any
+change in fluorescence intensity.
+Polarized Expression of CFTR in 3-D Culture
+Laboratory Investigation • August 2002 • Volume 82 • Number 8 995
+
+<<<PAGE 8>>>
+medium was changed after 24 hours (after gentle
+centrifugation 50 /H11003g, 20 seconds). After 48 hours, the
+spheroid structures were placed in a 25-ml tissue
+culture flask with fresh Ham’s F12 and kept in suspen-
+sion at 37° C and 5% CO2. The medium was changed
+twice a week according to the same protocol.
+Scanning Electron Microscopy
+After 5, 15, 25, or 35 days of culture, spheroids were
+gently centrifuged (50 /H11003g, 20 seconds). The pellet was
+placed on type I collagen-coated slides for 1 hour at
+37° C. Once attached, spheroid structures were fixed
+with 2% glutaraldehyde (Sigma) in 0.1 M PBS (Invitro-
+gen) for 1 hour at 4° C. After two rinses with PBS, the
+spheroids were dehydrated in increasing concentra-
+tions of ethanol ranging from 30% to 100%, critical
+point-dried with CO 2, attached to stubs and coated
+with a 15-nm diameter conductive film of gold-
+palladium in a vacuum evaporator. The different sam-
+ples were observed with a Philips scanning electron
+microscope (XL30).
+Transmission Electron Microscopy
+After 5, 15, 25, or 35 days, spheroids were gently
+centrifuged (50 /H11003g, 20 seconds) and the resulting
+pellet was fixed in 2% glutaraldehyde –PBS for 1 hour
+at room temperature and then postfixed with 1%
+osmium tetroxide at 4 ° C. The pellet was then dehy-
+drated using the same procedure as described for
+SEM and embedded in increasing concentrations of
+Epon (Agar Scientific, Essex, United Kingdom) diluted
+in ethanol and ranging from 50% to 100%. Polymer-
+ization for 78 hours at 60 ° C was then carried out.
+Ultrathin sections (80 nm) were cut on a microtome,
+mounted on copper grids, and stained with uranyl
+acetate and lead citrate. The sections were observed
+on a J.E.O.L. 200X transmission electron microscope
+operating at 75 kV.
+Immunofluorescence Microscopy
+Primary Antibodies. For CFTR immunolocalization,
+we used the 24 –1 mouse mAb raised against the
+carboxy terminus sequence (aa 1377 –1480) of CFTR
+and used at a dilution of 1:20 (R & D Systems Europe,
+Oxford, United Kingdom). For studying cell junction-
+ality, we used a 1:20 dilution of a rat mAb raised
+against a 225-kD polypeptide localized in the cyto-
+plasmic surface of the ZO-1 tight junction protein
+(Chemicon International, Temecula, California). As a
+marker of CFTR-associated protein, we used the ezrin
+rabbit polyclonal antibody (C-15 clone) raised against
+a peptide in the carboxy terminus sequence of human
+ezrin (Santa Cruz Biotechnology, Santa Cruz, Califor-
+nia). For cell polarity, we used a 1:100 dilution of a
+mAb (PharMingen International, San Diego, California)
+raised against a 19-kD glycosylphosphatidylinositol
+(GPI)–anchored protein called protectin (CD59). To
+characterize the airway epithelial cell phenotype, we
+used a mAb raised against cytokeratin peptide 18
+(CK18, CY-90 clone, at a dilution of 1:400) that is
+positive for columnar ciliated and secretory cells. For
+the detection of basal cells, we used a mAb raised
+against cytokeratin peptide 13 (CK13, KS-1A3 clone,
+dilution 1:400) that is expressed by basal cells. Both
+were purchased from Sigma.
+For cell proliferation, a mAb raised against the
+Ki67antigen (MIB-1 clone) was purchased from Immu-
+notech (Marseille, France), and used at a dilution of
+1:10. For secretory cell identification, we used the
+mAb MUC1-LICR LON M8 at a dilution of 1:50 (McIl-
+hinney et al, 1985) and the polyclonal antibody
+MUC5AC at a dilution of 1:800 (Hovenberg et al,
+1996). These were kindly provided by Jean-Pierre
+Aubert (INSERM U377, Lille, France).
+Secondary Antibodies. We used biotinylated sec-
+ondary antibodies raised against whole immunoglob-
+ulin (IgG) of sheep (RPN1025), rabbit (RPN1004),
+mouse (RPN1001), and rat (RPN1002). All of these
+antibodies were purchased from Amersham Pharma-
+cia Biotech (Little Chalfont, Buckinghamshire, United
+Kingdom) and used at a 1:50 dilution.
+Immunocytochemistry. Spheroids were gently cen-
+trifuged (50 /H11003g, 20 seconds) after 5, 15, 25, or 35 days
+of culture. Pellets were rinsed in 0.1M PBS, embedded
+in optimum cutting temperature compound (Tissue
+Tek; Sakura, Torrance, California), cryofixed in liquid
+nitrogen, and stored at /H1100280° C. Frozen sections (5 /H9262m
+thick) were placed on gelatin-coated glass slides and
+fixed in precooled methanol ( /H1100220° C) for 15 minutes.
+To saturate nonspecific sites, the sections were incu-
+bated with 1% bovine serum albumin (BSA) in 0.1 M
+PBS. The sections were then sequentially treated as
+follows: they were exposed to the primary antibody
+(diluted in 0.1 M PBS-BSA 1%) for 1 hour at room
+temperature, washed in 0.1M PBS, incubated with 1%
+0.1 M PBS-BSA, exposed to the adequate biotinylated
+antibody (1:50 in 1% 0.1M PBS-BSA), washed in 0.1M
+PBS, and finally revealed with streptavidin-coupled
+fluorescein isothiocyanate (FITC) at a 1:50 dilution in
+0.1 M PBS. Sections were finally counterstained with
+Harris hematoxylin solution (Sigma) and mounted in
+citifluor antifading solution (Agar Scientific). Observa-
+tions were made with the aid of an Axiophot micro-
+scope with epifluorescence and Nomarski differential
+interference illumination. Negative controls were per-
+formed by omitting the incubation step with the pri-
+mary antibody or by using corresponding nonimmune
+IgG fractions.
+Double immunolabeling was performed on entire
+spheroids prefixed with precooled methanol ( /H1100220° C)
+for 10 minutes. We successfully used the two primary
+antibodies according to the same protocol. The first
+was revealed by streptavidin alexa fluor 488 and the
+second by streptavidin alexa fluor 594 (Interchim,
+Montlucon, France) and then mounted in citifluor
+antifading solution (Agar Scientific) under a coverslip
+for subsequent observation using a scanning confocal
+microscope. We checked that the two recorded vol-
+umes corresponding to these two antibodies were not
+shifted with respect to each other, thus allowing study
+of their colocalization.
+Castillon et al
+996 Laboratory Investigation • August 2002 • Volume 82 • Number 8
+
+<<<PAGE 9>>>
+Evaluation of Airway Epithelial Cell Types
+Epithelial cell types were analyzed immediately after
+dissociation of the airway tissue and during the for-
+mation and differentiation of the 3-D spheroids. The
+spheroids were first dissociated at days 1, 2, 3, 4, 5,
+15, 25, and 35 by a mechanical procedure using a
+syringe fitted with a 0.5 diameter needle (n /H110053). After
+cytocentrifugation (200 /H11003g, 8 minutes), the relative
+proportion of the distinct airway epithelial cell types
+was determined by immunocytochemistry and light
+microscopy using the mAb to CK18 (marker of super-
+ficial cells) and to CK13 (marker of basal cells). For
+each sample, 10 fields were analyzed and the percent-
+age of CK13- and CK18-positive cells was averaged.
+At days 5, 15, 25, and 35, the proportion of ciliated
+and secretory cells present in the 3-D structures was
+quantified after hematoxylin staining of spheroids
+cryosections. For each sample ( n /H110054), we observed
+10 spheroids, with the results expressed as the per-
+centage of ciliated and secretory cells identified in the
+spheroid structures.
+To evaluate the proportion of epithelial cell pheno-
+types present after tissue dissociation, according to
+the same protocol as that used for spheroids, we used
+cytocentrifugation and, after hematoxylin staining of
+each sample, 10 fields were observed to determine
+the proportion of ciliated and secretory cells.
+Quantification of Airway Cell Proliferation
+To evaluate proliferation of the airway cells after 3-D
+spheroid formation, we mechanically dissociated the
+spheroids after 1, 2, 3, 4, 5, 15, 25, and 35 days and
+immunostained the cytocentrifuged cells by using a
+mouse antibody to Ki67 (nuclear marker of proliferat-
+ing cells expressed during G1, S, G2, and M phases of
+the cell cycle).
+Scanning Laser Confocal Microscopy
+Spheroids were observed with a MRC-600 Bio-Rad
+confocal system (Bio-Rad, Richmond, California)
+mounted on a Zeiss Axiophan microscope (Carl Zeiss,
+Oberkochen, Germany) equipped with a planapochro-
+mat /H1100363, 1.4 numerical aperture oil immersion objec-
+tive. Depending on the spheroid size, 50 to 100
+sequential sections were collected at 0.2 /H9262m Z-step.
+Spheroids were observed using an Argon ion laser
+(emitting at 488 nm) and a Helium/Neon laser (emitting
+at 543 nm).
+Video Measurement of the Ciliary Beating Frequency
+Video recordings of ciliated cells present on the sur-
+face of the spheroids were performed through a /H1100340
+objective. For ciliary beating measurements, the video
+images of active ciliated cells were displayed on a
+video screen where individual ciliated cells could be
+selected for analysis using a previously described
+technique (Zahm et al, 1990).
+Measurement of Chloride Efflux by SPQ Analysis
+Tissue culture flasks ( n /H110054) containing 35-day-old
+spheroids were incubated with the 6-methoxy-N-(3-
+sulfopropyl) quinolinium (SPQ) probe (Sigma) in a
+hypotonic chloride buffer solution (130 m M NaCl, 2.4
+mM K2HPO4,1 0m M D-glucose, 1 m M CaSO4,1m M
+MgSO4, and 10 m M HEPES). Each spheroid was
+maintained in position by a contention microcapillary
+tube (Vacutips; Eppendorf Scientific, Westbury, New
+York) in a perfused culture on an inverted microscope
+(Nikon TE300). Spheroids were first incubated for 14
+minutes in a nitrate buffer in which the NaCl was
+replaced by 103 mM NaNO3. Every 15 minutes, amilo-
+ride (10 /H9262M), forskolin (25 /H9262M), and ATP (10 /H9262M) were
+successively added to the nitrate buffer. Throughout
+the experimental process, fluorescence images (ob-
+tained from excitation light at 365 nm and emission
+light at 395 nm) were recorded every minute using a
+Micromax CDD camera (Roper Scientific, Japan) and
+Metamorph software (Universal Imaging, Downing-
+town, Pennsylvania). Chloride secretion by the sphe-
+roids was estimated by measuring variations with time
+in SPQ fluorescence in regions of interest on each
+image of the series as described by Bonnet and Zahm
+(1998).
+Statistical Analysis
+Results were expressed as mean /H11006standard error.
+Data were compared using the Student ’s t test with a
+value of p /H110210.05 considered to be significant.
+References
+Bals R, Gamarra F, Kaps A, Grundler S, Huber RM, and
+Welsch U (1998). Secretory cell types and cell proliferation of
+human bronchial epithelial cells in an organ-culture system.
+Cell Tissue Res 293:573 –577.
+Bonnet N and Zahm JM (1998). Analysis of image sequence
+in fluorescence videomicroscopy of stationary objects. Cy-
+tometry 31:217–228.
+Bretscher A (1999). Regulation of cortical structure by the
+ezrin-radixin-moesin protein family. Curr Opin Cell Biol 11:
+109 –116.
+Bretscher A, Reczek D, and Berryman M (1997). Ezrin: A
+protein requiring conformational activation to link microfila-
+ments to the plasma membrane in the assembly of cell
+surface structures. J Cell Sci 110:3011 –3018.
+Brezillon S, Dupuit F, Hinnrasky J, Marchand V, Kalin N,
+Tummler B, and Puchelle E (1995). Decreased expression of
+the CFTR protein in remodeled human nasal epithelium from
+non-cystic fibrosis patients. Lab Invest 72:191 –200.
+Brezillon S, Hamm H, Heilmann M, Schafers HJ, Hinnrasky J,
+Wagner TO, Puchelle E, and Tummler B (1997). Decreased
+expression of the cystic fibrosis transmembrane conduc-
+tance regulator protein in remodeled airway epithelium from
+lung transplanted patients. Hum Pathol 28:944 –952.
+Bridges MA, Walker DC, Harris RA, Wilson BR, and Davidson
+AGF (1991). Cultured human nasal epithelial multicellular
+spheroids: Polar cyst-like model tissues. Biochem Cell Biol
+69:102–108.
+Polarized Expression of CFTR in 3-D Culture
+Laboratory Investigation • August 2002 • Volume 82 • Number 8 997
+
+<<<PAGE 10>>>
+Bulteau L, D érand R, Mettey Y, M étayé T, Rachel Morris M,
+McNeilly CM, Folli C, Galietta LJV, Zegarra-Moran O, Pereira
+MC, Jougla C, Dormer RL, Vierfond JM, Joffre M, and Becq
+F (2000). Properties of CFTR activated by the xanthine
+derivative X-33 in human airway Calu-3 cells. Am J Physiol
+Cell Physiol 279:C1925 –C1937.
+Denning GM, Ostedgaard LS, and Welsh MJ (1992). Abnor-
+mal localization of cystic fibrosis transmembrane conduc-
+tance regulator in primary cultures of cystic fibrosis airway
+epithelia. J Cell Biol 118:551 –559.
+Dupuit F, Kal ïnN ,B r ézillon S, Hinnrasky J, T ümmler B, and
+Puchelle E (1995). CFTR and differentiation markers expres-
+sion in non-CF and /H9004F508 homozygous CF nasal epithelium.
+J Clin Invest 96:1601 –1611.
+Fanning AS and Anderson JM (1999). Protein modules as
+organizers of membrane structure. Curr Opin Cell Biol 11:
+432–439.
+Gaillard D, Lallemand AV, Petit AF, and Puchelle E (1989). In
+vivo ciliogenesis in human fetal tracheal epithelium. Am J
+Anat 16:219 –225.
+GranésF ,U r eòa JM, Rocamora N, and Vilaro S (2000). Ezrin
+links syndecan-2 to the cytoskeleton. J Cell Sci 113:1267 –
+1276.
+Hollande E, Fanjul M, Chemin-Thomas C, Devaux C, De-
+molombe S, Retschoten JV, Guy-Crotte O, and Figarella C
+(1998). Targeting of CFTR protein is linked to the polarization
+of human pancreatic duct cells in culture. Eur J Cell Biol
+76:220 –227.
+Hovenberg HW, Davies JR, and Carlstedt I (1996). Different
+mucins are produced by the surface epithelium and the
+submucosa in human trachea: Identification of MUC5AC
+as a major mucin from the goblet cells. Biochem J 318:
+319 –324.
+Jorissen M, Van der Schueren B, Van der Berghe H, and
+Cassiman JJ (1989). The preservation and regeneration of
+cilia on human nasal epithelial cells cultured in vitro. Arch
+Otorhinolaryngol 246:308 –314.
+Jorissen M, Van der Schueren B, Van der Berghe H, and
+Cassiman JJ (1991). Contribution of in vitro culture methods
+for respiratory epithelial cells to the study of the physiology of
+the respiratory tract. Eur Respir J 4:210 –217.
+Ka¨ lin N, Claa /H9252A, Sommer M, Puchelle E, and T ümmler B
+(1999). /H9004F508 CFTR protein expression in tissues from
+patients with cystic fibrosis. J Clin Invest 103:1379 –1389.
+Lesuffleur T, Porchet N, Aubert JP, Swallow D, Gum JR, Kim
+YS, Real FX, and Zweibaum A (1993). Differential expression
+of the human mucin genes Muc1 to Muc5 in relation to
+growth and differentiation of different mucus-secreting
+HT-29 cell subpopulations. J Cell Sci 106:771 –783.
+McIlhinney RA, Patel S, and Gore ME (1985). Monoclonal
+antibodies recognizing epitopes carried on both glycolipids
+and glycoproteins of the human fat globule membrane.
+Biochem J 227:155 –162.
+Milewski MI, Mickle JE, Forrest JK, Stafford DM, Moyer BD,
+Cheng J, Guggino WB, Stanton BA, and Cutting GR (2000). A
+PDZ-binding motif is essential but not sufficient to localize
+the C terminus of CFTR to the apical membrane. J Cell Sci
+114:719 –726.
+Morris AP, Cunningham SA, Benos DJ, and Frizzell RA
+(1992). Cellular differentiation is required for cAMP but not
+Ca2/H11001-dependant Cl /H11002secretion in colonic epithelial cells
+expressing high levels of cystic fibrosis transmembrane
+conductance regulator. J Biol Chem 267:5575 –5583.
+Moyer BD, Denton J, Karlson KH, Reynolds D, Wang S,
+Mickle JE, Milewski M, Cutting GR, Guggino WB, Li M, and
+Stanton BA (1999). A PDZ-interacting domain in CFTR is an
+apical membrane polarization signal. J Clin Invest 104:1353–
+1361.
+Ojakian GK, Ratcliffe DR, and Schwimmer R (2001). Integrin
+regulation of cell-cell adhesion during epithelial tubule forma-
+tion. J Cell Sci 114:941 –952.
+Ormerod MG, Monaghan P, Easty D, and Easty GC (1981).
+Asymmetrical distribution of epithelial membrane antigen on
+the plasma membranes of human breast cell lines in culture.
+Diagn Histopathol 4:89 –93.
+Park HR, Hyun SW, and Kim KC (1996). Expression of Muc1
+mucin gene by hamster tracheal surface epithelial cell in
+primary culture. Am J Respir Cell Mol Biol 15:237 –244.
+Pedersen PS, Frederiksen O, Holstein-Rathlou NH, Larsen
+PL, and Qvortrup K (1999). Ion transport in epithelial sphe-
+roids derived from human airway cells. Am J Physiol 276:
+L75–L80.
+Penque D, Mendes F, Beck S, Farinha C, Pacheco P,
+Nogueira P, Lavinha J, Malho R, and Amaral MD (2000).
+Cystic fibrosis F508del patients have apically localized CFTR
+in a reduced number of airway cells. Lab Invest 80:857–868.
+Puchelle E, Gaillard D, Ploton D, Hinnrasky J, Fuchey C,
+Boutterin MC, Jacquot J, Dreyer D, Pavirani A, and Dalemans
+W (1992). Differential localization of the cystic fibrosis con-
+ductance regulator in normal and cystic fibrosis airway
+epithelium. Am J Respir Cell Mol Biol 7:485 –491.
+Rodriguez-Boulan E and Powell SK (1992). Polarity of epi-
+thelial and neuronal cells. Annu Rev Cell Biol 8:395 –427.
+Short DB, Trotter KW, Reczek D, Kreda SM, Bretscher A,
+Boucher RC, Stutts MJ, and Milgram SL (1998). An apical
+PDZ protein anchors the cystic fibrosis transmembrane con-
+ductance regulator to the cytoskeleton. J Biol Chem 273:
+19797–19801.
+Sun F, Hug MJ, Lewarchik CM, Yun CC, Bradbury NA, and
+Frizzell RA (2000). E3KARP mediates the association of ezrin
+and protein kinase A with the cystic fibrosis transmembrane
+conductance regulator in airway cells. J Biol Chem 275:
+29539 –29546.
+Ulrich M, Herbert S, Berger J, Bellon G, Louis D, Munker G,
+and Doring G (1998). Localization of Staphylococcus aureus
+in infected airways of patients with cystic fibrosis and in a cell
+culture model of S. aureus adherence. Am J Respir Mol Biol
+19:83–91.
+Wang S, Raab RW, Schatz PJ, Guggino WB, and Li M (1998).
+Peptide binding consensus of the NHERF-PDZ1 domain
+matches the C-terminal sequence of cystic fibrosis trans-
+membrane conductance regulator (CFTR). FEBS Lett 427:
+103–108.
+Zahm JM, Dionisius JP, Pierrot D, Chevillard M, and Puchelle
+E (1990). Video measurement of the ciliary beating frequency.
+Innov Biol Med 11:118 –128.
+Castillon et al
+998 Laboratory Investigation • August 2002 • Volume 82 • Number 8

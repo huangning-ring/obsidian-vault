@@ -1,0 +1,825 @@
+
+
+<<<PAGE 1>>>
+THE JOURNAL OF GENE MEDICINE RESEARCH ARTICLE
+J Gene Med 2004; 6: 846–856.
+Published online 24 March 2004 in Wiley InterScience (www.interscience.wiley.com). DOI: 10.1002/jgm.570
+Regeneration of a well-differentiated human airway
+surface epithelium by spheroid and lentivirus
+vector-transduced airway cells
+Nicolas Castillon1†
+Aur´elie Avril-Delplanque2,3†
+Christelle Coraux1
+Christophe Delenda2
+Bruno P´eault3
+Olivier Danos2
+Edith Puchelle1*
+1INSERM UMRS 514, IFR 53, CHU
+Maison-Blanche, 45 rue Cognacq-Jay,
+Reims, France
+2GENETHON, CNRS, UMR 8115, 1bis
+r u ed el ’ i n t e r n a t i o n a l ,E v r y ,F r a n c e
+3INSERM U506, Centre hospitalier
+Paul Brousse, 12 avenue Paul Vaillant
+Couturier, Villejuif, France
+*Correspondence to: Edith Puchelle,
+INSERM UMRS 514, IFR 53, CHU
+Maison-Blanche, 45 rue
+Cognacq-Jay, 51092 Reims
+Cedex, France.
+E-mail:
+edith.puchelle@univ-reims.fr
+†These authors contributed equally
+to this work.
+Received: 22 July 2003
+Revised: 19 December 2003
+Accepted: 16 January 2004
+Abstract
+Background Following injury to the airway epithelium, rapid regeneration
+of a functional epithelium is necessary in order to restore the epithelial
+barrier integrity. In the perspective of airway gene/cell therapy, we analyzed
+the capacity of human airway epithelial cells cultured as three-dimensional
+(3-D) spheroid structures to be efﬁciently transduced on long term by a
+pseudotyped lentiviral vector. The capacity of the 3-D spheroid structures
+to repopulate a denuded tracheal ba sement membrane and regenerate a
+well-differentiated airway epithelium was also analyzed.
+Methods An HIV-1-derived VSV-G pseudotyped lentiviral vector encoding
+the enhanced green ﬂuorescent protein (eGFP) was used. Airway epithelial
+cells were isolated from mature human fetal tracheas and airway xenografts,
+cultured as 3-D spheroid structures, an d either transduced at multiplicity of
+infection (MOI) 10 and 100 or assayed in an ex vivo and in vivo model to
+evaluate their regeneration capacity.
+Results An in vivo repopulation assay in SCID-hu mice with transduced
+isolated fetal airway epithelial cells shows that lentiviral transduction does
+not alter the airway reconstitution. Transduction of the 3-D spheroid
+structures shows that 12% of cells were eGFP-positive for up to 80 days.
+In ex vivo and in vivo assays (NUDE-hu mice), the 3-D spheroid structures
+are able to repopulate denuded basement membrane and reconstitute a
+well-differentiated human airway surface epithelium.
+Conclusions The efﬁcient and long-term lentiviral transduction of 3-D
+spheroid structures together with their capacity to regenerate a well-
+differentiated mucociliary epitheliu m demonstrate the potential relevance
+of these 3-D structures in human airway gene/cell therapy. Copyright 2004
+John Wiley & Sons, Ltd.
+Keywords airway epithelium regeneration; 3-D spheroid structures; lentivirus
+vector; cystic ﬁbrosis
+Introduction
+The airway epithelium represents the ﬁrst barrier of lung defense against
+inhaled pathogens or noxious agen ts. Because of its permanent con-
+tact with the external environment, the airway epithelium is frequently
+injured. As a result of this, severe damage to the epithelial integrity
+Copyright  2004 John Wiley & Sons, Ltd.
+
+<<<PAGE 2>>>
+Regeneration of Airway Epithelium 847
+and barrier function can occur: this can vary from a
+loss of the barrier permeability to the denudation of
+the basement membrane on which the surface airway
+epithelium lies. In pathological conditions such as cystic
+ﬁbrosis (CF), strategies for the repair and regeneration of
+the airway epithelium should also include the repair of
+the CF gene mutation. Such an objective requires that the
+efﬁcient and long-term expression of a required transgene
+in the airway epithelial cells be obtained along with the
+capacity of these transduced airway cells to regenerate
+a well-differentiated epithelium after reimplantation in
+airway-epithelial-denuded areas. The efﬁciency of airway
+epithelial gene therapy requires that the gene vector
+reaches the airway epithelial cell surface and thereby
+overcomes the mucus barrier, after which it binds to
+apical receptors to facilitate entry of the virus across the
+apical membrane into the cytoplasm. Because the luminal
+application of lentiviral vectors failed to transduce well-
+differentiated airway epithelium in bronchial xenografts
+[1], a strategy to circumvent the mucus barrier and
+bypass the apical membrane receptors might be to ﬁrst
+transduce isolated non-junctional airway epithelial cells.
+T h e s et r a n s d u c e dc e l l sc o u l dt h e nb eu s e dt or e c o n s t i t u t e
+an airway epithelium by implantation in upper or
+lower airways where denuded basement membrane
+may facilitate the adhesion, migration, proliferation and
+redifferentiation of these cells, as previously shown
+in airway xenograft models [2]. An alternative that
+we propose here is to transduce polarized and well-
+differentiated 3-D spheroid structures produced from
+isolated airway epithelial cells. The spheroid approach
+should be superior to the isolated cell approach since
+these 3-D spheroid structures can be used as a pool
+of autologous corrected human airway epithelial cells
+maintained in suspension for several months without
+any alteration of their polarized and differentiated state
+[3], whereas single epithelial cells in 2-D culture rapidly
+dedifferentiate. Under such conditions, the problem of
+the mucus barrier can be overcome on account of its
+progressive dissolution in the culture medium where the
+spheroids are maintained in suspension. The transduced
+spheroid structures can then be used to reconstitute a
+functional airway surface epithelium. The demonstration
+that pseudotyped lentiviral vectors can achieve the
+efﬁcient and long-term transduction of a polarized airway
+epithelium from the apical cell surface in vivo and in vitro
+[4,5] encouraged us to use this vector strategy to
+transduce human airway epithelial cells.
+In the present study, we evaluate the transduction
+efﬁciency and long-term expression of the enhanced
+green ﬂuorescent protein (eGFP) contained in a HIV-
+1-derived VSV-G pseudotyped lentiviral vector using
+in vitro 3-D cell culture. Isolated transduced human
+airway epithelial cells cultured as 3-D spheroids showed a
+sustained expression of the eGFP for 80 days without
+any alteration to airway epithelial differentiation or
+functionality. We also observed an efﬁcient transduction
+of the eGFP-lentiviral vector into mature and well-
+differentiated 3-D spheroid structures. In terms of future
+human cell therapy perspectives, we demonstrate, using
+a miniaturized in vivo airway xenograft model, that these
+epithelial 3-D spheroid structures are able to regenerate
+a well-differentiated, polarized and junctional airway
+epithelium when implanted on the denuded tracheal
+basement membrane of a host trachea.
+Materials and methods
+Lentiviral vector
+The vesicular stomatitis virus glycoprotein (VSV-
+G) pseudotyped human lentiviral vector expressing
+the enhanced green ﬂuorescent protein (eGFP) used
+in this study was produced by co-transfection of
+human kidney 293T cells with three plasmids. The
+packaging plasmid (pCMV /Delta1R8.74) provides gag, pol,
+tat and rev helper vector proteins driven by the
+human cytomegalovirus promoter. The envelope plasmid
+(pMD.G) encodes the heterologous VSV/G. The trans-
+fer vector (pRRLSIN.cPPT.hPGK/eEGFP.WPRE) contains
+a 400-bp deletion in the U3 region of the 3
+′LTR (self-
+inactivating, SIN). The reporter eGFP gene expression
+is driven by the internal human phosphoglycerate kinase
+promoter and the posttranscriptionalcis-acting regulatory
+element of the woodchuck hepatitis virus is inserted in
+the sense orientation in order to increase the transgene
+expression [6]. The central polypurine tract is associated
+with the central termination site in order to enhance
+nuclear translocation [7,8].
+Lentiviral vector preparations were puriﬁed and
+concentrated from the conditioned media of transfected
+cells by ultracentrifugation. Lentiviral vector stocks were
+titered on HT1080 cells and generally exceeded 5 × 10
+9
+infectious units (IU)/ml.
+FACS analysis
+The lentiviral vector was used with a multiplicity of
+infection (MOI) ranging from 1 to 100. It was incubated
+overnight at 37
+◦C with isolated human fetal airway
+epithelial cells in the presence of Polybrene (4 µg/mL)
+in supplemented RPMI 1640 medium. Cell transduction
+was analyzed on a FACScan ﬂow cytometer (Becton
+Dickinson). The cells were examined using a single laser
+(488 nm wavelength, 0.4 mW power) to generate 2
+◦
+and 90 ◦ light scatter signals and green ﬂuorescence.
+Data were processed as two-parameter dot plots. Five
+thousand ungated events per sample were analyzed using
+the FACScan research software (BD). Seven experiments
+were conducted. Controls were carried out using isolated
+cells without incubation with lentiviral vector.
+Human fetal airway epithelial cell
+culture and transduction
+Fetal mature airway epithelial cells were chosen as a
+source of human airway epithelial cells in order to avoid
+Copyright  2004 John Wiley & Sons, Ltd. J Gene Med 2004; 6: 846–856.
+
+<<<PAGE 3>>>
+848 N. Castillon et al.
+any history of inﬂammation or infection present in the
+cell culture that could inﬂuence the transduction and
+expression of the lentiviral vector. Human fetal tissues
+were collected following therapeutic abortions performed
+in compliance with the current French legislation and
+with approval of both National (CCNE) and Institutional
+(COPE) Ethics Committees. These fetal airway epithelial
+cells were isolated either from mature fetal xenografts
+as previously described [9] or from ungrafted human
+fetal trachea. To harvest xenografts, host mice were
+sacriﬁced by cervical dislocation. A total of 68 well-
+differentiated human airway xenografts (gestational age:
+23.5 ± 5.9 weeks; range 12–32; duration of engraftment:
+20.8 ± 13.0 weeks; range 5–46) were harvested and
+dissociated to obtain a suspension of isolated human fetal
+airway epithelial cells. To that end, xenografts were ﬁlled
+intraluminally with 1% pronase in RPMI medium and left
+at 4
+◦C overnight. The isolated airway surface epithelial
+cells were suspended in RPMI medium supplemented
+with 10% newborn calf serum (NCS) and then completely
+dissociated by ﬂushing the medium through a 0.5 mm
+diameter needle to produce a suspension of single cells.
+Cell viability, assessed by the trypan blue exclusion test,
+was in excess of 90%. The resultant epithelial single-cell
+suspension was used to obtain spheroid structures (see
+below) as well as for a SCID-hu reconstitution assay.
+Human airway epithelial cells were also isolated from
+fetal tracheas (n = 5, gestational age: 21 .6 ± 4.3w e e k s )
+which were obtained from normal human fetuses after
+spontaneous or medically induced abortions. The isolated
+tissue was washed in RPMI medium and incubated
+o v e r n i g h ta t4
+◦C with 1% pronase as described above.
+Isolated fetal airway epithelial cells obtained in this
+manner were used for 3-D spheroid cultures.
+Spheroid structures
+Isolated fetal airway epithelial cells (from fetal trachea
+or fetal airway xenografts) were suspended in Ham’s F12
+medium with 2% Ultroser G and 1% antibiotics (200 U/mL
+penicillin and 200 µg/mL streptomycin) and submitted to
+permanent horizontal rotation (100 rpm) for 24 h in a 6-
+well plate at 37
+◦Ca n d5 %C O2. The medium was changed
+after 24 h (by gentle centrifugation; 50 g,2 0s )a n dt h e
+spheroid structures were transferred to a 25 mL-tissue
+culture ﬂask with fresh supplemented Ham’s F12 and
+kept in suspension at 37◦Ca n d5 %C O2. The medium was
+changed twice a week according to the same protocol [3].
+Lentiviral transduction in spheroid structures
+Two sets of experiments were carried out. In the ﬁrst set,
+the fetal airway epithelial cells were transduced during
+spheroid structure formation and the cells were incubated
+during permanent horizontal rotation with the lentivirus
+(MOI 100) in the presence of Polybrene (4 µg/mL).O n c e
+the 3-D structures were formed, the medium was changed,
+as described above, in order to remove non-integrated
+lentivirus. In the second set of experiments, transduction
+was performed on mature (35 days), polarized 3-D
+spheroid structures. The lentivirus (MOI 100) and
+Polybrene (4 µg/mL) were directly incubated in the
+25 mL-tissue culture ﬂask over a 24-h period. eGFP
+expression was observed with the aid of a Micromax
+CCD camera (Roper Scientiﬁc) on an inverted microscope
+(Nikon TE300). The transduced spheroid structures were
+directly observed in the 25 mL-tissue culture ﬂask.
+Repopulation assays in SCID-hu xenograft
+model after lentiviral transduction
+Isolated human fetal airway epithelial cells were
+incubated overnight at 37
+◦C in supplemented RPMI
+medium with lentivirus (MOI ranging from 10 to 100)
+and Polybrene (4 µg/mL). The medium was then changed
+and transduced airway epithelial cells were seeded in the
+in vivo SCID-hu assay. Brieﬂy, host human fetal xenografts
+were harvested and deprived of their own native
+epithelium by three rounds of freezing and thawing in
+fetal calf serum (FCS) plus 10% (v/v) dimethyl sulfoxide
+(DMSO). For each repopulation experiment (n = 11),
+1.10
+5 transduced cells were inoculated intraluminally
+into distinct conditioned host grafts. Control grafts were
+denuded and incubated with RPMI-CaMg. After 24 h
+at 37
+◦Ca n d5 %C O 2, all grafts were implanted back
+into SCID mice. Reconstituted and control grafts were
+harvested after several weeks for short- (4 weeks) and
+long-(10 weeks) term reconstitution and chemically ﬁxed
+with paraformaldehyde (4% in phosphate-buffered saline,
+PBS) for 1 h at 4
+◦C. The grafts were then rinsed with
+PBS and embedded in optimum cutting temperature
+c o m p o u n d( O C T ,T i s s u eT e k ,C A ,U S A ) ,c r y o ﬁ x e di n
+liquid nitrogen and stored at −80◦C. Frozen sections
+(5 µm thick) were placed on gelatin-coated glass slides,
+rehydrated with PBS (10 min, room temperature) and
+mounted with Aquamount Mountant (BDH, UK) for
+eGFP detection. The percentage of transduced cells was
+analyzed by counting the number of eGFP-positive cells in
+the reconstituted surface epithelium in 10 sections from
+each graft.
+Airway repopulation assays with 3-D
+spheroid structures
+In vitro
+Approximately 100 mature human fetal airway spheroid
+structures (35 days) were placed in contact with a
+collagen gel mimicking the environment of a denuded
+basement membrane. Alterations in cell membrane
+permeability of the spheroids after their adhesion was
+analyzed using a cell viability kit (Interchim, France)
+containing a mixture of SYTO 9 green-ﬂuorescent nucleic
+acid stain (3.34 mM in DMSO) and propidium iodide red-
+ﬂuorescent nucleic acid stain (20 mM in DMSO). SYTO 9
+labels all the cells, whereas propidium iodide penetrates
+only those cells with damaged membranes causing a
+reduction in the SYTO 9 ﬂuorescence when both dyes are
+present. Thus, using a mixture of the two probes, it was
+Copyright  2004 John Wiley & Sons, Ltd. J Gene Med 2004; 6: 846–856.
+
+<<<PAGE 4>>>
+Regeneration of Airway Epithelium 849
+possible to ascertain whether cell membranes were intact
+(green straining) or altered (red staining). The contents of
+the 25 mL-tissue culture ﬂask, containing approximately
+100 mature (35 days) spheroid structures, were gently
+centrifuged (50 g, 20 s) and the pellet incubated in 1 mL
+Ham’s F12 medium containing a mixture of SYTO 9 and
+propidium iodide (15 min, 37
+◦C). The spheroids were
+then rinsed in Ham’s F12 medium and the pellet was
+suspended in 20 µL of the same medium and seeded
+on a collagen gel in a 96-well dish. The spheroids were
+maintained in contact with the gel at 37
+◦Cf o r3h .A f t e r
+adhesion, 20 µL of Ham’s F12 medium were added and
+changed every day. The Syto9/propidium iodide-stained
+spheroids were observed in the 96-well dish.
+Ex vivo
+Human fetal tracheas (gestational age: 22 ± 1.5w e e k s ;
+ranging from 20–24 weeks) were treated with one round
+of freezing and thawing in order to remove the native
+airway surface epithelium without basement membrane
+degradation. They were then placed on a collagen gel in a
+96-well dish and used as a host matrix. Approximately 100
+mature spheroids (35 days) were seeded on the matrix
+according to the same protocol as described above. At day
+1, 2, 7 or 15, the matrix was embedded in OCT, cryoﬁxed
+in liquid nitrogen, and stored at −80
+◦C. Frozen sections
+(5 µm thick) were placed on gelatin-coated glass slides
+for immunocytochemical analysis.
+In vivo
+We have developed a miniaturized humanized tracheal
+xenograft model using denuded mouse trachea implanted
+in NUDE mice. The dimensions of the mouse trachea
+w e r e5 m mi nl e n g t hw i t ha ni n n e rd i a m e t e ro fa b o u t
+1 mm. Immediately after their removal from the mouse,
+the tracheas were tied at their distal end to sterile
+polyethylene tubing using tissue glue (Histoacryl, Braun,
+Germany) and frozen at −80
+◦C in order to remove the
+surface airway epithelium. An average of 100 mature
+spheroids (35 days) in supplemented Ham’s F12 medium
+were seeded into the denuded mouse trachea through a
+needle (0.8 mm diameter) and the grafts were placed in
+a sterile environment at 37
+◦C for 3 h in order to promote
+spheroid adherence. The tracheas were then implanted
+in the ﬂanks of NUDE mice (Charles River France,
+France) previously anestheti zed with an intraperitoneal
+(i.p.) injection of pentobarbital sodium (40 mg/kg) and
+maintained under pathogen-free conditions. The mice
+were killed by an overdose of i.p.-injected pentobarbital
+sodium on day 7, 14, 21, 28 or 35 after implantation.
+Tracheas were directly cryoﬁxed as described above.
+Frozen sections (5 µm) were kept at −20
+◦Cf o rf u r t h e r
+immunocytochemical analysis.
+Immunoﬂuorescence microscopy
+A mouse monoclonal antibody (mAb) raised against
+cytokeratin peptide 18 (CK18, CY-90 clone, at a dilution
+of 1: 400, purchased from Sigma) was used for labeling
+of columnar ciliated and secretory cells. An mAb raised
+against the cytokeratin peptide 13 (CK13, at a dilution of
+1: 400, purchased from Sigma) was used for the labeling
+of basal cells. For cell proliferation analysis, a monoclonal
+antibody raised against the Ki67 antigen (MIB-1 clone)
+was purchased from Immunotech (France), and used at
+a dilution of 1 : 20. For secretory cell identiﬁcation, the
+polyclonal antibody MUC5AC (raised in rabbit; kindly
+provided by J.-P. Aubert, INSERM U377, Lille, France)
+was used at a dilution of 1 : 800. For labeling of the
+junctional protein ZO-1, an mAb (purchased from Zymed,
+San Francisco, CA, USA) was used at a dilution of 1 : 20.
+CFTR mAb was purchased from R&D Systems (Oxford,
+UK) and used at a dilution of 1 : 20. Ezrin polyclonal
+antibody (raised in goat) was purchased from Santa
+Cruz Biotechnology (Santa Cruz, CA, USA) and used at a
+dilution of 1 : 50. Biotinylated secondary antibodies raised
+against whole immunoglobulins (IgG) of mouse, goat or
+rabbit were purchased from Amersham Pharmacia Biotech
+(UK) and used at a 1 : 50 dilution. Immunocytochemical
+analyses were performed on frozen sections which were
+ﬁxed in pre-cooled methanol ( −20
+◦C) for 15 min. To
+saturate non-speciﬁc sites, the sections were incubated
+with 1% bovine serum albumin (BSA) in 0.1 M PBS. The
+sections were then sequentially treated as follows: they
+were exposed to the primary antibody (diluted in 0.1 M
+PBS/BSA 1%) for 1 h at room temperature, washed in
+0.1 M PBS, incubated with 1% 0.1 M PBS/BSA, exposed
+to the adequate biotinylated antibody (1 : 50 in 1% 0.1 M
+PBS/BSA), washed in 0.1 M PBS and ﬁnally revealed with
+streptavidin alexa ﬂuor 488 at a 1 : 100 dilution in 0.1 M
+PBS for 30 min. Sections were ﬁnally counterstained
+with Harris hematoxylin solution (Sigma) and mounted
+in Aqua Polymount antifading solution (Polysciences,
+Warrington, PA, USA). Observations were made with the
+aid of an Axiophot microscope with epiﬂuorescence and
+Nomarski differential interference illumination.
+Functional activity of the 3-D human
+fetal airway epithelium spheroid
+structures
+In order to control the functional activity of the spheroid
+structures before and after lentiviral transduction, a
+quantitative analysis of the beating frequency of the
+ciliated cells was performed and their chloride efﬂux
+capacity analyzed.
+Video measurement of the ciliary beating
+frequency
+In order to assess the functional activity of the ciliated
+cells after lentiviral transduction, video recordings of
+ciliated cells present on the surface of the transduced
+spheroids were performed with a ×40 objective in the
+light path. For measurements of ciliary beating, the video
+images of active ciliated cells were displayed on a video
+Copyright  2004 John Wiley & Sons, Ltd. J Gene Med 2004; 6: 846–856.
+
+<<<PAGE 5>>>
+850 N. Castillon et al.
+screen where individual ciliated cells could be selected for
+analysis using a previously described technique [10].
+Measurement of chloride efﬂux by SPQ analysis
+Tissue culture ﬂasks (n = 4) containing mature trans-
+duced spheroids were incubated with the 6-methoxy-
+N-(3-sulfopropyl)quinolinium (SPQ) probe (Sigma, MO,
+USA) in a hypotonic chloride buffer solution (130 mM
+NaCl, 2.4m MK 2HPO4,1 0m M D-glucose, 1 mM CaSO4,
+1m MM g S O4 and 10 mM Hepes). Each spheroid was
+maintained in position by a contention microcapillary
+tube (Vacutips ,E p p e n d o r fS c i e n t i ﬁ c ,N Y ,U S A )i nap e r -
+fused culture on an inverted microscope (Nikon TE300).
+Spheroids were ﬁrst incubated for 15 min in a nitrate
+buffer in which the NaCl was replaced by 130 mM NaNO3.
+Every 15 min, amiloride (10 µM), forskolin (25 µM) and
+ATP (10 µM) were successively added to the nitrate
+buffer. Throughout the experimental process, ﬂuores-
+cence images (obtained from excitation light at 365 nm
+and emission light at 395 nm) were recorded every minute
+using a Micromax CDD camera and Metamorph soft-
+ware (Universal Imaging, USA). Chloride secretion by the
+spheroids was estimated by measuring variations with
+time in SPQ ﬂuorescence in regions of interest on each
+image of the series as described by Bonnet and Zahm [11].
+Statistical analysis
+Results are expressed as mean ± standard error (SE).
+For the SPQ analysis, the variations in ﬂuorescence
+were measured over a 2-min period ( /Delta1F//Delta1t). Data are
+compared using Student’s t-test with a value of p < 0.005
+considered to be signiﬁcant.
+Results
+Gene transfer efﬁciency
+As a ﬁrst step, we investigated the optimal conditions
+required to achieve an efﬁcient and non-toxic transduction
+of isolated human fetal airway epithelial cells with a
+lentiviral vector. To that end, dissociated cells were
+transduced in suspension with the eGFP-lentiviral vector
+using a multiplicity of infection (MOI) ranging from 1 to
+100 with eGFP expression evaluated by ﬂow cytometric
+analysis.
+As shown in Figure 1, about 6% of cells were transduced
+at a MOI of 10. The percentage of eGFP-positive cells was
+stabilized at 15% for MOI 25 to 75. According to the
+experimental conditions that provided an efﬁcient level of
+transduction, we selected two optimal MOIs (10 and 100)
+to study the transduction of the lentiviral-eGFP vector in
+polarized and well-differentiated 3-D airway cell cultures.
+After transduction with lentivirus (MOIs of 10 and 100),
+the dissociated infected human fetal airway epithelial cells
+were seeded in the SCID-hu reconstitution assay in order
+to analyze their fate in vivo (Figure 2). After 4 weeks of
+engraftment, transduced epithelial cells restored a well-
+differentiated human airway epithelium characterized by
+surface epithelial cells (Figure 2A) and submucosal glands
+(Figure 2B). In all these structures, eGFP expression was
+observed in clusters of cells, and could still be identiﬁed
+after 10 weeks of engraftment (data not shown). The
+percentage of transduced airway epithelial cells with the
+MOI of 100 was 33.0 ± 14.9% as measured after 4 weeks
+of engraftment. Interestingly, no signiﬁcant difference was
+observed in the number of eGFP-positive cells transduced
+at MOIs of 10 and 100.
+Transduction efﬁciency in polarized
+and well-differentiated 3-D spheroid
+structures
+After eGFP-lentiviral transduction (MOI 100), the dis-
+sociated human fetal airway epithelial cells cultured in
+suspension (under permanent rotation) rapidly reassem-
+bled (after 24 h) as 3-D spheroid structures exhibiting
+eGFP expression (Figures 3A and 3B) which was main-
+tained throughout the duration of the study (80 days).
+Dissociation of 3-D spheroid structures and ﬂuorescence-
+activated cell sorting (FACS) analysis showed a percent-
+age of 12 .0 ± 1.7% of airway epithelial cells that were
+positive for eGFP. After 3 weeks, mature cilia at the sur-
+face of the spheroids were evident. The ciliary beating
+0
+10
+20
+30
+40
+50
+0 2 04 06 08 0 1 0 0
+MOI
+eGFP-positive epithelial
+cells (%)
+Figure 1. FACS analysis of transduced airway epithelial cells. Rel ationship between the lentiviral multiplicity of infection (MOI
+from 1–100) and the percentage of eGFP-posit ive cells. Results are expressed as means ± SE
+Copyright  2004 John Wiley & Sons, Ltd. J Gene Med 2004; 6: 846–856.
+
+<<<PAGE 6>>>
+Regeneration of Airway Epithelium 851
+Figure 2. eGFP expression in SCID-hu in vivo reconstitution assay. After enzymatic dissociation, human airway epithelial cells were
+transduced by a lentiviral vector (MOI 100) encoding eGFP. After 4 weeks of engraftment , transduced epithelial cells exhibit a
+well-differentiated human airway surface epithelium (A) and submucosal glands (B) which express eGFP. Bar: A, 15 µm; B, 10 µm
+Figure 3. Three-dimensional (3- D) spheroid structures transduction. (A) Phase contrast microscopy of a spheroid. (B) Using
+ﬂuorescence microscopy, the sustained expression of eGFP is maintained for up to 80 days in the spheroid structures obtained
+from isolated cells. eGFP expression in mature and well-differentiated spheroids immediately after transduction (C) is maintained
+for 80 days (D). Bar: 40 µm
+Copyright  2004 John Wiley & Sons, Ltd. J Gene Med 2004; 6: 846–856.
+
+<<<PAGE 7>>>
+852 N. Castillon et al.
+Copyright  2004 John Wiley & Sons, Ltd. J Gene Med 2004; 6: 846–856.
+
+<<<PAGE 8>>>
+Regeneration of Airway Epithelium 853
+frequency (CBF) of the ciliated cells, as analyzed by
+videomicroscopy, was 9.5 ± 3.0 Hz, a value similar to that
+measured in well-differentiated human airway epithelial
+tissue (data not shown). To evaluate the chloride channel
+activity of these cells, the value of /Delta1F//Delta1t was ana-
+lyzed for 2 min after sequential stimulation by forskolin
+and ATP. We could not observe any signiﬁcant differ-
+ence (p > 0.1) between transduced (forskolin: /Delta1F//Delta1t =
+0.0923 ± 0.0046; ATP: /Delta1F//Delta1t = 0.1154 ± 0.0059) and
+non-transduced spheroids (forskolin: /Delta1F//Delta1t = 0.1049 ±
+0.0152; ATP: /Delta1F//Delta1t = 0.1290 ± 0.0248). These results
+conﬁrm that a normal airway maturation with expression
+of a functional chloride channel activity is maintained
+after lentiviral tranduction.
+After lentiviral transduction of well-differentiated
+spheroids (35 days), expression of eGFP was observed
+(Figure 3C) which could be maintained for 80 days
+(Figure 3D) without any alteration to the CBF or chloride
+channel activity (data not shown). After dissociation of
+these transduced mature spheroids and FACS analysis, it
+was found that the percentage of eGFP-positive cells was
+similar (15.0 ± 3.0%) to that observed after dissociation
+of 3-D spheroid structures from transduced isolated fetal
+airway epithelial cells and was unchanged after 80 days
+of culture.
+Airway epithelial regeneration with 3-D
+spheroid structures
+In order to analyze the viability of the airway epithelial
+cells from transduced spheroids and the capacity of
+these 3-D structures to adhere to a denuded basement
+membrane and regenerate a well-differentiated airway
+epithelium, in vitro, ex vivo and in vivo repopulation
+assays were performed.
+In vitro assay
+After seeding the spheroids on a collagen gel, all of the
+cells of the 3-D spheroid structures were observed to be
+stained green with the Syto9 probe thereby demonstrating
+that these epithelial cells remained alive even after
+losing their 3-D organization (data not shown). After
+3 days of culture on the collagen gel, no remaining 3-
+D structures were identiﬁed and only small groups of
+cells or isolated cells were observed with green Syto9
+staining. After 8 days, only isolated cells were observed
+distributed across the collagen gel surface. All adhered
+cells exhibited Syto9 green staining showing that, after
+adherence and loss of their 3-D spheroid structure, the
+integrity of epithelial cell membranes was still intact (data
+not shown).
+Ex vivo assay
+Using denuded fetal trachea as the host matrix, we ﬁrst
+controlled that native human fetal airway epithelial cells
+were no longer present on the basement membrane
+after freezing and thawing denudation (CK18-negative
+immunostaining, data not shown). Twenty-four hours
+after seeding the spheroids on the denuded fetal trachea,
+the onset of adherence of epithelial cells from spheroid
+structures to the denuded basement membrane was
+apparent (Figure 4A). After 48 h, all epithelial cells
+from spheroid structures had adhered to the basement
+membrane (data not shown). After 1 week of culture,
+only one layer of epithelial cells could be observed
+along the length of the basement membrane (Figure 4B).
+Approximately 50% of the area of the denuded basement
+membrane was covered by the airway epithelial cells.
+Under these ex vivo experimental conditions, no further
+proliferation (MIB-1-negative cells, data not shown) or
+epithelial differentiation could be observed after 3 weeks
+of culture.
+In vivo assay
+Using denuded mouse trachea as a host matrix for the
+spheroids, an airway epithelial cell monolayer (CK18-
+positive, Figures 4C and 4D) covered approximately 90%
+of the basement membrane after 1 week of in vivo
+development in nude mice. After 2 weeks of engraftment,
+the epithelial cell monolayer adhering to the basement
+membrane remained unchanged (data not shown).
+After 4 weeks of engraftment, a pseudostratiﬁed and
+well-differentiated mature human airway epithelium,
+similar to that described in mature human fetal airway
+tissue [12], characterized by CK18-positive ciliated and
+secretory cells (Figures 4E and 4F) and CK13-positive
+basal cells (Figures 4G and 4H), could be observed. At
+that stage we veriﬁed, using immunocytochemistry, that
+the human airway epithelium reconstituted from the
+3-D spheroid structures was polarized and junctional.
+MUC5AC mucin was identiﬁed in the secretory cells as
+well as in the secreted mucus inside the lumen of the host
+trachea (Figures 5A and 5E). As a polarity and junctional
+marker, the ZO-1 junctional protein was identiﬁed at
+the most apico-basolateral sides of the reconstituted
+airway epithelium (Figures 5B and 5F). CFTR protein
+was observed at the apical domain (Figures 5C and 5G)
+while the CFTR-associated protein, ezrin, was also apically
+located (Figures 5D and 5H).
+Figure 4. Repopulation assay with mature 3-D spheroids. (A) For the ex vivo model, after 24 h of contact between spheroids
+and epithelium-denuded fetal trachea, 3-D structures adhered to the basement membrane are observed (arrow). (B) Using CK18
+immunostaining, a monolayer of airway epithelial cells at day 7 can be observed adhering to and covering the basement membrane.
+(C) In an in vivo model of a humanized airway xenograft, a monolayer of CK18-positive airway epithelial cells (arrows) is observed
+after 1 week of engraftment. After 4 weeks of engraftment, a well-differentiated human airway epithelium is observed, as shown
+by CK 18-positive immunostaining of supra-basal cells (E) and CK 13-positive immunostaining of basal cells (G). The basal lamina
+is indicated by arrows. D, F and H: corresponding Nomarski. Bar: A, 20 µm; B, C, D, E and F, 10 µm
+Copyright  2004 John Wiley & Sons, Ltd. J Gene Med 2004; 6: 846–856.
+
+<<<PAGE 9>>>
+854 N. Castillon et al.
+Figure 5. Characterization of the reconstituted human airway epithelium. (A) Using immunolocalization, the mucin MUC5AC is
+expressed by secretory cells (SC) and secreted in the lumen (Lu) 28 days after engraftment. (B) The junctional protein ZO-1 is
+observed (arrow) at the apico-basolateral side of the surface epithelium (C). The CFTR is apically located as shown by arrows such
+as ezrin, a CFTR-associated protein (D). E, F, G and H: corresponding Nomarski. Bar: 10 µm
+Copyright  2004 John Wiley & Sons, Ltd. J Gene Med 2004; 6: 846–856.
+
+<<<PAGE 10>>>
+Regeneration of Airway Epithelium 855
+Discussion
+The recent development of lentivirus-based vectors
+derived from HIV for gene transfer into airway epithelium
+represents a major advance in gene therapy of lung
+diseases such as cystic ﬁbrosis [1,13–16]. Lentivirus-
+based vectors have been shown to transduce several types
+of non-dividing cells including airway epithelial cells
+[4,5]. Nevertheless, Johnson et al. [15] have reported
+that, in mice, human lentiviral vector pseudotyped with
+the vesicular stomatitis virus G (VSVG) envelope requires
+airway epithelium injury in order to permit basolateral
+access of the vector to target cells. Goldman et al.[ 1 ]
+reported that this lentiviral vector was able to transduce
+a poorly differentiated airway epithelium xenograft with
+high efﬁciency, but gene transfer was far less efﬁcient
+when the epithelium was fully differentiated. In a
+number of experiments, the lentiviral vector transduction
+has been tested on two-dimensional airway epithelial
+cell cultures [4,15]. As reported by Pilewski [17], it
+is particularly important to choose appropriate in vitro
+and in vivo human models for the evaluation of gene
+transfer in order for them to be used as predictors of
+efﬁciency in polarized human airway epithelium. In the
+present study, we investigated the capacity of an HIV-
+derived lentiviral vector encoding eGFP to transduce
+human airway epithelial cells. We ﬁrst controlled
+that reconstituted acellular xenografted tracheas could
+recapitulate all the eGFP-positive epithelial phenotypes
+of a pseudostratiﬁed human surface epithelium. The
+observation of clusters of eGFP-positive cells in basal,
+ciliated and secretory cells, which were still present
+after 10 weeks of engraftment, suggests that therapeutic
+lentiviral vectors could be used to correct the cystic ﬁbrosis
+transmembrane conductance (CFTR) abnormality in CF
+airway epithelial cells. With this in mind, we analyzed
+the capacity of airway epithelial cells, cultured as 3-
+D spheroid structures, to be transduced with long-term
+persistence. We recently reported that this culture model
+of airway epithelial cells in suspension could maintain
+a polarized, junctional and differentiated mucociliary
+surface epithelium for several months [3]. This long-term
+3-D airway epithelial cell culture has distinct advantages
+as compared with the classical 2-D culture because it
+permits the polarization and maintenance of functional
+apical membrane-associated proteins such as CFTR, ezrin,
+ZO-1 and CD59. Using this 3-D model, 15 .0 ± 3.0%
+of eGFP-transduced cells were maintained for more
+than 80 days. This outcome was achieved without any
+alteration to the functional properties of the mature
+airway epithelium as demonstrated by the maintenance
+of an active ciliary beating of ciliated cells and a normal
+capacity to secrete chloride after amiloride and forskolin
+or ATP stimulation. This percentage represents an efﬁcient
+transduction as it has been reported previously that a
+normal epithelial function in CF can be resolved with a
+transduction of less than 10% [15].
+In order to circumvent the mucus barrier, which
+in vivo prevents gene transfer, an alternative could be
+to isolate autologous human airway epithelial cells and
+constitute a pool of well-differentiated surface epithelium
+cultured as 3-D spheroids which could be maintained in
+suspension for several months and then be used, after
+lentiviral transduction, for reimplantation on a denuded
+basement membrane. The subsequent objective of this
+study was to analyze in an ex vivo model whether these
+spheroid epithelial structures, implanted on a denuded
+basement membrane of trachea serving as a matrix,
+could attach, migrate and repopulate the matrix. Under
+these ex vivo conditions, the surface airway epithelial
+cells from the 3-D spheroid structures were observed
+to attach and migrate on the denuded matrix although
+we only observed a monolayer of epithelial cells which
+did not exhibit mucociliary differentiation after 3 weeks.
+In order to more closely mimic the in vivo conditions
+required for a complete airway epithelial redifferentiation,
+we developed an in vivo miniaturized human airway
+xenograft using denuded mice trachea rather than a rat
+trachea as a host matrix. After 4 weeks of engraftment,
+a complete regeneration of a polarized and functional
+mucociliary epithelium was observed. In conclusion, the
+3-D spheroid cell culture appears as a valuable model
+for evaluating gene vector transduction efﬁciency. The
+application of this 3-D gene and cell therapy may be
+relevant for constitution of pools of spheroids from human
+CF airway brushings that could represent a source of
+autologous corrected airway epithelial cells to be used
+to repopulate the injured airway epithelium. In this
+perspective, we are presently analyzing the capacity of
+ampliﬁed isolated (CF and non-CF) fetal and adult human
+airway epithelial cells to reform spheroid structures and be
+efﬁciently transduced with a cDNA-CFTR lentivirus. Such
+gene/cell therapy might prove to be highly valuable in
+obtaining airway epithelial regeneration for the treatment
+of airway diseases such as cystic ﬁbrosis.
+Acknowledgements
+We are grateful to Prof. Dominique Gaillard (INSERM UMRS
+514, Reims, France) for providing human fetal tissues.
+We acknowledge the expert assistance of Ibrahim Casal
+(INSERM U506, Villejuif, France) with ﬂow cytometry. We
+thank Jocelyne Hinnrasky and Jean-Marie Zahm (INSERM
+UMRS 514, Reims, France) for their technical assistance
+and Corinne Catusse and Veronique Laplace (INSERM UMRS
+514, Reims, France) for their help with the NUDE xenograft
+model. This work was supported by a contract (TG0217)
+from the Association Vaincre la Mucoviscidose and by
+ATC Bioth ´erapies/Cellules Souches Th ´erapeutiques (Minist `ere
+de la Recherche/INSERM/Association Fran¸ c a i s ec o n t r el e s
+Myopathies (AFM)/Association Vaincre la Mucoviscidose).
+References
+1. Goldman MJ, Lee PS, Yang JS, Wilson JM. Lentiviral vectors
+for gene therapy of cystic ﬁbrosis. Hum Gene Ther 1997; 8:
+2261–2268.
+Copyright  2004 John Wiley & Sons, Ltd. J Gene Med 2004; 6: 846–856.
+
+<<<PAGE 11>>>
+856 N. Castillon et al.
+2. Delplanque A, Coraux C, Tirouvanziam R, et al. Epithelial stem
+cell-mediated development to the human respiratory mucosa in
+SCID mice. J Cell Sci 2000; 113: 767–778.
+3. Castillon N, Hinnrasky J, Zahm JM, et al. Polarized expression of
+CFTR and associated epithelial proteins during the regeneration
+of human airway surface epithelium in three-dimensional
+culture. Lab Invest 2002; 82: 989–998.
+4. Kobinger GP, Weiner DJ, Yu QC, Wilson JM. Filovirus-
+pseudotyped lentiviral vec tor can efﬁciently and stably
+transduce airway epithelia in vivo. Nat Biotechnol 2000; 19:
+225–230.
+5. Borok Z, Harboe-Schmidt JE, Brody SL, et al.V e s i c u l a r
+stomatitis virus G-pseudotyp ed lentivirus vectors mediate
+efﬁcient apical transduction of polarized quiescent primary
+alveolar epithelial cells. JV i r o l2001; 75: 11 747–11 754.
+6. Follenzi A, Ailles LE, Bakovic S, Geuna M, Naldini L. Gene
+transfer by lentiviral vectors is limited by nuclear translocation
+and rescued by HIV-1 pol sequences. Nat Genet 2000; 25:
+217–222.
+7. Zufferey R, Donello JE, Trono D, Hope TJ. Woodchuck
+hepatitis virus posttranscriptional regulatory element enhances
+expression of transgenes delivered by retroviral vectors. JV i r o l
+1999; 73: 2886–2892.
+8. Zennou V, Serguera C, Sarkis C, et al.T h eH I V - 1D N Aﬂ a p
+stimulates HIV vector mediated cell transduction in the brain.
+Nat Biotechnol 1999; 19: 446–450.
+9. Peault B, Tirouvanziam R, Sombardier MN, Chen S, Perri-
+caudet M, Gaillard D. Gene tran sfer to human fetal pulmonary
+tissue developed in immunodeﬁcient SCID mice.Hum Gene Ther
+1994; 5: 1131–1137.
+10. Zahm JM, Dionisius JP, Pierrot D, Chevillard M, Puchelle E.
+Video measurement of the cil iary beating frequency. Innov Biol
+Med 1990; 11: 118–128.
+11. Bonnet N, Zahm JM. Analysis of image sequence in ﬂuorescence
+videomicroscopy of stationary objects. Cytometry 1998; 31:
+217–228.
+12. Gaillard D, Lallement A, Petit A, Puchelle E. In vivo ciliogenesis
+in human fetal tracheal epithelium. Am J Anat 1989; 185:
+415–428.
+13. Wang G, Davidson BL, Melchert P, et al. Inﬂuence of cell polarity
+on retrovirus-mediated gene transfer to differentiated human
+airway epithelia. JV i r o l1998; 72: 9818–9826.
+14. Limberis M, Anson DS, Fulle r M ,P a r s o n s D W .R e c o v e r yo f
+airway cystic ﬁbrosis transmembrane conductance regulator
+function in mice with cystic ﬁbrosis after single-dose lentivirus-
+mediated gene transfer. Hum Gene Ther 2002; 13: 1961–1970.
+15. Johnson LG, Olsen JC, Sarkadi B, Moore KL, Swanstrom R,
+Boucher RC. Efﬁciency of gene transfer for restoration of normal
+airway epithelial function in cystic ﬁbrosis. Nat Genet 1992; 2:
+21–25.
+16. Naldini L. Lentiviruses as gene transfer agents for delivery to
+non-dividing cells. Curr Opin Biotechnol 1998; 9: 457–463.
+17. Pilewski JM, Engelhardt JF, Bavaria JE, Kaiser LR, Wilson JM,
+Albelda SM. Adenovirus-mediated gene transfer to human
+bronchial submucosal glands using xenografts. Am J Physiol
+1995; 268: L657–665.
+Copyright  2004 John Wiley & Sons, Ltd. J Gene Med 2004; 6: 846–856.

@@ -1,0 +1,1633 @@
+
+
+<<<PAGE 1>>>
+Derivation of Epithelial-Only Airway
+Organoids from Human Pluripotent Stem
+Cells
+Katherine B. McCauley,1,2 Finn Hawkins,1,2 and Darrell N. Kotton 1,2
+1Center for Regenerative Medicine of Boston University and Boston Medical Center,
+Boston, MA, 02118, USA
+2Pulmonary Center and Department of Medicine, Boston University School of Medicine,
+Boston, MA, 02118, USA
+New protocols to efﬁciently generate functional airway epithelial organoids
+from human pluripotent stem cells (PSCs) would represent a major advance
+towards effective disease modeling, drug screening and cell based therapies for
+lung disorders. This unit describes an approach using stage-speciﬁc signaling
+pathway manipulation to differentiate cells to proximal airway epithelium via
+key developmental intermediates. Cells are directed via deﬁnitive endoderm
+(DE) to anterior foregut, and then speciﬁed to NKX2-1 + lung epithelial pro-
+genitors. These lung progenitors are puriﬁed using cell surface marker sorting
+and replated in deﬁned culture conditions to form three-dimensional, epithelial-
+only airway organoids. This directed differentiation approach using serum-free,
+deﬁned media also includes protocols for evaluation of DE induction, intracel-
+lular FACS analysis of NKX2-1 speciﬁcation efﬁciency and enrichment, and
+approaches for characterization and expansion of airway organoids. Taken
+together, this represents an efﬁcient and reproducible approach to generate ex-
+pandable airway organoids from human PSCs for use in numerous downstream
+applications. C⃝ 2018 by John Wiley & Sons, Inc.
+Keywords: airway epithelium r directed differentiation r Human induced
+pluripotent stem cells r three-dimensional organoid culture
+How to cite this article:
+McCauley, K. B., Hawkins, F., & Kotton, D. N. (2018). Derivation
+of epithelial-only airway organoids from human pluripotent stem
+cells. Current Protocols in Stem Cell Biology , e51. doi:
+10.1002/cpsc.51
+SIGNIFICANCE STA TEMENT
+Diseases affecting the epithelium of the lung include diverse pathologies, ranging from
+monogenetic disorders such as cystic ﬁbrosis to complex acquired illnesses, such as
+asthma and chronic obstructive pulmonary disease (COPD). In spite of their clinical
+burden, the pathogenesis of these diverse lung diseases is incompletely understood and
+treatment options for patients remain limited. One potential option to improve under-
+standing and develop new therapies for these disorders is the establishment of newin vitro
+models via the differentiation of human pluripotent stem cells to proximal airway ep-
+ithelial cells using deﬁned developmental signaling pathways. This protocol describes a
+robust approach for the generation and characterization of proximalized airway epithelial
+“bronchospheres” from pluripotent stem cells to address this need.
+Current Protocols in Stem Cell Biology e51
+Published in Wiley Online Library (wileyonlinelibrary.com).
+doi: 10.1002/cpsc.51
+Copyright C⃝ 2018 John Wiley & Sons, Inc.
+McCauley et al.
+1o f2 7
+
+
+<<<PAGE 2>>>
+INTRODUCTION
+A major application of pluripotent stem cells (PSCs) is their directed differentiation to
+diverse organ-speciﬁc cell types of interest. Much like normal development, this approach
+relies on stage-speciﬁc developmental signals that lead to sequential restriction of cell
+fate. For example, lung progenitors derived from PSCs arise via the primitive streak
+and deﬁnitive endoderm, then proceed via anterior foregut endoderm to a primordial
+lung progenitor, identiﬁed by the expression of the transcription factor Nkx2-1 + (Green
+et al., 2011; Huang et al., 2013; Longmire et al., 2012; Mou et al., 2012). In general, this
+approach is useful not only as a model with the capacity to reveal cell fate decisions in
+high resolution and real time, but also for the generation of patient and tissue-speciﬁc
+cell types for disease modeling and drug screening.
+Taken together, this unit describes an approach to generate primordial lung progenitors
+from pluripotent stem cells (Hawkins et al., 2017), purify these progenitors using a cell
+surface marker sorting strategy (Hawkins et al., 2017), and differentiate these cells further
+to epithelial-only airway spheres containing proximal lung epithelial cells, including
+secretory cells and lung basal cells. While these spheres do not contain ciliated cells, this
+lineage can be differentiated from these spheres using pharmacological Notch inhibition
+or after transfer to air-liquid interface culture (McCauley et al., 2017).
+BASIC
+PROTOCOL 1
+DIFFERENTIA TION OF HUMAN PLURIPOTENT STEM CELLS (PSCS) TO
+NKX2-1+ LUNG PROGENITORS VIA DEFINITIVE ENDODERM
+This protocol describes an approach to generate and evaluate lung-competent deﬁnitive
+endoderm from PSCs and further specify these cells towards a well-characterized NKX2-
+1+ lung progenitor stage, from which point they have the potential to differentiate to the
+major cell types of the lung epithelium (Hawkins et al., 2017; McCauley et al., 2017). The
+focus of this unit is the derivation of proximal airway epithelial cells from these NKX2-
+1+ progenitors via the withdrawal of Wnt signaling activation (McCauley et al., 2017).
+Distal, alveolar epithelial cells also can be derived from the NKX2-1+ progenitor pool in
+the presence of sustained Wnt signaling activation (Jacob et al., 2017), but these protocols
+are not the focus of this unit. In order to generate the proximal airway lineages presented
+here, PSCs are ﬁrst differentiated to deﬁnitive endoderm, which is subsequently patterned
+into anterior foregut endoderm via dual-SMAD inhibition. Subsequent activation of Wnt,
+BMP , and retinoic acid signaling drives differentiation to an NKX2-1 + (also known as
+TTF-1) lung progenitor fate.
+This protocol is broadly applicable to human PSC lines, including embryonic stem cells
+(ESCs) and induced pluripotent stem cells (iPSCs), although adaptation from mainte-
+nance culture on irradiated feeder layers to feeder-free mTeSR cultures prior to begin-
+ning this protocol is highly recommended. Furthermore, high line-to-line variability in
+speciﬁc timing of protocol steps and efﬁciency of NKX2-1 induction is expected and
+consequently speciﬁc optimization of the protocol for each individual PSC line is highly
+recommended. Hence, each relevant step details key advice for protocol optimization.
+The authors’ experience suggests that 72 hr of deﬁnitive endoderm induction followed
+by 72 hr of anteriorization and then 7-10 days of lung speciﬁcation is the typical time
+frame for differentiation of normal BU3 iPSCs or RUES2 ESCs.
+The overview of the timeline for this directed differentiation protocol is shown in
+Figure 1.
+Materials
+Human pluripotent stem cells (e.g., BU3 iPSCs; Kurmann et al., 2015)McCauley et al.
+2o f2 7
+Current Protocols in Stem Cell Biology
+
+<<<PAGE 3>>>
+Figure 1 Timeline of directed differentiation to human lung progenitors.
+mTeSR1 deﬁned feeder-free medium (StemCell Technologies, cat. no. 05850
+Matrigel human ESC-qualiﬁed matrix (Corning, cat. no. 354277)
+DMEM (Gibco cat. no. 11995-065)
+Gentle Cell Dissociation Reagent (StemCell Technologies, cat. no. 07174)
+10 mM Y-27632 (see recipe)
+StemDiff Deﬁnitive Endoderm Kit (StemCell Technologies, cat. no. 05110)
+containing:
+Deﬁnitive Endoderm Base
+Supplement A
+Supplement B
+FACs buffer (see recipe)
+Mouse IgG1, APC conjugated (Life Technologies cat. no. MG105)
+Anti-human CD117, APC conjugated (Invitrogen cat. no. CD11705; also known as
+anti-C-Kit)
+Mouse IgG2a, PE conjugated (StemCell Technologies, cat. no. 60108PE)
+Anti-human CD184 (CXCR4), PE-conjugated (StemCell Technologies, cat. no.
+60089PE)
+Ice
+Complete Serum Free Differentiation Medium (cSFDM, see recipe)
+10 mM SB431542 (see recipe)
+2 mM Dorsomorphin (see recipe)
+3 mM CHIR99021 (see recipe)
+10 μg/ml recombinant human BMP4 (rhBMP4; see recipe)
+100 μM retinoic acid (see recipe)
+F-12
+Sterile 12- or 6-well tissue culture plates
+Humidiﬁed 37°C incubator with 5% CO 2
+1000-μl pipette
+Sterile 15-ml and 50-ml conical tubes
+Centrifuge
+Automated cell counting system (e.g., Luna Automated Cell Counter, Logos
+Biosystems)
+Light microscope
+1.5-ml microcentrifuge tubes
+5-ml serological pipettes
+Falcon round bottom polystyrene or polypropylene tubes (dependent on ﬂow
+cytometer speciﬁcations)
+Flow cytometer: able to detect PE, APC, and AlexaFluor 488 ﬂuorescence McCauley et al.
+3o f2 7
+Current Protocols in Stem Cell Biology
+
+<<<PAGE 4>>>
+Figure 2 Phase-contrast microscopy of cells from undifferentiated PSCs (day -1) through day
+4 of differentiation (Anteriorization Stage) showing typical morphologies (scale = 500 μmf o r
+ﬁrst row, 200 μm for high magniﬁcation images in second row). Spontaneous differentiation in
+undifferentiated PSCs is indicated with a black circle. It is recommended that cultures have <5%
+spontaneous differentiation by eye prior to being used for lung epithelial differentiation experiments.
+Differentiation to deﬁnitive endoderm
+1. Expand PSCs on tissue culture plates using standard procedure.
+Deﬁnitive endoderm induction requires 2 × 106 cells for each well of a 6-well plate of
+endoderm desired, which is equivalent to approximately one conﬂuent well of a 6-well
+plate. Expansion of undifferentiated PSCs on mTeSR is highly recommended. Typically,
+the adaptation of a cell line from feeder culture to feeder-free can be accomplished in
+/223c2 weeks; however , if cells must be maintained on an irradiated MEF feeder layer , many
+more cells (approximately 3 to 4 conﬂuent wells of a 6-well plate per well of deﬁnitive
+endoderm) may be required. Maintenance of PSCs using other feeder-free methods (e.g.,
+E8 or equivalent) has not been thoroughly tested or validated for differentiation in this
+protocol.
+F or cells maintained in mTeSR, one near-conﬂuent well (ready to passage; Fig. 2)
+typically contains sufﬁcient cell numbers to be replated at the appropriate density in 1
+well of the same size for deﬁnitive endoderm differentiation. See Figure 2 for images of
+typical density of undifferentiated cells at day -1 and day 0.
+2. Prepare as many wells of tissue culture plates (typically one 6-well plate) as desired
+for deﬁnitive endoderm induction by diluting one aliquot of ESC-qualiﬁed Matrigel
+in 25 ml DMEM (ﬁnal concentration= 1 mg/ml), adding 1 ml/well of a 6-well plate,
+and allowing to gel for 30 to 60 min at 37 °C.
+F ollow the manufacturer’s directions for dividing into aliquots and subsequent dilu-
+tion of ESC-qualiﬁed Matrigel, as this product exhibits lot-to-lot variability in protein
+concentration.
+It is recommended to include an extra well of endoderm for evaluation of endoderm
+induction efﬁciency.McCauley et al.
+4o f2 7
+Current Protocols in Stem Cell Biology
+
+<<<PAGE 5>>>
+3. Aspirate medium from the cells, add 1 ml/well (for 6-well plates) Gentle Cell
+Dissociation Reagent (GCDR) and incubate for 8 to 10 min at 37 °C.
+The duration of GCDR treatment required for effective dissociation is highly variable from
+line-to-line and across experiments. When cells are ready to dissociate, the previously
+densely packed PSC colonies will become less well-formed and contain visible single
+cells.
+4. Gently pipette up and down with a 1000- μl pipette to dissociate PSCs from the plate
+and transfer into a new 15-ml conical. Add an equivalent volume of warm DMEM
+to the cells to dilute the GCDR.
+5. Centrifuge the cells for 5 min at 300 × g,4°C.
+6. Aspirate the medium from the cell pellet and resuspend in 1 ml mTeSR1 supple-
+mented with 10 μM Y-27632. Remove a sample of cells (typically 10 μl) and
+combine with an equal volume for automated cell counting to determine total cell
+number. After cell counting, add additional mTeSR with Y-27632 to a ﬁnal concen-
+tration of 1 × 106 cells/ml.
+7. Aspirate dilute Matrigel from the plate to leave thin layer of polymerized matrix,
+and plate 2 ml of cell suspension per Matrigel-coated well of a 6-well plate.
+8. At a time point 24 hr after replating, aspirate medium and wash the cells with 1 ml
+DMEM per well. Aspirate DMEM and refeed cells with 2 ml per well of Endoderm
+Medium 1 (980 μl Deﬁnitive Endoderm Base, 10 μl Supplement A, and 10 μl
+Supplement B).
+This is Day 0 of differentiation. This is different from the numbering of days indicated in
+the StemDiff Deﬁnitive Endoderm Kit protocol.
+By 24 hr after replating, the plate should be 90% to 100% conﬂuent and will likely
+contain many ﬂoating dead cells. Any density >70% is generally sufﬁcient to initiate
+deﬁnitive endoderm induction. If cells are under-conﬂuent, they can be left for 1 to 2 days
+to proliferate further . See Figure 2 for typical appearance of cells at this “Day 0” stage.
+9. Exactly 24 hr after beginning differentiation, aspirate medium and refeed cells with
+2 ml per well Endoderm Medium 2 (990 μl Deﬁnitive Endoderm Base and 10 μl
+Supplement B).
+10. Refeed cells with 2 ml per well Endoderm Medium 2 again the following day (Day
+2).
+11. Begin to evaluate deﬁnitive endoderm induction efﬁciency at /223c60 hr of differentia-
+tion.
+There is high line-to-line variability in the timing of optimal induction of deﬁnitive
+endoderm for downstream lung competence. While 72 hr is a typically appropriate
+duration to generate lung-competent deﬁnitive endoderm for most lines, it is highly
+recommended to perform a careful kinetic (every 6 to 12 hr between 60 to 96 hr)
+of endoderm induction for any new lines, using F ACS analysis of CD117/CXCR4 co-
+expression and downstream NKX2-1 efﬁciency as readouts. See Figure 2 for typical
+appearance of cells at this “Day 3” stage.
+Evaluation of deﬁnitive endoderm efﬁciency
+12. At desired endoderm timepoint (e.g., 72 hr; Day 3), aspirate medium and add
+1 ml/well of GCDR. Incubate for 2 to 4 min at 37°C. Evaluate dissociation progress
+periodically by light microscopy.
+McCauley et al.
+5o f2 7
+Current Protocols in Stem Cell Biology
+
+<<<PAGE 6>>>
+Figure 3 Representative ﬂow cytometry dot plots showing typical gating for size and granularity
+(FSC vs. SSC) and CD117 vs. CXCR4 expression. Efﬁcient endoderm induction after 72 hr from
+PSCs is demonstrated by staining with isotype controls or CD117 and CXCR4 antibodies.
+Typically, 1 well of endoderm is harvested to evaluate endoderm efﬁciency and the rest of
+the endoderm wells are replated for ongoing differentiation, as discussed in the following
+section.
+13. After cells are fully dissociated, gently pipette the cells up and down in the GCDR
+to generate a single-cell suspension and transfer into a new 15-ml conical tube. Add
+in an equivalent volume of empty medium (e.g., IMDM). Centrifuge the cells for
+5 min at 300 × g,4°C.
+14. Resuspend the cells in 1 ml FACS buffer and perform a cell count. Transfer a
+volume containing 0.5 × 106 cells into each of ﬁve 1.5-ml microcentrifuge tubes
+and centrifuge the cells for 5 min at 300 × g,4°C.
+15. Resuspend each pellet in 100 μl FACS buffer. Label the tubes for each stain, indicated
+below, and add the appropriate antibodies:
+Unstained: No antibody
+Isotypes: 2 μl mouse IgG1, APC conjugated; 2 μl mouse IgG2a, PE conjugated
+CD117 only: 2 μl anti-human CD117
+CXCR4 only: 2 μl anti-human CXCR4
+Double stain: 2 μl anti-human CD117; 2 μl anti-human CXCR4.
+16. Gently pipette the cells up and down and place on ice in the dark for 30 min to stain.
+17. After 30 min, add 1 ml FACS buffer to each tube and centrifuge the cells for 5 min
+at 300 × g, 4°C.
+18. Resuspend each pellet in 500 μl FACS buffer. Evaluate staining using a compatible
+ﬂow cytometer and standard protocols, including compensation, by gating ﬁrst for
+cell size (FSC versus SSC) and subsequently for expression of CD117 and CXCR4.
+Endoderm score is calculated as the percentage of cells coexpressing CD117 and CXCR4.
+An endoderm efﬁciency of 90% to 100% is expected within 72 to 96 hr of differentiation
+and is optimal for downstream lung differentiation. See Figure 3 for an example of
+efﬁcient deﬁnitive endoderm induction.
+As previously noted, CD117/CXCR4 coexpression is not the only metric with which
+deﬁnitive endoderm should be evaluated when optimizing a protocol. Typically, the ear-
+liest timepoint at which the cells are >90% CD117/CXCR4 double-positive is optimal
+for downstream lung differentiation. However , it is highly recommended that prior to
+proceeding with the protocol with new or difﬁcult to differentiate lines, a careful en-
+doderm kinetic is performed to address the relationship between endoderm timing and
+downstream NKX2-1 induction efﬁciency (Hawkins et al., 2017).McCauley et al.
+6o f2 7
+Current Protocols in Stem Cell Biology
+
+<<<PAGE 7>>>
+Replating cells to generate anterior foregut endoderm
+19. Once cells have reached the deﬁnitive endoderm stage (typically day 3), prepare an-
+terior foregut endoderm medium (“DS/SB”) by adding 1 μl of 2 mM dorsomorphin
+and 1 μl of 10 mM SB431542 per 1 ml of cSFDM (ﬁnal concentration: 2 μM dor-
+somorphin, 10 μM SB431542). Further supplement enough medium for replating
+with 1 μl/ml Y-27632 (ﬁnal concentration: 10 μM)
+Enough medium for replating the cells and feeding them one time can be prepared at this
+stage, including approximately 10% excess. F or example, one well of endoderm might
+be replated into four wells of anterior foregut endoderm. In this case, prepare 18 ml of
+DS/SB media, aliquot 8 ml into a separate conical, and add 8 μ l Y-27632 for replating.
+The remaining 10 ml will be used to refeed the cells on the following day.
+20. Prepare as many wells of tissue culture plates as required for replating by diluting one
+aliquot of ESC-qualiﬁed Matrigel in 25 ml DMEM (ﬁnal concentration = 1 mg/ml)
+and allowing to gel for 30 to 60 min at 37 °C.
+21. Aspirate the medium and wash with 1 ml/well DMEM/F-12.
+22. Add 1 ml/well GCDR and incubate for 2 to 3 min at room temperature (25 °C).
+23. Aspirate GCDR and add 1 ml/well DS/SB + Y-27632. Pipette gently with a 1000-
+μl pipette or a 5-ml serological pipette to dislodge monolayer into large, uniformly
+sized clumps of /223c10 to 20 cells. Transfer the cells into a new 15- or 50-ml conical
+tube of sufﬁcient size to hold ﬁnal volume and add DS/SB + Y-27632 to a ﬁnal
+volume equivalent to 2 ml/well for the number of wells to be replated.
+Typically, 2 to 6 wells are replated for each well of deﬁnitive endoderm.
+There is high line-to-line variability on the density of replating for deﬁnitive endoderm. A
+good rule of thumb is to try several splits in the range of 1:2–1:6 for initial differentiations
+of any given line. Cells should be approximately 60% to 70% conﬂuent on the next day.
+See Figure 2 for typical appearance of cells on Day 4 (24 hr after replating).
+It is critical at this stage to avoid pipetting as much as possible. If necessary, a cell
+scraper can be used to lift off the cells from the plate in lieu of additional pipetting.
+24. Pipetting gently, replate 2 ml/well of cells into each Matrigel-coated well of a 6-well
+plate.
+25. Evaluate cell survival and density after 24 hr. Refeed with 2 ml per well fresh DS/SB
+medium.
+Cells should be /223c60% to 70% dense after 24 hr . F or highly proliferative lines, a lower
+density may be desired. If downstream NKX2-1 efﬁciency is low, replating density can be
+optimized; typically, a lower density results in higher NKX2-1 efﬁciency.
+Removal of Y-27632 after 24 hr will result in a change in cell morphology from spiky-
+appearing cell borders to a more epithelial appearance.
+Typically, the optimal period for anteriorization in DS/SB media is 72 hr , during which
+time the medium only needs to be changed on the second day (24 hr after replating). V ari-
+ation of duration of anteriorization, using downstream NKX2-1 efﬁciency as a readout,
+is another option for optimization of differentiation efﬁciency across lines.
+Speciﬁcation of NKX2-1+ lung progenitors
+26. After anteriorization (typically 72 hr, or day 6 of total differentiation), prepare lung
+induction medium without RA (“CB”) by adding 1μl of 3 mM CHIR99021 and 1μl
+of 10 μg/ml rhBMP4 per 1 ml of cSFDM (ﬁnal concentration: 3 μM CHIR99021,
+10 ng/ml rhBMP4). This medium can be stored up to 1 week at 4 °C.
+McCauley et al.
+7o f2 7
+Current Protocols in Stem Cell Biology
+
+<<<PAGE 8>>>
+As cells are typically refed every other day, it is recommended to prepare enough medium
+at a time to refeed all wells of cells three times (e.g., 6 to 8 ml/well), as this volume will
+be used up in approximately one week.
+27. Supplement 2 ml/well of prepared “CB” medium with 1 μl/ml retinoic acid (Final
+concentration: 100 nM) to generate “CBRA” medium.
+Retinoic acid is highly light sensitive and this step and all subsequent steps using this
+media should be performed in low lighting (i.e., with the tissue culture hood lights off).
+28. Aspirate DS/SB medium and wash each well with 1 ml/well empty medium (e.g.,
+IMDM).
+29. Aspirate the wash medium and add 2 ml/well of CBRA medium.
+30. Change CBRA medium every other day, or more frequently, if necessary.
+Retinoic acid medium should be added fresh to prepared CB medium each day prior to
+refeeding. Medium will turn yellow if it needs to be replaced more frequently than every
+other day.
+After 1 to 2 days in CBRA medium, cells will proliferate rapidly and form distinctive
+round clusters.
+Cells will begin to upregulate NKX2-1 expression by day 8 of differentiation and are
+typically evaluated and replated for airway differentiation between day 14 and 16.
+31. After 14 to 16 days of differentiation, evaluate NKX2-1 lung progenitor speciﬁcation
+efﬁciency by immunoﬂuorescent staining for NKX2-1 and FOXA2 expression (see
+Support Protocol 1) or by intracellular FACS for NKX2-1 expression (see Support
+Protocol 2).
+F or downstream differentiation to airway epithelial organoids, it is critical to evaluate
+the induction efﬁciency of NKX2-1 on a per-cell basis. Therefore, it is recommended
+that either immunocytochemistry or F ACS for intracellular NKX2-1 be used to evaluate
+differentiation efﬁciency. It is inadequate to estimate differentiation efﬁciency solely
+using quantitative real-time PCR analysis. An additional option for evaluating NKX2-1
+induction efﬁciency while learning this protocol is the use of a validated NKX2-1 GFP
+reporter PSC line (Hawkins et al., 2017; McCauley et al., 2017).
+BASIC
+PROTOCOL 2
+PURIFICA TION OF NKX2-1+ LUNG PROGENITORS VIA CELL SORTING
+ON SURFACE PROTEINS CD47 AND CD26
+This protocol describes an approach to enrich for NKX2-1 + cells derived in Basic
+Protocol 1 by ﬂow cytometry-based cell sorting. Cells are harvested as a single-cell
+suspension, immunostained for CD47 and CD26, and sorted for cells expressing high
+levels of CD47 and low/no levels of CD26. These cells are relatively enriched for
+expression of NKX2-1 and can be further characterized or replated for downstream
+differentiation to airway epithelium. This protocol is applicable to cells derived using the
+approach described in this unit, and has not been further validated to enrich for NKX2-1
+expression in lung progenitors derived from PSCs using other approaches.
+Materials
+Cells differentiated to lung progenitor stage (see Basic Protocol 1)
+DMEM (Gibco, cat. no. 11995-065)
+0.05% Trypsin-EDTA (e.g., Gibco, cat. no 25-300-062)
+Fetal bovine serum (FBS; e.g., Gibco, cat. no. 10082139)
+FACS buffer
+Sort buffer (see recipe)
+Mouse monoclonal antibody to CD26, PE conjugated (clone BA5b; Biolegend, cat.
+no. 302705)McCauley et al.
+8o f2 7
+Current Protocols in Stem Cell Biology
+
+<<<PAGE 9>>>
+Mouse monoclonal antibody to CD47, PerCP-Cy5 conjugated (clone CC2C6;
+Biolegend, cat. no. 323110
+Mouse IgG1 isotype, PE conjugated (Biolegend, cat. no. 400113)
+Mouse IgG1 isotype, PerCP/Cy5-5 conjugated (Biolegend, cat. no. 400149)
+10 μM calcein blue, AM, in DMSO (ThermoFisher, cat. no. C1429)
+Ice
+Sterile 12- or 6-well tissue culture plates
+Humidiﬁed 37°C incubator with 5% CO 2
+Sterile 50-ml conical tubes
+1000-μl or 5-ml pipettes
+25-ml pipettes
+40-μm strainer
+Centrifuge
+Automated cell counting system (e.g., Luna Automated Cell Counter, Logos
+Biosystems)
+Sterile 1.5-ml microcentrifuge tubes
+5-ml Falcon round-bottom polystyrene or polypropylene tubes (dependent on cell
+sorter speciﬁcations)
+High-speed cell sorter (e.g., MoFlo) able to perform two-way cell sorting and
+detect and compensate PerCP/Cy5-5, calcein blue, and PE staining
+Additional reagents and equipment for Support Protocol 2 may be required to
+evaluate efﬁciency of NKX2-1 enrichment
+Harvesting and dissociating cells for staining
+1. Wash the speciﬁed cells with DMEM, 1 ml/well of a 6-well plate.
+2. Aspirate the wash medium. Add 1 ml/well of a 6-well plate of 37 °C 0.05% trypsin
+and place in incubator for 14 to 18 min.
+It is critical to ensure that the majority of the dissociation of the cells at this stage is
+enzymatic. Therefore, one should visualize the cells under a microscope at the end of the
+expected dissociation time. If cells remain tightly stuck to the plate, return them to the
+incubator for /223c3 to 5 more min before proceeding to the next step.
+If the trypsin turns yellow during the dissociation step, which is common when cells are
+very conﬂuent, add 1 to 2 more ml of trypsin to each well and return the plate to the
+incubator .
+3. Pipette up and down (gently—2 or 3 times) until cells are fully detached from the
+plate and transfer into a 50-ml conical.
+4. Wash the well with an additional 1 ml of 0.05% trypsin. Add this wash to the conical
+tube and pipette up and down 1 to 2 additional times with a 1000- μl or 5-ml pipette
+to further dissociate the cell clusters. If many large clumps persist, manually shake,
+ﬂick, and roll the 50-ml conical for 3 to 5 min.
+Do not pipette more than a few times at this stage. There will frequently still be some
+cells stuck together in large clumps. If there are many of these clumps, continue to pipette
+a few times more with a 5-ml pipette. However , these clumps will be ﬁltered out during
+subsequent steps, and while it is important to get enough cells dissociated and not to
+lose too many during the ﬁltration process, it is also important to dissociate the cells
+gently. Therefore, one should try to break up as many clumps as possible by continued
+trypsinization and gentle pipetting, but without resorting to substantial or harsh pipetting
+to manually disperse the clusters.
+McCauley et al.
+9o f2 7
+Current Protocols in Stem Cell Biology
+
+<<<PAGE 10>>>
+5. Prepare “stop medium” by adding 50 ml FBS to 450 ml of DMEM. Add an equivalent
+volume of stop medium to the cell suspension and pipette up and down gently with
+a 25-ml pipette to mix the cell suspension.
+F or fewer wells of cells (with a consequent lower ﬁnal volume of the cell suspension), a
+5- to 10 ml pipette can be used instead.
+6. Fit a 40- μm strainer to a new 50-ml conical tube and gently transfer the cell
+suspension into this new tube.
+7. Centrifuge the cells for 5 min at 300 × g,4°C.
+8. Resuspend the cells in 1 ml FACS buffer and perform a cell count.
+9. Centrifuge the cells for 5 min at 300 × g,4°C, and resuspend the cell pellet in sort
+buffer at 100µlp e r1 × 106 cells.
+Sorting CD47high,C D 2 6low lung progenitors
+10. Transfer cells into separate 1.5-ml microcentrifuge tubes for controls and staining
+(6 samples total):
+Sample 1: Unstained
+Sample 2: Calcein blue only
+Sample 3: CD47PerCP/Cy5.5 only
+Sample 4: CD26PE only
+Sample 5: mIgG1PerCP/Cy5.5,m I g G 2PE (isotype controls)
+Sample 6: CD47PerCP/Cy5.5/CD26PE.
+As the ﬁnal condition (sample 6, double stained) is the actual staining condition for the
+cells that will be sorted for downstream applications, the majority of the cells should be
+transferred into sample 6. F or example, if one harvests 10 × 106 cells, 1 × 106 cells
+should be transferred to each of samples 1 to 5 and 5 × 106 cells should be used for
+sample 6, the sample to be sorted. Sample 6 staining can be performed in a 15- or 50-ml
+conical, if sample volumes are too large for a 1.5-ml microcentrifuge tube.
+An aliquot of unsorted cells should also be taken and ﬁxed in 1.6% paraformaldehyde at
+this stage for later use to determine NKX2-1 differentiation efﬁciency and enrichment by
+sorting using intracellular ﬂow cytometry (see Support Protocol 2).
+Additionally, if few cells are available for staining, 50 μ l of staining volume can be used
+for the controls (samples 1 to 5) with a concordant reduced volume of antibody.
+11. Add 0.5 μl antibody per 100 μl staining volume to the appropriate conditions.
+F or example, samples 1 to 2 should receive no antibody, sample 3 should only have the
+CD47PerCP/Cy5.5 antibody, etc.
+12. Place the samples on ice and stain the samples for 30 min, protected from light.
+13. While cells are staining, prepare collection tubes to capture sorted cells by adding a
+small volume of sort buffer into each collection tube.
+Collection tubes used depend on the speciﬁcations of the cell sorter used. In practice,
+some typical options (depending on cell number to be sorted) include 1.5-ml microcen-
+trifuge tubes (add approximately 200 μ l of sort buffer), 4-ml round-bottom Falcon tubes
+(add approximately 500 μ l of sort buffer), or 15-ml conical tubes (recommended; add
+approximately 1 ml of sort buffer).
+14. After 30 min of staining, add 1 ml stop medium to each tube to remove excess
+antibody and centrifuge for 5 min at 300 × g,4°C.
+15. Aspirate the supernatant and resuspend the cell pellet in 500 μl of sort buffer per 1
+× 106 cells.McCauley et al.
+10 of 27
+Current Protocols in Stem Cell Biology
+
+<<<PAGE 11>>>
+Figure 4 Sorting algorithm for CD47 high, CD26low lung progenitors. (A) Flow cytometry dot plots
+showing typical gating strategy for differentiations of variable efﬁciency . Cells were ﬁrst be gated
+for size and granularity (FSC vs. SSC), then live cells (calcein blue +), then CD47 vs. CD26. As
+depicted, the lower limit of the CD47high gate should be drawn just above where the CD26+ cloud in-
+tersects the main population. Following sorting, the indicated NKX2-1% enrichment was evaluated
+by intracellular NKX2-1 staining of aliquots of either bulk (“presort”) or sorted (CD47high/CD26low;
+“post-sort”) cells. (B) T ypical appearance of controls, including isotypes, CD47 single-stain, CD26
+single-stain, and CD47/CD26 double staining after appropriate pre-gating (SSC/FSS/Calcein blue)
+and compensation (using single color stained controls) for bleed through of the CD26-PE ﬂuores-
+cence into the channel measuring CD47-PerCP-Cy5 ﬂuorescence. Note the expression of CD47
+over isotype levels in nearly all cells.
+16. Add 1 μl/ml of 10 μM calcein blue, AM (ﬁnal concentration: 10 nM) to each of
+samples 2 to 6.
+Any viability dye that does not interfere with either PE or PerCP-Cy5.5 staining can be
+used to exclude non-viable cells.
+17. Transfer ﬁltered cell suspension to appropriate round-bottom Falcon tubes for the
+sorting instrument and bring cells to sorter on ice, protected from the light.
+18. Using a ﬂow cytometer, and maintaining sterile conditions, sort CD47 high, CD26
+low/negative cells into a collection tube (Fig. 4). McCauley et al.
+11 of 27
+Current Protocols in Stem Cell Biology
+
+<<<PAGE 12>>>
+If possible, it is recommended to sort the cells with a trained operator familiar with
+sorting cells for replating. Sorting efﬁciency can be optimized, if needed, by diluting cells
+in a larger volume and ﬁltering multiple times to prevent clumping.
+Cells should be gated ﬁrst for size to exclude fragmented particles (FSC vs. SSC), then
+gated for singlets (e.g., FSC-A vs. FSC-H), then for viability (recommended: calcein
+blue+; Fig. 4). Typically, >90% of cells are viable. While the authors of this chapter
+employ a logarithmic SSC scale and linear FSC scale (Fig. 4a), any scale familiar to the
+user may be effectively employed. Next, cells should be gated for the CD47 high,C D 2 6low
+population to enrich for lung progenitors. Typically, >90% of the cells express CD47
+at a level higher than isotype controls but only the CD47 high population is enriched for
+NKX2-1+ cells. The optimal location for the lower boundary of the CD47 high sort gate
+is just above the intersection of the CD47 and the CD26 clouds. This gating strategy is
+detailed in Figure 4.
+Typically, the higher the CD47 gate, the better the NKX2-1 enrichment score (enrichment
+score= presort NKX2-1+ %/post sort NKX2-1 + %). Depending on the application, it
+might be more important to be stringent with the gating (i.e., fewer cells are sorted but it
+is more important that they are highly enriched for NKX2-1).
+Enrichment for NKX2-1 expression should be evaluated by intracellular ﬂow cytometry by
+taking a subsample of cells pre- and post-sorting for ﬁxation in 1.6% paraformaldehyde
+and subsequent NKX2-1 staining (see details in Support Protocol 2). CD47 low cells
+should also be sorted as a gating control for this analysis. Alternatively, the protocol
+can be practiced using a validated NKX2-1 GFP reporter PSC line, in which case all three
+markers (CD47, CD26, and GFP) can be analyzed simultaneously for calculation of
+enrichment scores (Hawkins et al., 2017).
+BASIC
+PROTOCOL 3
+GENERA TION AND PASSAGING OF AIRW A Y EPITHELIAL ORGANOIDS
+This protocol describes an approach to establish three-dimensional (3D) culture of puri-
+ﬁed PSC-derived lung progenitors generated in Basic Protocol 1 and Basic Protocol 2 and
+drive them towards an airway epithelial phenotype. After speciﬁcation of the NKX2-1 +
+lung progenitor identity, withdrawal or inhibition of Wnt activity drives these epithe-
+lial lung progenitors towards a proximal airway fate, whereas continued Wnt activation
+drives distal differentiation (McCauley et al., 2017). Therefore, this protocol relies on the
+expansion of speciﬁed, puriﬁed lung progenitors in “low-Wnt,” FGF-containing media
+to drive differentiation or airway epithelial progenitors. Brieﬂy, cells are resuspended in
+3D Matrigel matrix and replated in tissue culture dishes. Culture of these cells in media
+driving activation of FGF signaling via FGF2 and FGF10 and containing corticosteroids
+and cyclic-AMP drives cells to form epithelial spheres containing differentiated airway
+cell types.
+Materials
+Cells (see Basic Protocol 2)
+Growth factor-reduced Matrigel matrix (Corning, cat. no. 356234)
+Airway Differentiation Medium (see recipe)
+2 mg/ml dispase II (see recipe)
+0.05% Trypsin-EDTA (e.g., Gibco, cat. no 25-300-062)
+Fetal bovine serum (FBS; e.g., Gibco, cat. no. 10082139)
+DMEM (Gibco, cat. no. 11995-065)
+Centrifuge
+12-well sterile tissue culture plate
+37°C incubator
+1000-μl pipettes
+Sterile 15-ml conical tubes
+6-well platesMcCauley et al.
+12 of 27
+Current Protocols in Stem Cell Biology
+
+<<<PAGE 13>>>
+Figure 5 Phase-contrast microscopy and immunoﬂuorescence microscopy of typical three-
+dimensional culture at day 31 (airway organoid stage) after differentiation from single cells in
+airway differentiation medium from day 15–31. T able indicates recommended markers to proﬁle
+airway markers and cell types (basal and secretory cells) derived in this protocol. Immunoﬂuores-
+cence microscopy is reprinted with permission from McCauley , K. B. et al., 2017.
+Automated cell counting system (e.g., Luna Automated Cell Counter, Logos
+Biosystems)
+Establishing three-dimensional airway epithelial organoid culture
+1. Centrifuge single cells post-sort for 5 min 300 × g,4°C.
+2. Resuspend the cells at a concentration of 1000 cells/ μl in undiluted Matrigel matrix
+and replate in 50 to 100 μl drops.
+Prior to resuspending cells, Matrigel should be thawed and kept cold (on ice) to prevent
+polymerization. F or ease of thawing, it is convenient to divide the Matrigel to be used
+in 3D culture into 500- μ l to 1-ml aliquots. Take care when resuspending cells not to
+introduce bubbles into the Matrigel and to efﬁciently disperse the cell pellet into single
+cells distributed throughout the Matrigel.
+Smaller Matrigel drops can be used but are not as robust at generating organoids as cells
+can settle through the Matrigel and attach to the bottom of the plate.
+If more cells are required downstream, cells can also be replated in several small (50 to
+100 μ l) drops in a 6-well plate or a 100-cm dish.
+Cells should be plated in one drop per well of a 12-well plate.
+3. Allow drops to solidify for 20 min at 37 °C.
+4. After drops have fully polymerized, add Airway Differentiation Medium carefully
+to wells.
+Add enough medium to ensure that drops are fully covered, typically 1 to 2 ml per well
+of a 12-well plate.
+5. Cells will begin to form epithelial spheres (“organoids”) after several days to one
+week of culture and will continue to proliferate and expand until the drop is ﬁlled
+with cells (see Fig. 5).
+After organoid cultures are established, they can be characterized using several standard
+techniques, including quantitative real-time PCR, whole mount immunoﬂuorescence mi-
+croscopy of organoids, or embedding for formalin-ﬁxed, parafﬁn embedded sections (as
+in McCauley et al., 2017). To generate sufﬁcient material for sectioning, it is important to
+wait until organoids are of sufﬁcient size for embedding as a large pellet. Organoids can
+also be resuspended in low-melting temperature agarose prior to ﬁxation, embedding,
+and sectioning. McCauley et al.
+13 of 27
+Current Protocols in Stem Cell Biology
+
+<<<PAGE 14>>>
+Airway epithelial organoid identity is deﬁned by expression of proximal lung markers,
+including NKX2-1 and SOX2 as well as by the presence of proximal lung lineages,
+including cells expressing markers of secretory lineages (NKX2-1 + and SCGB3A2+ or
+SCGB1A1) and airway basal cells (NKX2-1+P63+KRT5+). The proximalized epithelial
+airway organoids generated in this chapter can also be differentiated to ciliated cells
+using pharmacologic inhibition of Notch signaling or can be expanded and differentiated
+in two-dimensional air-liquid interface culture (McCauley et al., 2017).
+Passaging airway epithelial organoids
+6. Aspirate medium and add 2 mg/ml dispase to the well to cover droplet (typi-
+cally 1 ml/well) and incubate at 37 °C for 30 min to 1 hr, until Matrigel is fully
+dissolved.
+Dislodging the Matrigel pellet with a pipette prior to incubation and gentle pipetting 3
+to 5 times after 10 min can facilitate dissociation.
+7. Using a 1000- μl pipette, transfer dissociated organoids into a new 15-ml conical
+tube and add an equivalent volume of DMEM.
+8. Centrifuge spheres for 1 to 2 min at 300 × g,4°C.
+If organoids have not formed a pellet after this time, spin for an additional 1 to 2 min.
+If organoids are particularly large, they can be allowed to settle to the bottom of
+the conical instead of this centrifugation step. This is particularly useful if there is
+a lot of debris in the Matrigel drop, as this will not settle and is aspirated with the
+supernatant.
+9. Aspirate the supernatant and add 1 to 2 ml 0.05% trypsin per dissociated drop.
+F or example, if three drops were originally dissociated, add 3 ml trypsin.
+10. Transfer trypsin and cells into a well of a 6-well plate and incubate for 8 to 10 min
+at 37°C.
+Cells will begin to visibly dissociate from the spheres. Allow cells to incubate with trypsin
+until they are entirely dissociated; they will not survive being mechanically dissociated
+by pipetting so most of the dissociation should be enzymatic. If cells have not dissociated
+after 12 min in trypsin, collect the cells, centrifuge them down, and resuspend in fresh
+trypsin for an additional 3 to 4 min.
+11. While cells are dissociating, prepare “stop medium” by adding 50 ml FBS to 450 ml
+DMEM.
+12. Collect dissociated cells in a new 15-ml conical tube and add an equivalent volume
+of stop medium.
+13. Centrifuge the cells for 5 min at 300 × g,4°C.
+14. Resuspend the cells in 1 ml DMEM and count using an automated cell counter.
+15. Centrifuge the cells and resuspend at a concentration of 1000 cells/ μl in undiluted
+Matrigel matrix and replate in 50 to 100 μl drops, allow drops to solidify for 30 min
+t o1h ra t3 7°C, and add Airway Differentiation Medium carefully to wells.
+This protocol also is effective to prepare a viable single cell solution of cells for ﬂow
+cytometry or sorting from airway organoids. F or this approach, spin down cells and
+resuspend in F ACS buffer for staining or other downstream analysis.
+McCauley et al.
+14 of 27
+Current Protocols in Stem Cell Biology
+
+<<<PAGE 15>>>
+SUPPORT
+PROTOCOL 1
+FLUORESCENT IMMUNOCYTOCHEMISTRY FOR ENDODERMAL
+NKX2-1 INDUCTION EFFICIENCY
+This protocol describes an approach to characterize efﬁciency of differentiation of PSCs
+to lung progenitors in Basic Protocol 1 by immunocytochemistry for NKX2-1 expression.
+Although less quantitative than other approaches, such as ﬂow cytometry, immunocyto-
+chemistry gives a valuable overall impression of the differentiation efﬁciency of a given
+line or protocol.
+Additional Materials (also see Basic Protocol 1)
+Differentiated cells (see Basic Protocol 1)
+4% paraformaldehyde
+Phosphate-buffered saline (PBS; Gibco, cat. no. 10010023)
+0.3% Triton X-100 in phosphate-buffered saline (PBS)
+Normal donkey serum (or other blocking reagent, e.g., 4% normal goat serum or
+1% bovine serum albumin)
+Rabbit anti-TTF-1 (NKX2-1) antibody, clone EP1584Y (Abcam, cat. no. ab76013)
+1.5 mg/ml AfﬁniPure Donkey Anti-Rabbit IgG (H +L), AlexaFluor 488 conjugated
+(Jackson Immunoresearch, cat. no. 711-225-152)
+Hoechst (ThermoFisher, cat. no. H3570)
+1.5-ml microcentrifuge tubes
+Standard ﬂuorescence microscope capable of imaging AlexaFluor 488 and Hoechst
+staining in a tissue culture plate format
+1. Aspirate medium from differentiated cells and wash with 2 ml per well empty
+medium (e.g., IMDM).
+Staining for NKX2-1 with appropriate controls requires 3 wells of cells.
+Furthermore, it is beneﬁcial to include a negative control cell population for staining, as
+the NKX2-1 antibody has high levels of nuclear background. Undifferentiated PSCs are
+typically the most accessible cell type, although other NKX2-1 negative cells can also
+be used for this purpose. These cells should be harvested and stained using the same
+approach as the differentiated lung progenitors.
+2. Add 1 ml/well of 4% paraformaldehyde and incubate for 15 min at room temperature
+(25°C).
+V olumes given are for cells cultured in a 6-well plate. The staining protocol can be readily
+scaled to smaller well sizes.
+3. Wash three times, for 3 min each time with 2 ml per well PBS.
+At this stage, plat es can be sealed with paraﬁlm and stored up to 2 weeks at 4 °C with
+cells in PBS prior to continuing with the staining protocol.
+4. Aspirate PBS and add 1 ml/well of 0.3% Triton-X 100 for 10 min at 25 °Ct o
+permeabilize cells. Wash the cells three times, for 3 min each time with 2 ml per
+well PBS.
+5. Prepare blocking solution by diluting normal donkey serum (NDS) in PBS to a ﬁnal
+concentration of 4% (v/v). Aspirate PBS and add 1 ml/well of 4% NDS. Incubate
+cells for 1 hr at room temperature.
+F or example, add 400μ lo fN D St o9 . 6m lo fP B S .
+Other blocking reagents, such as 1% BSA, can also be used in lieu of 4% normal donkey
+serum.
+McCauley et al.
+15 of 27
+Current Protocols in Stem Cell Biology
+
+<<<PAGE 16>>>
+Figure 6 Immunoﬂuorescence microscopy for NKX2-1 (magenta) and DAPI (grey) at day 15
+showing typical staining pattern for ( A) high and ( B) low-efﬁciency differentiations.
+6. Prepare solutions of NKX2-1 antibody in 4% NDS, in 1.5-ml microcentrifuge tubes
+as follows. Staining requires 500 μl of dilute antibody/well:
+Unstained: No primary antibody
+Secondary only: No primary antibody
+NKX2-1: 1 μl antibody/500 μl 4% NDS.
+7. Aspirate blocking solution and add each prepared antibody solution to a separate
+well of prepared cells. Incubate overnight at 4°Co rf o r1h ra t3 7°C.
+Overnight incubation may improve antibody speciﬁcity.
+8. Wash thee cells three times, for 3 min each time with 2 ml per well PBS.
+9. Prepare dilute secondary antibody solutions in 1.5-ml microcentrifuge tubes and
+add the appropriate secondary antibodies to each well:
+Unstained: No secondary antibody
+Secondary only: 1 μl donkey anti-rabbit (AlexaFluor 488 conjugated) in
+500 μlP B S
+NKX2-1: 1 μl donkey anti-rabbit (AlexaFluor 488 conjugated) in 500 μlP B S .
+10. Incubate with appropriate secondary antibody at room temperature for 30 min in the
+dark. After staining, wash three times, for 3 min each time with 2 ml per well PBS.
+11. Counterstain with Hoechst (diluted 1:500 in PBS) for 30 min at room temperature
+in the dark.
+12. Wash three times, for 3 min each time with 2 ml per well PBS.
+13. Image the cells on a compatible ﬂuorescence microscope for Hoechst (blue) and
+NKX2-1 (AlexaFluor 488 labeled) nuclear staining. Nuclear staining efﬁciency can
+be quantiﬁed by standard image analysis software (e.g., ImageJ).
+Typical Day 15 NKX2-1 immunoﬂuorescence is shown in Figure 6.
+SUPPORT
+PROTOCOL 2
+FLOW CYTOMETRY FOR INTRACELLULAR NKX2-1
+This protocol describes an approach to evaluate the efﬁciency of differentiation of lung
+progenitors using Basic Protocol 1 and the enrichment of these cells by cell sorting in
+Basic Protocol 2. For this latter application, an aliquot of cells should be taken after
+sorting based on CD47/CD26 gating for evaluation of NKX2-1 enrichment.
+This approach relies on the ﬁxation, permeabilization, and intranuclear staining of cells
+for NKX2-1 protein before evaluation by ﬂow cytometry.McCauley et al.
+16 of 27
+Current Protocols in Stem Cell Biology
+
+<<<PAGE 17>>>
+Additional Materials (also see Basic Protocols 1 and 2)
+Differentiated cells
+0.05% Trypsin-EDTA (Gibco, cat. no 25-300-062)
+Fetal bovine serum (FBS; e.g., Gibco, cat. no. 10082139)
+Empty medium (e.g., DMEM)
+1.6% paraformaldehyde
+10× Intracellular Staining Permeabilization Wash Buffer (Biolegend, cat. no.
+421002)
+Rabbit anti-TTF-1 (NKX2-1) antibody, clone EP1584Y (Abcam, cat. no. ab76013)
+Rabbit IgG, clone EPR25A (Abcam cat. no. 172730)
+1.5 mg/ml AfﬁniPure Donkey Anti-Rabbit IgG (H +L), AlexaFluor 488 conjugated
+(Jackson Immunoresearch, cat. no. 711-225-152)
+Light microscope
+40-μm cell strainer (Corning, cat. no. 431750)
+1.5-ml microcentrifuge tubes
+1. Incubate differentiated cells with 0.05% Trypsin-EDTA for 10 to 12 min at 37 °C.
+Evaluate single-cell dissociation efﬁciency by light microscopy. While cells are
+dissociating, prepare “stop medium” by adding 50 ml FBS to 450 ml empty medium
+(e.g., DMEM).
+It is also beneﬁcial to simultaneously harvest undifferentiated PSCs to use as a staining
+control for F ACS at this stage.
+2. Pipette gently to transfer cells into a new 50 ml conical. Add 4 ml stop medium per
+1 ml of Trypsin/cell mixture to the conical tubes of cells to inactivate the trypsin.
+It is important to avoid excessive pipetting at this stage. Therefore, cells should be
+harvested from the plate when almost all adherent cells have lifted off and formed
+ﬂoating clusters of single cells.
+If cells are still in large clumps after being transferred to the new conical tube, cap the
+tube and shake vigorously side-to-side to dissociate large clusters prior to adding stop
+medium.
+3. Filter cells through a 40- μm cell strainer into a new 50-ml conical and centrifuge
+for 5 min at 300 × g,4°C.
+4. Resuspend the cells in 1 ml FACS buffer and count using an automated cell counter.
+Centrifuge for 5 min at 300 × g,4°C.
+Ideally, at least 1 × 105 cells should be used per staining condition.
+F or evaluation of cells that have been sorted using the CD47 high/CD26low algorithm,
+begin at step 5 (below) after spinning down the sorted cells for 5 min at 300 × g, 4°C.
+To ensure appropriate gating and scoring of differentiation efﬁciency, aliquots of sorted
+CD47low and presorted cells should also be included as controls for NKX2-1 intracellular
+FAC S .
+5. Aspirate FACS buffer and resuspend the cells in 1 ml of 1.6% paraformaldehyde per
+1×106 cells. Incubate, gently shaking or rocking, for 10 min at 37 °C.
+6. Prepare staining buffer by diluting 10 × Intracellular Staining Permeabilization Wash
+Buffer in FACS buffer to a ﬁnal concentration of 1 ×.
+F or example, add 1 ml of 10 × Intracellular Staining Permeabilization Wash Buffer to
+9m lF A C Sb u f f e r .
+7. Centrifuge the cells for 5 min at 300 × g,4°C, and resuspend in 100 μl staining
+buffer per 1 × 105–1 × 106 cells for a total volume of at least 300 μl. Transfer McCauley et al.
+17 of 27
+Current Protocols in Stem Cell Biology
+
+<<<PAGE 18>>>
+100 μl of cells to each of three 1.5-ml microcentrifuge tubes. Add 900 μl to each
+tube (ﬁnal volume: 1 ml), incubate for 5 min at room temperature, and centrifuge
+the cells for 5 min at 300 × g,4°C.
+8. Aspirate buffer and add appropriate primary antibody at the appropriate concentra-
+tion (diluted in staining buffer) to each tube:
+Unstained: No primary antibody
+Isotype: 0.2 μg/ml rabbit IgG (approximately 0.02 μl antibody per 100 μl
+staining buffer)
+NKX2-1: 0.2 μg/ml rabbit anti-TTF-1 (NKX2-1) antibody (approximately
+0.2 μl antibody per 100 μl staining buffer).
+Antibody concentrations will vary from lot to lot, so it is important to re-calculate
+the appropriate dilution for each new antibody stock. Similarly, one should note that
+the isotype and primary antibody stock concentrations are not the same, but the ﬁnal
+concentration should be equal.
+Additionally, it may be necessary to make serial dilutions of the primary antibody in
+staining buffer to determine the appropriate ﬁnal concentration for robust staining using
+new antibody lots.
+9. Incubate the cells with primary antibodies for 30 min at 25 °C.
+10. After 30 min of staining, centrifuge the cells for 5 min at 300 × g,4°C, and wash
+by resuspending in 1 ml staining buffer. Repeat 2 times.
+11. Centrifuge the cells for 5 min at 300 × g,4°C, and resuspend in 100 μl per tube
+of donkey anti-rabbit IgG antibody, AlexaFluor 488 conjugated, diluted 1:500 in
+staining buffer.
+12. Incubate the cells in the dark in secondary antibody for 30 min at 25 °C.
+13. After 30 min of staining, centrifuge the cells for 5 min at 300 × g,4°C, and wash
+by resuspending in 1 ml staining buffer. Repeat 2 times.
+14. Centrifuge the cells for 5 min at 300 × g,4 °C, and resuspend in FACS buffer.
+Transfer to FACS tubes and analyze on a suitable ﬂow cytometer for NKX2-1
+(AlexaFluor 488-labeled) expression.
+Note that the isotype controls are typically much lower in ﬂuorescence than the NKX2-
+1 negative cells that were stained with the antibody. It is typically more effective
+and informative to draw gates to estimate NKX2-1 induction efﬁciency using a neg-
+ative control (e.g., undifferentiated cells) stained with anti-NKX2-1 antibody in the
+same manner described above). Typical F ACS plots and gating strategy are shown in
+Figure 7.
+When performing ﬂow cytometry to evaluate the outcome of CD47 high/CD26low sorting,
+enrichment can be scored by comparing the percentage of NKX2-1 + cells in the post- to
+pre-sort populations as a ratio. F or example, if the pre-sorted population is 45% NKX2-
+1+ and the post-sorted population is 90% NKX2-1 +, then the enrichment score would
+be: 90/45= 2 or “2-fold enrichment for NKX2-1.”
+REAGENTS AND SOLUTIONS
+Use deionized, distilled water in all steps (unless otherwise noted).
+Airway differentiation medium
+45 ml cSFDM base (see recipe)
+5m lo f1 0× cyclic AMP/IBMX stock (see recipe)
+50 μl of 250 μg/ml rhFGF2
+continuedMcCauley et al.
+18 of 27
+Current Protocols in Stem Cell Biology
+
+<<<PAGE 19>>>
+Figure 7 Representative plots of intracellular ﬂow cytometry staining for NKX2-1. ( A) Dot plots
+showing typical gating algorithm to evaluate NKX2-1 expression by ﬁrst gating for size and gran-
+ularity (FSC vs. SSC) then for NKX2-1 expression relative to a negative control population e.g.,
+CD47low (depicted) or undifferentiated PSCs). ( B) From left to right, dot plots indicate isotype con-
+trol and NKX2-1-stained unsorted and sorted CD47 high populations. Note the low staining levels
+in the isotype control relative to the NKX2-1 − cloud in the stained, unsorted population.
+500 μlo f1 0 μg/ml rhFGF10
+25 μl dexamethasone
+50 μl of 10 mM Y-27632
+Store up to 2 weeks at 4°C for up to 2 weeks (kept out of light)
+cAMP/IBMX Stock, 10×
+50 ml cSFDM base (see recipe)
+21.5 mg 8-Bromoadenosine 3′,5′-cyclic monophosphate sodium salt (cAMP;
+Sigma-Aldrich, cat. no. B7880-100MG)
+500 μl of 0.1 M IBMX (3-isobutyl-1-methylxanthine; Sigma, cat. no. I5879)
+Filter sterilize using a 40-µm ﬁlter
+Store up to 1 month at 4°C
+CHIR99021 (CHIR), 3 mM
+CHIR99021 (Tocris, cat. no. 4423)
+7.1 ml dimethyl sulfoxide (DMSO)
+Filter sterilize using a 40-µm ﬁlter
+Divide into 100-μl aliquots
+Store up to 1 year at − 20°C
+After thawing individual aliquots, store at 4 °C for up to 1 week.
+Complete serum-free differentiation medium (cSFDM)
+375 ml of 1× Iscove’s Modiﬁed Dulbecco’s Medium (IMDM; Invitrogen, cat. no.
+12200-036) McCauley et al.
+19 of 27
+Current Protocols in Stem Cell Biology
+
+<<<PAGE 20>>>
+125 ml Ham’s F12 (e.g., Invitrogen, cat. no. 11765-054)
+5 ml B27 with retinoic acid (ThermoFisher, cat. no. 17504044)
+2.5 ml N2 (ThermoFisher, cat. no. 17502048)
+500 μl ascorbic acid, 50 mg/ml
+Ascorbic acid can be prepared by diluting stock powder (e.g., Sigma, cat. no. A4544-25G)
+in sterile, tissue-culture grade water to a ﬁnal concentration of 50 mg/ml
+19.5 μl monothioglycerol, 500 μg/ml (Sigma, cat. no. M6145-25ML)
+3.75 ml Bovine Albumin Fraction V , 7.5% solution (Gibco, cat. no. 15260-037)
+5 ml Glutamax (Gibco, cat. no. 35050)
+500 μl primocin (Invivogen, cat. no. ant-pm-2)
+Filter sterilize (e.g., with Millipore Steritop Sterile V acuum Bottle-Top Filters, cat.
+no. SCGPS01RE)
+Store for up to 1 month at 4°C, kept away from light.
+The following recipes for Y-27632, SB431542, Dorsomorphin, and CHIR99021 are examples
+of possible dilution factors for each of these compounds. The molecular weight of these
+chemicals is batch-speciﬁc. It is important to recalculate the volume of water added to reach
+the desired ﬁnal concentration based on the molecular weight printed on the label.
+Dexamethasone, 100 μM
+Prepare 1 mM stock:
+Dexamethasone powder (Sigma, cat. no. D4902-25MG)
+63.7 ml molecular biology grade ethanol
+Store up to 2 years at − 20°C
+Prepare 100 μ M stock (working concentration):
+500 μl of 1 mM dexamethasone stock
+49.5 ml molecular biology grade ethanol
+Divide into 500-μl aliquots
+Store up to 1 year at − 20°C
+Dispase II, 2 mg/ml
+100 mg Dispase II, powder (ThermoFisher, cat no. 17105041)
+50 ml DMEM
+Dissolve and ﬁlter sterilize using a 40-µm ﬁlter
+Store up to 2 weeks at 4°C or divide into 5-ml aliquots and freeze up to 6 months at
+− 20°C
+Dorsomorphin (DS), 2 mM
+2 mg Dorsomorphin (Stemgent, cat. no. 04-0024)
+2 ml dimethyl sulfoxide (DMSO)
+Filter sterilize using a 40-µm ﬁlter
+Divide into 50-µl aliquots
+Store up to 1 year at − 20°C
+After thawing individual aliquots, store up to 1 week at 4 °C.
+FAC S bu ffe r
+4 9 . 5m lo f1× phosphate-buffered saline
+0.5 ml fetal bovine serum (e.g., Gibco, cat. no. 10082139)
+Store up to 2 weeks at 4°C
+Recombinant human FGF2, 250 μg/ml
+1 mg recombinant human FGF basic protein (R&D Systems, cat. no. 233-FB-025)
+4m lo f0 . 1 %B S A
+McCauley et al.
+20 of 27
+Current Protocols in Stem Cell Biology
+
+<<<PAGE 21>>>
+Prepare 0.1% BSA in PBS by diluting 13 μ l Bovine Albumin Fraction V , 7.5% solution in
+1 ml PBS.
+Filter sterilize using a 40-µm ﬁlter
+Divide into 50-µl aliquots
+Store up to 1 year at − 80°C
+After thawing individual aliquots, store up to 1 week at 4 °C.
+Retinoic acid (RA), 100 μM
+Prepare 5 mM stock solution:
+50 mg retinoic acid (Sigma, cat. no. R2625-50MG)
+33.24 ml dimethyl sulfoxide (DMSO)
+Divide into 1-ml aliquots
+Store up to 1 year at − 80°C ( kept away from light)
+Prepare 100 μ M working solution:
+1 ml of 5 mM stock solution.
+49 ml molecular biology grade ethanol
+Store up to 1 month at − 20°C (kept away from light)
+Recombinant human FGF10, 10 μg/ml
+25 μg recombinant human FGF10 protein (R&D Systems, cat. no. 345-FG-025)
+2.5 ml of 0.1% bovine serum albumin (BSA)
+Prepare 0.1% BSA in PBS by diluting 13 μ l Bovine Albumin Fraction V , 7.5% solution in
+1 ml PBS.
+Filter sterilize using a 40- μm ﬁlter
+Divide into 500-μl aliquots
+Store up to 1 year at − 80°C
+After thawing individual aliquots, store up to 1 week at 4 °C.
+SB431542 (SB), 10 mM
+10 mg SB431542 (Tocris, cat. no. 1614)
+2.6 ml dimethyl sulfoxide (DMSO)
+Filter sterilize using a 40- μm ﬁlter
+Divide into 50-μl aliquots
+Store up to 1 year at − 20°C
+After thawing individual aliquots, store up to 1 week at 4 °C
+Sort buffer
+50 ml FACS buffer (see recipe)
+50 μl of 10 mM Y-27632 (see recipe)
+Store up to 2 weeks at 4°C
+Y-27632 (Y), 10 mM
+10 mg Y-27632 dihydrochloride (Tocris, cat. no. 1254)
+3.1 ml sterile, tissue-culture grade water
+Filter sterilize (e.g., with EMD Millipore Sterile Disposable V acuum Filter Units,
+cat. no. SCGP00525)
+Divide into 100-μl-aliquots
+Store up to 1 year at − 80°C
+After thawing individual aliquots, store up to 1 month at 4 °C
+McCauley et al.
+21 of 27
+Current Protocols in Stem Cell Biology
+
+<<<PAGE 22>>>
+COMMENTARY
+Background Information
+This procedure builds on years of careful
+work developing directed differentiation ap-
+proaches for early and later stages of early
+lung development, from deﬁnitive endoderm
+to lung speciﬁcation. Initially, methods were
+generated to derive deﬁnitive endoderm from
+both mouse and human PSCs, mainly via
+the activation of nodal signaling and conse-
+quent gastrulation and formation of the ante-
+rior primitive streak via high-dose Activin A
+(D’Amour et al., 2005; Kubo, 2004). Addi-
+tional studies using Bry and Foxa2 reporters
+have revealed that BMP , Wnt, and nodal sig-
+naling are required for and drive the formation
+of the primitive streak from PSCs (D’Amour
+et al., 2005; Gadue, Huber, Paddison, & Keller,
+2006; Loh et al., 2014). However, continued
+activation of BMP and Wnt after establishment
+of the primitive streak result in generation of a
+more posterior identity, resulting in emergence
+of mesodermal fate at the expense of deﬁnitive
+endoderm (Loh et al., 2014).
+PSC-derived deﬁnitive endoderm expresses
+early endodermal lineage markers (e.g.,
+Foxa2, Sox17), differentiates to multiple en-
+dodermal lineages after transplantation in the
+mouse kidney capsule (D’Amour et al., 2005;
+Kubo, 2004) and can be driven in vitro with
+further patterning to more differentiated endo-
+dermal lineages, such as hepatocytes (Gouon-
+Evans et al., 2006). These PSC-derived en-
+dodermal progenitors can also be patterned,
+much like the in vivo early endoderm, to sub-
+sets of foregut cells. Relevant to the goal of dif-
+ferentiating lung lineages is the ability to drive
+the expression of anterior foregut markers via
+the dual inhibition of BMP and TGF β signal-
+ing (Green et al., 2011). When derived from
+either mouse or human PSCs, these anterior
+foregut cells are then able to respond to FGF2
+and BMP signaling to differentiate to Nkx2-
+1+Pax8+ thyroid progenitors (Kurmann et al.,
+2015; Longmire et al., 2012) or to combinato-
+rial Wnt, retinoic acid, and BMP signaling to
+differentiate to Nkx2-1 +Pax8- lung progeni-
+tors (Huang et al., 2013; Longmire et al., 2012;
+Rankin et al., 2016). Recent work has charac-
+terized these NKX2-1 + lung progenitors in
+detail and demonstrated that they can differ-
+entiate to SFTPC + distal lung epithelium in
+response to trophic stimulation by deﬁned fac-
+tors (e.g., CHIR99021, FGF10, KGF, steroids)
+or co-culture with mouse lung mesenchyme
+(Bilodeau, Shojaie, Ackerley, Post, & Rossant,
+2014; Hawkins et al., 2017; Huang et al.,
+2013). More recently, the robust differentia-
+tion of these progenitors to functional alveolar
+type II pneumocytes has been described (Ja-
+cob et al. 2017). The reproducibility across
+human PSC lines, relative efﬁciency, and thor-
+ough characterization of this method to gener-
+ate lung endoderm is the central advantage of
+the approach described here.
+As directed differentiation can be inefﬁ-
+cient and heterogeneous, the engineering of
+reporter cell lines allowing for live-cell sorting
+of populations of interest is critical to the study
+of cell fate decisions during directed differenti-
+ation. For example, our lab has previously pub-
+lished the use of reporter lines (e.g., carrying
+GFP targeted to the Nkx2-1 locus) for assess-
+ing the efﬁciency of endodermal lung or thy-
+roid lineage speciﬁcation in mouse (Longmire
+et al., 2012) or human PSCs (Hawkins et al.,
+2017). These reporter lines can be generated
+via a number of gene engineering approaches
+to introduce both a DNA double-strand break
+and repair template containing the reporter se-
+quence targeted to a gene locus of interest.
+In the absence of reporter lines, cell surface
+markers can be used as a surrogate to enrich
+for the population of interest. To identify PSC-
+derived NKX2-1+ lung epithelial progenitors,
+two reliable cell surface markers, CPM and
+CD47, have recently been described (Gotoh
+et al., 2014; Hawkins et al., 2017).
+Finally, the efﬁcient differentiation of pu-
+riﬁed NKX2-1 + lung progenitors to mature
+airway epithelial lineages has only recently
+been described (Konishi et al., 2016; Mc-
+Cauley et al., 2017). The approach described
+in this protocol builds on the concept of
+directed differentiation of early progenitors
+to a deﬁned population subset (e.g., proxi-
+mal airway epithelium) by manipulation of
+developmentally-relevant signaling pathways.
+In this case, the protocol described here rep-
+resents a method using three-dimensional cul-
+ture of puriﬁed cells in conditions with low-
+to-no canonical Wnt signaling to drive the
+formation of airway epithelial spheres. These
+spheres are “epithelial-only” and contain lung
+secretory and basal epithelial cells, but no
+multiciliated cells unless a Notch inhibitor is
+added (likely due to high levels of Notch sig-
+naling as shown in McCauley et al., 2017).
+While their epithelial-only composition makes
+these spheres amenable to experiments study-
+ing airway epithelial cell biology, additional
+mesenchymal, vascular, and immune lineages
+would need to be added to this model in orderMcCauley et al.
+22 of 27
+Current Protocols in Stem Cell Biology
+
+<<<PAGE 23>>>
+to develop the multi-lineage models required
+for future recapitulation of the full complexity
+of in vivo airway structure and function.
+Critical Parameters
+Pluripotency of undifferentiated PSCs
+Differentiation efﬁciency relies on the
+pluripotency and health of the undifferentiated
+PSCs prior to replating for deﬁnitive endo-
+derm. PSCs should be maintained in standard
+culture. All cell lines used for differentiation
+should be evaluated for karyotypic stability,
+absence of mycoplasma contamination, and
+pluripotency using standard techniques. Fur-
+thermore, a pipette should be used to scrape
+and discard any undifferentiated contamina-
+tion prior to passaging cells to initiate differen-
+tiation to ensure robust induction of deﬁnitive
+endoderm.
+Line-to-line variability
+Pluripotent human ESCs are well known
+to have variable in vitro differentiation poten-
+tial across lines. In the directed differentiation
+protocol described here, for example, NKX2-
+1 speciﬁcation efﬁciency across diverse PSC
+lines can vary from 5–95%. With this in mind,
+it is important to characterize the NKX2-1
+speciﬁcation efﬁciency of any new PSC line
+and optimize the parameters that can con-
+tribute to NKX2-1 efﬁciency. In particular,
+the timing and density of replating of deﬁni-
+tive endoderm for anteriorization is a critical
+step in the efﬁciency of directed differenti-
+ation of PSCs to lung epithelium (Hawkins
+et al., 2017). In differentiating any new line,
+one should test the effect of various timings
+and densities of deﬁnitive endoderm on the
+downstream NKX2-1 induction efﬁciency; for
+example, by replating endoderm every 12 hr
+between 60 and 96 hr. This experiment can
+furthermore be a useful training exercise that
+serves to emphasize the importance of careful
+timing of the endodermal stage on downstream
+differentiation capacity. One should take care
+to ensure that the anteriorization duration
+(e.g., 72 hr) is maintained for each endoderm
+timepoint.
+Negative controls
+To accurately evaluate the efﬁciency of
+NKX2-1 speciﬁcation and of later airway dif-
+ferentiation, it is critical to include appropri-
+ate negative controls for both immunoﬂuores-
+cence and ﬂow cytometry analyses as well
+as for reverse transcriptase quantitative PCR
+(RT-qPCR) analysis. Although undifferenti-
+ated PSCs are a convenient negative control,
+it can be difﬁcult to interpret staining pat-
+terns in these cells in comparison to differ-
+entiated cells. It can therefore be useful to
+differentiate cells to a non-lung lineage, such
+as hepatocytes, using standard published pro-
+tocols. These cells can then be used as nega-
+tive controls, in particular when one is learning
+the expected NKX2-1 staining patterns. Com-
+parisons to positive control primary lung cells
+or tissues is also recommended, particularly
+when employing RT-qPCR analyses of PSC-
+derived putative lung lineages.
+Selection of CD47high/CD26low gate
+As most cells (both lung and non-lung) gen-
+erated in the approach described in Basic Pro-
+tocol 1 express CD47, the gate for CD47 high
+expression intersects the positive cloud. En-
+richment of the NKX2-1 + population is di-
+rectly dependent on the location of this gate,
+which is most effective the higher it is on the
+CD47 channel. Typically, it is recommended
+to position the lower limit of the gate for
+the CD47high population just above where the
+CD26+ cloud intersects the CD47 + popula-
+tion. Figure 4 provides several representative
+examples of acceptable CD47 gating based on
+this strategy.
+Evaluation of lung progenitor
+differentiation
+This protocol emphasizes the use of NKX2-
+1 expression as a metric to measure the ef-
+ﬁciency of differentiation to the early lung
+progenitor lineage. However, there are sev-
+eral additional criteria that must be met to
+satisfy the designation of a cell as a “lung
+progenitor.” Other than NKX2-1, there are
+no additional validated markers for early
+lung progenitors, and indeed NKX2-1 itself
+is also expressed early in thyroid endoderm
+and in forebrain neuroectoderm. The ideal
+approach, therefore, is to rule out the pres-
+ence of other non-lung NKX2-1 + lineages
+(thyroid and forebrain). Lung progenitors
+should be NKX2-1+PAX8-TG- (non-thyroid)
+and NKX2-1 +OTX2-SIX3- (non-forebrain)
+(Hawkins et al., 2017). To exclude these
+lineages, expression of these recommended
+markers should be evaluated by immunoﬂu-
+orescence microscopy or RT-qPCR in Day
+15 lung progenitors. Lung progenitors should
+also be evaluated for their downstream lung
+competence by differentiation to cell types ex-
+pressing highly lung-speciﬁc markers includ-
+ing 1) SCGB3A2 + proximal airway epithe-
+lium (McCauley et al., 2017) or 2) surfactant
+protein-C (SFTPC +) distal lung epithelium
+(Hawkins et al., 2017; Huang et al., 2013). McCauley et al.
+23 of 27
+Current Protocols in Stem Cell Biology
+
+<<<PAGE 24>>>
+Expression of other popular “lung” markers,
+such as P63, CFTR, mucins, keratins, FOXJ1,
+or SFTPB in isolation are not lung speciﬁc,
+and in the absence of co-expression of NKX2-
+1 or in the absence of direct derivation from
+NKX2-1+ precursors cannot be reliably inter-
+preted as proof of lung lineage.
+While the protocol in this unit has not been
+found to produce neural or thyroid contami-
+nants (Hawkins et al., 2017; McCauley et al.,
+2017), it remains critical for researchers to
+evaluate the expression of these markers and
+the downstream competence of these progeni-
+tors when using this protocol for their research.
+Evaluation of airway epithelial sphere
+differentiation
+It is critical to evaluate the ﬁnal, differ-
+entiated proximalized lung spheres to en-
+sure their airway identity. For initial exper-
+iments, spheres should be evaluated at least
+two weeks post-sorting. At this stage, the ma-
+jority of spheres should be comprised of ep-
+ithelial (EPCAM +) cells with a distinct lu-
+men and the majority of cells should express
+SOX2 (McCauley et al., 2017). Approximately
+40% to 90% of cells should maintain expres-
+sion of NKX2-1, and these NKX2-1 + cells
+can be segregated into multiple subsets, such
+as: SCGB3A2 + secretory cells, and P63 +
+cells, a portion of which also co-expresses
+KRT5+ reminiscent of in vivo airway basal
+cells (McCauley et al., 2017). The identity of
+NKX2-1 negative cells in these spheres and
+whether these cells arise from the outgrowth
+of rare NKX2-1 negative cells present in the
+day 15 sorted samples remains uncertain to
+date, and may represent contaminating non-
+lung endodermal lineages that persist at some
+level throughout our protocol. Expression of
+markers can be evaluated by immunoﬂuores-
+cence microscopy or by transcriptomic meth-
+ods (e.g., RT-qPCR), although the former is
+preferred as it provides a per-cell metric of
+the population subsets. When evaluating the
+identity and differentiation of these airway ep-
+ithelial spheres, it is important to keep in mind
+the approach and the goals of the experiment.
+For example, it may be relevant to characterize
+the expression pattern and population segrega-
+tion of a gene of interest in a particular airway
+disease, such as CFTR for cystic ﬁbrosis.
+Troubleshooting
+Low endoderm induction efﬁciency
+Endoderm induction, as measured by both
+nuclear expression of FOXA2 and by coex-
+pression of the cell surface markers CD117
+and CXCR4, is typically extremely efﬁcient
+(>90%) using the StemDiff Deﬁnitive Endo-
+derm Kit (StemCell Technologies). In gen-
+eral, troubleshooting of inefﬁcient endoderm
+induction is well-described in the kit protocol,
+and therefore will not be discussed in detail
+here. In brief, the most common cause is low
+pluripotency of starting cultures, which can be
+addressed by ensuring that the starting cells
+have less than 5% spontaneous differentiation
+by eye prior to passaging for differentiation
+(see Fig. 2). Low conﬂuency of starting cul-
+tures post-passage for deﬁnitive endoderm in-
+duction can also contribute to poor induction
+efﬁciency.
+One important consideration that is more
+speciﬁc to this particular protocol is that low
+endoderm efﬁciency may result from evaluat-
+ing the induction too early in differentiation;
+while 72 hr is typically long enough for >90%
+of cells to be CD117 and CXCR4 double-
+positive, some lines may require longer dif-
+ferentiation time before one observes efﬁcient
+endoderm induction by this metric.
+Poor cell survival after endoderm replating
+Cell survival post-passaging after endo-
+derm differentiation (typically Day 3) can be
+a critical barrier to the success of this pro-
+tocol. Low cell survival typically indicates
+that the cells were either dissociated into too-
+small clumps, typically by excessive pipetting.
+One can improve cell survival by 1) using a
+cell scraper to dislodge cells from the con-
+ﬂuent monolayer after dissociation by Gen-
+tle Cell Dissociation Reagent (StemCell Tech-
+nologies), 2) pipetting cells as few times as
+possible (under 4 total is preferable) and 3)
+using a 5-ml pipette instead of a 1000- µl( o r
+similar), to reduce shear forces. It can be useful
+to visualize the cells after replating to observe
+the initial size of the clumps, which should
+typically be between 15 to 20 cells in size.
+Clumps smaller than this, especially in more
+sensitive lines, may result in cell death during
+the anteriorization stage.
+Low NKX2-1 induction efﬁciency
+Other than cell survival, the most com-
+mon challenge in this directed differenti-
+ation protocol is achieving consistent and
+efﬁcient downstream induction of NKX2-1 ex-
+pression. While substantial line-to-line vari-
+ability (as well as some run-to-run variability
+within lines) is expected, consistent differenti-
+ations resulting in low-to-no differentiation ofMcCauley et al.
+24 of 27
+Current Protocols in Stem Cell Biology
+
+<<<PAGE 25>>>
+NKX2-1+ progenitors can result from several
+common factors:
+First, as has been previously mentioned sev-
+eral times, efﬁcient induction of deﬁnitive en-
+doderm is required for effective downstream
+differentiation of lung progenitors. Further-
+more, differentiation is additionally sensitive
+to the timing of deﬁnitive endoderm induc-
+tion. Therefore, as has been previously recom-
+mended, a careful time kinetic of endoderm
+induction may improve downstream NKX2-1
+efﬁciency (Hawkins et al., 2017).
+The conﬂuency of cells after replating from
+endoderm to anterior foregut endoderm (typ-
+ically day 3) is also critical. If cultures are
+too conﬂuent on Day 4, many lines can fail
+to generate appreciable numbers of NKX2-
+1+ progenitors during the subsequent lung
+induction stage. See Figure 2 for the typ-
+ical appearance of cells on Day 4. To ad-
+dress this issue, one can either (1) test mul-
+tiple replating densities to determine the opti-
+mal density for each line, or (2) passage cells
+using 0.05% Trypsin-EDTA on day 9 to 10
+of differentiation at approximately a 1:3 split
+ratio.
+Finally, as NKX2-1 induction relies on co-
+ordinated and time-sensitive signaling path-
+way activation or inhibition, it is important
+that growth factors are carefully diluted and
+aliquoted to ensure accurate concentrations of
+each stock, which should be stored at the rec-
+ommended temperature and should not be kept
+beyond the recommended duration. As one ad-
+ditional point, it is important to keep track
+of the lot number of each stock of growth
+factors aliquoted, in case an issue should
+arise.
+Low NKX2-1 enrichment from CD47 sorting
+NKX2-1 enrichment is contingent on a
+minimum threshold of initial differentiation.
+Differentiation efﬁciencies of less than 10%
+NKX2-1+ cells are not amenable to effective
+enrichment by CD47/CD26 sorting. If the dif-
+ferentiation efﬁciency is adequate, other pos-
+sible explanations for low enrichment include
+inefﬁcient staining. This can be evaluated by
+comparing the stained cells to the isotype.
+Almost all stained cells should be CD47 +
+(brighter staining) compared to the isotype
+antibody-stained control cells. See Figure 4
+for typical staining patterns for various differ-
+entiation efﬁciencies.
+One ﬁnal possible explanation for low
+NKX2-1 enrichment is the selection of the
+CD47 gating parameters. Higher (more strin-
+gent) CD47 gating results in increased enrich-
+ment for NKX2-1 expression.
+Low cell survival after sorting and replating
+The most common explanation for low cell
+survival after sorting is high levels of cell
+death during dissociation, which stresses the
+surviving cells and extends the time required
+to sort an adequate population of live cells.
+To avoid this, cells should be dissociated pri-
+marily through enzymatic methods. The most
+common pitfall of this approach occurs when
+cells die after dissociation or sorting. The most
+common explanation for this cell death is over-
+pipetting of cells during dissociation steps. A
+good guideline is that >65% of cells should
+fall within the size gate on FSC vs. SSC and,
+of these cells, >90% should be viable based
+on calcein blue or other viability staining (See
+Fig. 4). Numbers lower than these, in partic-
+ular increased levels of debris on the FSC vs.
+SSC dot plot, indicate excessive pipetting dur-
+ing dissociation.
+Other potential explanations for low cell
+survival after sorting include the settings and
+nozzles used on the sorting instrumentation it-
+self and the experience of the sorter and the
+investigator replating the cells, which can be
+remedied by open dialogue about the instru-
+ment parameters and continued practice with
+sorting and replating cells.
+Anticipated Results
+Using the described approach for directed
+differentiation, NKX2-1 induction efﬁciencies
+of 30% to 50% can be routinely expected from
+most PSC lines with some expected variability.
+For example, some lines routinely differenti-
+ate at >80% efﬁciency (e.g., BU3(Hawkins
+et al., 2017; Kurmann et al., 2015)) and others
+more typically are <5% NKX2-1+ (e.g., H9
+ESCs; also known as W A0- or NIH registry
+#0062). As discussed, this efﬁciency can be
+further optimized by careful design of exper-
+iments testing various differentiation parame-
+ters (e.g., cell density).
+After sorting and replating in three-
+dimensional culture, sphere formation should
+be efﬁcient. By 2 weeks post-replating (e.g.,
+total differentiation day 30), the majority of
+spheres are luminal, EPCAM + and SOX2+.
+NKX2-1 expression is typically maintained in
+40% to 90% of cells within these spheres.
+Differentiation to airway epithelial cell types
+including SCGB3A2 +NKX2-1+ secretory
+cells and P63 +KRT5+NKX2-1+ basal cells
+is easily detected by immunostaining. While
+this protocol does not reliably produce McCauley et al.
+25 of 27
+Current Protocols in Stem Cell Biology
+
+<<<PAGE 26>>>
+multiciliated cells, these cells can be gener-
+ated within the spheres by either pharmacolog-
+ical inhibition of Notch signaling or by trans-
+fer of single-cell suspensions prepared from
+these spheres into 2D cultures on transwell in-
+serts for expansion and differentiation at the
+air-liquid interface (McCauley et al., 2017).
+Additionally, the relative ratios of the popula-
+tions and the rate of emergence of these cell
+types (e.g., SCGB3A2 + airway progenitors
+vs. P63 +KRT5+NKX2-1+ basal-like cells,
+etc.) is variable from run-to-run and should be
+routinely evaluated for each differentiation at
+the protein or transcriptome level, dependent
+on the experimental goals.
+Experimental Design Considerations
+The major important experimental design
+consideration, aside from the differentiation
+timing, is planning the number of wells of
+endoderm with which to begin the differ-
+entiation. As cells are passaged many times
+throughout the protocol, it is often possible to
+begin differentiation with just a single well of
+/223c1 × 106 cells for deﬁnitive endoderm induc-
+tion (plus one additional well to use to evalu-
+ate the deﬁnitive endoderm induction and end
+with many conﬂuent wells by the end of lung
+speciﬁcation (for example, 6 wells of approx-
+imately 3 × 106 cells each by day 15). The
+typical differentiation yield is approximately
+4 to 18 NKX2-1 + progenitor cells on day 15
+per input undifferentiated day 0 PSC. There-
+fore, to save time and resources, it is important
+to consider how many cells might be required
+for the ﬁnal steps of the experiment and plan
+the number of wells of deﬁnitive endoderm
+accordingly.
+Time considerations
+Although this protocol in its entirety is
+lengthy ( /223c3 to 5 weeks), many days require
+only changing media. Therefore, it can be
+useful to plan the differentiation experiments
+around the key days of deﬁnitive endoderm
+induction (typically days -1 to 3), beginning
+lung speciﬁcation (day 6), and harvesting lung
+progenitors for analysis or downstream appli-
+cations (day 15). This lung progenitor time-
+point can be varied around the day 15 time-
+point. Typically, one should plan to harvest
+the lung progenitors sometime between day
+14 and day 17. After sorting and replating,
+the cells can be harvested any time after they
+have recovered from sorting and formed dis-
+tinct epithelial spheres, typically 1 to 2 weeks
+after sorting.
+Related to this, planning an experiment can
+be challenging because it can be difﬁcult to
+know when the undifferentiated cells will be
+ready to passage to begin differentiation. It is
+important to practice culturing and evaluating
+undifferentiated cell cultures to be able to an-
+ticipate the window when cells will be ready.
+From a practical standpoint, the duration of
+sorting itself can vary depending on the ex-
+perience of the investigator. With practice and
+the appropriate ﬂow cytometer, an investigator
+can dissociate, sort on CD47 and CD26, and
+replate a 6-well plate of PSC-derived NKX2-
+1+ lung progenitors in /223c3h r .
+Acknowledgements
+The authors would like to thank Dylan
+C. Thomas and Anjali Jacob of the Kotton
+Laboratory for their contributions to the
+development and organization of these
+protocols. This work was supported by NIH
+grant awards F31HL129777-01 (to K.B.M.)
+and R01HL122442, R01HL095993, R01HL
+128172, U01TR001810, U01HL134745,
+and U01HL134766 (to D.N.K.); awards
+from the Cystic Fibrosis Foundation
+(CFF HAWKIN15XX0 to F.H. and CFF
+DA VIS15XX1 to D.N.K.), and NIH awards
+1R24HL123828 and 1UL1TR001430 to the
+CReM.
+Conﬂicts of Interest
+The authors state no conﬂicts of interest.
+Literature Cited
+Bilodeau, M., Shojaie, S., Ackerley, C., Post, M., &
+Rossant, J. (2014). Identiﬁcation of a proximal
+progenitor population from murine fetal lungs
+with clonogenic and multilineage differentiation
+potential. Stem Cell Reports , 3, 634–649. doi:
+10.1016/j.stemcr.2014.07.010.
+D’Amour, K. A., Agulnick, A. D., Eliazer, S., Kelly,
+O. G., Kroon, E., & Baetge, E. E. (2005). Efﬁ-
+cient differentiation of human embryonic stem
+cells to deﬁnitive endoderm. Nature Biotechnol-
+ogy, 23, 1534–1541. doi: 10.1038/nbt1163.
+Gadue, P ., Huber, T. L., Paddison, P . J., & Keller,
+G. M. (2006). Wnt and TGF-beta signaling
+are required for the induction of an in vitro
+model of primitive streak formation using em-
+bryonic stem cells. Proceedings of the National
+Academy of Sciences , 103, 16806–16811. doi:
+10.1073/pnas.0603916103.
+Gotoh, S., Ito, I., Nagasaki, T., Y amamoto, Y ., Kon-
+ishi, S., Korogi, Y ., . . . Mishima, M. (2014).
+Generation of alveolar epithelial spheroids via
+isolated progenitor cells from human pluripotent
+stem cells. Stem Cell Reports , 3, 394–403. doi:
+10.1016/j.stemcr.2014.07.005.
+Gouon-Evans, V ., Boussemart, L., Gadue, P ., Nier-
+hoff, D., Koehler, C. I., Kubo, A., . . . Keller,McCauley et al.
+26 of 27
+Current Protocols in Stem Cell Biology
+
+<<<PAGE 27>>>
+G. (2006). BMP-4 is required for hepatic speci-
+ﬁcation of mouse embryonic stem cell–derived
+deﬁnitive endoderm. Nature Biotechnology, 24,
+1402–1411. doi: 10.1038/nbt1258.
+Green, M. D., Chen, A., Nostro, M.-C., d’Souza,
+S. L., Schaniel, C., Lemischka, I. R., . . .
+Snoeck, H.-W. (2011). Nat Biotechnol 2011
+GreenGeneration of anterior foregut endo-
+derm. Nature Biotechnology, 29, 267–272. doi:
+10.1038/nbt.1788.
+Hawkins, F., Kramer, P ., Jacob, A., Driver, I.,
+Thomas, D. C., McCauley, K. B., . . . Kot-
+ton, D. N. (2017). Prospective isolation of
+NKX2-1-expressing human lung progenitors
+derived from pluripotent stem cells. Journal
+of Clinical Investigation , 127, 2277–2294. doi:
+10.1172/JCI89950.
+Huang, S. X. L., Islam, M. N., O’Neill, J., Hu, Z.,
+Y ang, Y .-G., Chen, Y .-W., . . . Snoeck, H-W.
+(2013). Efﬁcient generation of lung and airway
+epithelial cells from human pluripotent stem
+cells. Nature Biotechnology , 32, 84–91. doi:
+10.1038/nbt.2754.
+Jacob, A., Morley, M. P ., Hawkins, F., McCauley, K.
+B., Jean, J.-C., Heins, H., et al. (2017). Differen-
+tiation of human pluripotent stem cells into func-
+tional lung alveolar epithelial cells. Cell Stem
+Cell, 21(4), 472–488.e10
+Konishi, S., Gotoh, S., Tateishi, K., Y amamoto,
+Y ., Korogi, Y ., Nagasaki, T., . . . Mishima,
+M. (2016). Directed induction of functional
+multi-ciliated cells in proximal airway epithe-
+lial spheroids from human pluripotent stem
+cells. Stem Cell Reports , 6, 18–25. doi:
+10.1016/j.stemcr.2015.11.010.
+Kubo, A. (2004). Development of deﬁnitive en-
+doderm from embryonic stem cells in culture.
+Development, 131, 1651–1662. doi: 10.1242/
+dev.01044
+Kurmann, A. A., Serra, M., Hawkins, F., Rankin,
+S. A., Mori, M., Astapova, I., . . . Kotton, D.
+N. (2015). Regeneration of thyroid function
+by transplantation of differentiated pluripotent
+stem cells. Cell Stem Cell , 17, 527–542. doi:
+10.1016/j.stem.2015.09.004.
+Loh, K. M., Ang, L. T., Zhang, J., Kumar, V ., Ang,
+J., Auyeong, J. Q., . . . Lim, B. (2014). Efﬁ-
+cient endoderm induction from human pluripo-
+tent stem cells by logically directing signals con-
+trolling lineage bifurcations. Cell Stem Cell, 14,
+237–252. doi: 10.1016/j.stem.2013.12.007.
+Longmire, T. A., Ikonomou, L., Hawkins, F.,
+Christodoulou, C., Cao, Y ., Jean, J. C., . . . Kot-
+ton, D. N. (2012). Efﬁcient derivation of puriﬁed
+lung and thyroid progenitors from embryonic
+stem cells. Cell Stem Cell , 10, 398–411. doi:
+10.1016/j.stem.2012.01.019.
+McCauley, K. B., Hawkins, F., Serra, M.,
+Thomas, D. C., Jacob, A., & Kotton, D. N.
+(2017). Efﬁcient derivation of functional hu-
+man airway epithelium from pluripotent stem
+cells via temporal regulation of Wnt signal-
+ing. Cell Stem Cell , 20, 844–857.e6. doi:
+10.1016/j.stem.2017.03.001.
+Mou, H., Zhao, R., Sherwood, R., Ahfeldt, T.,
+Lapey, A., Wain, J., . . . Rajagopal, J. (2012).
+Generation of multipotent lung and airway pro-
+genitors from mouse ESCs and patient-speciﬁc
+cystic ﬁbrosis iPSCs. Cell Stem Cell , 10, 385–
+397. doi: 10.1016/j.stem.2012.01.018.
+Rankin, S. A., Han, L., McCracken, K. W.,
+Kenny, A. P ., Anglin, C. T., Grigg, E. A., . . .
+Zorn, A. M. (2016). A retinoic acid-hedgehog
+cascade coordinates mesoderm-inducing sig-
+nals and endoderm competence during lung
+speciﬁcation. Cell Reports , 16, 66–78. doi:
+10.1016/j.celrep.2016.05.060.
+McCauley et al.
+27 of 27
+Current Protocols in Stem Cell Biology

@@ -1,0 +1,1059 @@
+
+
+<<<PAGE 1>>>
+Cell Stem Cell
+Article
+Generation of Multipotent Lung and Airway
+Progenitors from Mouse ESCs and Patient-Speciﬁc
+Cystic Fibrosis iPSCs
+Hongmei Mou,1,2 Rui Zhao,1,2 Richard Sherwood,5 Tim Ahfeldt,1,6 Allen Lapey,3 John Wain,1,4 Leonard Sicilian,2
+Konstantin Izvolsky,1 Frank H. Lau, 4 Kiran Musunuru,1,5,6,7 Chad Cowan,1,6,7 and Jayaraj Rajagopal 1,2,3,7,*
+1Center for Regenerative Medicine
+2Department of Internal Medicine, Pulmonary and Critical Care Unit
+3Department of Pediatrics, Pulmonary Unit
+4Department of Surgery
+Massachusetts General Hospital, Boston, MA 02114, USA
+5Department of Medicine, Brigham and Women’s Hospital, 77 Avenue Louis Pasteur, Boston, MA 02115, USA
+6Department of Stem Cell and Regenerative Biology, Harvard University, 7 Divinity Avenue, Cambridge, MA 02138, USA
+7Harvard Stem Cell Institute, Holyoke Center, 1350 Massachusetts Avenue, Cambridge, MA 02138, USA
+*Correspondence: jrajagopal@partners.org
+DOI 10.1016/j.stem.2012.01.018
+SUMMARY
+Deriving lung progenitors from patient-speciﬁc
+pluripotent cells is a key step in producing differenti-
+ated lung epithelium for disease modeling and trans-
+plantation. By mimicking the signaling events that
+occur during mouse lung development, we gener-
+ated murine lung progenitors in a series of discrete
+steps. Deﬁnitive endoderm derived from mouse
+embryonic stem cells (ESCs) was converted into
+foregut endoderm, then into replicating Nkx2.1+
+lung endoderm, and ﬁnally into multipotent embry-
+onic lung progenitor and airway progenitor cells.
+We demonstrated that precisely-timed BMP, FGF,
+and WNT signaling are required for NKX2.1 induction.
+Mouse ESC-derived Nkx2.1+ progenitor cells formed
+respiratory epithelium (tracheospheres) when trans-
+planted subcutaneously into mice. We then adapted
+this strategy to produce disease-speciﬁc lung
+progenitor cells from human Cystic Fibrosis induced
+pluripotent stem cells (iPSCs), creating a platform for
+dissecting human lung disease. These disease-
+speciﬁc human lung progenitors formed respiratory
+epithelium when subcutaneously engrafted into
+immunodeﬁcient mice.
+INTRODUCTION
+The discovery of embryonic stem cells (ESCs) and induced plurip-
+otent stem cells (iPSCs) has resulted in an unprecedented oppor-
+tunity to produce tissue-speciﬁc cell types that can be used in
+human disease modeling, drug screening, and patient-speciﬁc
+therapies. Generating disease-speciﬁc lung epithelial cells from
+human lung disease-speciﬁc iPSCs is particularly important
+because murine models of lung disease often do not phenocopy
+human lung disease. A prime example of the failure of mouse
+models to mimic human disease is the Cftr knockout mouse
+that does not display the Cystic Fibrosis (CF) disease-associated
+lung pathology observed in human patients ( Snouwaert et al.,
+1992; Clarke et al., 1992; Guilbault et al., 2007 ). Extraordinary
+experiments have created new animal models of CF in both the
+ferret and the pig nearly 2 decades after the CFTR gene was
+cloned (Rogers et al., 2008; Stoltz et al., 2010; Sun et al., 2010;
+Kerem et al., 1989; Riordan et al., 1989 ). These heroic experi-
+ments allow the modeling of CF at a whole-animal level.
+The work presented herein is an attempt to add a human
+model system to these remarkable prior efforts. Although it
+does not permit the analysis of the disease in the full animal
+context, the iPSC system will allow patient speciﬁcity. It is known
+that many patients with the same CFTR mutations do not have
+a similar clinical course ( Kerem et al., 1990, 1992; Cutting,
+2005). Some of this variability is thought to result from disease-
+modifying genes ( Drumm et al., 2005; Haston and Hudson,
+2005; Knowles, 2006 ). Using patient-speciﬁc iPSCs from
+patients such as these will permit the study of CF clinical vari-
+ability in the laboratory without the need to identify these genes
+beforehand. Building on the remarkable recent success of the
+ﬁrst drug to target the CFTR channel defect directly in patients
+with the rare G551D mutation ( Accurso et al., 2010 ), it is clear
+how this iPSC-based system could serve as a platform for
+ﬁnding therapeutics for every patient with CF.
+Although many iPSCs from patients with lung diseases are
+currently being produced, the major obstacle preventing the
+actual development of human lung disease models using these
+cells is the inability to convert them into lung progenitors and
+subsequently into differentiated pulmonary epithelial cell types.
+Several attempts to produce pulmonary epithelial cells from
+mouse and human ESCs have been made. Most investigators
+have focused on the generation of type II pneumocytes ( Van
+Vranken et al., 2005; Samadikuchaksaraei et al., 2006; Wang
+et al., 2007 ). Fewer studies have targeted the differentiation of
+airway epithelial cells from pluripotent stem cells despite the
+fact that airway diseases such as asthma, CF, bronchitis, and
+bronchogenic carcinoma are, in aggregate, more prevalent
+than the diseases of the alveoli such as emphysema.
+Cell Stem Cell 10, 385–397, April 6, 2012 ª2012 Elsevier Inc. 385
+
+<<<PAGE 2>>>
+A
+B
+C
+D
+Figure 1. Anteriorization of Endoderm to Foregut Endoderm Promotes Nkx2.1+ Cell Differentiation
+(A) Administration of 20 ng/ml BMP4, 20 ng/ml FGF2, and 5 nM GSK3iXV to deﬁnitive endoderm resulted in hindgut differentiation with CDX2 expression, and
+minimal NKX2.1 induction. Scale bar, 50 mm.
+(B) Deﬁnitive endoderm was treated with different combinations of BMP4/TGFb agonists and antagonists as listed in the table for 2 days. The Foxa2+/Sox2+ cells
+were quantiﬁed as a percentage of positive cells out of the total number of Foxa2+ cells. The cells were further treated with 20 ng/ml BMP4, 20 ng/ml FGF2, and
+5 nM GSK3iXV to induce NKX2.1 expression. The percentage of Nkx2.1+ cells was quantiﬁed as a percentage of the total cells present. All data were averaged
+from three independent experiments.
+Cell Stem Cell
+Lung Endoderm/Progenitors from ESCs and iPSCs
+386 Cell Stem Cell 10, 385–397, April 6, 2012 ª2012 Elsevier Inc.
+
+<<<PAGE 3>>>
+Prior attempts ( Coraux et al., 2005; Van Haute et al., 2009 )t o
+generate functional pulmonary epithelium from ESCs were
+characterized by the stochastic production of limited numbers
+of cells and the generation of mixed cell populations, which
+contain undifferentiated pluripotent stem cells that carry a
+signiﬁcant risk of teratoma formation after transplantation.
+Others have utilized incompletely deﬁned media to induce
+respiratory cell differentiation (such as exposure of human
+ESCs to tumor cell extract; Roszell et al., 2009 ) or have used
+genetically modiﬁed pluripotent stem cells that were selected
+based upon the presence of a drug resistance gene ( Wang
+et al., 2007). Unfortunately, genetic modulation raises the possi-
+bility of the introduction of deleterious mutations in the resulting
+cells.
+Our overall strategy is to employ a stepwise differentiation
+approach that mimics the timing and coordination of the
+signaling pathways that guide lung development. Since there is
+limited data concerning the embryonic signaling pathways that
+regulate human lung organogenesis, we hypothesized that
+human lung organogenesis is, in part, analogous to mouse
+organogenesis. Therefore, knowledge of mouse lung develop-
+ment can serve as a roadmap to guide human iPSC differentia-
+tion strategies. Mechanisms that regulate mouse embryonic
+endoderm regionalization, lung speciﬁcation, and subsequent
+progenitor patterning and growth have been well studied
+(reviewed in Morrisey and Hogan, 2010). The onset of lung spec-
+iﬁcation within the endoderm is accompanied by Nkx2.1 expres-
+sion and the downregulation of Sox2 along the dorsal-ventral
+axis of the gut tube ( Lazzaro et al., 1991; Minoo et al., 1999;
+Que et al., 2009 ). Later, Sox2 expression again increases in the
+area of the future trachea, bronchus, and bronchioles. The
+Nkx2.1+Sox2+ cells in this region of the embryonic lung are
+airway progenitor cells that give rise to the mature airway epithe-
+lium ( Que et al., 2009 ). In contrast, Sox9, FoxP2, and ID2 are
+expressed in the distal embryonic lung bud tip and mark a multi-
+potent embryonic lung progenitor population ( Perl et al., 2005;
+Shu et al., 2007; Rawlins et al., 2009) capable of producing all
+of the cell types of the airway and alveoli. We report the differen-
+tiation of these two early progenitor cell populations from mouse
+and human pluripotent stem cells.
+Because Nkx2.1 is the earliest marker of lung endoderm dis-
+tinguishing it from the rest of the foregut endoderm, we have
+focused on producing Nkx2.1+ lung endoderm that is devoid
+of Nkx2.1+ thyroid endoderm and neuronal progenitors. A recent
+report using human ESCs demonstrated that a differentiation
+strategy based on mimicking mouse gut organogenesis led to
+the production of anterior foregut cells and Nkx2.1+ cells with
+efﬁciencies up to 30% ( Green et al., 2011 ). However, these
+Nkx2.1+ cells were not demonstrated to be composed of purely
+lung progenitors. TUJ1 (a marker of neuronal tissue) and PAX8
+(a marker of thyroid tissue) expression was not evaluated at
+the single-cell level by antibody costaining with an Nkx2.1 anti-
+body. Development of a novel strategy to produce Nkx2.1+
+progenitors that reﬂect only lung and not thyroid or brain differ-
+entiation is therefore needed ( Watanabe et al., 2005 ), and the
+technique must be applicable to human disease-speciﬁc iPSCs
+in order for the technique to become widely relevant to the study
+of human lung disease.
+Building on the aforementioned studies, we report an efﬁcient
+and consistent step-wise differentiation method to generate
+deﬁnitive endoderm (DE), foregut endoderm, early lung endo-
+derm, multipotent Nkx2.1+ embryonic lung progenitor cells,
+and airway progenitor cells beginning with mouse ESCs and
+subsequently with lung disease-speciﬁc human iPSCs. We
+show that a high dose of Activin, transient WNT activation, and
+staged BMP4 inhibition converts ESCs into DE with high efﬁcien-
+cies. Further inhibition of TGFb alone is sufﬁcient to ‘‘anteriorize’’
+endoderm into Sox2+ foregut endoderm. We show that this
+anteriorization of the endoderm to foregut endoderm enhances
+the ultimate differentiation of Nkx2.1+ cells at later steps of the
+strategy. BMP4, FGF2, and WNT are each necessary for induc-
+tion of the Nkx2.1+ immature lung progenitors. These early
+progenitors can mature into Nkx2.1+Sox2+ proximal progenitor
+cells and Nkx2.1+p63+ airway basal stem cells in vitro, and
+can differentiate into airway epithelium. A modiﬁcation of this
+strategy was used to produce human disease-speciﬁc immature
+airway epithelium derived from CF iPSCs, creating a new plat-
+form for dissecting human lung disease.
+RESULTS
+Stage-Speciﬁc TGFb Inhibition Regionalizes Naive
+Endoderm to Anterior Foregut Endoderm and Facilitates
+the Differentiation of Nkx2.1+ Cells
+A recent report described a monolayer-based strategy using
+synergistic activation of Nodal and Wnt- b-catenin signaling as
+well as staged BMP4 inhibition to direct mouse ESCs toward
+an endoderm fate with high efﬁciency ( Sherwood et al., 2011 ).
+Here, we adapted this technology to generate DE from mouse
+ESCs ( Figure S1 A available online). This
+protocol resulted in
+a remarkable 80%–90% of cells being converted into DE based
+on the dual expression of the endoderm transcription factors
+FOXA2 and SOX17 ( Figure S1 B). Next, we asked if the newly
+generated DE cells have the competence to generate Nkx2.1+
+cells. After culturing them for 2 days in serum-free medium con-
+taining BMP4, FGF2, and GSK3iXV (a WNT agonist) ( Figure 1A),
+we observed that less than 1% of the cells were Nkx2.1+ ( Fig-
+ure 1A). However, more than 60% of the cells were Cdx2+, sug-
+gesting that the majority of the cells were speciﬁed to a hindgut
+fate (Figure 1A). Because the endoderm cells at this stage did not
+efﬁciently differentiate into Nkx2.1+ cells, we sought to test if an
+‘‘anteriorization’’ step would facilitate lung fate speciﬁcation.
+Snoeck and colleagues reported that Noggin (BMP inhibitor)
+synergized with SB431542 (a TGF b inhibitor) to suppress
+a posterior endoderm fate (Cdx2+) in favor of an anterior endo-
+derm fate (Sox2+) ( Green et al., 2011 ). Because we had already
+incorporated BMP inhibition during DE generation ( Figure S1A),
+we asked whether continuous BMP inhibition is necessary for
+(C) Representative immunoﬂuorescence staining showing Foxa2+ and Sox2+ double positive cells after 2 days of treatment with 500 nM A-83-01. Scale bar,
+100 mm.
+(D) Representative immunoﬂuorescence staining showing NKX2.1 induction from A-83-01 treated endoderm cells after BMP4/FGF2/GSK3iXV treatment for
+2 days. Scale bar, 100 mm.
+Cell Stem Cell
+Lung Endoderm/Progenitors from ESCs and iPSCs
+Cell Stem Cell 10, 385–397, April 6, 2012 ª2012 Elsevier Inc. 387
+
+<<<PAGE 4>>>
+anteriorization or if TGF b inhibition alone was sufﬁcient for ante-
+rior patterning. Hence, we treated endoderm with combinations
+of Activin (TGF b agonist), A-83-01 (TGF b antagonist), BMP4,
+and Dorsomorphin (BMP4 antagonist) for 2 days ( Figure 1 B).
+We then compared the number of FoxA2+Sox2+ anterior endo-
+derm cells to the total number of FoxA2+ endoderm cells
+(Figure 1 B). We also exposed the treated cells to the BMP4/
+FGF2/WNT agonist cocktail for another 2 days to examine their
+competence to generate Nkx2.1+ cells ( Figure 1 B). Our results
+revealed that TGF b inhibition itself was sufﬁcient to increase
+FoxA2+Sox2+ anterior endoderm (40%–55%, compared to
+<0.1% in medium alone; Figures 1 B and 1C) and enhance the
+competence of endoderm cells to form Nkx2.1+ cells ( /C247%–
+13% as compared to <1% without regionalization; Figures 1 B
+and 1D). We observed that continuous Activin treatment resulted
+in rare FoxA2+Sox2+ cells and few Nkx2.1+ cells ( Figure 1 B),
+suggesting that the optimal duration of Activin exposure was
+important. We also found that additional BMP4 inhibition was
+not required for the generation of FoxA2+Sox2+ cells and ulti-
+mately may result in slightly lower percentages of Nkx2.1+ cells
+(Figure 1 B). We also observed less neuroectodermal marker
+TUJ1 if BMP4 was present between days 5 to 7 (data not
+shown), in agreement with the ﬁnding that BMP4 suppresses
+neuronal commitment and promotes nonneural lineage differen-
+tiation from ESCs ( Zhang et al., 2010 ). FGF and WNT signaling
+have been shown to maintain hindgut identity and actively
+repress foregut endoderm differentiation ( Wells and Melton,
+2000; Ameri et al., 2010 ). Therefore, we also tested if their
+inhibition would enhance anteriorization together with a TGF b
+inhibitor. Subsequent experiments revealed that an FGF antago-
+nist (PD173074) induced cell death, while a WNT antagonist
+(IWR-1) did not increase the FoxA2+Sox2+ population (data not
+shown).
+Mouse ESC-Derived Nkx2.1+ Cells Are Devoid
+of Neuronal and Thyroid Markers, Are Proliferative,
+and Contain Distal Multipotent Lung Progenitors
+and Proximal Airway Progenitors
+Nkx2.1 is not a speciﬁc marker of the lung, and its expression is
+also found in the thyroid and ventral forebrain ( Figure S2 A).
+Therefore, it was important to determine the identity of the
+Nkx2.1+ cells generated in our culture system. Unfortunately,
+there are no reliable markers of the lung lineage at embryonic
+stage E9 that are not expressed in the brain or thyroid. Surfactant
+protein C (Sp-C), which is the most speciﬁc marker for lung
+epithelial progenitors, is not detected until E10–E11 ( Wert
+et al., 1993 ). SOX9 and FOXP2 are indeed coexpressed with
+NKX2.1 in distal lung multipotent epithelial progenitor cells ( Fig-
+ure S3 B) and are not found in brain or newly speciﬁed thyroid
+(Figure S2 B and data not shown), but their expression is not
+evident until after E11–E12. SOX2, on the other hand, is ex-
+pressed in the E9 lung endoderm (Figure S2A) and later in airway
+epithelial progenitors (Figures S3A and S3B), but SOX2 can also
+be found in NKX2.1-expressing cells in ventral forebrain ( Figures
+S2A and S2C). Thus, at the earliest stage of lung endoderm
+speciﬁcation (E8.75–E9), none of these markers (SPC, SOX2,
+SOX9, or FOXP2) can be used to reliably and uniquely identify
+lung cells. In contrast, TUJ1 expression in Nkx2.1+ cells in
+ventral forebrain begins at E8.0 and continues to be present
+thereafter in ventral forebrain and not in thyroid or lung (Figures
+S2B and 2C), making Tuj1 expression a speciﬁc indicator of
+neuronal cell identity within the NKX2.1 domain. PAX8 expres-
+sion is detected in the primordial thyroid at E8.75 at the time of
+thyroid speciﬁcation ( Figure S2 B), but not in the lung or brain.
+Therefore, PAX8 can be used as a
+speciﬁc indicator of thyroid
+cell identity in the NKX2.1 domain ( Figures S2 B and S2C).
+In summary, we conclude that at the early speciﬁcation stage,
+we can regard Nkx2.1+/Tuj1–/Pax8– cells as likely to be of
+lung cell lineage. Accordingly, we interrogated our ESC-derived
+Nkx2.1+ cells for TUJ1 and PAX8 expression to exclude
+neuronal and thyroid identity ( Figure 2 A). As expected for
+any Nkx2.1+ cell in the embryo (thyroid, lung, and ventral
+forebrain), all of our ex vivo differentiated Nkx2.1+ cells cos-
+tained with FOXA2 ( Figure 2 A). We detected a small subset of
+Tuj1+ cells in the cultures, but these neuronal cells did not over-
+lap with the Nkx2.1+ cells ( Figure 2 A). We did not detect any
+Pax8+ cells in our culture ( Figure 2 A; Figure S2 B and data not
+shown). Therefore, this suggests that the Nkx2.1+ cells that we
+differentiate in vitro represent lung endoderm cells. These
+Nkx2.1+ cells are proliferative, with more than half expressing
+Ki67 (Figure 2B).
+In the mouse, Sox2 is rapidly downregulated in the foregut pre-
+lung endoderm just as Nkx2.1 expression initiates in this same
+prelung endoderm during the process of lung speciﬁcation at
+E9 ( Figure S3 A). Thus the very earliest lung endoderm cells are
+Nkx2.1+ and Sox2-low cells. Soon thereafter, sustained high-
+level SOX2 expression is detected in the proximal airway epithe-
+lial progenitors of the future trachea, bronchus, and bronchioles
+during the process of branching morphogenesis ( Figures S3 A
+and S3B). Airway progenitors are therefore Nkx2.1+Sox2+. In
+contrast, SOX9 and FOXP2 are expressed exclusively in the
+distal tip multipotent lung progenitor cells ( Figure S3 B), making
+SOX9 and FOXP2 markers that uniquely identify a distinct popu-
+lation of multipotent embryonic lung progenitor cells within the
+NKX2.1 domain because they are not present in the proximal
+airway progenitors or the thyroid or brain as mentioned above.
+Therefore, we checked if our ESC-derived Nkx2.1+ cells at
+day 9 contained both proximal airway (Nkx2.1+Sox2+) and distal
+multipotent (Nkx2.1+Sox9+; or Nkx2.1+FoxP2+) progenitor
+cells. We counted the Nkx2.1+ cells generated from 10 indepen-
+dent experiments. The average proportion of airway progenitor
+cells (Nkx2.1+Sox2+) was 1.8% ± 0.8% out of the total
+Nkx2.1+ cells, while the proportions of distal multipotent progen-
+itor cells, Nkx2.1+Sox9+ or Nkx2.1+FoxP2+, were 4.8% ± 2.5%
+and 6.6% ± 3.1% out of total Nkx2.1+ cells, respectively. The re-
+maining Nkx2.1+ cells (not thyroid or neuron are cells with
+minimal SOX2 expression and may reﬂect early prelung endo-
+derm. Thus, the majority of Nkx2.1+ cells at day 9 likely represent
+an early lung endoderm that has not been speciﬁed to an airway
+progenitor or a distal tip multipotent lung progenitor population.
+Figure 2 C shows representative ﬁelds of cells enriched in
+Nkx2.1+Sox2+, Nkx2.1+Sox9+, and Nkx2.1+FoxP2+ cells. In
+aggregate, these results imply that ESC-derived Nkx2.1+ cells
+at day 9 were immature, with most lacking proximal and
+distal progenitor cell markers, likely representing early lung
+endoderm cells. Although rare, the existence of Nkx2.1+Sox2+,
+Nkx2.1+Sox9+, and Nkx2.1+FoxP2+ cells suggested that the
+ESC-derived Nkx2.1+ lung endoderm cells were differentiating
+Cell Stem Cell
+Lung Endoderm/Progenitors from ESCs and iPSCs
+388 Cell Stem Cell 10, 385–397, April 6, 2012 ª2012 Elsevier Inc.
+
+<<<PAGE 5>>>
+into progenitor cells of the airway and multipotent lung progen-
+itor cells that could later be differentiated into mature epithelial
+cells.
+The expression of lung and other anterior cell fate lineage
+genes including FoxN1 (thymus), Pax8 (thyroid), and Pax9 and
+Tbx1 (pharyngeal pouch endoderm) was analyzed by real-time
+qPCR (Figure S4 A). As expected, the results showed that Sox2
+was downregulated as pluripotent cells differentiated into DE.
+Later, Sox2 levels increased in accord with the expectation
+that anterior endoderm expresses Sox2. Nkx2.1, Sox9, and
+FoxP2 expression was minimal in ESCs, DE, and anteriorized
+endoderm, but was greatly increased (10–20 fold) after stimula-
+tion with the FGF2/WNT/BMP4 induction cocktail, consistent
+with previous results demonstrating these lung-speciﬁc marker
+combinations by antibody staining ( Figure 2 C). Similarly,
+FoxN1, Tbx1, Pax8, and Pax9 expression was low in ESCs, DE
+and anteriorized endoderm. However, in growth-factor-induced
+anterior foregut cells, we observed a modest increase in Pax9
+and Tbx1 expression, whereas FoxN1 and Pax8 expression
+was still very minimal. Despite the increase in Pax9 and Tbx1
+gene expression, we did not detect any reproducible staining
+for these proteins by immunoﬂuorescence (data not shown). All
+of these results are consistent with our ﬁnding that a combination
+of FGF, BMP4, and WNT signaling predominantly drives the
+differentiation of lung-speciﬁc Nkx2.1+ progenitor cells from
+anterior endoderm.
+A
+B
+C
+Figure 2. ESC-Derived Nkx2.1+ Cells Are Devoid of Neuronal and Thyroid Markers, Are Proliferative, and Possess Markers of Proximal and
+Distal Lung Endoderm
+(A) Immunoﬂuorescence staining for FOXA2, TUJ1, and PAX8 showing that Nkx2.1+ cells are positive for endodermal marker FOXA2, negative for neuro-
+ectodermal marker TUJ1 (white arrow), and negative for thyroid marker PAX8. Scale bar, 50 mm.
+(B) Nkx2.1+ cells were proliferative as demonstrated by costaining for KI67. Scale bar, 100 mm.
+(C) Representative immunoﬂuorescence staining showing subpopulations of Nkx2.1+ cells are positive for SOX2 (an airway progenitor marker) and FOXP2/SOX9
+(multipotent lung progenitor marker). Scale bar, 100 mm.
+Cell Stem Cell
+Lung Endoderm/Progenitors from ESCs and iPSCs
+Cell Stem Cell 10, 385–397, April 6, 2012 ª2012 Elsevier Inc. 389
+
+<<<PAGE 6>>>
+BMP4, FGF, and WNT Signaling Are Each Necessary
+for NKX2.1 Induction In Vitro, Recapitulating Murine
+Lung Development
+Based on mouse genetic studies, BMP4, FGF2, and WNT
+signaling are each required to specify lung endoderm from the
+anterior foregut ( Domyan et al., 2011; Goss et al., 2009; Serls
+et al., 2005 ). Therefore, we tested if we could recapitulate these
+ﬁndings in our in vitro mouse ESC differentiation system. To do
+this, we exposed the anteriorized endoderm cells to combina-
+tions of BMP4, FGF2, and WNT agonists and antagonists
+(Figures 3 A and 3B). We found that BMP4 alone could induce
+NKX2.1 expression. In contrast, FGF2 or/and GSKiXV without
+BMP4 was not sufﬁcient for NKX2.1 induction, suggesting that
+BMP4 signaling is required for lung speciﬁcation ( Figures 3 B
+and 3C). Interestingly, in the presence of FGF and WNT antago-
+nists, BMP4 could no longer induce Nkx2.1+ cells. This result
+implies an endogenous secretion of FGF and WNT ligands. It
+also suggests that FGF and WNT activation are needed for
+BMP4-dependent NKX2.1 speciﬁcation ( Figures 3 B and 3C).
+Despite presumptive endogenous FGF signaling, an increase
+in FGF2 concentration upregulated Nkx2.1+ cell percentage,
+which is in agreement with the ﬁnding that high doses of FGF2
+promote lung fate from foregut ( Figures 3B and 3C; Serls et al.,
+2005). Compared to FGF2 signaling, exaggerated WNT activa-
+tion was detrimental, with a decrease in Nkx2.1+ cells ( Figures
+3B and 3C) and an increase in hindgut Cdx2+ cells (data not
+shown), consistent with the fact that WNT signaling is known
+to posteriorize gut to hindgut prior to its effect on the lung ( Sher-
+wood et al., 2011 ).
+BMP2, BMP4, and BMP7 are by far the most studied
+members of the BMP family. Both BMP2 and BMP4 signal
+through the type I receptor (ALK3), whereas BMP7 binds to
+a separate type I receptor (ALK2) (reviewed by von Bubnoff
+and Cho, 2001; Chen et al., 2004; Sieber et al., 2009; Miyazono
+et al., 2010 ). We compared the effects of BMP2 and BMP7 to
+BMP4 on induction of Nkx2.1+ cells from the anterior endo-
+derm. Our results showed that BMP2 was less efﬁcient than
+BMP4 at inducing Nkx2.1+ cells, while BMP7 (10 ng/ml) had
+no effect ( Figure 4 A). Even with an increased concentration
+(>100 ng/ml), BMP7 still failed to generate Nkx2.1+ cells (data
+not shown). This suggests that BMP7 signaling via the ALK2
+receptor is not required for NKX2.1 induction. In canonical
+BMP2/4 signaling, BMP2/4 binds to BMP receptor I/II complex,
+leading to phosphorylation of Smad1/5/8, followed by formation
+of heteromeric complexes with Smad4. These complexes trans-
+locate to the nucleus and activate expression of target genes
+(von Bubnoff and Cho, 2001; Chen et al., 2004; Sieber et al.,
+2009; Miyazono et al., 2010 ). Besides Smad1/5/8-mediated
+transcription, BMP-induced receptor complexes can activate
+the mitogen-activated protein kinase (MAPK) pathway via
+ERK, JNK, or p38 ( Kozawa et al., 2002 ). Using Dorsomorphin
+(a pSmad1/5/8 inhibitor) and PD98059 (a MAPKK/ERK inhibitor),
+we observed that Dorsomorphin completely abrogated genera-
+tion of Nkx2.1+ cells, while PD98059 only partially decreased
+the Nkx2.1+ cell proportion ( Figure 4 A). We also observed
+signiﬁcant cell death in the presence of PD98059, so we could
+not exclude the possibility that the decrease in Nkx2.1+ cells
+was due to apoptosis. In addition, Smad and MAPK-mediated
+pathways can be integrated ( Aubin et al., 2004 ), and the
+decrease in Nkx2.1+ cells in the presence of PD98059 might
+also be due to a downregulation of Smad-dependent signaling.
+Overall, we conclude that Smad-dependent BMP2/4 signaling
+cascade is necessary for NKX2.1 speciﬁcation from foregut
+cells ( Figure 4 B).
+A
+B
+C
+Figure 3. BMP4, FGF2, and WNT Signaling Are Necessary for Lung
+Speciﬁcation from Foregut Endoderm Cells
+(A) Schematic strategy and time frame to generate Nkx2.1+ cells from foregut
+endoderm cells.
+(B) NKX2.1 induction using various combinations of BMP4, FGF2, WNT, and
+their antagonists.
+(C) NKX2.1 percentage was scored as the number of Nkx2.1+ cells out of the
+total cell number, average of three independent experiments.
+Cell Stem Cell
+Lung Endoderm/Progenitors from ESCs and iPSCs
+390 Cell Stem Cell 10, 385–397, April 6, 2012 ª2012 Elsevier Inc.
+
+<<<PAGE 7>>>
+The Combination of BMP7 and FGF7 Signaling, as well
+as WNT and MAPKK/ERK Inhibition, Generates Proximal
+Airway Progenitors
+As we demonstrated above, most ESC-derived Nkx2.1+ cells
+at day 9 were immature lung endoderm cells. We therefore
+continued to differentiate these cells in order to produce more
+mature Nkx2.1+Sox2+ embryonic airway progenitors. We selec-
+tively applied signaling factors to generate airway stalk progen-
+itors from immature lung Nkx2.1+ cells ( Figures 5 A and 5B).
+Multipotent Nkx2.1+Sox9+ tip progenitors replicate at the
+lung bud tip and their progeny are laid down during the pseudo-
+glandular phase of branching morphogenesis (E11 to E16.5)
+to constitute the primitive airway tree and differentiate into
+Nkx2.1+Sox2+ airway progenitors. BMP4 is expressed distally
+and BMP7 is expressed around the airway, and distal FGF2
+and FGF10 are replaced by proximal FGF7 ( Weaver et al.,
+1999; Bellusci et al., 1996; Lebeche et al., 1999; Powell et al.,
+1998; Morrisey and Hogan, 2010), while canonical WNT signaling
+is inhibited in the proximal stalk progenitors and present in
+the distal tip ( Shu et al., 2005; Okubo and Hogan, 2004 ).
+Similarly, airway stalk cells are exposed to inhibitory Noggin
+while the uncommitted tip cells are exposed to BMP4 ( Weaver
+et al., 1999; Que et al., 2006 ). Retinoic acid (RA) concentration
+is relatively higher in the stalk region than at the tips ( Malpel
+et al., 2000). We therefore switched cells at day 9 to a ‘‘proximal
+induction’’ medium prepared with RA-supplemented B27,
+BMP7, FGF7, IWR-1 (WNT antagonist), and Noggin ( Figure 5 C,
+left panel). After 2–3 days, we observed an increase in Nkx2.1+
+Sox2+ airway progenitor cells. The proportion was /C2410% of
+the total number of Nkx2.1+ cells, as compared to 1%–2%
+before treatment. In separate experiments in which individual
+growth factors were removed, we found that WNT antagonism
+has the most pronounced effect on Nkx2.1+Sox2+ cell
+production. Addition of Dorsomorphin (BMP antagonist) to
+replace Noggin at this stage had little effect on the number of
+Nkx2.1+Sox2+ cells. Interestingly, the small molecule PD98059
+(a MAPKK/ERK inhibitor) enhanced generation of Nkx2.1+Sox2+
+airway progenitor cells to up to 18% of the total number of
+Nkx2.1+ cells ( Figure 5C, right panel). This suggests that airway
+progenitors may be formed after inhibition of a MAPKK/ERK-
+related pathway. Most notably, we started to detect a small frac-
+tion of Nkx2.1+p63+ cells (about 1%–4% of the total number of
+Nkx2.1+ cells) at day 11–12 ( Figure 5D). An increase in the dura-
+tion of culture in the proximal induction medium from 2 to 5 or
+more days resulted in higher proportions of Nkx2.1+Sox2+ and
+Nkx2.1+p63+ cells (data not shown). Although the production
+of Nkx2.1+Sox2+ and Nkx2.1+p63+ cells still needs to be opti-
+mized, our results demonstrate that ESC-derived Nkx2.1+ cells
+can be differentiated into proximal airway progenitors and con-
+ducting airway basal cells.
+ESC-Derived Nkx2.1+ Cell Populations
+Can Differentiate into Mature Airway Epithelium
+When Transplanted In Vivo
+Nkx2.1+ lung progenitor cells derived from pluripotent stem cells
+must possess the capacity to generate functional respiratory
+epithelium to be useful. Therefore, we tested our mouse ESC-
+derived Nkx2.1+ progenitors for their capacity to form mature
+respiratory epithelium by subcutaneous engraftment ( Figure 6 ).
+A
+B
+Figure 4. Smad-Dependent BMP Signaling Is Required for Lung
+Differentiation
+(A) NKX2.1 induction with 20 ng/ml FGF2 and 5 nM GSK3iXV only (control) or
+with additional BMP4 (20 ng/ml), BMP2 (20 ng/ml), BMP7 (20 ng/ml), BMP4
+(20 ng/ml) + 10 mM Dorsomorphin, or BMP4 (20 ng/ml) + 1 mM PD98059. Scale
+bar, 100 mm.
+(B) BMP signaling through SMAD-dependent pathways is required for lung
+Nkx2.1+ differentiation. In contrast, signaling through the MAP kinase pathway
+is not required for Nkx2.1 expression. Dorsomorphin inhibits BMP signaling
+through the SMAD pathway while PD98059 inhibits MAPK signaling.
+Cell Stem Cell
+Lung Endoderm/Progenitors from ESCs and iPSCs
+Cell Stem Cell 10, 385–397, April 6, 2012 ª2012 Elsevier Inc. 391
+
+<<<PAGE 8>>>
+Because we cannot separate committed Nkx2.1+Sox2+ airway
+progenitor cells from other cells, our assay evaluated the ability
+of Nkx2.1+ cells to differentiate within a mixed cell population.
+20,000–50,000 cells were suspended in 50% Matrigel and in-
+jected under the skin of immunodeﬁcient mice. Twenty to thirty
+days after injection, engrafted tissues were excised for examina-
+tion. We observed that many epithelial spheres formed within
+grafts and that some of these spheres contained Nkx2.1-ex-
+pressing cells. In some Nkx2.1+ spheres, we detected markers
+of mature airway epithelial cells (Figure 6), including Sox2+ prox-
+imal airway epithelial cells ( Figure 6 B), p63+ basal stem cells,
+CC10+ Clara cells, FoxJ1+ ciliated cells, and Muc5ac+ mucin-
+secreting cells ( Figures 6C and 6D). Triple immunoﬂuorescence
+staining with confocal imaging demonstrated spheres that
+contain more than one marker of mature airway epithelium.
+Such mature airway epithelial markers have never been detected
+in ESC-derived teratomas. Previously published basal stem
+cell differentiation using a 3D sphere-forming assay produced
+ciliated and basal cells, but not Clara cells ( Rock et al.,
+2009). We did not detect any type I and type II pneumocyte
+markers such as PRO-SPC, PRO-SPA, and AQUAPORIN5
+despite having distal lung multipotent cells (Nkx2.1+Sox9+ and
+Nkx2.1+FoxP2+) in the initial cell mixture. Overall, we concluded
+D
+A
+B
+C
+Figure 5. Generation of Embryonic Airway Progen-
+itors from Multipotent Lung Endoderm Cells
+(A) Schematic strategy and time line to generate embryonic
+airway progenitors from multipotent lung endoderm cells.
+(B) Summary of signaling switches that are distinct in the
+proximal airway and the distal lung bud tip during the
+pseudoglandular stage of lung development.
+(C) Left panel: NKX2.1 and SOX2 staining after treatment of
+Nkx2.1+ lung endoderm cells at D9 with medium con-
+taining RA-supplemented B27, 20 ng/ml BMP7, 20 ng/ml
+FGF7, 100 nM IWR-1 (WNT antagonist), and 100 ng/ml
+Noggin for 2 days. Right panel: NKX2.1 and SOX2 staining
+after treatment of Nkx2.1+ lung endoderm cells at D9 with
+medium containing RA-supplemented B27, 20 ng/ml
+BMP7, 20 ng/ml FGF7, 100 nM IWR-1 (WNT antagonist),
+and 1 mM PD98059 for 2 days. Scale bar, 50 mm.
+(D) Immunoﬂuorescence staining showing a subpopulation
+of Nkx2.1+ cells positive for P63 (closed arrows). Scale
+bar, 25 mm.
+that ESC-derived Nkx2.1+ cell-containing popu-
+lations are capable of airway epithelial cell
+differentiation.
+An Efﬁcient and Reproducible Stepwise
+Approach to Generate NKX2.1+ Lung
+Cells from Human CF iPSCs
+Next, we examined whether a similar stepwise
+differentiation approach could be used to
+generate lung airway progenitors from CF
+disease-speciﬁc human iPSCs ( Figure 7 A). All
+differentiation steps were performed in xeno-
+free conditions. Furthermore, two of the CF
+iPSC lines were generated using modiﬁed
+RNAs (RiPSC) rather than virally encoded re-
+programming factors ( Warren et al., 2010 ) and
+thus were genetically unmodiﬁed, another advantage for
+possible future clinical use. CF iPSCs were maintained on
+Geltrex-coated plates in complete mTeSR1 medium. High yields
+of DE were obtained after treatment for 3–4 days in RPMI-1640
+medium in the presence of Activin (100 ng/ml) and PI3 kinase
+inhibitor LY294002 (5 mM). More than 85%–90% of cells coex-
+pressed the transcription factors SOX17 and FOXA2 at day 4,
+demonstrating very efﬁcient production of DE from a RiPSC
+line that is compound heterozygous for CFTR mutant alleles
+DF508 and G551D ( Figure 7B). This protocol was also success-
+fully applied to other human pluripotent cells including three CF
+iPSC lines homozygous for the DF508 allele, a wild-type human
+BJ RiPSC line (Warren et al., 2010), and the HUES-3 and HUES-9
+human ESC lines (data not shown).
+By using anteriorization conditions similar to those used by
+Green et al., we were able to induce SOX2 expression in DE cells
+with efﬁciencies of up to 50%–60% after 4 days of treatment with
+A-83-01 (a TGF b antagonist; Figure 7 C). We found that Noggin
+(a BMP4 antagonist) was actually not necessary for this anterio-
+rization. Similar combinations of growth factors and agonists
+(BMP4, FGF2, and GSK3iXV) identiﬁed in our studies on mouse
+ESCs could be used to generate Nkx2.1+ cells with efﬁciencies
+of 10%–30% (Figure 7D). These Nkx2.1+ cells were negative for
+Cell Stem Cell
+Lung Endoderm/Progenitors from ESCs and iPSCs
+392 Cell Stem Cell 10, 385–397, April 6, 2012 ª2012 Elsevier Inc.
+
+<<<PAGE 9>>>
+TUJ1 and PAX8 (Figure 7D), demonstrating that they were not of
+neuronal or thyroid identity. In addition, subpopulations of these
+Nkx2.1+ cells were also positive for SOX2 and SOX9 ( Figure 7D).
+These markers suggest the presence of both committed airway
+progenitors (Nkx2.1+Sox2.1 cells) and multipotent embryonic
+lung progenitors (Nkx2.1+Sox9+ cells).
+We also quantiﬁed the expression of various anterior cell fate
+genes by qPCR ( Figure S4 ) and observed very similar gene
+expression patterns to those seen in mouse ESC differentiation.
+SOX2 was downregulated after differentiation into DE and then
+increased as expected after anteriorization. We again observed
+dramatic upregulation of NKX2.1, SOX9, and FOXP2 expression
+(20–30 fold) in anteriorized endoderm cells after FGF2/BMP4/
+WNT induction. The expression of other anterior cell fate genes
+including PAX8 (thyroid endoderm), PAX9 (pharyngeal endo-
+derm), and TBX1 (pharyngeal endoderm anterior to lung/esoph-
+agus) was only modestly upregulated without any expression of
+FOXN1 (thymus endoderm) ( Figure S5). In aggregate, the differ-
+entiation spectrum of the endoderm was remarkably similar in
+the mouse and human platforms.
+Finally, human RiPSC-derived Nkx2.1+ mixed cell populations
+were subcutaneously engrafted ( Figure 7 E). Many spheres
+formed in engrafted tissues after 30 days under the skin of
+immunodeﬁcient recipient mice. In Nkx2.1+ spheres, some of
+the Nkx2.1+ cells coexpressed p63, suggesting that these
+Nkx2.1+ cells had matured into airway basal stem cells ( Fig-
+ure 7 E). Further differentiation into ciliated cells, Clara cells,
+and mucin-secreting goblet cells was not detected, indicating
+that further optimization of differentiation conditions is required.
+DISCUSSION
+We report a stepwise developmentally guided strategy to differ-
+entiate murine pluripotent stem cells into lung multipotent
+progenitors and airway progenitors that produced respiratory
+epithelium when engrafted subcutaneously into a mouse. We
+then adapted our strategy to produce disease-speciﬁc lung
+progenitor cells from human CF iPSCs and other human plurip-
+otent stem cell lines, thus creating a platform for dissecting
+human lung disease.
+Additionally, we show that pluripotent stem cell systems can
+be used as a discovery tool to investigate steps in lung develop-
+ment. We were able to independently conﬁrm recent mouse
+developmental genetics ﬁndings demonstrating that BMP4 is
+essential for lung speciﬁcation, as well as similar studies that
+show that canonical WNT signaling is necessary for lung bud
+speciﬁcation ( Domyan et al., 2011; Goss et al., 2009 ). We also
+demonstrate that FGF signaling in addition to BMP and WNT
+signaling is required in the current culture system for NKX2.1
+induction, an observation that has proven difﬁcult to deﬁne in
+murine genetic systems due to the presence of multiple FGFs
+in the vicinity of the foregut lung anlage. Mechanistic dissection
+of the BMP4 signaling effect also revealed an observation that
+BMP4 signaling occurs through a Smad-dependent pathway
+and that pharmacologic Smad modulation enhances Nkx2.1+
+lung cell differentiation. We have also shown that the carefully
+timed staged antagonism or agonism of the same pathway is
+essential to drive optimal differentiation. The premature addition
+of WNT signals that are later necessary for Nkx2.1+ lung cell
+induction at the endoderm stage, for example, regionalizes
+endoderm to a hindgut intestinal epithelium and prevents the
+differentiation of Nkx2.1+ cells ( Spence et al., 2011; Cao et al.,
+2011; Sherwood et al., 2011 ). Thus, not only combinations of
+signaling cascades, but also their precise timing, are essential
+to recapitulate in vivo differentiation.
+Although we report differentiation of Nkx2.1+Sox2+ proximal
+airway progenitors and Nkx2.1+p63+ double-positive airway
+stem cells derived from both human and mouse pluripotent
+stem cells, the proportions of Nkx2.1+ lung and airway progen-
+itors are low. This might reﬂect an intrinsic bias in the differenti-
+ation of our iPSCs. It is also possible that other pathways coop-
+erate with FGF, BMP, and WNT signaling cascades to effect
+Nkx2.1+ endoderm differentiation or, conversely, that other
+pathways need to be inhibited. Zaret and colleagues have sug-
+gested that the anterior gut contains an epigenetic prepattern
+that regulates the ability of gut endoderm to differentiate into a
+particular tissue despite the presence of the correct growth fac-
+tors (Zaret et al., 2008 ). Perhaps many of the iPSC-derived fore-
+gut endoderm cells do not possess the epigenetic prepattern
+A
+B
+C
+D
+Figure 6. Differentiation of Airway Epithelium from Mouse-ESC-
+Derived Lung Endoderm upon Subcutaneous Engraftment
+(A) Schematic strategy and time line to differentiate ESC-derived embryonic
+airway progenitors.
+(B) Immunoﬂuorescence staining showing that some Nkx2.1+ cells are posi-
+tive for SOX2. Scale bar, 100 mm.
+(C) Immunoﬂuorescence staining showing differentiation of ESC-derived
+Nkx2.1+ cells into p63+ airway basal stem cells, CC10+ Clara cells, FoxJ1+
+ciliated cells, and Muc5ac+ goblet cells. The arrow points to a representative
+positive cell for each category. Scale bar, 100 mm.
+(D) Confocal imaging showing differentiation of various airway epithelial cells.
+Scale bar, 100 mm.
+Cell Stem Cell
+Lung Endoderm/Progenitors from ESCs and iPSCs
+Cell Stem Cell 10, 385–397, April 6, 2012 ª2012 Elsevier Inc. 393
+
+<<<PAGE 10>>>
+A
+B
+C
+D
+E
+Figure 7. Stepwise Differentiation of Nkx2.1+ Lung Progenitors from Human iPSCs
+(A) Schematic strategy and time line to generate Nkx2.1+ lung multipotent progenitors from human iPSCs.
+(B) High yield of deﬁnitive endoderm from CF1 RiPSCs was obtained after treatment for 4 days in RPMI-1640 medium in the presence of 2% B27 supplement,
+Activin A (100 ng/ml), and 5 mM PI3 Kinase inhibitor LY294002 with more than 90% of cells coexpressing transcription factors SOX17 and FOXA2. Scale bar,
+200 mm.
+(C) Anteriorization of endoderm into foregut endoderm cells with SOX2 expression in Foxa2+ cells derived from CF1 RiPSCs after 4 days of treatment with 500 nM
+A-83-01 (TGFb antagonist) and 100 ng/ml Noggin (BMP4 antagonist). Scale bar, 100 mm.
+Cell Stem Cell
+Lung Endoderm/Progenitors from ESCs and iPSCs
+394 Cell Stem Cell 10, 385–397, April 6, 2012 ª2012 Elsevier Inc.
+
+<<<PAGE 11>>>
+that would allow them to differentiate into Nkx2.1 cells. Addition-
+ally, it must be determined whether Nkx2.1+ progenitor cells
+expanded in culture undergo modiﬁcations that permit the
+expression of thyroid or neuronal genes. It will be important to
+investigate each of these possibilities so that we can rationally
+increase the efﬁciency of the differentiation protocols described
+herein by overcoming the relevant mechanistic hurdles. Ulti-
+mately, we will need protocols that will be effective for any
+human iPSC line and reagents to be able to sort pure populations
+of human cells in the absence of genetic reporters or selectable
+drug resistance genes. Our strategy can then in principle be
+applied to any human lung disorder.
+Finally, conditions must be found to affect the maturation of
+iPSC-derived lung epithelium ex vivo. To study an airways
+disease like CF and to screen for small molecule therapeutics
+using iPSC-derived cells, we will require an Nkx2.1+ epithelium
+that contains all of the appropriate human cellular constituents.
+That same epithelium must display functional coordinated ciliary
+beating, epithelial secretory function (including regulated CFTR-
+mediated chloride ion transport and mucus secretion), and an
+airway stem cell-driven capacity for epithelial regeneration.
+EXPERIMENTAL PROCEDURES
+Mice and Human Cell Lines
+NOD-SCID IL2Rgamma null (NOD/SCID Il2rg/C0//C0) immunodeﬁcient mice were
+purchased from Jackson Laboratory. Animal procedures were performed in
+accordance with Massachusetts General Hospital (MGH) and national guide-
+lines and regulations and were approved by the Institutional Animal Care and
+Use Committee (IACUC) for MGH. The use of human CF induced-pluripotent
+cell lines and embryonic cell lines (HUES-3 and HUES-9) was reviewed and
+approved by the Embryonic Stem Cell Research Oversight committee
+(ESCRO) and IRB at MGH.
+Mouse Endoderm Anteriorization and Nkx2.1 Cell Differentiation
+Mouse DE was generated as described in Supplemental Experimental Proce-
+dures. To anteriorize endoderm, on and after day 5, the cells were split
+and reseeded on to the plates precoated with 804G-conditioned medium
+and fed with D0 medium + 0.5–1 mM A8301 (CalBiochem, 616454) for
+2 days. Then the medium was rinsed with D0 medium two times and switched
+to D0 medium supplemented with 50 ng/ml BMP4, 100 ng/ml FGF2
+(GIBCO, PHG0026), and 5–10 nM GSK3iXV for another 2–3 days. To generate
+Nkx2.1+Sox2+ proximal progenitor cells, the cells were rinsed with D0
+medium two times and switched to D0 medium containing RA-supplemented
+B27, 50 ng/ml BMP7, 50 ng/ml FGF7, 100 nM IWR-1, and 1–2 mM PD98059 for
+2 days or longer.
+Human iPSC Culture and Differentiation
+Human iPSCs were maintained on Geltrex-coated plates in complete mTeSR1
+medium (Stemcell). High yields of DE progenitors were obtained after treat-
+ment for 3–4 days in RPMI-1640 medium in the presence of 2% B27 supple-
+ment minus vitamin A (GIBCO, 12587-010), Activin A (Peprotech, 100 ng/ml)
+and PI3 Kinase inhibitor LY294002 (5 mM). To generate foregut endoderm cells,
+DE was treated for 4 days with RPMI-1640 medium containing 2% B27 and
+500 nM A-83-01 (TGF b antagonist) with or without Noggin (BMP4 antagonist,
+100 ng/ml) or Dorsomorphin (2–5 mM). After that, the cells were exposed for
+4 days or longer to RPMI-1640 medium containing 2% B27, 50 ng/ml
+BMP4, 100 ng/ml FGF2, and 5 nM GSK3iXV for NKX2.1 induction from endo-
+derm cells.
+Immunoﬂuorescence
+At each differentiation step, the cells were ﬁxed with fresh paraformaldehyde
+(4%) for 15 min at room temperature, rinsed in PBS, washed with PBS + 0.2%
+Triton X-100, and incubated with the primary antibodies at 4
+/C14C overnight
+(>16 hr) diluted in PBS + 1% BSA. Following incubation, the cells were rinsed
+four times in PBS + 0.2% Triton X-100, and incubated with secondary anti-
+bodies at room temperature for 2 hr. The images were visualized using an
+Olympus IX71 inverted ﬂuorescence microscope or a Nikon A1 Confocal Laser
+microscope. The primary antibodies used are summarized in Table S2 . The
+secondary antibodies were purchased from Invitrogen (Alexa Fluor 549 and
+Alexa Fluor 488). The quantiﬁcation was performed by counting at least ﬁve
+random ﬁelds at 20 3 magniﬁcation and calculating the average and standard
+deviation.
+Embryo Harvest, Section Cutting, and Staining
+The embryos or lungs at desired embryonic stages were dissected out and
+ﬁxed at 4
+/C14C for 6 hr or overnight with fresh 4% PFA. Then tissues were rinsed
+with PBS for 3 min (5 min per time) and incubated in 30% sucrose in PBS at 4/C14C
+overnight. The tissues were soaked in OCT for 1 hr and then frozen in OCT for
+cryosectioning at 7 mm thickness. The slides were stained with the primary and
+secondary antibodies as described above.
+Differentiation of Mouse ESC and Human iPSC-Derived Nkx2.1+
+Lung Progenitors after Subcutaneous Engraftment
+Anywhere from 23 10
+5 to 53105 cells were suspended in 200 ml 1:1 mixture of
+Growth Factor Reduced Matrigel (BD Biosciences, 354230) and Advanced
+DMEM and were injected subcutaneously into NOD/SCID Il2rg
+/C0//C0null mice.
+The tissues were harvested and examined after 20–30 days, ﬁxed overnight
+in cold 4% paraformaldehyde, rinsed two times with PBS, soaked in 30%
+sucrose for 2–3 hr, embedded in OCT, and sectioned at 7 mm. The slides
+were examined for airway epithelial cells based on NKX2.1 expression. The
+differentiation of ESC-derived Nkx2.1+ cells into basal stem cells was based
+on expression of P63 and CK5; goblets cells, based on expression of
+MUC5AC; Clara cells, based on expression of CCSP; and ciliated cells, based
+on the expression of FOXJ1.
+Additional Culture Information
+For more information on how to culture these cells, please refer to the Rajago-
+pal Lab website: http://www.massgeneral.org/regenmed/staff/Rajagopallab.
+We intend to deposit the reported cells in the Harvard Stem Cell Institute iPS
+Cell Core Facility (please see http://www.hsci.harvard.edu/ipscore/node/3).
+SUPPLEMENTAL INFORMATION
+Supplemental Information includes four ﬁgures, two tables, and Supple-
+mental Experimental Procedures and can be found with this article online at
+doi:10.1016/j.stem.2012.01.018.
+ACKNOWLEDGMENTS
+The work in this manuscript was supported by a Harvard Stem Cell Institute
+Seed Grant and an NIH-NHLBI Early Career Research New Faculty (P30)
+award to J.R. We thank Drs. William Anderson and Darrell Kotton for reading
+this manuscript and for their critical comments. We also wish to extend our
+thanks to all of the members of the Rajagopal Laboratory for their reading of
+the text, their constructive criticisms and comments, and valuable discussion
+and support.
+Received: August 11, 2011
+Revised: December 15, 2011
+Accepted: January 19, 2012
+Published: April 5, 2012
+(D) Left panel: NKX2.1 staining after anteriorization to foregut cells at D8 with serum-free medium containing 20 ng/ml BMP4, 20 ng/ml FGF2, and 5 nM GSK3iXV
+for 4 days. Scale bar, 100 mm. Right panel: costaining of Nkx2.1-positive cells with SOX2, SOX9, TUJ1 (arrows), and PAX8 demonstrated a lack of thyroid and
+neuronal differentiation and the presence of multipotent distal tip progenitors and Nkx2.1+/Sox2+ airway progenitors. Scale bar, 50 mm.
+(E). Confocal image after immunoﬂuorescence staining showing that some Nkx2.1+ spheres contain basal cells positive for p63. Scale bar, 40 mm.
+Cell Stem Cell
+Lung Endoderm/Progenitors from ESCs and iPSCs
+Cell Stem Cell 10, 385–397, April 6, 2012 ª2012 Elsevier Inc. 395
+
+<<<PAGE 12>>>
+REFERENCES
+Accurso, F.J., Rowe, S.M., Clancy, J.P., Boyle, M.P., Dunitz, J.M., Durie, P.R.,
+Sagel, S.D., Hornick, D.B., Konstan, M.W., Donaldson, S.H., et al. (2010).
+Effect of VX-770 in persons with cystic ﬁbrosis and the G551D-CFTR mutation.
+N. Engl. J. Med. 363, 1991–2003.
+Ameri, J., Sta˚ hlberg, A., Pedersen, J., Johansson, J.K., Johannesson, M.M.,
+Artner, I., and Semb, H. (2010). FGF2 speciﬁes hESC-derived deﬁnitive endo-
+derm into foregut/midgut cell lineages in a concentration-dependent manner.
+Stem Cells 28, 45–56.
+Aubin, J., Davy, A., and Soriano, P. (2004). In vivo convergence of BMP and
+MAPK signaling pathways: impact of differential Smad1 phosphorylation on
+development and homeostasis. Genes Dev. 18, 1482–1494.
+Bellusci, S., Henderson, R., Winnier, G., Oikawa, T., and Hogan, B.L. (1996).
+Evidence from normal expression and targeted misexpression that bone
+morphogenetic protein (Bmp-4) plays a role in mouse embryonic lung morpho-
+genesis. Development 122, 1693–1702.
+Cao, L., Gibson, J.D., Miyamoto, S., Sail, V., Verma, R., Rosenberg, D.W.,
+Nelson, C.E., and Giardina, C. (2011). Intestinal lineage commitment of embry-
+onic stem cells. Differentiation 81, 1–10.
+Chen, D., Zhao, M., and Mundy, G.R. (2004). Bone morphogenetic proteins.
+Growth Factors 22, 233–241.
+Clarke, L.L., Grubb, B.R., Gabriel, S.E., Smithies, O., Koller, B.H., and
+Boucher, R.C. (1992). Defective epithelial chloride transport in a gene-targeted
+mouse model of cystic ﬁbrosis. Science 257, 1125–1128.
+Coraux, C., Nawrocki-Raby, B., Hinnrasky, J., Kileztky, C., Gaillard, D., Dani,
+C., and Puchelle, E. (2005). Embryonic stem cells generate airway epithelial
+tissue. Am. J. Respir. Cell Mol. Biol. 32, 87–92.
+Cutting, G.R. (2005). Modiﬁer genetics: cystic ﬁbrosis. Annu. Rev. Genomics
+Hum. Genet. 6, 237–260.
+Domyan, E.T., Ferretti, E., Throckmorton, K., Mishina, Y., Nicolis, S.K., and
+Sun, X. (2011). Signaling through BMP receptors promotes respiratory identity
+in the foregut via repression of Sox2. Development 138, 971–981.
+Drumm, M.L., Konstan, M.W., Schluchter, M.D., Handler, A., Pace, R., Zou, F.,
+Zariwala, M., Fargo, D., Xu, A., Dunn, J.M., et al; Gene Modiﬁer Study Group.
+(2005). Genetic modiﬁers of lung disease in cystic ﬁbrosis. N. Engl. J. Med.
+353, 1443–1453.
+Goss, A.M., Tian, Y., Tsukiyama, T., Cohen, E.D., Zhou, D., Lu, M.M.,
+Yamaguchi, T.P., and Morrisey, E.E. (2009). Wnt2/2b and beta-catenin
+signaling are necessary and sufﬁcient to specify lung progenitors in the fore-
+gut. Dev. Cell 17, 290–298.
+Green, M.D., Chen, A., Nostro, M.C., d’Souza, S.L., Schaniel, C., Lemischka,
+I.R., Gouon-Evans, V., Keller, G., and Snoeck, H.W. (2011). Generation of ante-
+rior foregut endoderm from human embryonic and induced pluripotent stem
+cells. Nat. Biotechnol. 29, 267–272.
+Guilbault, C., Saeed, Z., Downey, G.P., and Radzioch, D. (2007). Cystic ﬁbrosis
+mouse models. Am. J. Respir. Cell Mol. Biol. 36, 1–7.
+Haston, C.K., and Hudson, T.J. (2005). Finding genetic modiﬁers of cystic
+ﬁbrosis. N. Engl. J. Med. 353, 1509–1511.
+Kerem, B., Rommens, J.M., Buchanan, J.A., Markiewicz, D., Cox, T.K.,
+Chakravarti, A., Buchwald, M., and Tsui, L.C. (1989). Identiﬁcation of the cystic
+ﬁbrosis gene: genetic analysis. Science 245, 1073–1080.
+Kerem, E., Corey, M., Kerem, B.S., Rommens, J., Markiewicz, D., Levison, H.,
+Tsui, L.C., and Durie, P. (1990). The relation between genotype and phenotype
+in cystic ﬁbrosis—analysis of the most common mutation (delta F508). N. Engl.
+J. Med. 323, 1517–1522.
+Kerem, E., Reisman, J., Corey, M., Canny, G.J., and Levison, H. (1992).
+Prediction of mortality in patients with cystic ﬁbrosis. N. Engl. J. Med. 326,
+1187–1191.
+Knowles, M.R. (2006). Gene modiﬁers of lung disease. Curr. Opin. Pulm. Med.
+12, 416–421.
+Kozawa, O., Hatakeyama, D., and Uematsu, T. (2002). Divergent regulation
+by p44/p42 MAP kinase and p38 MAP kinase of bone morphogenetic
+protein-4-stimulated osteocalcin synthesis in osteoblasts. J. Cell. Biochem.
+84, 583–589.
+Lazzaro, D., Price, M., de Felice, M., and Di Lauro, R. (1991). The transcription
+factor TTF-1 is expressed at the onset of thyroid and lung morphogenesis and
+in restricted regions of the foetal brain. Development 113, 1093–1104.
+Lebeche, D., Malpel, S., and Cardoso, W.V. (1999). Fibroblast growth factor
+interactions in the developing lung. Mech. Dev. 86, 125–136.
+Malpel, S., Mendelsohn, C., and Cardoso, W.V. (2000). Regulation of retinoic
+acid signaling during lung morphogenesis. Development 127, 3057–3067.
+Minoo, P., Su, G., Drum, H., Bringas, P., and Kimura, S. (1999). Defects in
+tracheoesophageal and lung morphogenesis in Nkx2.1(-/-) mouse embryos.
+Dev. Biol. 209, 60–71.
+Miyazono, K., Kamiya, Y., and Morikawa, M. (2010). Bone morphogenetic
+protein receptors and signal transduction. J. Biochem. 147, 35–51.
+Morrisey, E.E., and Hogan, B.L. (2010). Preparing for the ﬁrst breath: genetic
+and cellular
+mechanisms in lung development. Dev. Cell 18, 8–23.
+Okubo, T., and Hogan, B.L. (2004). Hyperactive Wnt signaling changes the
+developmental potential of embryonic lung endoderm. J. Biol. 3, 11.
+Perl, A.K., Kist, R., Shan, Z., Scherer, G., and Whitsett, J.A. (2005). Normal lung
+development and function after Sox9 inactivation in the respiratory epithelium.
+Genesis 41, 23–32.
+Powell, P.P., Wang, C.C., Horinouchi, H., Shepherd, K., Jacobson, M., Lipson,
+M., and Jones, R. (1998). Differential expression of ﬁbroblast growth factor
+receptors 1 to 4 and ligand genes in late fetal and early postnatal rat lung.
+Am. J. Respir. Cell Mol. Biol. 19, 563–572.
+Que, J., Choi, M., Ziel, J.W., Klingensmith, J., and Hogan, B.L. (2006).
+Morphogenesis of the trachea and esophagus: current players and new roles
+for noggin and Bmps. Differentiation 74, 422–437.
+Que, J., Luo, X., Schwartz, R.J., and Hogan, B.L. (2009). Multiple roles for Sox2
+in the developing and adult mouse trachea. Development 136, 1899–1907.
+Rawlins, E.L., Clark, C.P., Xue, Y., and Hogan, B.L. (2009). The Id2+ distal tip
+lung epithelium contains individual multipotent embryonic progenitor cells.
+Development 136, 3741–3745.
+Riordan, J.R., Rommens, J.M., Kerem, B., Alon, N., Rozmahel, R., Grzelczak,
+Z., Zielenski, J., Lok, S., Plavsic, N., Chou, J.L., et al. (1989). Identiﬁcation of
+the cystic ﬁbrosis gene: cloning and characterization of complementary
+DNA. Science 245, 1066–1073.
+Rock, J.R., Onaitis, M.W., Rawlins, E.L., Lu, Y., Clark, C.P., Xue, Y., Randell,
+S.H., and Hogan, B.L. (2009). Basal cells as stem cells of the mouse trachea
+and human airway epithelium. Proc. Natl. Acad. Sci. USA 106, 12771–12775.
+Rogers, C.S., Stoltz, D.A., Meyerholz, D.K., Ostedgaard, L.S., Rokhlina, T.,
+Taft, P.J., Rogan, M.P., Pezzulo, A.A., Karp, P.H., Itani, O.A., et al. (2008).
+Disruption of the CFTR gene produces a model of cystic ﬁbrosis in newborn
+pigs. Science 321, 1837–1841.
+Roszell, B., Mondrinos, M.J., Seaton, A., Simons, D.M., Koutzaki, S.H., Fong,
+G.H., Lelkes, P.I., and Finck, C.M. (2009). Efﬁcient derivation of alveolar type II
+cells from embryonic stem cells for in vivo application. Tissue Eng. Part A 15,
+3351–3365.
+Samadikuchaksaraei, A., Cohen, S., Isaac, K., Rippon, H.J., Polak, J.M.,
+Bielby, R.C., and Bishop, A.E. (2006). Derivation of distal airway epithelium
+from human embryonic stem cells. Tissue Eng. 12, 867–875.
+Serls, A.E., Doherty, S., Parvatiyar, P., Wells, J.M., and Deutsch, G.H. (2005).
+Different thresholds of ﬁbroblast growth factors pattern the ventral foregut into
+liver and lung. Development 132, 35–47.
+Sherwood, R.I., Maehr, R., Mazzoni, E.O., and Melton, D.A. (2011). Wnt
+signaling speciﬁes and patterns intestinal endoderm. Mech. Dev. 128,
+387–400.
+Shu, W., Guttentag, S., Wang, Z., Andl, T., Ballard, P., Lu, M.M., Piccolo, S.,
+Birchmeier, W., Whitsett, J.A., Millar, S.E., and Morrisey, E.E. (2005). Wnt/
+beta-catenin signaling acts upstream of N-myc, BMP4, and FGF signaling to
+regulate proximal-distal patterning in the lung. Dev. Biol. 283, 226–239.
+Cell Stem Cell
+Lung Endoderm/Progenitors from ESCs and iPSCs
+396 Cell Stem Cell 10, 385–397, April 6, 2012 ª2012 Elsevier Inc.
+
+<<<PAGE 13>>>
+Shu, W., Lu, M.M., Zhang, Y., Tucker, P.W., Zhou, D., and Morrisey, E.E.
+(2007). Foxp2 and Foxp1 cooperatively regulate lung and esophagus develop-
+ment. Development 134, 1991–2000.
+Sieber, C., Kopf, J., Hiepen, C., and Knaus, P. (2009). Recent advances in BMP
+receptor signaling. Cytokine Growth Factor Rev. 20, 343–355.
+Snouwaert, J.N., Brigman, K.K., Latour, A.M., Malouf, N.N., Boucher, R.C.,
+Smithies, O., and Koller, B.H. (1992). An animal model for cystic ﬁbrosis
+made by gene targeting. Science 257, 1083–1088.
+Spence, J.R., Mayhew, C.N., Rankin, S.A., Kuhar, M.F., Vallance, J.E., Tolle,
+K., Hoskins, E.E., Kalinichenko, V.V., Wells, S.I., Zorn, A.M., et al. (2011).
+Directed differentiation of human pluripotent stem cells into intestinal tissue
+in vitro. Nature 470, 105–109.
+Stoltz, D.A., Meyerholz, D.K., Pezzulo, A.A., Ramachandran, S., Rogan, M.P.,
+Davis, G.J., Hanﬂand, R.A., Wohlford-Lenane, C., Dohrn, C.L., Bartlett, J.A.,
+et al. (2010). Cystic ﬁbrosis pigs develop lung disease and exhibit defective
+bacterial eradication at birth. Sci. Transl. Med. 2, ra31.
+Sun, X., Sui, H., Fisher, J.T., Yan, Z., Liu, X., Cho, H.J., Joo, N.S., Zhang, Y.,
+Zhou, W., Yi, Y., et al. (2010). Disease phenotype of a ferret CFTR-knockout
+model of cystic ﬁbrosis. J. Clin. Invest. 120, 3149–3160.
+Van Haute, L., De Block, G., Liebaers, I., Sermon, K., and De Rycke, M. (2009).
+Generation of lung epithelial-like tissue from human embryonic stem cells.
+Respir. Res. 10, 105.
+Van Vranken, B.E., Romanska, H.M., Polak, J.M., Rippon, H.J., Shannon, J.M.,
+and Bishop, A.E. (2005). Coculture of embryonic stem cells with pulmonary
+mesenchyme: a microenvironment that promotes differentiation of pulmonary
+epithelium. Tissue Eng. 11, 1177–1187.
+von Bubnoff, A., and Cho, K.W. (2001). Intracellular BMP signaling regulation in
+vertebrates: pathway or network? Dev. Biol. 239, 1–14.
+Wang, D., Haviland, D.L., Burns, A.R., Zsigmond, E., and Wetsel, R.A. (2007).
+A pure population of lung alveolar epithelial type II cells derived from human
+embryonic stem cells. Proc. Natl. Acad. Sci. USA 104, 4449–4454.
+Warren, L., Manos, P.D., Ahfeldt, T., Loh, Y.H., Li, H., Lau, F., Ebina, W.,
+Mandal, P.K., Smith, Z.D., Meissner, A., et al. (2010). Highly efﬁcient reprog-
+ramming to pluripotency and directed differentiation of human cells with
+synthetic modiﬁed mRNA. Cell Stem Cell 7, 618–630.
+Watanabe, K., Kamiya, D., Nishiyama, A., Katayama, T., Nozaki, S., Kawasaki,
+H., Watanabe, Y., Mizuseki, K., and Sasai, Y. (2005). Directed differentiation
+of telencephalic precursors from embryonic stem cells. Nat. Neurosci. 8,
+288–296.
+Weaver, M., Yingling, J.M., Dunn, N.R., Bellusci, S., and Hogan, B.L. (1999).
+Bmp signaling regulates proximal-distal differentiation of endoderm in mouse
+lung development. Development 126, 4005–4015.
+Wells, J.M., and Melton, D.A. (2000). Early mouse endoderm is patterned by
+soluble factors from adjacent germ layers. Development 127, 1563–1572.
+Wert, S.E., Glasser, S.W., Korfhagen, T.R., and Whitsett, J.A. (1993).
+Transcriptional elements from the human SP-C gene direct expression in
+the primordial respiratory epithelium of transgenic mice. Dev. Biol. 156,
+426–443.
+Zaret, K.S., Watts, J., Xu, J., Wandzioch, E., Smale, S.T., and Sekiya, T. (2008).
+Pioneer factors, genetic competence, and inductive signaling: programming
+liver and pancreas progenitors from the endoderm. Cold Spring Harb. Symp.
+Quant. Biol. 73, 119–126.
+Zhang, K., Li, L., Huang, C., Shen, C., Tan, F., Xia, C., Liu, P., Rossant, J., and
+Jing, N. (2010). Distinct functions of BMP4 during different stages of mouse ES
+cell neural commitment. Development 137, 2095–2105.
+Cell Stem Cell
+Lung Endoderm/Progenitors from ESCs and iPSCs
+Cell Stem Cell 10, 385–397, April 6, 2012 ª2012 Elsevier Inc. 397

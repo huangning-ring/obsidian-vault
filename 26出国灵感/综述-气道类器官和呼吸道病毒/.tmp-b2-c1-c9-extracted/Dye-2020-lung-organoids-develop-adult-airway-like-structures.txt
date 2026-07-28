@@ -1,0 +1,3734 @@
+
+
+<<<PAGE 1>>>
+Journal Pre-proof
+Human lung organoids develop into adult airway-like structures directed by physico-
+chemical biomaterial properties
+Briana R. Dye, Richard L. Youngblood, Robert S. Oakes, Tadas Kasputis, Daniel W.
+Clough, Jason R. Spence, Lonnie D. Shea
+PII: S0142-9612(20)30003-X
+DOI: https://doi.org/10.1016/j.biomaterials.2020.119757
+Reference: JBMT 119757
+To appear in: Biomaterials
+Received Date: 9 July 2019
+Revised Date: 15 November 2019
+Accepted Date: 3 January 2020
+Please cite this article as: Dye BR, Youngblood RL, Oakes RS, Kasputis T, Clough DW, Spence JR,
+Shea LD, Human lung organoids develop into adult airway-like structures directed by physico-chemical
+biomaterial properties, Biomaterials (2020), doi: https://doi.org/10.1016/j.biomaterials.2020.119757.
+This is a PDF file of an article that has undergone enhancements after acceptance, such as the addition
+of a cover page and metadata, and formatting for readability, but it is not yet the definitive version of
+record. This version will undergo additional copyediting, typesetting and review before it is published
+in its final form, but we are providing this version to give early visibility of the article. Please note that,
+during the production process, errors may be discovered which could affect the content, and all legal
+disclaimers that apply to the journal pertain.
+© 2020 Published by Elsevier Ltd.
+
+<<<PAGE 2>>>
+1 
+ 
+ 
+ 
+Human lung organoids develop into adult airway-like structures directed by physico-
+chemical biomaterial properties 
+ 
+Briana R. Dye 1, Richard L. Youngblood 1, Robert S. Oakes 1, Tadas Kasputis 1, Daniel W. 
+Clough 1, Jason R. Spence 2, Lonnie D. Shea 1 
+ 
+1. Department of Biomedical Engineering;  
+2. Department of Internal Medicine, University of Michigan, Ann Arbor, MI 
+ 
+  
+
+<<<PAGE 3>>>
+2 
+ 
+Abstract 
+Tissues derived from human pluripotent stem cells (hPSCs) often represent early stages of fetal 
+development, but mature at the molecular and struct ural level when transplanted into 
+immunocompromised mice. hPSC-derived lung organoids  (HLOs) transplantation has been 
+further enhanced with biomaterial scaffolds, where HLOs had improved tissue structure and 
+cellular differentiation. Here, our goal was to def ine the physico-chemical biomaterial properties 
+that maximally enhanced transplant efficiency, incl uding features such as the polymer type, 
+degradation, and pore interconnectivity of the scaf folds. We found that transplantation of HLOs 
+on microporous scaffolds formed from poly(ethylene glycol) (PEG) hydrogel scaffolds inhibit 
+growth and maturation, and the transplanted HLOs po ssessed mostly immature lung 
+progenitors. On the other hand, HLOs transplanted on poly(lactide-co-glycolide) (PLG) scaffolds 
+or polycaprolactone (PCL) led to tube-like structur es that resembled both the structure and 
+cellular diversity of an adult airway. Our data sug gests that scaffold pore interconnectivity and 
+polymer degradation contributed to the maturation, and we found that the size of the airway 
+structures and the total size of the transplanted t issue was influenced by the material 
+degradation rate. Collectively, these biomaterial p latforms provide a set of tools to promote 
+maturation of the tissues and to control the size and structure of the organoids.  
+ 
+ 
+  
+
+<<<PAGE 4>>>
+3 
+ 
+Introduction 
+ 
+Human lung organoid models facilitate the study of cell fate decisions during development 
+and for modeling diseases such as cystic fibrosis a nd goblet cell metaplasia, and infections 
+such as respiratory syncytial virus [1-8]. We have previously demonstrated that human 
+pluripotent stem cell (hPSC)-derived human lung org anoids (HLOs) possess a complex tissue 
+structure in vitro , which includes both the epithelium and supporting  tissue (cartilage, smooth 
+muscle, fibroblasts) [1,9].  
+Notably, in vitro HLO cultures reflect the fetal airway, with adult a irway-like structures 
+generated only after in vivo  transplantation [9]. Maturation following in vivo  transplantation of 
+HLOs reflects observations with numerous other orga noid and hPSC-based systems [1,10-13],. 
+While many other studies have shown successful transplantation of hPSC-derived tissues under 
+the kidney capsule or other vascular sites within t he murine host, HLOs required the assistance 
+of a PLG microporous polymer scaffold to support en graftment and vascularization following 
+transplant into the epididymal fat pad of immunocom promised mice. After 8 weeks, the 
+transplanted HLO (tHLO) had airway-like structures that resembled native adult airways 
+including proper cellular organization, epithelial cellular ratios and airway cell types. Airway-like 
+structures were also surrounded by smooth muscle an d possessed cartilage, as would be the 
+case in the human airways [9]. However, these previ ous studies did not identify the polymer 
+scaffolds design parameters that conferred an engraftment and growth advantage for HLOs.   
+In this report, we investigated the physico-chemica l properties of microporous scaffolds that 
+support HLO maturation into airway structures. Poly mers have different degradation rates and 
+may have distinct interactions with the host, so mi croporous scaffold support of transplanted 
+HLO were tested using diverse materials including p oly(lactide-co-glycolide) (PLG), 
+polycaprolactone (PCL), and poly(ethylene glycol) ( PEG). The interconnected pore size was 
+varied, as well, through the initial scaffold fabri cation and also through the degradation rate of 
+
+<<<PAGE 5>>>
+4 
+ 
+the polymers. For these material platforms, we inve stigated airway maturation, immune 
+response, as well as overall explant and airway siz e. Identifying the biomaterial design 
+parameters that influence airway maturation and str ucture will enable the development of 
+platforms that can direct the structure to better m odel airway homeostasis and disease 
+environments.  
+Methods 
+Maintenance of hESCs, generation of HLOs, and seeding on scaffolds 
+H1 human embryonic stem cell (hESC) line (NIH regis try #0043) and H9 (NIH registry #0062) 
+was obtained from the WiCell Research Institute. H1 hESC line was used to derive all HLOs for 
+these experiments except for Figure 2 where H9 hESC  and H9 GFP hESC lines were used to 
+derive HLOs. H9 GFP hESC line was generated by infe cting H9 hESCs with pLenti PGK GFP 
+Puro virus generated from the plasmid purchased fro m AddGene (Cat#: 19070)[14]. H9 GFP 
+hESC clonal line was generated by puromycin selecti on flow cytometry analysis sorting (FACS) 
+for GFP high expressing cells. All hESC lines were approved by the University of Michigan 
+Human Pluripotent Stem Cell Research Oversight Comm ittee. hESCs were maintained as 
+previously described [15]. HLOs were derived as pre viously described [1]. Foregut spheroids, 
+which grow into HLOs, were seeded on scaffolds as previously described [9]. 
+Scaffold fabrication 
+75:25 PLG scaffolds were fabricated as previously d escribed [9,16]. 85:15 (Resomer® RG 858 
+S, Poly(D,L-lactide-co-glycolide), Sigma, Cat#: 739 979-1G) and 50:50 PLG (Resomer® RG 
+505, Poly(D,L-lactide-co-glycolide) ester terminated, MW: 54,000-69,000, Sigma,Cat#: 739960) 
+were fabricated the same as 75:25 PLG scaffolds. 20% (w/v) 4-arm PEG maleimide, 20,000MW 
+(JenChem, Cat#: A7029-1) hydrogels were fabricated as previously described[17]. PCL 
+scaffolds were fabricated as previously described[1 8]. Large interconnected PCL were 
+commercially bought (National Institute of Standards and Technology, Cat#:8394).  
+Scaffold transplantation 
+
+<<<PAGE 6>>>
+5 
+ 
+Scaffolds were implanted as previously described [9 ]. Briefly, mice were anesthetized and 
+prepped as for omental transplants. The epididymal fat pads of male 7–10 week old NOD-scid 
+IL2Rgnull (NSG) were exposed using a lower midline incision. Scaffolds were then placed along 
+the epididymal blood vessels and covered with epidi dymal fat. An intraperitoneal flush of Zosyn 
+(100 mg/kg; Pfizer Inc.) was administered after whi ch the incision was closed in 2-layers using 
+absorbable suture. Mice were euthanized between 1-8 weeks post-transplant. 
+Immunohistochemistry, hematoxylin and eosin stain (H&E), and imaging 
+Immunostaining and H&E were carried out as previous ly described [19]. Antibody information 
+and dilutions can be found in Table 1. All images and videos were taken on a Nikon A1 confocal 
+microscope or the Zeiss Axio Observer.Z1.  
+Flow Cytometry  
+Cell disassociation and flow cytometry was previous ly described[18]. Antibodies used are as 
+follow: Fluor® 700 anti-CD45 (1:125, clone 30-F11, Biolegend), V500 anti-CD11b (1:100, clone 
+M1/70, BD Biosciences), FITC anti-Ly6C (1:100, clon e HK.14, Biolegend), PE-Cy7 anti-F4/80 
+(1:80, clone BM8, Biolegend), APC anti-CD11c (1:80,  clone N418, Biolegend), and Pacific 
+Blue™ anti- Ly-6G/Ly-6C (Gr-1) (1:70, clone RB6-8C5, Biolegend). 
+Quantification 
+Airway diameters were measured using ImageJ softwar e. The longest and shortest diameter 
+was measured per airway structure and then averaged  together. Explant size was measured 
+using a ruler by placing the longest side of the tH LO on the ruler. Ki67 
++ cells and ECAD +, Ki67 + 
+cells were quantified using a program developed in lab by Kevin Rychel, previously 
+described[20].  
+Experimental replicates and statistics 
+All experiments were done on at least three (N=3) independent biological samples for each 
+experiment. All error bars represented SEM while the long bar represented the average. 
+Statistical differences were assessed with Prism software using unpaired t-test.  
+
+<<<PAGE 7>>>
+6 
+ 
+ 
+Results 
+PLG, PEG and PCL have varying extents of HLO derived airway maturation  
+Microporous scaffolds with similar architectures an d formed from either 75:25 
+(lactide:glycolide) PLG or 20% (w/v) 4-arm PEG-maleimide microporous scaffold were tested for 
+their ability to support transplantation of foregut  spheroids. Both scaffolds had pores ranging in 
+size from 225 µm to 450µm, and were cylinder shaped  with a diameter of 5mm diameter and a 
+thickness of 2mm. PLG is a degradable, hydrophobic polyester that will adsorb proteins while 
+PEG scaffolds are non-degradable hydrogels and were  formed with or without the adhesion 
+peptide RGD. PLG and PEG scaffolds were seeded with  foregut spheroids and cultured for 7 
+days in vitro, during which time  the foregut spheroids grew to fill the pores (Figure 1A). Scaffolds 
+were then transplanted into the epididymal fat pad of NSG mice. This highly vascularized 
+implant site [21] is accessible by a minimally invasive surgery, has a large surface area [22] and 
+the presence of pro-angiogenesis cytokines [23] 
+, which has supported the use of this site for 
+transplantation. After 8 weeks, tissue was found wi thin and around the PLG scaffold, and 
+histological examination revealed that the tHLO tis sue contained airway-like structures. The 
+majority of the PLG scaffold should be degraded by this time point [24,25]  and, accordingly, the 
+material was not detected in histological sections (Figure 1C). 
+Growth of the transplanted PLG scaffolds contrasted  with the PEG-seeded scaffolds. 8 
+weeks after transplantation, PEG scaffolds appeared  intact and the spheroids remained within 
+the pores independent of whether the scaffold was m odified with RGD (Figure 1B). We 
+hypothesized that the individual HLOs would grow to gether on the surface of the PEG scaffold 
+and form airway-like structures. However, the trans planted spheroids remained within the 
+separate pores. We investigated the possibility tha t smaller airways formed within the pores of 
+the PEG scaffold;  
+
+<<<PAGE 8>>>
+7 
+ 
+however, the PEG hydrogels only had clusters of cel ls within the pores and did not possess 
+tissue resembling airway structures (Figure 1C). Th e tissue within the PEG pores was derived 
+from both spheroids and host (murine) cells, as we observed cells expressing the human-
+specific mitochondria marker (huMITO) along with hu MITO-negative cells. huMITO + cells co-
+expressed NKX2.1, an early lung epithelial–specific  transcription factor[26,27], yet no mature 
+cell types or airway-like structures were observed in the PEG explants (Figure 1D). In 
+comparison, the organized airway structures observe d in the PLG explants expressed the lung 
+marker NKX2.1 and were huMITO +. Further characterization of the lung tissue was p reviously 
+described in Dye et al. [9]. 
+We next tested the ability of PCL scaffolds to supp ort transplantation and lung organoid 
+growth in vivo . Both PLG and PCL are polyester polymers that degrade predominantly by simple 
+hydrolysis of the ester bond into acidic monomers. However, due to its higher molecular weight 
+and higher hydrophobicity, PCL has a slower degrada tion rate than PLG [28,29]. PCL scaffolds 
+were seeded with spheroids and transplanted for 8 w eeks. Similar to the PEG, PCL scaffolds 
+were still intact after 8 weeks in vivo (Figure 1C). No organized epithelial structures wer e 
+observed within the pores of the PCL grafts but the scaffolds had clusters of cells similar to what 
+is observed in the PEG transplants (Figure 1C). On the other hand, there were airway-like 
+structures that formed on the outside of the scaffo lds where tHLOs had expanded. Collectively, 
+these results suggest that the polyester polymers ( PLG, PCL) supported the spheroid 
+engraftment and development of airway structures af ter 8 weeks, but that failure of the scaffold 
+to degrade prevented the growth and development of spheroids into airway-like structures.  
+Initial immune response at microporous scaffolds may contribute to HLO responses: 
+The initial immune response within the microporous scaffolds was investigated as a 
+potential mechanism underlying the differential mat uration on the various materials. Note that 
+these studies were performed within NSG mice that lack an adaptive immune system in order to 
+prevent rejection, yet these mice retain innate imm une cells that respond to transplantation of 
+
+<<<PAGE 9>>>
+8 
+ 
+the construct. Lung organoids were transplanted and  collected after 1 week in vivo , with 
+analysis of the innate immune response. PEG tHLOs h ad a significantly greater percentage of 
+leukocytes (CD45 +) than PLG and PCL tHLOs (Figure 2A), which indicat es greater cell 
+recruitment from the host tissue. From the CD45 + population, the PEG tHLOs had significantly 
+higher percent of CD11b +GR1 +Ly6c- cells, often referred to as myeloid derived suppressor cells, 
+and significantly less CD11c +F4-80- (dendritic) cells and Ly6c +F4-80- (monocyte) cells 
+compared to PLG and PCL tHLOs (Figure 2B). No differences were observed between the PLG 
+and PCL scaffolds. While  the immune cell population at the graft may not ful ly recapitulate the 
+immune-response of biomaterials in an immunocompetent environment, these data suggest that 
+the immune response could be a contributing factor to the inhibition of HLO maturation in PEG 
+scaffolds relative to PLG and PCL scaffolds. 
+HLO fusion during formation of airway-like structures 
+We subsequently investigated the contribution of HL O interaction in adjacent pores to the 
+formation of airway structures, which was motivated  by the observations of airway structures 
+forming on the surface of slow degrading PCL scaffo lds, but not within the pores. In order to 
+analyze the fusion of multiple organoids into an ai rway structure, scaffolds were seeded with 
+HLOs constitutively expressing GFP (GFP 
++) and GFP - HLOs. Following culture of HLOs in PLG 
+and PCL scaffolds for 1 week in vitro , we observed pores seeded with GFP + HLOs that were 
+adjacent to pores containing GFP - HLOs (Figure 3A). Scaffold were transplanted and r etrieved 
+after 4 and 8 weeks in vivo . After 4 weeks in vivo , airway structures were not present, yet there 
+were populations expressing the lung marker NKX2.1 that were either GFP + or GFP - indicating 
+both HLO populations survived and successfully generated lung progenitors (Figure 3B). After 8 
+weeks, airway structures were observed in PLG and o n the outside of PCL tHLOs, and these 
+structures contained airway-like structures that po ssessed multiciliated cells (ACTTUB +) and 
+basal cells (P63 +). These airway structures had both GFP + and GFP - cells both in PCL and PLG 
+
+<<<PAGE 10>>>
+9 
+ 
+tHLOs (Figure 3C), indicating that the airway struc tures form by the HLOs fusing from adjacent 
+pores in both the surface pores of PCL and in the degrading pores of the PLG tHLOs.  
+Scaffold degradation affects the HLO derived airway size 
+We next investigated the contribution of polymer de gradation to the number of airway-like 
+structures with the hypothesis that faster degradat ion would permit more HLOs fusing in 
+adjacent pores, thus, support larger airway-like st ructures. Previously, the 75:25 PLG scaffolds 
+were used to transplant HLOs and were thoroughly ch aracterized in Dye et al. 2016 [9]. Yet, 
+now with the use of multiple types of polymers with  varying degrees of degradation, we 
+quantified the impact on airway diameter size. We f irst investigated polymers with faster and 
+slower degradation rates than 75:25 PLG. The airway  diameters in the PCL tHLOs trended 
+towards being slightly smaller (276 µm) compared to  75:25 PLG tHLOs (333 µm, Figure 4A). 
+We also transplanted HLOs onto 85:15 PLG polymer wh ich degrades at a rate intermediate of 
+that between 75:25 PLG and PCL[30]. The 85:15 PLG t HLOs had significantly smaller airway 
+diameter (224µm, p=0.049) than the 75:25 PLG (Figure 4A, C). In addition, the 85:15 PLG tHLO 
+had a similar phenotype to the PCL tHLO, with the airway-like structures present adjacent to the 
+scaffold and the tissue within the pores remaining as cell clusters (Figure 4A, C). We then 
+fabricated a faster degrading polymer scaffold cons isting of 50:50 PLG to further investigate 
+whether degradation could support larger airway-lik e structures [30]. The 50:50 PLG tHLOs 
+trended towards larger airways (414µm) relative to the 75:25 PLG (Figure 4A,C), though the 
+difference was not significant. Collectively, the s ize of the airway structures was influenced by 
+the degradation rate of the scaffold, with slower d egrading polymers leading to smaller airway-
+like structures.  
+We next tested the hypothesis that an increase in t he size of pore interconnections could 
+increase HLO fusion while creating larger airway st ructure, as HLO fusion may be limited for 
+slow degrading materials that led to smaller airway  structures. We obtained PCL scaffolds 
+constructed by 3D printing rods of PCL in a cross-h atch pattern within a 5mm wide, 2mm tall 
+
+<<<PAGE 11>>>
+10 
+ 
+cylinder (same dimensions as the scaffold used in e arlier experiments), which has large pore 
+connections (300µm) relative to the PCL scaffolds d escribed previously, which range from 10 – 
+100 µm [14]. In testing the large interconnected po rous scaffolds, the size of the airway 
+structures was similar between PCL scaffolds with varying pore interconnectivity (Figure 4A, B). 
+These results suggest that while fusion of cells can be aided by adjacent pores and degradation 
+to contribute to the formation of airway structures , pore interconnectivity does not seem to 
+directly determine the size of airway-like structures. 
+Controlling the tHLO explant size 
+After 8 weeks, we found the size of the explant was  a function of the polymer type and 
+design. The size of the explant for HLOs transplant ed on PLG scaffolds reached diameters up 
+to 2.5 cm, which is five times the original scaffol d diameter (5 mm). Relative to 75:25 PLG 
+tHLOs, the other tHLO conditions had a significant reduction in explant size. The explant sizes 
+in fast degrading 50:50 PLG, slow degrading 85:15, and large interconnected PCL scaffolds 
+were 0.81 cm, 0.53 cm, and 0.65 cm respectively. Th e PCL tHLO explant size was significantly 
+smaller than 75:25 PLG tHLOs, with the PCL explants  having diameters in the range of 0.5 to 
+0.6 cm (Figure 5A). However, the 50:50 PLG tHLOs we re significantly larger than the 85:15 
+PLG tHLO. All together, these data suggested that b oth the slow and fast degrading PLG 
+caused a reduction in explant size, but the size re duction was more significant in the slow 
+degrading polymers, 85:15 PLG and PCL. Both the PCL  control and PCL large interconnected 
+pores were similar in size (Figure 5A). Thus, the s ize of pore interconnections does not appear 
+to significantly impact the explant size.  
+Proliferation within the explant was subsequently i nvestigated as a contributing factor to the 
+explant size. A significant two-fold change in prol iferation (Ki67 +cells) in 75:25 PLG tHLO 
+(19.5%) was observed relative to PCL tHLO (8.7%) (F igure 5B-C). During native lung 
+development, both the branching airway epithelium a nd surrounding mesenchyme contain 
+proliferating cells [19,31].  ECAD + was used to differentiate between the mesenchyme an d 
+
+<<<PAGE 12>>>
+11 
+ 
+epithelium structures. The increase in proliferatio n in PLG tHLOs was observed in both the 
+clusters of epithelial cells marked by E-Cadherin ( ECAD +) within airway-like structures, and the 
+surrounding tissue (ECAD -). Interestingly, both in PLG and PCL tHLOs, prolif eration was 
+significantly greater in the tissue adjacent to the  scaffold relative to the ECAD + airway-like 
+structures (Figure 5D).  
+ 
+Discussion 
+In this report, we have demonstrated that the type of material and degradation of the 
+microporous scaffold can affect lung airway formati on, airway size, and explant size derived 
+from transplanted HLOs (Table 2). Previously, 75:25  PLG microporous scaffolds were used to 
+transplant HLOs into the epididymal fat pad [9]. Si nce no maturation occurred when HLOs were 
+placed into the kidney capsule or sewn in the oment um of an immunocompromised mouse, we 
+hypothesized that the tHLOs needed a surface to gro w and expand on in order to mature in 
+airway structures. We then tested this hypothesis a nd found that the HLOs did not require the 
+support of the pores to form airway-like structures , but instead needed specific material 
+properties to allow for the development of airway s tructures. More specifically, the degradation 
+of the material affected airway size and overall explant size of the tHLO. 
+As the airway structures formed, the individual HLOs fused together to form these structures 
+evident by the GFP 
++ and GFP - HLOs forming into one airway. Interestingly, the b uds forming 
+together occurred when the scaffold held its shape (PCL) or degraded (75:25 PLG) over the 8 
+weeks in vivo . Thus, the degradation was not necessary for the H LOs to fuse together to form 
+the  
+airway structures; however, there were no structure s within the pores of the scaffolds that held 
+the scaffold structure during the 8 weeks (PCL and 85:15 PLG). The fusion of the HLOs took 
+place either on the surface of the PCL scaffold or as the PLG scaffold degraded. After 
+incorporating a larger interconnected porous design  to the PCL scaffold, we observed airway 
+
+<<<PAGE 13>>>
+12 
+ 
+formation within the scaffold. Collectively, the HL Os could only form airway structures if they 
+had the space to fuse and expand together into epit helial tubes. This need of expansion aligns 
+with airway formation during lung development where  the airways start as one epithelial bud 
+that continually bifurcates and expands into the su rrounding mesenchyme to ultimately form a 
+network of airways [32,33]. 
+The degradation of the material contributed to mult iple properties of the organoids: airway 
+size and overall explant size. Deriving variations in airway size will allow the study of airway 
+diseases such as COPD and asthma in both large and small airway models [34]. An airway 
+ranging in size from 200-350µm represents a 5 th  generation airway in a native human lung while 
+the 4 th  generation ranges from 400-600µm [35]. Here by changing the degradation we were able 
+to represent two types of airways, 4 th  and 5 th  generation size that are observed in the native 
+adult lung. The data with PLG and PCL indicated tha t the airway size was maximal for 75:25 
+PLG, with slightly smaller structures for 50:50 PLG and 85:15 PLG, suggesting that degradation 
+plays a role and that maximal size occurs at an int ermediate rate of degradation. One 
+mechanism by which degradation can influence airway  size is through the fusion of organoids 
+from adjacent pores. Polymer degradation would infl uence fusion by increasing the size of the 
+interconnections between pores over time, which wou ld allow for greater connectivity. Polymer 
+degradation would also function to remove the polym er as a substrate for organoid 
+development, which may also influence proliferation  and maturation. Collectively, these results 
+are consistent with the general idea that the polym er degradation should be matched with the 
+rate of tissue formation.  
+Multiple scaffolds maintained the ability to form mature airway structures, which did not form 
+without the presence of a material, yet the explant size was a function of the scaffold properties. 
+PCL scaffolds allowed for the formation of structures at the surface of the material, yet not within 
+the pores of the scaffold. The increased size resul ted from an increase of proliferation from the 
+supporting tissue including the mesenchyme with a l esser extent increase of proliferation from 
+
+<<<PAGE 14>>>
+13 
+ 
+the organized epithelium. However, the increased si ze of the explant did not influence the size 
+of the airway-like structures that formed. The scaf fold properties influenced the proliferation of 
+the progenitor cells, that subsequently influenced the overall size of the explant. A more 
+controlled growth of the organoid would allow for l onger studies to be performed, since the 
+explant growth will not impede the mouse health. Fo r instance, future studies could use HLOs 
+generated from patient specific hPSCs lines that ha ve Cystic Fibrosis (CF). Patients with CF 
+have mutations in Cystic Fibrosis Transmembrane con ductance Regulator (CFTR), which 
+causes excess of mucus within the airways which lea ds to chronic infection and inflammation of 
+the lung epithelium[36]. With this model, HLOs coul d be generated from CF patient specific 
+hPCS and studied in the tHLO model that provides a human airway model. Since the explant 
+size is smaller, longer studies can be conducted in  order to understand the short and long-term 
+effects of CF on the airway epithelium and surround ing tissue including smooth muscle, 
+cartilage and vasculature.  
+Microporous scaffolds composed of PEG did not suppo rt maturation over the 8 weeks and 
+the HLOs remained as NKX2.1 progenitors. HLOs were seeded onto PEG hydrogels with and 
+without modification with RGD, a fibronectin bindin g peptide, in order to investigate if ECM 
+signaling may be a signal directing maturation. The  presence of RGD peptide did not impact 
+maturation, suggesting that either adhesion is not a limiting factor in HLO maturation or that the 
+RGD is insufficient to trigger the necessary signal ing cascades. The innate immune response, 
+which is active in immunocompromised mice, differed  significantly between PEG versus PLG 
+and PCL. The increase in immune cell recruitment in  PEG scaffolds could be due in part to 
+hydrogel swelling, which creates a larger volume th at can contain more immune cells. This 
+difference in scaffold environments could be a cont ributing factor that influenced HLOs 
+maturation since it is known that the immune system  affects hPSCs and tissue regeneration 
+including adult stem cells [37-39]. 
+
+<<<PAGE 15>>>
+14 
+ 
+Overall, HLO maturation was supported by multiple microporous scaffolds that resulted from 
+fusion of organoid clusters in adjacent pores. Our studies show the physico-chemical properties 
+of the scaffold can be manipulated to influence the  properties of explant, such as the number 
+and size of airways structures and the size of the explant. The biomaterials, thus, provide a tool 
+that may be capable of directing tissue formation f rom organoids for the purpose of modeling 
+normal development, and also for modeling disease s tates. Specific to airways, controlling 
+airway and total explant size will allow for new mo dels for airway diseases such as asthma, 
+COPD, and CF with the potential to perform long-term studies.   
+ 
+ 
+Data Availability 
+The raw/processed data required to reproduce these findings cannot be shared at this time as 
+the data also forms part of an ongoing study. 
+ 
+References 
+ 
+[1] B.R. Dye, D.R. Hill, M.A. Ferguson, Y.-H. Tsai,  M.S. Nagy, R. Dyal, et al., In vitro 
+generation of human pluripotent stem cell derived l ung organoids, Elife. 4 (2015). 
+doi:10.7554/eLife.05098. 
+[2] A.J. Miller, D.R. Hill, M.S. Nagy, Y. Aoki, B.R . Dye, A.M. Chin, et al., In Vitro 
+Induction and In Vivo Engraftment of Lung Bud Tip P rogenitor Cells Derived from 
+Human Pluripotent Stem Cells, Stem Cell Reports. (2 017). 
+doi:10.1016/j.stemcr.2017.11.012. 
+[3] Y.-W. Chen, S.X. Huang, A.L.R.T. de Carvalho, S .-H. Ho, M.N. Islam, S. Volpi, et 
+al., A three-dimensional model of human lung develo pment and disease from 
+pluripotent stem cells, Nat. Cell Biol. 372 (2017) 3. doi:10.1038/ncb3510. 
+[4] T. Tadokoro, Y. Wang, L.S. Barak, Y. Bai, S.H. Randell, B.L.M. Hogan, IL-6/STAT3 
+promotes regeneration of airway ciliated cells from basal stem cells, Proceedings of 
+the National Academy of Sciences. 111 (2014) E3641– 9. 
+doi:10.1073/pnas.1409781111. 
+[5] H. Danahay, A.D. Pessotti, J. Coote, B.E. Montg omery, D. Xia, A. Wilson, et al., 
+Notch2 is required for inflammatory cytokine-driven  goblet cell metaplasia in the 
+lung, Cell Rep. 10 (2015) 239–252. doi:10.1016/j.celrep.2014.12.017. 
+[6] J.R. Rock, M.W. Onaitis, E.L. Rawlins, Y. Lu, C .P. Clark, Y. Xue, et al., Basal cells 
+as stem cells of the mouse trachea and human airway  epithelium, Proceedings of 
+the National Academy of Sciences. 106 (2009) 12771– 12775. 
+doi:10.1073/pnas.0906850106. 
+[7] K.B. McCauley, F. Hawkins, M. Serra, D.C. Thoma s, A. Jacob, D.N. Kotton, 
+
+<<<PAGE 16>>>
+15 
+ 
+Efficient Derivation of Functional Human Airway Epi thelium from Pluripotent Stem 
+Cells via Temporal Regulation of Wnt Signaling, Cel l Stem Cell. 20 (2017) 844–
+857.e6. doi:10.1016/j.stem.2017.03.001. 
+[8] A.J. Miller, Q. Yu, M. Czerwinski, Y.H. Tsai, R .C. bioRxiv, 2018, Basal stem cell fate 
+specification is mediated by SMAD signaling in the developing human lung, 
+Biorxiv.org. (n.d.). 
+[9] B.R. Dye, P.H. Dedhia, A.J. Miller, M.S. Nagy, E.S. White, L.D. Shea, et al., A 
+bioengineered niche promotes in vivo engraftment an d maturation of pluripotent 
+stem cell derived human lung organoids, Elife. 5 (2 016) 3025. 
+doi:10.7554/eLife.19732. 
+[10] S.R. Finkbeiner, D.R. Hill, C.H. Altheim, P.H.  Dedhia, M.J. Taylor, Y.-H. Tsai, et al., 
+Transcriptome-wide Analysis Reveals Hallmarks of Hu man Intestine Development 
+and Maturation In Vitro and In Vivo, Stem Cell Repo rts. (2015). 
+doi:10.1016/j.stemcr.2015.04.010. 
+[11] J.G. Camp, F. Badsha, M. Florio, S. Kanton, T.  Gerber, M. Wilsch-Bräuninger, et 
+al., Human cerebral organoids recapitulate gene exp ression programs of fetal 
+neocortex development, Proceedings of the National Academy of Sciences. 112 
+(2015) 15672–15677. doi:10.1073/pnas.1520760112. 
+[12] M. Takasato, P.X. Er, H.S. Chiu, B. Maier, G.J . Baillie, C. Ferguson, et al., Kidney 
+organoids from human iPS cells contain multiple lin eages and model human 
+nephrogenesis, Nature. 526 (2015) 564–568. doi:10.1038/nature15695. 
+[13] S. Hrvatin, C.W. O'Donnell, F. Deng, J.R. Mill man, F.W. Pagliuca, P. DiIorio, et al., 
+Differentiated human stem cells resemble fetal, not  adult, β cells, Proceedings of 
+the National Academy of Sciences. 111 (2014) 3038–3 043. 
+doi:10.1073/pnas.1400709111. 
+[14] E. Campeau, V.E. Ruhl, F. Rodier, C.L. Smith, B.L. Rahmberg, J.O. Fuss, et al., A 
+versatile viral system for expression and depletion  of proteins in mammalian cells, 
+PLoS ONE. 4 (2009) e6529. doi:10.1371/journal.pone.0006529. 
+[15] J.R. Spence, C.N. Mayhew, S.A. Rankin, M.F. Ku har, J.E. Vallance, K. Tolle, et al., 
+Directed differentiation of human pluripotent stem cells into intestinal tissue in vitro, 
+Nature. 470 (2011) 105–109. doi:10.1038/nature09691. 
+[16] H. Blomeier, X. Zhang, C. Rives, M. Brissova, E. Hughes, M. Baker, et al., Polymer 
+scaffolds as synthetic microenvironments for extrah epatic islet transplantation, 
+Transplantation. 82 (2006) 452–459. doi:10.1097/01.tp.0000231708.19937.21. 
+[17] P.D. Rios, M. Skoumal, J. Liu, R. Youngblood, E. Kniazeva, A.J. García, et al., 
+Evaluation of encapsulating and microporous nondegr adable hydrogel scaffold 
+designs on islet engraftment in rodent models of di abetes, Biotechnol. Bioeng. 115 
+(2018) 2356–2364. doi:10.1002/bit.26741. 
+[18] S.S. Rao, G.G. Bushnell, S.M. Azarin, G. Spice r, B.A. Aguado, J.R. Stoehr, et al., 
+Enhanced Survival with Implantable Scaffolds That C apture Metastatic Breast 
+Cancer Cells In Vivo, Cancer Research. 76 (2016) 52 09–5218. doi:10.1158/0008-
+5472.CAN-15-2106. 
+[19] B.E. Rockich, S.M. Hrycaj, H.P. Shih, M.S. Nag y, M.A.H. Ferguson, J.L. Kopp, et 
+al., Sox9 plays multiple roles in the lung epitheli um during branching 
+morphogenesis, Proceedings of the National Academy of Sciences. 110 (2013) 
+E4456–64. doi:10.1073/pnas.1311847110. 
+[20] T. Kasputis, D. Clough, F. Noto, K. Rychel, B.  Dye, L.D. Shea, Microporous 
+Polymer Scaffolds for the Transplantation of Embryo nic Stem Cell Derived 
+Pancreatic Progenitors to a Clinically Translatable  Site for the Treatment of Type I 
+Diabetes, ACS Biomater Sci Eng. 4 (2018) 1770–1778.  
+doi:10.1021/acsbiomaterials.7b00912. 
+
+<<<PAGE 17>>>
+16 
+ 
+[21] Y. Yasunami, P.E. Lacy, E.H. Finke, A new site  for islet transplantation--a 
+peritoneal-omental pouch, Transplantation. 36 (1983 ) 181–182. 
+doi:10.1097/00007890-198308000-00014. 
+[22] C. Schmidt, Pancreatic islets find a new trans plant home in the omentum, Nature 
+Biotechnology. 35 (2017) 8–8. doi:10.1038/nbt0117-8. 
+[23] N.O. Litbarg, K.P. Gudehithlu, P. Sethupathi, J.A.L. Arruda, G. Dunea, A.K. Singh, 
+Activated omentum becomes rich in factors that prom ote healing and tissue 
+regeneration, Cell Tissue Res. 328 (2007) 487–497. doi:10.1007/s00441-006-0356-
+4. 
+[24] Y. Park, Y. Chen, L. Ordovas, C.M. Verfaillie,  Hepatic differentiation of human 
+embryonic stem cells on microcarriers, J. Biotechno l. 174 (2014) 39–48. 
+doi:10.1016/j.jbiotec.2014.01.025. 
+[25] H.E. Williams, J. Huxley, M. Claybourn, J.B.D. A. stability, 2006, The effect of γ-
+irradiation and polymer composition on the stabilit y of PLG polymer and 
+microspheres, Elsevier. (n.d.). 
+[26] E.E. Morrisey, B.L.M. Hogan, Preparing for the  First Breath: Genetic and Cellular 
+Mechanisms in Lung Development, Dev. Cell. 18 (2010 ) 8–23. 
+doi:10.1016/j.devcel.2009.12.010. 
+[27] A.J. Miller, J.R. Spence, In Vitro Models to S tudy Human Lung Development, 
+Disease and Homeostasis, Physiology (Bethesda). 32 (2017) 246–260. 
+doi:10.1152/physiol.00041.2016. 
+[28] H.-J. Sung, C. Meredith, C. Johnson, Z.S. Gali s, The effect of scaffold degradation 
+rate on three-dimensional cell growth and angiogene sis, Biomaterials. 25 (2004) 
+5735–5742. doi:10.1016/j.biomaterials.2004.01.066. 
+[29] D. Mondal, M.G.I.J. of, 2016, Polycaprolactone -based biomaterials for tissue 
+engineering and drug delivery: Current scenario and  challenges, Taylor & Francis. 
+(n.d.). 
+[30] H.K. Makadia, S.S. Polymers, 2011, Poly lactic -co-glycolic acid (PLGA) as 
+biodegradable controlled drug delivery carrier, Mdpi.com. (n.d.). 
+[31] B.R. Dye, A.J. Miller, J.R. Spence, How to Gro w a Lung: Applying Principles of 
+Developmental Biology to Generate Lung Lineages fro m Human Pluripotent Stem 
+Cells, Curr Pathobiol Rep. 4 (2016) 47–57. doi:10.1007/s40139-016-0102-x. 
+[32] R.J. Metzger, O.D. Klein, G.R. Martin, M.A. Kr asnow, The branching programme of 
+mouse lung development, Nature. 453 (2008) 745–750. doi:10.1038/nature07005. 
+[33] E.L. Rawlins, The building blocks of mammalian  lung development, Dev. Dyn. 240 
+(2010) 463–476. doi:10.1002/dvdy.22482. 
+[34] R. Athanazio, Airway disease: similarities and  differences between asthma, COPD 
+and bronchiectasis, Clinics (Sao Paulo). 67 (2012) 1335–1343. 
+doi:10.6061/clinics/2012(11)19. 
+[35] T.A. Lewis, Y.-S. Tzeng, E.L. McKinstry, A.C. Tooker, K. Hong, Y. Sun, et al., 
+Quantification of airway diameters and 3D airway tr ee rendering from dynamic 
+hyperpolarized 3He magnetic resonance imaging, Magn  Reson Med. 53 (2005) 
+474–478. doi:10.1002/mrm.20349. 
+[36] G.R. Cutting, Cystic fibrosis genetics: from m olecular understanding to clinical 
+application, Nat. Rev. Genet. 16 (2015) 45–56. doi:10.1038/nrg3849. 
+[37] A.B. Aurora, E.N. Olson, Immune Modulation of Stem Cells and Regeneration, Cell 
+Stem Cell. 15 (2014) 14–25. doi:10.1016/j.stem.2014.06.009. 
+[38] C. Kizil, N. Kyritsis, M. Brand, Effects of in flammation on stem cells: together they 
+strive? EMBO Rep. 16 (2015) 416–426. doi:10.15252/embr.201439702. 
+[39] J.I. Pearl, L.S. Kean, M.M. Davis, J.C. Wu, Pl uripotent stem cells: immune to the 
+immune system? Sci Transl Med. 4 (2012) 164ps25–164 ps25. 
+
+<<<PAGE 18>>>
+17 
+ 
+doi:10.1126/scitranslmed.3005090. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 1 
+ 
+
+<<<PAGE 19>>>
+18 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 2 
+ 
+
+
+<<<PAGE 20>>>
+19 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 3 
+ 
+
+
+<<<PAGE 21>>>
+20 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 4 
+ 
+
+
+<<<PAGE 22>>>
+21 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 5 
+
+
+<<<PAGE 23>>>
+22 
+ 
+ 
+ 
+Figure Captions: 
+Figure 1 HLOs seeded on PLG, PEG, and PCL scaffolds  affects airway structure 
+formation. A) Approximately 50 foregut spheroids were seeded o nto PLG and PEG with or 
+without RGD. Wholemount images were taken after 1 w eek in culture. B) Scaffolds were 
+transplanted into the epididymal fat pad of immunoc ompromised mice and retrieved 8 weeks 
+later. The PLG tHLO grew up to 2.5cm while the tiss ue remained within the PEG scaffolds with 
+or without RGD. C) The histology of the PLG and PCL  tHLOs had organized pseudostratified 
+epithelium resembling native airway epithelium (sho wn by black arrows). The PEG tHLOs 
+showed intact scaffold (shown by orange arrows) and  both the PEG and the tissue within the 
+pores of the PCL had no organized epithelium but re mained as clusters of cells (shown by blue 
+arrows). D) Some of the clusters of cells within the PEG scaffold were lung marker NKX2.1 
++ and 
+human mitochondria (huMITO) +. Scale bars for A-B:1mm, C:200µm, and D:100µm. 
+ 
+Figure 2 The innate immune profile for PEG, PLG, an d PCL tHLOs. Foregut spheroids were 
+cultured on scaffolds for 1 week in vitro , transplanted into the mouse epididymal fat pad, a nd 
+then retrieved after 1 week to observe the innate i mmune response. A) The PEG tHLOs had 
+39% CD45+ Leukocytes (N=6) compared to 17% CD45+ ce lls in PLG tHLOs (N=7) and 19% 
+CD45+ cells in PCL tHLOs (N=7) P<.005 B) PEG, PCL a nd PLG and similar percent of 
+macrophages (CD11b+F4-80+). PEG tHLOs had significa ntly higher MDSCs 
+(CD11b+GR1+Ly6c-) compared to PLG and PCL tHLOs, *P <.05. In contrast, PEG tHLO had 
+significantly lower dendritic cells (CD11c+F4-80-) and monocytes (Ly6c+F480-) *P<.05. All error 
+bars represent SEM. 
+ 
+
+
+<<<PAGE 24>>>
+23 
+ 
+Figure 3 HLOs fuse together to form airway structures. A) GFP H9 hESC line and H9 hESC 
+derived HLOs were seeded onto 75:25 PLG and PCL sca ffolds. Wholemount images of the 
+scaffolds cultured for 1 week in vitro had GFP+ HLOs next to a pore of GFP- HLOs indicated by 
+the red arrow head in both PLG and PCL conditions. B) After transplanted for four weeks, the 
+GFP+ cells were mixing with the GFP- cells and both  expressed early lung marker NKX2.1 
+(red). No organized epithelial structures were obse rved for either scaffold. C) After transplanted 
+for 8 weeks, airway structures formed and were comprised of GFP+ and GFP- cells in both PLG 
+and PCL tHLOs. The airway structures expressed NKX2 .1 (red). The fused GFP+ and GFP- 
+HLOs in both PLG and PCL had multiciliated cells la belled by acetylated tubulin (ACTTUB, 
+white) and basal cell marker P63 (red). Scale bars for A-B: 200µm, B-C: 100µm, and C: 50µm, 
+10µm.  
+ 
+Figure 4 
+ The degradation rate of the scaffold affected airwa y diameter. A) The average 
+measurement was taken of the longest and shortest d iameter for each cross section of an 
+airway structure in a 8wk tHLO. The 85:15 PLG tHLOs  (224µm) had the significantly shorter 
+diameter compared to the 75:25 control PLG (333µm) *P<.05. The 50:50 PLG tHLO had the 
+longest diameter at 415µm. The PCL control and larg e interconnected PCL tHLOs had similar 
+diameter at 277µm and 299µm respectively compared to the 85:15 PLG tHLO (224µm). All error 
+bars represent SEM. B-C) Histology sections of PLG (75:25), large interconnected PCL, 85:15 
+PLG and 50:50 PLG represent the quantified sections. Scale bars B) 200µm and C) 400µm.   
+ 
+Figure 5 The degradation rate of the scaffold affec ted explant size of tHLO. A) Overall, the 
+75:25 PLG had the largest explant size (1.18cm, N=6) after an 8wk transplant compared to both 
+fast (50:50 PLG, N=5) and slow degrading (85:15 and  PCL, N=5) *P<.05. The fast degrading 
+50:50 PLG tHLO was significantly larger than the 85 :15 PLG tHLO explant *P<.005. B) Ki67+ 
+cells (red) were present within the epithelial airw ay structures labelled with ECAD (green) and 
+the surrounding tissue both in PCL and 75:15 PLG. C ) 75:25 PLG (19.6% ±1.8%) had 
+significantly more Ki67+ cells than PCL (8.7% ±1.8%). D) The 75:25 PLG had significantly more 
+Ki67+ cells in the ECAD+ and ECAD- areas (ECAD+: 6.7 ±0.9, ECAD-: 13.8% 1.7) compared to 
+PCL tHLO (ECAD+: 3.009 ±1.0, ECAD-: 6.4% 1.1). Both for PCL and PLG tHLOs t here was 
+significantly more Ki67+ cells in the surrounding t issue (ECAD-) compared to the organized 
+epithelium (ECAD+). **P>.005, *P>.05 All error bars represent SEM. 
+ 
+ 
+Tables: 
+ 
+Table 1: Primary and secondary antibody information 
+Primary Antibody Source Catalog # Dilution Clone 
+Chicken anti-GFP Aves Lab GFP-1020 1:500 polyclonal 
+Mouse anti-Acetylated 
+Tubulin (ACTTUB) Sigma-Aldrich T7451 1:1000 6-11B-1 
+Mouse anti-E-Cadherin 
+(ECAD) 
+BD Transduction 
+Laboratories  610181 1:500 36/E-Cadherin 
+Mouse anti- Human 
+Mitochondria (huMITO) Millipore MAB1273 1:500 113-1 
+Mouse anti-PLUNC R&D Systems MAP1897 1:200 monoclonal  
+Rabbit anti-Cytokeratin5 
+(CK5) Abcam ab53121 1:500 polyclonal 
+Rabbit anti-NKX2.1 Abcam ab76013 1:200 EP1584Y 
+
+<<<PAGE 25>>>
+24 
+ 
+Table 2: P hysico -chemical properties of microporous scaffolds that support HLO  maturation 
+into airway structures  
+Rabbit anti-P63 Santa Cruz 
+Biotechnology sc-8344 1:200 H-129 
+Secondary Antibody  Source  Catalog #  Dilution   
+Donkey anti-chicken 488 Jackson Immuno 703-545-155 1 :500  
+Donkey anti-mouse 488 Jackson Immuno 715-545-150 1:50 0  
+Donkey anti-mouse 647  Jackson Immuno  415-605-350  1:500   
+Donkey anti-mouse Cy3 Jackson Immuno 715-165-150 1:50 0  
+Donkey anti-rabbit 488 Jackson Immuno 711-545-152 1: 500  
+Donkey anti-rabbit Cy3 Jackson Immuno 711-165-102 1: 500  
+ 
+ 
+ 
+ 
+Scaffold 
+Material  
+Pore 
+Size  
+Interconnected 
+Pore Size  
+Degradation 
+Rate  
+Spheroid 
+Engraftment 
+(Fig.1)  
+Airway 
+Diameter 
+Size 
+(Fig.4)  
+Tissue 
+Explant 
+Size 
+(Fig.5)  
+PLG 75:25 250-
+425µm 10-100µm Fast Throughout 
+Scaffold 333µm 1.18cm 
+PLG 85:15 250-
+425µm 10-100µm Medium Throughout 
+Scaffold 224µm 0.53cm 
+PLG 50:50 250-
+425µm 10-100µm Very Fast Throughout 
+Scaffold 415µm 0.81cm 
+PEG 250-
+425µm 10-100µm N/A Within the 
+Pores 
+No 
+Airway 
+Formation  
+N/A 
+PEG-RGD 250-
+425µm 10-100µm N/A Within the 
+Pores 
+No 
+Airway 
+Formation 
+N/A 
+PCL 250-
+425µm 10-100µm Slow Within the 
+Pores 277µm 0.65cm 
+Large 
+Interconnected 
+PCL 
+300µm 300µm Slow Within the 
+Pores 299µm 0.5cm 
+ 
+
+<<<PAGE 26>>>
+                             Elsevier Editorial System(tm) for 
+Biomaterials 
+                                  Manuscript Draft 
+ 
+ 
+Manuscript Number: jbmt49472R1 
+ 
+Title: Human lung organoids develop into adult airway-like structures 
+directed by physico-chemical biomaterial properties  
+ 
+Article Type: FLA Original Research 
+ 
+Section/Category: Biomaterials and Regenerative Medicine (BRM) 
+ 
+Keywords: lung, organoids, scaffolds, stem cells 
+ 
+Corresponding Author: Professor Lonnie D. Shea, Ph.D. 
+ 
+Corresponding Author's Institution: University of Michigan 
+ 
+First Author: Briana R Dye, Ph.D. 
+ 
+Order of Authors: Briana R Dye, Ph.D.; Richard L Youngblood; Robert S 
+Oakes, Ph.D.; Tadas Kasputis, Ph. D.; Daniel W Clough; Jason R Spence, 
+Ph.D.; Lonnie D. Shea, Ph.D. 
+ 
+Abstract: Tissues derived from human pluripotent stem cells (hPSCs) often 
+represent early stages of fetal development, but mature at the molecular 
+and structural level when transplanted into immunocompromised mice. hPSC-
+derived lung organoids (HLOs) transplantation has been further enhanced 
+with biomaterial scaffolds, where HLOs had improved tissue structure and 
+cellular differentiation. Here, our goal was to define the physico-
+chemical biomaterial properties that maximally enhanced transplant 
+efficiency, including features such as the polymer type, degradation, and 
+pore interconnectivity of the scaffolds. We found that transplantation of 
+HLOs on microporous scaffolds formed from poly(ethylene glycol) (PEG) 
+hydrogel scaffolds inhibit growth and maturation, and the transplanted 
+HLOs possessed mostly immature lung progenitors. On the other hand, HLOs 
+transplanted on poly(lactide-co-glycolide) (PLG) scaffolds or 
+polycaprolactone (PCL) led to tube-like structures that resembled both 
+the structure and cellular diversity of an adult airway. Our data 
+suggests that scaffold pore interconnectivity and polymer degradation 
+contributed to the maturation, and we found that the size of the airway 
+structures and the total size of the transplanted tissue was influenced 
+by the material degradation rate. Collectively, these biomaterial 
+platforms provide a set of tools to promote maturation of the tissues and 
+to control the size and structure of the organoids. 
+ 
+Research Data Related to this Submission 
+-------------------------------------------------- 
+There are no linked research data sets for this submission. The following 
+reason is given: 
+Data will be made available on request 
+ 
+
+<<<PAGE 27>>>
+ 
+Lonnie D. Shea, Professor and Chair 
+1119 Carl A. Gerstacker, 2200 Bonisteel Blvd 
+Ann Arbor, MI 48109-2099 
+(734) 764-7149, (F) 734-936-1905   ldshea@umich.edu 
+ November 15, 2019 
+Kam W. Leong, PhD 
+Editor-in-Chief 
+Biomaterials 
+Dear Dr. Leong,  
+My co-authors and I are pleased to submit our revised manuscript titled “Human lung organoids develop 
+into adult airway -like structures directed by physico -chemical biomaterial properties” for your consideration in 
+Biomaterials. This manuscript has been read and approved for resubmission by all authors, each of whom 
+contributed in the experimental design and manuscript preparation. We further confirm that the order of authors 
+listed in the manuscript has been approved by all authors and that there are no other persons who satisfied the 
+criteria for authorship.   
+In this manuscript, we demonstrate that biomaterial scaffolds can be used to investigate airway maturation, 
+immune response, as well as overall explant and airway size  in maturing human lung organoids derived from 
+pluripotent stem cells . Our results indicate that these materials differentially support the formation of airway 
+structure and size. We appreciate the time that the reviewers and the editor have committed to comment on 
+the manuscript. The reviewers appeared highly supportive of the manuscript, yet had questions regarding the 
+control conditions and the characterization of organoid maturation. A point by point response to the reviewer 
+comments is available, which describ es how the manuscript was revised to address clerical edits and provide 
+additional context to the maturation of the organoids. We are grateful for the comments and believe that 
+addressing the comments has enhanced the presentation of the data and impact of  the manuscript. 
+Collectively, t hese studies identify biomaterial design parameters that influence airway maturation and 
+structure during organoid tissue formation , which can provide models for diseases such as asthma, chronic 
+obstructive pulmonary disease (COPD), and cystic fibrosis with the potential to perform long-term studies.   
+We confirm that we have given due consideration to the protection of intellectual p roperty associated with 
+this work and that there are no impediments to publication, including the timing of publication, with respect to 
+intellectual property. In so doing , we have followed the regulations of our institutions concerning intellectual 
+property. We further confirm that any aspect of the work covered in this manuscript that has involved 
+experimental animals has been conducted with the ethical approval of all relevant bodies and that such 
+approvals are acknowledged within the manuscript. This manuscript has not been published and is not under 
+consideration for publication elsewhere. We confirm that there are no known conflicts of interest associated 
+with this publication and there has been no significant financial support for this work that could have influenced 
+its outcome.   
+We understand that the Corresponding Author is the sole contact for the Editorial process.  He is 
+responsible for communicating with the other authors about progress, submissions of revisions and final 
+approval of proofs.  W e confirm that we have provided a current, correct email address which is accessible by 
+the Corresponding Author and which has been configured to accept email from biomaterials@elsevier.com. 
+Thank you for your consideration! 
+ 
+Sincerely,  
+ 
+ 
+Lonnie Shea 
+ 
+ 
+ 
+Cover Letter
+Click here to download Cover Letter: Dye et al_CoverLetterBiomaterials.docx
+
+<<<PAGE 28>>>
+Reviewer(s)' Comments to Author:  
+ 
+Editorial Comments:  
+We appreciate the feedback from the editor and have addressed the comments with the 
+revisions detailed below. 
+ 
+Reviewer #1 (Remarks to the Author): 
+We thank Reviewer 1 for their thoughtful review and  comments that have improved the 
+manuscript. We have addressed the reviewer’s concerns as detailed below:  
+1. Introduction, line 36 - can the author better define or validate the term "indistinguishable", this 
+seems a bit strong. 
+This term was replaced to better convey the similar features our tHLOs had compared to a 
+native model. On page 3, “After 8 weeks, the transplanted HLO (tHLO) had airway -like 
+structures that resembled native adult airways including proper cellular organization, 
+epithelial cellular r atios and airway cell types” . The similar features include airway cell 
+markers for ciliated, club, goblet and basal cells along with the surrounding mesenchyme, 
+smooth muscle and cartilage. In addition to cell types, the cellular organization and cellular 
+ratio is similar to native adult airways.  
+2. Overall, the conclusion about interactions between biomaterial properties and tissue 
+maturation seems correlative rather than causative.   
+We agree and have clarified our conclusions. We modified our discussion  on page 1 2 to 
+convey this , “ Multiple scaffolds maintained the ability to form mature airway structures, 
+which did not form without the presence of a material, yet the explant size was a function of 
+the scaffold properties.” 
+3. Why exactly do the authors think that pore size should influence cell 
+maturation/differentiation? 
+Our results suggest that the fusion of cells in adjacent pores contributes to the formation of 
+airway structures, thus investigate d if increased scaffold pore interconnectivity could 
+enhance the ability for tissue development through cell fusion in adjacent pores. In order to 
+investigate this effect, we increased the size of pore interconnections. We revised this 
+section to convey this rationale more clearly on page 9, which now reads, “We next tested 
+the hypothesis that an increase in the size of pore interconnections could increase HLO 
+fusion while creating larger airway structure, as HLO fusion may be limited for slow 
+degrading materials that led to smaller airway structures. We obtain ed PCL scaffolds 
+constructed by 3D printing rods of PCL in a cross-hatch pattern within a 5mm wide, 2mm tall 
+cylinder (same dimensions as the scaffold used in earlier experiments), which has large 
+pore connections (300µm) relative to the PCL scaffolds desc ribed previously, which range 
+from 10 – 100 µm [14]. In testing the large interconnected porous scaffolds, the size of the 
+airway structures was similar between PCL scaffolds with varying pore interconnectivity 
+(Figure 4A, B). These results suggest that wh ile fusion of cells can be aided by adjacent 
+pores and degradation to contribute to the formation of airway structures, pore 
+interconnectivity does not seem to directly determine the size of airway-like structures.” 
+4. I don't believe that foregut endoderm can be appropriately termed "lung organoid" 
+We agree. On page 6 of the results section, we clarify that “ PLG and PEG scaffolds were 
+seeded with foregut spheroids and cultured for 7 days in vitro, during which time the foregut 
+spheroids grew to fill the po res (Figure 1A). Scaffolds were then transplanted into the 
+epididymal fat pad of NSG mice. This highly vascularized implant site [21] is accessible by a 
+minimally invasive surgery, has a large surface area [22] and the presence of pro -
+Response to reviewers
+Click here to download Response to reviewers: Dye et. al_Response to Reviewer Comments_Biomaterials.docx
+
+<<<PAGE 29>>>
+angiogenesis cytokines [23], which has supported the use of this site for transplantation. 
+After 8 weeks, tissue was found within and around the PLG scaffold, and histological 
+examination revealed that the tHLO tissue contained airway -like structures. ” This t ext 
+describes how we transplant foregut spheroids and then they mature into lung organoids 
+either in vitro (Dye et a. 2015) or in vivo (Dye et al. 2016). This transition was characterized 
+in the previous publications (Dye et al. 2015 and Dye et al. 2016), but briefly the SOX2, 
+ECAD expressing endoderm started expressing lung specific markers for instance NKX2.1, 
+SFTPC, P63, and SOX9. 
+5. Why was the epididymal fat pad chosen as implantation site? 
+We have added more rationale for choosing this site to address this question. On page 6, 
+“Scaffolds were then transplanted into the epididymal fat pad of NSG mice. This highly 
+vascularized implant site [21] is accessible  by a minimally invasive surgery, has a large 
+surface area [22] and the presence of pro-angiogenesis cytokines [23], which has supported 
+the use of this site for transplantation.” 
+6. How are the authors defining "airway -like"?  A ring of cell in a preformed circular space isn't 
+really an  airway. Can this be better analyzed in terms of cellular composition and function?  
+Similarly, Nkx2.1 is not a lung/airway specific marker 
+We previously characterized both the in vitro and in vivo lung organoids using lung specific 
+markers and airway specific makers (Dye et al. 2015 and Dye et al. 2016). We added a 
+sentence in the introduction on page 3, which now reads : “After 8 weeks, the transplanted 
+HLO (tHLO) had airway-like structures that resembled native adult airways including proper 
+cellular organization, epithelial cellular ratios and airway cell types. Airway -like structures 
+were also surrounded by smooth muscle and possessed cartilage, as would be the case in 
+the human airways [9]. ” We realize that NKX2.1 is a marker of thyroid and brain,  but this is 
+addressed in the first publication Dye at al. 2015. We also chose to use NKX2.1 as our lung 
+marker because prior publications have shown NKX2.1 plays a central role in the regulation 
+of lung morphogenesis before birth and is required for differe ntiation and gene regulation of 
+diverse subsets of respiratory epithelial cells. In the normal human lung, NKX2 -1 is 
+selectively expressed in subsets of epithelial cells lining conducting airways and in alveolar 
+type II cells in the lung periphery. We have  added citations in on page 7 to reflect this, 
+“huMITO+ cells co -expressed NKX2.1, an early lung epithelial –specific transcription 
+factor[26,27], yet no mature cell types or airway -like structures were observed in the PEG 
+explants (Figure 1D).” For airway markers, the transplanted HLOs were fully characterized in 
+Dye et al. 2016  and shown to express airway markers  for ciliated, club, basal, and goblet 
+cells. We refer the reader to our prior characterization on page 7, “Further characterization 
+of the lung tissue was previously described in Dye et al. [9].” 
+7. Why do the authors hypothesize the PEG to have higher im mune cell recruitment relative to 
+PLG?  
+The overall goal for this study was to show that we found that the materials created different 
+immune environments that may have contributed to organoid maturation.  We hypothesize 
+the increase in immune cell numbers in PEG scaffolds  relative to PLG and PCL could be 
+due in part to hydrogel swelling, which could create a larger volume that has the capacity to 
+contain more immune cells. We have modified our discussion on page  13 to say, “ The 
+increase in immune cell recr uitment in PEG scaffolds could be due in part to hydrogel 
+swelling, which creates a larger volume that can contain more immune cells.” 
+8. Why do the authors hypothesize the proliferation rate in PCL is higher? 
+Our results in Fig.5 indicate a higher proliferation rate in the PLG scaffolds , and we believe 
+this is the condition to which the reviewer is referring to. In our discussion, we rationalize the 
+increased proliferation rate by noting on page 12 that “polymer degradation would also 
+
+<<<PAGE 30>>>
+function to re move the polymer as a substrate for organoid development, which may also 
+influence proliferation and maturation.” 
+9. The authors state that "airway structures" fuse and expand, as in development. And then 
+bifurcates to continue tissue maturation.  Was any branching or bifurcations noted in this 
+model? 
+We did not observe bifurcation, but did note this in the discussion on page 1 1 how this 
+happens in native lung development , “ Collectively, the HLOs could only form airway 
+structures if they had the space to fu se and expand together into epithelial tubes. This need 
+of expansion aligns with airway formation during lung development where the airways start 
+as one epithelial bud that continually bifurcates and expands into the surrounding 
+mesenchyme to ultimately form a network of airways [32,33].” 
+10. Was mucous production found in the "airway structures"?     
+Yes, in the previous publication (Dye et al. 2016), we observed mucous production in the 
+tHLOs. 
+ 
+Reviewer #2 (Remarks to the Author): 
+We thank Reviewer 2 for their thoughtful review and comments that will help improve this 
+manuscript. We have addressed the reviewer concerns by making the following revisions: 
+1. Currently, various types of lung cells have been applied to make lung organoids and in vi tro 
+systems to mimic lung cancer and  fibrosis as well as in the creation of bronchiolar or alveolar 
+structures for specific proposes, including drug screening, tissue repair or therapy. In this study, 
+however, the authors did not describe the purpose and rationale for only using hPSCs in 
+organoid but without any procedure (or coculture) to induce the hPSCs differentiation to specific 
+cell types of the airway or supporting tissue.   Furthermore, while there are three main cell types 
+in the human airway, including ciliated cells, goblet cells, and basal cells. However, in this study, 
+authors only observed cilia cells (ACTTUB+) and basal cells (P63+) but not goblet cells in the 
+newly forming tissue. The consequences of this missing cell type is substantial in the biology of 
+lung.  The authors should expand on why this cell is not derived and expand on the implications. 
+Thank you for your comment.  In prior publications, w e describe the purpose of the  hPSC-
+derived culture method and characterized both the in vitro and in vivo lung organoids using 
+lung specific markers and airway specific makers in Dye et al. 2015 and Dye et al. 2016. We 
+added a sentence in our introduction on page 3 that references the most recent publication: 
+“After 8 weeks, the transplanted HLO (tHLO) had airway -like structures that resembled 
+native adult airways including proper cellular organization, epithelial cellular ratios and 
+airway cell types. Airway -like structures were also surrounded by smooth muscle and 
+possessed cartilage, as would be the case in the human airways [9].” For airway markers, 
+the transplanted HLOs were fully characterized  in Dye et al. 2016  and shown to express 
+airway markers for ciliated, club, basal, and goblet cells. 
+2.    In the Fig.2, authors used CD45 cell expression level to evaluate the scaffold's ability to 
+induce innate immune responses. In mice, CD45 is expressed on T cells, B cells, dendritic cells, 
+NK cells, Stem cells, macrophage/monocytes, and granulocytes. However, in NSG mic e 
+(immunodeficient mouse), macrophages and dendritic cells are defective, although they still 
+exist in the mouse. In Fig. 2B, the expression level of macrophages and dendritic cells may not 
+be a proper index to reflect the real immune -response of biomateri als in mice.   Meanwhile, 
+authors did not describe the detail of the animal experiment in the Materials & Methods part 
+which leads to uncertainty regarding the results. 
+We agree that investigating the immune response in a NSG mouse can limit our insights so  
+we revised this section to  acknowledge this on page 7, “ Note that these studies were 
+performed within NSG mice that lack an adaptive immune system in order to prevent 
+
+<<<PAGE 31>>>
+rejection, yet these mice retain innate immune cells that respond to transplantation of the 
+construct,” and on page 8, “While the immune cell population at the graft may not fully 
+recapitulate the immune -response of biomaterials in an immunocompetent environment, 
+these data suggest that the immune response could be a contributing factor to th e inhibition 
+of HLO maturation in PEG scaffolds relative to PLG and PCL scaffolds. ” We have also 
+added to our Methods section more detail about the animal transplants to give more clarity 
+on these studies. On page 4, “Scaffold transplantation: Scaffolds we re implanted as 
+previously described [ 9]. Briefly, mice were anesthetized and prepped as for omental 
+transplants. The epididymal fat pads of male 7 –10 week old NOD -scid IL2Rgnull (NSG) 
+were exposed using a lower midline incision. Scaffolds were then placed  along the 
+epididymal blood vessels and covered with epididymal fat. An intraperitoneal flush of Zosyn 
+(100 mg/kg; Pfizer Inc.) was administered after which the incision was closed in 2 -layers 
+using absorbable sutures. Mice were euthanized between 1-8 weeks post-transplant.” 
+3. In Fig. 4, the airway diameter seemingly has a positive correlation to PLG degrading rate. 
+When PLG degrades faster, the diameter becomes wider. There are two concerns, first, why did 
+the author use PCL but not PLG as a control? Second, the authors did not show or cite the 
+reference about the degradation rate between PCL and PLG. 
+For Figure 4, we use the PLG 75:25 condition as our PLG control. We have labeled this 
+condition as a control to clarify this point. On page 7, we made a revision that now includes 
+a citation and reads “Both PLG and PCL are polyester polymers that degrade predominantly 
+by simple hydrolysis of the ester bond into acidic monomers. However, due to its higher  
+molecular weight and higher hydrophobicity, PCL has a slower degradation rate than PLG 
+[28,29]” 
+4.    Figure legends of Fig. 3, 4 and 5 are not consistent with the figures. 
+Thank you for bringing this to our attention. The captions have been corrected so that they 
+now are consistent with the figures. 
+5.    Pg.6 Line 56 →  Could use clearer terminology to describe varying pore sizes in initial 
+experiments than, "Pore interconnectedness was varied through the initial fabrication and also 
+through the degradation rate of the polymers" 
+We have modified this sentence with clearer terminology so that, on page 3, it now re ads 
+“The interconnected pore size was varied, as well, through the initial scaffold fabrication and 
+also through the degradation rate of the polymers.”  
+ a.    Also a brief explanation of why the pore sizes were varied at this point and the value of this 
+in the experiment. 
+On page 9, we explain the purpose of increasing the size of the pore interconnections was 
+to investigate if it could “increase HLO fusion while creating larger airway structure, as HLO 
+fusion may be limited for slow degrading materials that led to smaller airway structures.”  
+6.    Pg.7 Line 36:  At this point in the article there has been no detailed description of what 
+denotes an airway-like structure.  The histology needs to better characterize in words.   FIG.1 
+should have added arrows or lines to highlight relevant parts of the stain to help the reader 
+We added a sentence in the Introduction section page 3 that details an airway-like structure: 
+“After 8 weeks, the transplanted HLO (tHLO) had airway -like structures that resembled 
+native adult airways including proper cellular organization, epithelial cellular ratios and 
+airway cell types. Airway -like structures were also surrounded by smooth muscle and 
+possessed cartilage, as would be the case in the human airways [9].”  In Fig.1 of our results 
+section, the focus of  the H&E stains in Fig.1 is to convey where airway structures have 
+developed within the scaffolds. We  now characterize these stains using text on page 6 and 
+7 about how the images show  “tissue was found within and around the PLG scaffold, and 
+
+<<<PAGE 32>>>
+histological examination revealed that the transplanted human lung organoid (tHLO) tissue 
+contained airway-like structures (Figure 1C) . The PEG hydrogels only had clusters of cells 
+within the pores and did not possess tissue resembling airway  structures (Figure 1C ). No 
+organized epithelial structures were observed within the pores of the PCL grafts but the 
+scaffolds had clusters of cells similar to what is observed in the PEG transplants  (Figure 
+1C). The PLG and PCL tHLOs had organized pseudos tratified epithelium resembling native 
+airway epithelium. The PEG tHLOs and the tissue within the pores of the PCL had no 
+organized epithelium, but remained as clusters of cells.” We have also updated the histology 
+figures with arrows that highlight the relevant parts of the stain as well. 
+  a.    Pg.7 Line 40 → "PLG scaffold had degraded and the material was not detected in 
+histological sections" No mention of assay or method determined for this claim. 
+We did not carry out a degradation study as detecting the rate of scaffold degradation in vivo 
+can be challenging . We have modified this statement to reference prior literature that 
+indicates the PLG scaffold would be degrading by this time point. “The majority of the PLG 
+scaffold should be degraded by this time point [24,25] and, accordingly, the material was not 
+detected in histological sections (Figure 1C).” 
+7.    Pg.8 Fig.1:  Need some form of quantitative analysis on material degradation, is not enough 
+to infer from images.  Why is PLG the only one compared to PEG and not also PCL in A, B, and 
+D → PCL in C seems random in this figure (even though it is the c ontrol in the following 
+experiments, so it begs the question, why is it not relevant in the other sections of this figure?).   
+Need native tissue/non -transplanted control to properly compare all results. Authors make 
+claims that PLG is indistinguishable fro m native adult airways, so they need this control. In this 
+study, the authors claimed that the degradation of the material affected airway size and overall 
+explant size of the tHLO — however, Fig. 5A showed that 50:50 PLG has smaller explant size 
+than 75:25 PLG and 85:15 PLG has smaller airway diameter than PCL control in Fig 4A. In Fig. 
+4 and 5, the degradation rate of PLG scaffolds did not remain consistent with the airway 
+diameter and explant size.  There is no solid result to support that the degradatio n is the critical 
+factor to affect airway formation. Meanwhile, the authors did not present data or reference about 
+the degradation rate of PLG used in the study. 
+We have modified our statement about scaffold degradation to reference prior literature that 
+suggests the PLG scaffold would be degrading by this time point. “The majority of the PLG 
+scaffold should be degraded by this time point [24,25] and, accordingly, the material was not 
+detected in histological sections (Figure 1C).”  We previously characteri zed both the in vitro 
+and in vivo lung organoids using lung specific markers and airway specific makers (Dye et 
+al. 2015 and Dye et al. 2016). We compared all tissue to adult airway in Dye et al. 2016. We 
+did not transplant this tissue however we did compa re our tHLOs to adult  airways. We 
+added a sentence  in our introduction referencing our prior publication with this information : 
+“While many other studies have shown successful transplantation of hPSC -derived tissues 
+under the kidney capsule or other vascular sites within the murine host, HLOs required the 
+assistance of a PLG microporous polymer scaffold to support engraftment and 
+vascularization following transplant into the epididymal fat pad of immu nocompromised 
+mice. After 8 weeks, the transplanted HLO (tHLO) had airway-like structures that resembled 
+native adult airways including proper cellular organization, epithelial cellular ratios and 
+airway cell types. Airway -like structures were also surroun ded by smooth muscle and 
+possessed cartilage, as would be the case in the human airways [9].” We have also 
+modified our conclusion to reflect that the interactions between biomaterial properties and 
+tissue maturation was more correlative rather than causative. In regards to PLG scaffold 
+degradation, on page 9 of the results section , we made a revision that now includes a 
+citation and reads “We also transplanted HLOs onto 85:15 PLG polymer which degrades at 
+a rate intermediate of that between 75:25 PLG and P CL [30]. The 85:15 PLG tHLOs had 
+significantly smaller airway diameter (224µm, p=0.049) than the 75:25 PLG (Figure 4A,  C). 
+
+<<<PAGE 33>>>
+In addition, the 85:15 PLG tHLO had a similar phenotype to the PCL tHLO, with the airway -
+like structures present adjacent to the scaffold and the tissue within the pores remaining as 
+cell clusters (Figure 4A,  C). We then fabricated a faster degrading polymer scaffold 
+consisting of 50:50 PLG to further investigate whether  degradation could support larger 
+airway-like structures [30].” 
+8.    Fig 3-5 captions are mixed between figures and need to be corrected (made staining very 
+hard to interpret) 
+Thank you for bringing this to our attention. The captions have been corrected so that they 
+now are consistent with the figures. 
+9.    Pg. 11 Fig. 3 → 4 week timepoint should also have a higher magnification similar to 8 
+weeks to enhance the argument and properly visualize timeline between 4 and 8 (C → D) 
+The main purpose of showing our 4wk time point was to convey to the reader tha t, while 
+tissue integration was occurring, the epithelial structure had not formed at this early time 
+point. As a result, we felt the low magnification images were sufficient to support our claim. 
+We provide higher magnification images at th is 8 week time point to better characterize the 
+airway that formed. 
+10.    Pg. 12 Line 20 → "PCL was utilized instead of PLG because PCL has a lower melting 
+point and is feasible to 3D print. In testing the larger pore scaffolds, the size of the airway 
+structures was similar between both types of PCL scaffolds" 
+  a.    All data up to this point have not indicated the importance of doing this experiment on PCL 
+alone and just give the reader the impression that PLG is no longer relevant as it is not modular 
+and conducive for translation 
+  b.    This section only made remote sense after reading the "Scaffold degradation affects the 
+HLO derived airway size" so needs to either be reworked or presented in another order  
+    i.    Line 44 from next section that helped make argument clearer: 
+Our aim for this study was to investigate the relationship between pore interconnectivity and 
+tissue growth. We investigated this effect in a model that initially showed minimal tissue 
+growth for ease of comparison. Thus, we used a PCL scaffold, which was a model that could 
+easily be fabricated with a 100% pore interconnectivity using a 3D printer . We have revised 
+this section to clarify this point and removed  the translatability comparison to the PLG 
+scaffold. This section on page 9 now reads, “We next tested the hypothesis that an increase 
+in the size of pore interconnections could increase HLO fusion while creating larger airway 
+structure, as HLO fusion may be limited for slow degrading materials that led to smaller 
+airway structures. We  obtained PCL scaffolds constructed by 3D printing rods of PCL in a 
+cross-hatch pattern within a 5mm wide, 2mm tall cylinder (same dimensions as the scaffold 
+used in earlier experiments), which has large pore connections (300µm) relative to the PCL 
+scaffolds described previously, which range from 10 – 100 µm [14]. In testing the large 
+interconnected porous scaffolds, the size of the airway structures was similar between PCL 
+scaffolds with varying pore interconnectivity (Figure 4A, B). These results suggest that while 
+fusion of cells can be aided by adjacent pores and degradation to contribute to the formation 
+of airway structures, pore interconnectivity does not seem to directly determine the size of 
+airway-like structures.” 
+11.    "The airway diameters in t he PCL tHLOs trended towards being slightly smaller (276 µm) 
+compared to 75:25 PLG tHLOs" 
+  a.    Page 12. Line 28 → "pore size does not seem to determine the size of airway -like 
+structures."  I'm not sure if I agree with this statement, since something else is obviously 
+contributing to the lack of formation in PCL and you were unable to test PLG. The data 
+presented at this point in the article do not necessarily support this claim. 
+
+<<<PAGE 34>>>
+This statement has been revised and moved to the “ Scaffold degradation af fects the HLO 
+derived airway size” results section to present more data that can support this claim. We now 
+suggest that degradation can play a role in air-way formation based on Fig.4 data then further 
+investigate if increasing the interconnected pore size can increase HLO fusion while creating 
+larger airway structure, as HLO fusion may be limited for slow degrading materials  that led to 
+smaller airway structures. We make the claim on page 9, “These results suggest that while 
+fusion of cells can be aided b y adjacent pores and degradation to contribute to the formation 
+of airway structures, pore interconnectivity does not seem to directly determine the size of 
+airway-like structures.” Thus, the article now claims that slow degradation could be playing a 
+greater role in contributing to the lack of formation of structure in PCL rather than the 
+interconnected pore size. 
+12.    Need a table that compares the different materials, pore size, degradation rate, and a 
+citation of which figures they are used in. Currently all the different biomaterials are confusing 
+when you are trying to remember what their pore size and degradation rate are in relation to one 
+another. 
+Thank you for this suggestion. We have added a summarized results table that is now 
+referenced in our discussion that should make these relationships between scaffold material 
+and organoid development more clear. On page 11, the text now reads that “in this report, we 
+have demonstrated that the type of material and d egradation of the microporous scaffold can 
+affect lung airway formation, airway size, and explant size derived from transplanted HLOs 
+(Table 2).” 
+13.    Fig. 5 A, D → Current presentation of data is complicated 
+We have revised this section to improve the flow of information. We now asses all the PLG 
+conditions, then compare them to the PCL conditions and, for Fig. 5D, we gave more 
+rationale for our analysis. This section on page 1 0 now reads, “After 8 weeks, we f ound the 
+size of the explant was a function of the polymer type and design.  The size of the explant for 
+HLOs transplanted on PLG scaffolds reached diameters up to 2.5 cm, which is five times the 
+original scaffold diameter (5mm). Relative to 75:25 PLG tHLOs , the other tHLO conditions 
+had a significant reduction in explant size. The explant sizes in fast degrading 50:50 PLG, 
+slow degrading 85:15, and large interconnected PCL scaffolds were 0.81 cm, 0.53 cm, and 
+0.65 cm respectively. The PCL tHLO explant size was significantly smaller than 75:25 PLG 
+tHLOs, with the PCL explants having diameters in the range of 0.5 to 0.6 cm (Figure 5A). 
+However, the 50:50 PLG tHLOs were significantly larger than the 85:15 PLG tHLO. All 
+together, these data suggested that both t he slow and fast degrading PLG caused a 
+reduction in explant size, but the size reduction was more significant in the slow degrading 
+polymers, 85:15 PLG and PCL. Both the PCL control and PCL large interconnected pores 
+were similar in size (Figure 5A). Thus , the size of pore interconnections does not appear to 
+significantly impact the explant size. 
+Proliferation within the explant was subsequently investigated as a contributing factor to the 
+explant size. A significant two -fold change in proliferation (Ki67 +cells) in 75:25 PLG tHLO 
+(19.5%) was observed relative to PCL tHLO (8.7%) (Figure 5B -C). During native lung 
+development, both the branching airway epithelium and surrounding mesenchyme contain 
+proliferating cells [19,31].  ECAD + was used to differentiate between the mesenchyme and 
+epithelium structures. The increase in proliferation in PLG tHLOs  was observed in both the 
+clusters of epithelial cells marked by E -Cadherin (ECAD+) within airway -like structures, and 
+the surrounding tissue (ECAD -). Interestingly, both in PLG and PCL tHLOs, proliferation was 
+significantly greater in the tissue adjacent to the scaffold relative to the ECAD + airway-like 
+structures (Figure 5D). ” In addition, we have added a table in the discussion section that 
+summarizes these results, which we believe clarifies the presentation of data. 
+
+<<<PAGE 35>>>
+14.    Pg. 15 Line 29 → Why is this the first time we are hearing E-cad as an airway-like marker.  
+E-cad is not an airway-like marker that is accepted in lung biology. 
+Thank you for your comment. We agree that ECAD is an epithelial marker. In this manuscript, 
+ECAD labels the epithelium, for which prior staining with Nkx2.1 had indicated the tissue was 
+lung (Dye et al. 2016, 2015). We and others ( Chen et al 2013, Rawlins et al 2017 ) have 
+employed this combination of Nkx2.1 and ECAD effectively labels lung epithelium. We have 
+modified this paragraph to more accurately describe  the use of ECAD. This paragraph on 
+page 10 now reads, “ The increase in proliferation in PLG tHLOs was observed in both the 
+clusters of epithelial cells marked by E -Cadherin (ECAD+) within airway -like structures, and 
+the surrounding tissue (ECAD-).” 
+15.    More cell lines should be used in the current study not just mentioned in the discussion 
+(CTFR) 
+  a.    Pg. 17 Paragraph stating on Line 8 seems random in comparison to rest of discussion 
+Since our focus was to understand the influence of varying biomaterial properties on tHLO 
+development and maturation we did not incorporate additional cell lines in these studies. We 
+used multiple cell lines in Dye et al 2015 and  Dye et al 2016 that determined that all the cell 
+lines behaved in a similar manne r. With this information and our focus on biomaterials , we 
+decided to  use one cell line  with multiple material platforms  that could address the 
+biomaterial design parameters . This analysis of multiple material platforms directed our 
+submission to the journal Biomaterials.  We do agree that using additional cell lines could 
+provide more insight now that we have established the foundation in this manuscript . We 
+modified our discu ssion section on page 1 2 to indicate potential future studies, and the text 
+now reads, “A more controlled growth of the organoid would allow for longer studies to be 
+performed, since the explant growth will not impede the mouse health. For instance, future  
+studies could use HLOs generated from patient specific hPSCs lines that have Cystic 
+Fibrosis (CF).” 
+
+<<<PAGE 36>>>
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+26 
+27 
+28 
+29 
+30 
+31 
+32 
+33 
+34 
+35 
+36 
+37 
+38 
+39 
+40 
+41 
+42 
+43 
+44 
+45 
+46 
+47 
+48 
+49 
+50 
+51 
+52 
+53 
+54 
+55 
+56 
+57 
+58 
+59 
+60 
+61 
+62 
+63 
+64 
+65 
+1 
+ 
+ 
+ 
+Human lung organoids develop into adult airway-like structures directed by physico-
+chemical biomaterial properties 
+ 
+Briana R. Dye1, Richard L. Youngblood1, Robert S. Oakes1, Tadas Kasputis1, Daniel W. 
+Clough1, Jason R. Spence2, Lonnie D. Shea1 
+ 
+1. Department of Biomedical Engineering;  
+2. Department of Internal Medicine, University of Michigan, Ann Arbor, MI 
+ 
+  
+Manuscript
+Click here to download Manuscript: Dye et al tHLO_Scaffold_Manuscript.docx Click here to view linked References
+
+<<<PAGE 37>>>
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+26 
+27 
+28 
+29 
+30 
+31 
+32 
+33 
+34 
+35 
+36 
+37 
+38 
+39 
+40 
+41 
+42 
+43 
+44 
+45 
+46 
+47 
+48 
+49 
+50 
+51 
+52 
+53 
+54 
+55 
+56 
+57 
+58 
+59 
+60 
+61 
+62 
+63 
+64 
+65 
+2 
+ 
+Abstract 
+Tissues derived from human pluripotent stem cells (hPSCs) often represent early stages of fetal 
+development, but mature at the molecular and structural level  when transplanted into 
+immunocompromised mice . hPSC-derived lung organoid s (HLOs)  transplantation has been 
+further enhanced with biomaterial scaffolds, where HLOs had improved  tissue structure and 
+cellular differentiation. Here, our goal was to define the physico-chemical biomaterial properties 
+that maximally enhanced transplant efficiency , including  features such as  the polymer type , 
+degradation, and pore interconnectivity of the scaffolds. We found that transplantation of HLOs 
+on microporous scaffolds formed from poly(ethylene glycol)  (PEG) hydrogel scaffolds inhibit 
+growth and maturation, and the transplanted HLOs possessed mostly immature lung 
+progenitors. On the other hand, HLOs transplanted on poly(lactide-co-glycolide) (PLG) scaffolds 
+or polycaprolactone (PCL) led to tube-like structures that resembled both the structure and  
+cellular diversity of an adult airway. Our data suggests that scaffold pore interconnectivity and 
+polymer degradation contributed to the maturation, and we found that the size of the airway  
+structures and the total size of the  transplanted tissue was infl uenced by the material 
+degradation rate. Collectively, these biomaterial platforms provide a set of tools to promote 
+maturation of the tissues and to control the size and structure of the organoids.  
+ 
+ 
+  
+
+<<<PAGE 38>>>
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+26 
+27 
+28 
+29 
+30 
+31 
+32 
+33 
+34 
+35 
+36 
+37 
+38 
+39 
+40 
+41 
+42 
+43 
+44 
+45 
+46 
+47 
+48 
+49 
+50 
+51 
+52 
+53 
+54 
+55 
+56 
+57 
+58 
+59 
+60 
+61 
+62 
+63 
+64 
+65 
+3 
+ 
+Introduction 
+ 
+Human lung organoid models facilitate the study of cell fate decision s during development 
+and for  modeling diseases such as  cystic fibrosis and goblet cell metaplasia , and infections 
+such as respiratory syncytial  virus [1-8]. We have previously demonstrated that human 
+pluripotent stem cell ( hPSC)-derived human lung organoids  (HLOs) possess a complex tissue  
+structure in vitro, which includes both the epithelium and supporting tissue (cartilage, smooth 
+muscle, fibroblasts) [1,9].  
+Notably, in vitro  HLO cultures reflect the fetal airway , with a dult airway -like structures 
+generated only after in vivo transplantation [9]. Maturation following in vivo  transplantation of 
+HLOs reflects observations with numerous other organoid and hPSC-based systems [1,10-13],. 
+While many other studies have shown successful transplantation of hPSC-derived tissues under 
+the kidney capsule or other vascular si tes within the murine host, HLOs required the assistance 
+of a  PLG microporous polymer scaffold  to support engraftment and vascularization following 
+transplant into the ep ididymal fat  pad of  immunocompromised mice . After 8 weeks, the 
+transplanted HLO (tHLO ) had airway -like structures that resembled native adult airways 
+including proper cellular organization, epithelial cell ular ratios and airway cell types. Airway-like 
+structures were also surrounded by smooth muscle and possessed cartilage, as would be the  
+case in the human airways  [9]. However, these previous studies did not identify the polymer 
+scaffolds design parameters that conferred an engraftment and growth advantage for HLOs.   
+In this report, we investigated the physico-chemical properties of microporous scaffolds that 
+support HLO maturation into airway structures. Polymers have different degradation rates and 
+may have distinct interactions with the host, so m icroporous scaffold support of transplanted 
+HLO were tested using  diverse materials including poly(lactide-co-glycolide) (PLG), 
+polycaprolactone (PCL), and poly(ethylene glycol)  (PEG). The interconnected pore size  was 
+varied, as well,  through the initial  scaffold fabrication and also through the degradation rate of 
+
+<<<PAGE 39>>>
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+26 
+27 
+28 
+29 
+30 
+31 
+32 
+33 
+34 
+35 
+36 
+37 
+38 
+39 
+40 
+41 
+42 
+43 
+44 
+45 
+46 
+47 
+48 
+49 
+50 
+51 
+52 
+53 
+54 
+55 
+56 
+57 
+58 
+59 
+60 
+61 
+62 
+63 
+64 
+65 
+4 
+ 
+the polymers. For these material platforms, we investigated  airway maturation, immune 
+response, as well as overall explant and airway size. Identifying the  biomaterial design 
+parameters that influence  airway maturation and structure will enable the development of 
+platforms that can direct the structure  to better model airway homeostasis and  disease 
+environments.  
+Methods 
+Maintenance of hESCs, generation of HLOs, and seeding on scaffolds 
+H1 human embryonic stem cell (hESC) line (NIH registry #0043) and H9 (NIH registry #0062) 
+was obtained from the WiCell Research Institute. H1 hESC line was used to derive all HLOs for 
+these experiments except for Figure 2 where H9 hESC and H9 GFP hESC lines were us ed to 
+derive HLOs. H9 GFP hESC line was generated by infecting H9 hESCs with pLenti PGK GFP 
+Puro virus generated from the plasmid purchased from AddGene (Cat#: 19070) [14]. H9 GFP 
+hESC clonal line was generated by puromycin selection  flow cytometry analysis sorting (FACS) 
+for GFP high expressing cells . All hESC lines were app roved by the University of Michigan 
+Human Pluripotent Stem Cell Research Oversight Committee. hESCs were maintained as 
+previously described [15]. HLOs were derived as previously described [1]. Foregut spheroids, 
+which grow into HLOs, were seeded on scaffolds as previously described [9]. 
+Scaffold fabrication 
+75:25 PLG scaffolds were fabricated as previously described [9,16]. 85:15 (Resomer® RG 858 
+S, Poly(D,L -lactide-co-glycolide), Sigma, C at#: 739979 -1G) and 50:50 PLG (Resomer® RG 
+505, Poly(D,L-lactide-co-glycolide) ester terminated, MW: 54,000 -69,000, Sigma,Cat#: 739960) 
+were fabricated the same as 75:25 PLG scaffolds. 20% (w/v) 4-arm PEG maleimide, 20,000MW 
+(JenChem, Cat#: A7029 -1) hydrog els were fabricated as previously described [17]. PCL 
+scaffolds were fabricated as previously described [18]. Large interconnected PCL were 
+commercially bought (National Institute of Standards and Technology, Cat#:8394).  
+Scaffold transplantation 
+
+<<<PAGE 40>>>
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+26 
+27 
+28 
+29 
+30 
+31 
+32 
+33 
+34 
+35 
+36 
+37 
+38 
+39 
+40 
+41 
+42 
+43 
+44 
+45 
+46 
+47 
+48 
+49 
+50 
+51 
+52 
+53 
+54 
+55 
+56 
+57 
+58 
+59 
+60 
+61 
+62 
+63 
+64 
+65 
+5 
+ 
+Scaffolds were implanted as previously descr ibed [9]. Briefly, mice were anesthetized and 
+prepped as for omental transplants. The epididymal fat pads of male 7 –10 week old NOD -scid 
+IL2Rgnull (NSG) were exposed using a lower midline incision. Scaffolds were then placed along 
+the epididymal blood vessels and covered with epididymal fat. An intraperitoneal flush of Zosyn 
+(100 mg/kg; Pfizer Inc.) was administered after which the incisio n was closed in 2 -layers using 
+absorbable suture. Mice were euthanized between 1-8 weeks post-transplant. 
+Immunohistochemistry, hematoxylin and eosin stain (H&E), and imaging 
+Immunostaining and H&E were carried out as previously described [19]. Antibody information 
+and dilutions can be found in Table 1. All images and videos were taken on a Nikon A1 confocal 
+microscope or the Zeiss Axio Observer.Z1.  
+Flow Cytometry  
+Cell disassociation and flow cytometry was previously described [18]. Antibodies used are as 
+follow: Fluor® 700 anti-CD45 (1:125, clone 30-F11, Biolegend), V500 anti-CD11b (1:100, clone 
+M1/70, BD Biosciences), FITC anti -Ly6C (1:100, clone HK.14, Biolegend), PE -Cy7 anti-F4/80 
+(1:80, clone BM8, Biolegend), APC anti -CD11c (1:80, clone N418, Biolegend), and Pacific 
+Blue™ anti- Ly-6G/Ly-6C (Gr-1) (1:70, clone RB6-8C5, Biolegend). 
+Quantification 
+Airway diameters were measured using ImageJ software. The longest and shortest diameter 
+was measured per airway structure and then averaged together. Explant size was measured 
+using a ruler by placing the longest side of the tHLO on the ruler. Ki67+ cells and ECAD+, Ki67+ 
+cells were quantified using a program developed in lab by Kevin Rychel, previously 
+described[20].  
+Experimental replicates and statistics 
+All experiments were done on at least three (N=3) independent biological samples for each 
+experiment. All error bars represented SEM while the long bar represented the average. 
+Statistical differences were assessed with Prism software using unpaired t-test. 
+
+<<<PAGE 41>>>
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+26 
+27 
+28 
+29 
+30 
+31 
+32 
+33 
+34 
+35 
+36 
+37 
+38 
+39 
+40 
+41 
+42 
+43 
+44 
+45 
+46 
+47 
+48 
+49 
+50 
+51 
+52 
+53 
+54 
+55 
+56 
+57 
+58 
+59 
+60 
+61 
+62 
+63 
+64 
+65 
+6 
+ 
+ 
+Results 
+PLG, PEG and PCL have varying extents of HLO derived airway maturation  
+Microporous scaffolds with similar architectures and formed from  either 75:25 
+(lactide:glycolide) PLG or 20% (w/v) 4-arm PEG-maleimide microporous scaffold were tested for 
+their ability to support transplantation of  foregut spheroids. Both scaffolds had pores ranging in 
+size from 225 µm to 450µm, and were cylinder shaped with a diameter of 5mm diameter and a 
+thickness of 2mm. PLG is a degradable, hydrophobic polyester that will adsorb proteins  while 
+PEG scaffolds are non-degradable hydrogels and were formed with or without the adhesion 
+peptide RGD. PLG and PEG scaffolds were seeded with foregut spheroids and cultured for 7 
+days in vitro, during which time the foregut spheroids grew to fill the pores (Figure 1A). Scaffolds 
+were then transplanted into the epididymal fat pad of NSG mice . This highly vascul arized 
+implant site [21] is accessible by a minimally invasive surgery, has a large surface area [22] and 
+the presence of pro -angiogenesis cytokines [23], which has supported the use of this site for 
+transplantation. After 8 weeks, t issue was found within and around the PLG scaffold, and 
+histological examination revealed that the tHLO tissue  contained airway -like structures . The 
+majority of the PLG scaffold should be degraded by this time point [24,25]  and, accordingly, the 
+material was not detected in histological sections (Figure 1C). 
+Growth of the transplanted  PLG scaffolds contrasted with the PEG -seeded scaffolds. 8 
+weeks after transplantation, PEG scaffolds appeared intact and the  spheroids remained within 
+the pores independent of whether the scaffold was modified with RGD  (Figure 1B) . We 
+hypothesized that the individual HLOs would grow together on the surface of the PEG scaffold 
+and form airway -like structures. However, the transplanted spheroids  remained within the 
+separate pores. We investigated the  possibility that smaller airways fo rmed within the pores of 
+the PEG scaffold;  
+
+<<<PAGE 42>>>
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+26 
+27 
+28 
+29 
+30 
+31 
+32 
+33 
+34 
+35 
+36 
+37 
+38 
+39 
+40 
+41 
+42 
+43 
+44 
+45 
+46 
+47 
+48 
+49 
+50 
+51 
+52 
+53 
+54 
+55 
+56 
+57 
+58 
+59 
+60 
+61 
+62 
+63 
+64 
+65 
+7 
+ 
+however, the PEG hydrogels only had clusters of cells within the pores and did not possess 
+tissue resembling airway structures (Figure 1C). The tissue within the PEG pores was derived 
+from both spheroids and host  (murine) cells,  as we observed  cells express ing the  human-
+specific mitochondria ma rker (huMITO) along with  huMITO-negative cells. huMITO+ cells co-
+expressed NKX2.1, an early lung  epithelial–specific transcription factor [26,27], yet no mature 
+cell types or airway -like structures were observed in the PEG explants  (Figure 1D) . In 
+comparison, the organized airway str uctures observed in the PLG explants expressed the lung 
+marker NKX2.1 and were huMITO +. Further characterization of the lung tissue was previously 
+described in Dye et al. [9]. 
+We next tested the ability of PCL scaffolds to support transplantation and  lung organoid 
+growth in vivo. Both PLG and PCL are polyester polymers that degrade predominantly by simple 
+hydrolysis of the ester bond into acidic monomers . However, due to its higher molecular weight 
+and higher hydrophobicity, PCL has a slower degradation rate than PLG [28,29]. PCL scaffolds 
+were seeded with spheroids  and transplanted for 8 weeks . Similar to the PEG , PCL scaffolds 
+were still intact after 8 weeks in vivo (Figure 1C) . No organized epithelial structures were 
+observed within the pores of the PCL grafts but the scaffolds had clusters of cells similar to what 
+is observed in the PEG transplants (Figure 1C) . On the other hand, there were airway -like 
+structures that formed on the outside of the scaffolds where tHLOs had expanded. Collectively, 
+these results suggest that the polyester polymers  (PLG, PCL)  supported the spheroid 
+engraftment and development of airway structures after 8 weeks, but that failure of the scaffold 
+to degrade prevented the growth and development of spheroids into airway-like structures.  
+Initial immune response at microporous scaffolds may contribute to HLO responses: 
+The initial immune response within the microporous scaffolds was investigated as a 
+potential mechanism underlying the differential maturation on the various materials . Note that 
+these studies were performed within NSG mice that lack an adaptive immune system in order to 
+prevent rejection, yet these mice retain innate immune cells that respond to transplantation of 
+
+<<<PAGE 43>>>
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+26 
+27 
+28 
+29 
+30 
+31 
+32 
+33 
+34 
+35 
+36 
+37 
+38 
+39 
+40 
+41 
+42 
+43 
+44 
+45 
+46 
+47 
+48 
+49 
+50 
+51 
+52 
+53 
+54 
+55 
+56 
+57 
+58 
+59 
+60 
+61 
+62 
+63 
+64 
+65 
+8 
+ 
+the construct.  Lung organoids were transplanted and collected after 1 week in vivo , with 
+analysis of the innate immune response. PEG tHLOs had a significantly greater percentage of 
+leukocytes (CD45 +) than PLG and PCL tHLOs  (Figure 2A) , which indicates greater cell 
+recruitment from the host tissue.  From the CD45+ population, the PEG tHLOs  had significantly 
+higher percent of CD11b+GR1+Ly6c- cells, often referred to as myeloid derived suppressor cells, 
+and significantly less CD11c+F4-80- (dendritic) cells and Ly6c +F4-80- (monocyte) cells  
+compared to PLG and PCL tHLOs (Figure 2B). No differences were observed between the PLG 
+and PCL scaffolds. While the immune cell population at the graft  may not fully recapitulate the 
+immune-response of biomaterials in an immunocompetent environment, these data suggest that 
+the immune response could be a contributing factor to the inhibition of HLO maturation  in PEG 
+scaffolds relative to PLG and PCL scaffolds. 
+HLO fusion during formation of airway-like structures 
+We subsequently investigated the contribution of HLO interaction i n adjacent pores to the 
+formation of airway structures, which was motivated by the observations of airway structures 
+forming on the surface of slow degrading PCL scaffolds , but not within the pores . In order to 
+analyze the fusion of multiple  organoids into an airway structure, scaffolds were seeded with 
+HLOs constitutively expressing GFP (GFP+) and GFP- HLOs. Following culture of HLOs in PLG 
+and PCL scaffolds for 1 week in vitro, we observed pores seeded with GFP+ HLOs that were 
+adjacent to pores containing GFP- HLOs (Figure 3A). Scaffold were transplanted and retrieved 
+after 4 and 8 weeks in vivo. After 4 weeks in vivo, airway structures were not present, yet there 
+were populations expressing the lung marker NKX2.1 that were either GFP + or GFP- indicating 
+both HLO populations survived and successfully generated lung progenitors (Figure 3B). After 8 
+weeks, airway structures were observed in PLG and on the outside of PCL tHLOs, and these  
+structures contained airway -like structures that possessed  multiciliated cells (ACTTUB +) and  
+basal cells (P63+). These airway structures had both GFP+ and GFP- cells both in PCL and PLG 
+
+<<<PAGE 44>>>
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+26 
+27 
+28 
+29 
+30 
+31 
+32 
+33 
+34 
+35 
+36 
+37 
+38 
+39 
+40 
+41 
+42 
+43 
+44 
+45 
+46 
+47 
+48 
+49 
+50 
+51 
+52 
+53 
+54 
+55 
+56 
+57 
+58 
+59 
+60 
+61 
+62 
+63 
+64 
+65 
+9 
+ 
+tHLOs (Figure 3C), indicating that the airway structures form by the HLOs fusing  from adjacent 
+pores in both the surface pores of PCL and in the degrading pores of the PLG tHLOs.  
+Scaffold degradation affects the HLO derived airway size 
+We next investigated the contribution of polymer degradation to the number of airway -like 
+structures with the hypothesis that faster degradat ion would permit more HLOs fusing in 
+adjacent pores, thus, support larger airway-like structures. Previously, the 75:25 PLG scaffolds 
+were used to transplant HLOs and were thoroughly characterized in Dye et al. 201 6 [9]. Yet, 
+now with the use of multi ple types of polymers with varying degrees of degradation, we 
+quantified the impact on airway diameter size. We  first investigated polymers with faster and 
+slower degradation rates than 75:25 PLG.  The airway diameters in the PCL tHLOs trended 
+towards being slightly smaller (276 µm) compared to 75:25 PLG  tHLOs (333 µm, Figure 4 A). 
+We also transplanted HLOs onto 85:15 PLG polymer which degrades at a rate intermediate of 
+that between 75:25 PLG and PCL[30]. The 85:15 PLG tHLOs had significantly smaller airway 
+diameter (224µm, p=0.049) than the 75:25 PLG (Figure 4A, C). In addition, the 85:15 PLG tHLO 
+had a similar phenotype to the PCL tHLO, with the airway-like structures present adjacent to the 
+scaffold and the tissue within the pores remaining as cell clusters (Figure 4A, C). We then 
+fabricated a faster degrading polymer  scaffold consisting of  50:50 PLG  to further investigate 
+whether degradation could support larger airway -like structures  [30]. The 50:50 PLG tHLOs 
+trended towards larger airways (414µm) relative to the 75:25 PLG  (Figure 4 A,C), though the 
+difference was not significant. Collectively, the size of the airway structures was influenced by 
+the degradation rate of the scaffold, with slower degrading polymers leading to smaller airway-
+like structures.  
+We next tested the hypothesis that an increase in the size of pore interconnections could 
+increase HLO fusion while  creating larger airway structure, as HLO fusion may be limited for 
+slow degrading materials that led to smaller airway structures. We obtained PCL scaffolds 
+constructed by 3D printing rods of PCL in a cross -hatch pattern within a 5mm wide, 2mm tall 
+
+<<<PAGE 45>>>
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+26 
+27 
+28 
+29 
+30 
+31 
+32 
+33 
+34 
+35 
+36 
+37 
+38 
+39 
+40 
+41 
+42 
+43 
+44 
+45 
+46 
+47 
+48 
+49 
+50 
+51 
+52 
+53 
+54 
+55 
+56 
+57 
+58 
+59 
+60 
+61 
+62 
+63 
+64 
+65 
+10 
+ 
+cylinder (same dimensions as the scaffold used in earlier experiments), which has large pore 
+connections (300µm) relative to the PCL scaffo lds described previously, which range from 10 – 
+100 µm [14]. In testing the large interconnected porous scaffolds, the size of the airway 
+structures was similar between PCL scaffolds with varying pore interconnectivity (Figure 4A, B). 
+These results suggest that while fusion of cells can be aided by adjacent pores and degradation 
+to contribute to the formation of airway structures, pore interconnectivity does not seem to 
+directly determine the size of airway-like structures. 
+Controlling the tHLO explant size 
+After 8 weeks,  we found  the size of the explant was a function of the polymer  type and 
+design. The size of the explant for HLOs transplanted on PLG scaffolds reached diameters up 
+to 2.5 cm, which is five times th e original scaffold diameter (5  mm). Relative to 75:25  PLG 
+tHLOs, the other tHLO  conditions had a significant reduction in explant size. The explant sizes 
+in fast degrading 50:50 PLG, slow degrading 85:15, and large interconnected PCL scaffolds  
+were 0.81 cm, 0.53 cm, and 0.65 cm respectively. The PCL tHLO explant size was significantly 
+smaller than 75:25 PLG tHLOs, with the  PCL explants having diameters in the range of 0.5 to 
+0.6 cm (Figure 5A). However, the 50:50 PLG tHLOs were significantly larger than the 85:15 
+PLG tHLO . All together, thes e data suggest ed that both the slow and fast degrading PLG  
+caused a reduction in explant size , but the size reduction was more significant in the slow 
+degrading polymers, 85:15 PLG  and PCL. Both the PCL control and PC L large interconnected 
+pores were similar in size (Figure 5A). Thus, the size of pore interconnections does not appear 
+to significantly impact the explant size. 
+Proliferation within the explant was subsequently investigated as a contributing factor to the 
+explant size. A  significant two-fold change in proliferation (Ki67+cells) in 75:25 PLG tHLO 
+(19.5%) was observed relative to PCL tHLO (8.7%)  (Figure 5 B-C). During native lung 
+development, both the branching airway epithelium and surrounding mesenchyme contain 
+proliferating cells [19,31].  ECAD+ was used t o differentiate between the mesenchyme and 
+
+<<<PAGE 46>>>
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+26 
+27 
+28 
+29 
+30 
+31 
+32 
+33 
+34 
+35 
+36 
+37 
+38 
+39 
+40 
+41 
+42 
+43 
+44 
+45 
+46 
+47 
+48 
+49 
+50 
+51 
+52 
+53 
+54 
+55 
+56 
+57 
+58 
+59 
+60 
+61 
+62 
+63 
+64 
+65 
+11 
+ 
+epithelium structures . The increase in proliferation in PLG tHLOs was observed in both the  
+clusters of epithelial cells marked by  E-Cadherin (ECAD+) within airway-like structures, and the 
+surrounding tissue (ECAD -). Interestingly, both in PLG and PCL tHLOs, proliferation was 
+significantly greater in the tissue adjacent to the scaffold relative  to the ECAD + airway-like 
+structures (Figure 5D).  
+ 
+Discussion 
+In this report, we have demonstrated that the type of material and degradation of the 
+microporous scaffold can affect lung airway formation, airway size, and explant size derived 
+from transplanted HLOs (Table 2). Previously, 75:25 PLG microporous scaffolds were used to 
+transplant HLOs into the epididymal fat pad [9]. Since no maturation occurred when HLOs were 
+placed into the kidney capsule or sewn in the omentum of an immuno compromised mouse, we 
+hypothesized that the tHLOs needed a surface to grow and expand on in order to mature in 
+airway structures. We then tested this hypothesis and found that the HLOs did not require the 
+support of the pores to form airway -like structures , but instead needed specific material 
+properties to allow for the development of airway structures. More specifically, the degradation 
+of the material affected airway size and overall explant size of the tHLO. 
+As the airway structures formed, the individual HLOs fused together to form these structures 
+evident by the GFP + and GFP - HLOs forming into one airway. Interestingly, the buds forming 
+together occurred when the scaffold held its shape (PCL) or degraded (75:25 PLG) over the 8 
+weeks in vivo. Thus, the degradation was not necessary for the HLOs to fuse together to form 
+the  
+airway structures; however, there were no structures within the pores of the scaffolds that held 
+the scaffold structure during  the 8 weeks (PCL and 85:15 PLG) . The fus ion of the HLOs took 
+place either on the surface of the  PCL scaffold or as the PLG scaffold degraded.  After 
+incorporating a larger interconnected porous design to the PCL scaffold, we observed  airway 
+
+<<<PAGE 47>>>
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+26 
+27 
+28 
+29 
+30 
+31 
+32 
+33 
+34 
+35 
+36 
+37 
+38 
+39 
+40 
+41 
+42 
+43 
+44 
+45 
+46 
+47 
+48 
+49 
+50 
+51 
+52 
+53 
+54 
+55 
+56 
+57 
+58 
+59 
+60 
+61 
+62 
+63 
+64 
+65 
+12 
+ 
+formation within the scaffold . Collectively, the HLOs could only form airway structures if they 
+had the space to fuse and expand together into epithelial tubes. This need of expansion aligns 
+with airway formation during lung devel opment where the airways start as one epithelial bud 
+that continually bifurcates and expands into the surrounding mesenchyme  to ultimately form a 
+network of airways [32,33]. 
+The degradation of the material contributed to multiple properties of the organoids: airway 
+size and overall explant size . Deriving variations in airway size will allow the stud y of airway 
+diseases such as COPD and asthma in both large and small airway models [34]. An airway 
+ranging in size from 200-350µm represents a 5th generation airway in a native human lung while 
+the 4th generation ranges from 400-600µm [35]. Here by changing the degradation we were able 
+to represent two types of airways, 4 th and 5 th generation size that are  observed in the native 
+adult lung. The data with PLG and PCL indicated that the airway size was maximal for 75:25 
+PLG, with slightly smaller structures for 50:50 PLG and 85:15 PLG, suggesting that degradation 
+plays a role and that maximal size occurs at an intermediate rate of degradation . One 
+mechanism by which degradation can influence airway size is through the fusion  of organoids 
+from adjacent pores. Polymer degradation would influence fusion by increasing the size of the 
+interconnections between pores over time, which would allow for greater connectivity. Polymer 
+degradation would also function to remove the polymer as a substrate for organoid 
+development, which may also influence proliferation and maturation. Collectively, these results 
+are consistent with the general idea that the polymer degradation should be matched with the 
+rate of tissue formation.  
+Multiple scaffolds maintained the ability to form mature airway structures, which did not form 
+without the presence of a material, yet the explant size was a function of the scaffold properties. 
+PCL scaffolds allowed for the formation of structures at the surface of the material, yet not within 
+the pores of the scaffold. The increased size resulted from an increase of proliferation from the 
+supporting tissue including the mesenchyme with a lesser extent increase of proliferation from 
+
+<<<PAGE 48>>>
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+26 
+27 
+28 
+29 
+30 
+31 
+32 
+33 
+34 
+35 
+36 
+37 
+38 
+39 
+40 
+41 
+42 
+43 
+44 
+45 
+46 
+47 
+48 
+49 
+50 
+51 
+52 
+53 
+54 
+55 
+56 
+57 
+58 
+59 
+60 
+61 
+62 
+63 
+64 
+65 
+13 
+ 
+the organized epithelium. However, the increased size of the explant did not influence the size 
+of the airway-like structures that formed. The scaffold properties influenced the proliferation of 
+the progenitor cells, that subsequently influenced the overall size of the explant . A more 
+controlled growth of the organoid would allow for longer studies to be performed, since the 
+explant growth will not impede the mouse  health. For instance, future studies could use HLOs 
+generated from patient specific hPSCs li nes that have Cystic F ibrosis (CF). Patients with CF 
+have mutations in Cystic Fibrosis T ransmembrane conductance  Regulator (CFTR), which 
+causes excess of mucus within the airways which leads to chronic infection and inflammation of 
+the lung epithelium [36]. With this model,  HLOs c ould be generated from CF patient specific 
+hPCS and studied in the tHLO model that provides a human airway model. Since the explant 
+size is smaller, longer studies can be conducted in order to understand the short and long -term 
+effects of CF on the airway epithelium and surrounding tissue including smooth muscle, 
+cartilage and vasculature.  
+Microporous scaffolds composed of PEG did not support maturation over the 8 weeks and 
+the HLOs remained as NKX2.1 progenitors. HLOs were seeded onto PEG hydrogels with and 
+without modification with RGD, a fibronectin binding peptide, in order to investigate if ECM 
+signaling may be a signal directing maturatio n. The presence of RGD peptide did not impact 
+maturation, suggesting that either adhesion is not a limiting factor in HLO maturation or that the 
+RGD is insufficient to trigger the necessary signaling cascades. The innate immune response, 
+which is active in  immunocompromised mice, differed significantly between PEG versus PLG 
+and PCL. The increase in immune cell recruitment in PEG scaffolds could be due in part to 
+hydrogel swelling, which creates a larger volume that can contain more immune cells . This 
+difference in scaffold environments could be a contributing factor that influenced HLOs 
+maturation since it is known that the immune system affects hPSCs and tissue regeneration 
+including adult stem cells [37-39]. 
+
+<<<PAGE 49>>>
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+26 
+27 
+28 
+29 
+30 
+31 
+32 
+33 
+34 
+35 
+36 
+37 
+38 
+39 
+40 
+41 
+42 
+43 
+44 
+45 
+46 
+47 
+48 
+49 
+50 
+51 
+52 
+53 
+54 
+55 
+56 
+57 
+58 
+59 
+60 
+61 
+62 
+63 
+64 
+65 
+14 
+ 
+Overall, HLO maturation was supported by multiple microporous scaffolds that resulted from 
+fusion of organoid clusters in adjacent pores. Our studies show the physico-chemical properties 
+of the scaffold can be manipulated to influence the properties of explant, such as the number 
+and size of airways structures and the size of the explant. The biomaterials, thus, provide a tool 
+that may be capable of directing ti ssue formation from organoids for the purpose of modeling 
+normal development, and also for modeling disease states. Specific to airways, controlling 
+airway and total explant size will allow for new models for airway diseases such as asthma, 
+COPD, and CF with the potential to perform long-term studies.   
+ 
+ 
+Data Availability 
+The raw/processed data required to reproduce these findings cannot be shared at this time as 
+the data also forms part of an ongoing study. 
+ 
+References 
+ 
+[1] B.R. Dye, D.R. Hill, M.A. Ferguson, Y. -H. Tsai, M.S. Nagy, R. Dyal, et al., In vitro 
+generation of human pluripotent stem cell derived lung organoids, Elife. 4 (2015). 
+doi:10.7554/eLife.05098. 
+[2] A.J. Miller, D.R. Hill, M.S. Nagy , Y. Aoki, B.R. Dye, A.M. Chin, et al., In  Vitro 
+Induction and In  Vivo Engraftment of Lung Bud Tip Progenitor Cells Derived from 
+Human Pluripotent Stem Cells, Stem Cell Reports. (2017). 
+doi:10.1016/j.stemcr.2017.11.012. 
+[3] Y.-W. Chen, S.X. Huang, A.L.R.T.  de Carvalho, S. -H. Ho, M.N. Islam, S. Volpi, et 
+al., A three -dimensional model of human lung development and disease from 
+pluripotent stem cells, Nat. Cell Biol. 372 (2017) 3. doi:10.1038/ncb3510. 
+[4] T. Tadokoro, Y. Wang, L.S. Barak, Y. Bai, S.H. Randell , B.L.M. Hogan, IL-6/STAT3 
+promotes regeneration of airway ciliated cells from basal stem cells, Proceedings of 
+the National Academy of Sciences. 111 (2014) E3641 –9. 
+doi:10.1073/pnas.1409781111. 
+[5] H. Danahay, A.D. Pessotti, J. Coote, B.E. Montgomery, D. Xia, A. Wilson, et al., 
+Notch2 is required for inflammatory cytokine -driven goblet cell metaplasia in the 
+lung, Cell Rep. 10 (2015) 239–252. doi:10.1016/j.celrep.2014.12.017. 
+[6] J.R. Rock, M.W. Onaitis, E.L. Rawlins, Y. Lu, C.P. Clark, Y. Xue, et al., Bas al cells 
+as stem cells of the mouse trachea and human airway epithelium, Proceedings of 
+the National Academy of Sciences. 106 (2009) 12771 –12775. 
+doi:10.1073/pnas.0906850106. 
+[7] K.B. McCauley, F. Hawkins, M. Serra, D.C. Thomas, A. Jacob, D.N. Kotton, 
+
+<<<PAGE 50>>>
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+26 
+27 
+28 
+29 
+30 
+31 
+32 
+33 
+34 
+35 
+36 
+37 
+38 
+39 
+40 
+41 
+42 
+43 
+44 
+45 
+46 
+47 
+48 
+49 
+50 
+51 
+52 
+53 
+54 
+55 
+56 
+57 
+58 
+59 
+60 
+61 
+62 
+63 
+64 
+65 
+15 
+ 
+Efficient Derivation of Functional Human Airway Epithelium from Pluripotent Stem 
+Cells via Temporal Regulation of Wnt Signaling, Cell Stem Cell. 20 (2017) 844 –
+857.e6. doi:10.1016/j.stem.2017.03.001. 
+[8] A.J. Miller, Q. Yu, M. Czerwinski, Y.H. Tsai, R.C. bioRxiv, 2018, Basal stem cell fate 
+specification is mediated by SMAD signaling in the developing human lung, 
+Biorxiv.org. (n.d.). 
+[9] B.R. Dye, P.H. Dedhia, A.J. Miller, M.S. Nagy, E.S. White, L.D. Shea, et al., A 
+bioengineered niche promotes in vivo engraftmen t and maturation of pluripotent 
+stem cell derived human lung organoids, Elife. 5 (2016) 3025. 
+doi:10.7554/eLife.19732. 
+[10] S.R. Finkbeiner, D.R. Hill, C.H. Altheim, P.H. Dedhia, M.J. Taylor, Y. -H. Tsai, et al., 
+Transcriptome-wide Analysis Reveals Hallmark s of Human Intestine Development 
+and Maturation In  Vitro and In  Vivo, Stem Cell Reports. (2015). 
+doi:10.1016/j.stemcr.2015.04.010. 
+[11] J.G. Camp, F. Badsha, M. Florio, S. Kanton, T. Gerber, M. Wilsch -Bräuninger, et 
+al., Human cerebral organoids recapitula te gene expression programs of fetal 
+neocortex development, Proceedings of the National Academy of Sciences. 112 
+(2015) 15672–15677. doi:10.1073/pnas.1520760112. 
+[12] M. Takasato, P.X. Er, H.S. Chiu, B. Maier, G.J. Baillie, C. Ferguson, et al., Kidney 
+organoids from human iPS cells contain multiple lineages and model human 
+nephrogenesis, Nature. 526 (2015) 564–568. doi:10.1038/nature15695. 
+[13] S. Hrvatin, C.W. O'Donnell, F. Deng, J.R. Millman, F.W. Pagliuca, P. DiIorio, et al., 
+Differentiated human stem ce lls resemble fetal, not adult, β cells, Proceedings of 
+the National Academy of Sciences. 111 (2014) 3038 –3043. 
+doi:10.1073/pnas.1400709111. 
+[14] E. Campeau, V.E. Ruhl, F. Rodier, C.L. Smith, B.L. Rahmberg, J.O. Fuss, et al., A 
+versatile viral system for ex pression and depletion of proteins in mammalian cells, 
+PLoS ONE. 4 (2009) e6529. doi:10.1371/journal.pone.0006529. 
+[15] J.R. Spence, C.N. Mayhew, S.A. Rankin, M.F. Kuhar, J.E. Vallance, K. Tolle, et al., 
+Directed differentiation of human pluripotent stem c ells into intestinal tissue in vitro, 
+Nature. 470 (2011) 105–109. doi:10.1038/nature09691. 
+[16] H. Blomeier, X. Zhang, C. Rives, M. Brissova, E. Hughes, M. Baker, et al., Polymer 
+scaffolds as synthetic microenvironments for extrahepatic islet transplantati on, 
+Transplantation. 82 (2006) 452–459. doi:10.1097/01.tp.0000231708.19937.21. 
+[17] P.D. Rios, M. Skoumal, J. Liu, R. Youngblood, E. Kniazeva, A.J. García, et al., 
+Evaluation of encapsulating and microporous nondegradable hydrogel scaffold 
+designs on islet engraftment in rodent models of diabetes, Biotechnol. Bioeng. 115 
+(2018) 2356–2364. doi:10.1002/bit.26741. 
+[18] S.S. Rao, G.G. Bushnell, S.M. Azarin, G. Spicer, B.A. Aguado, J.R. Stoehr, et al., 
+Enhanced Survival with Implantable Scaffolds That Capture Me tastatic Breast 
+Cancer Cells In Vivo, Cancer Research. 76 (2016) 5209 –5218. doi:10.1158/0008-
+5472.CAN-15-2106. 
+[19] B.E. Rockich, S.M. Hrycaj, H.P. Shih, M.S. Nagy, M.A.H. Ferguson, J.L. Kopp, et 
+al., Sox9 plays multiple roles in the lung epithelium during  branching 
+morphogenesis, Proceedings of the National Academy of Sciences. 110 (2013) 
+E4456–64. doi:10.1073/pnas.1311847110. 
+[20] T. Kasputis, D. Clough, F. Noto, K. Rychel, B. Dye, L.D. Shea, Microporous 
+Polymer Scaffolds for the Transplantation of Embryo nic Stem Cell Derived 
+Pancreatic Progenitors to a Clinically Translatable Site for the Treatment of Type I 
+Diabetes, ACS Biomater Sci Eng. 4 (2018) 1770 –1778. 
+doi:10.1021/acsbiomaterials.7b00912. 
+
+<<<PAGE 51>>>
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+26 
+27 
+28 
+29 
+30 
+31 
+32 
+33 
+34 
+35 
+36 
+37 
+38 
+39 
+40 
+41 
+42 
+43 
+44 
+45 
+46 
+47 
+48 
+49 
+50 
+51 
+52 
+53 
+54 
+55 
+56 
+57 
+58 
+59 
+60 
+61 
+62 
+63 
+64 
+65 
+16 
+ 
+[21] Y. Yasunami, P.E. Lacy, E.H. Finke, A new site for isle t transplantation --a 
+peritoneal-omental pouch, Transplantation. 36 (1983) 181 –182. 
+doi:10.1097/00007890-198308000-00014. 
+[22] C. Schmidt, Pancreatic islets find a new transplant home in the omentum, Nature 
+Biotechnology. 35 (2017) 8–8. doi:10.1038/nbt0117-8. 
+[23] N.O. Litbarg, K.P. Gudehithlu, P. Sethupathi, J.A.L. Arruda, G. Dunea, A.K. Singh, 
+Activated omentum becomes rich in factors that promote healing and tissue 
+regeneration, Cell Tissue Res. 328 (2007) 487–497. doi:10.1007/s00441-006-0356-
+4. 
+[24] Y. P ark, Y. Chen, L. Ordovas, C.M. Verfaillie, Hepatic differentiation of human 
+embryonic stem cells on microcarriers, J. Biotechnol. 174 (2014) 39 –48. 
+doi:10.1016/j.jbiotec.2014.01.025. 
+[25] H.E. Williams, J. Huxley, M. Claybourn, J.B.D.A. stability, 2006, Th e effect of γ -
+irradiation and polymer composition on the stability of PLG polymer and 
+microspheres, Elsevier. (n.d.). 
+[26] E.E. Morrisey, B.L.M. Hogan, Preparing for the First Breath: Genetic and Cellular 
+Mechanisms in Lung Development, Dev. Cell. 18 (2010 ) 8 –23. 
+doi:10.1016/j.devcel.2009.12.010. 
+[27] A.J. Miller, J.R. Spence, In Vitro Models to Study Human Lung Development, 
+Disease and Homeostasis, Physiology (Bethesda). 32 (2017) 246 –260. 
+doi:10.1152/physiol.00041.2016. 
+[28] H.-J. Sung, C. Meredith, C. Johnson, Z.S. Galis, The effect of scaffold degradation 
+rate on three -dimensional cell growth and angiogenesis, Biomaterials. 25 (2004) 
+5735–5742. doi:10.1016/j.biomaterials.2004.01.066. 
+[29] D. Mondal, M.G.I.J. of, 2016, Polyca prolactone-based biomaterials for tissue 
+engineering and drug delivery: Current scenario and challenges, Taylor & Francis. 
+(n.d.). 
+[30] H.K. Makadia, S.S. Polymers, 2011, Poly lactic -co-glycolic acid (PLGA) as 
+biodegradable controlled drug delivery carrier, Mdpi.com. (n.d.). 
+[31] B.R. Dye, A.J. Miller, J.R. Spence, How to Grow a Lung: Applying Principles of 
+Developmental Biology to Generate Lung Lineages from Human Pluripotent Stem 
+Cells, Curr Pathobiol Rep. 4 (2016) 47–57. doi:10.1007/s40139-016-0102-x. 
+[32] R.J. Metzger, O.D. Klein, G.R. Martin, M.A. Krasnow, The branching programme of 
+mouse lung development, Nature. 453 (2008) 745–750. doi:10.1038/nature07005. 
+[33] E.L. Rawlins, The building blocks of mammalian lung development, Dev. Dyn. 240 
+(2010) 463–476. doi:10.1002/dvdy.22482. 
+[34] R. Athanazio, Airway disease: similarities and differences between asthma, COPD 
+and bronchiectasis, Clinics (Sao Paulo). 67 (2012) 1335 –1343. 
+doi:10.6061/clinics/2012(11)19. 
+[35] T.A. Lewis, Y. -S. Tzeng, E.L. McKinstry, A.C . Tooker, K. Hong, Y. Sun, et al., 
+Quantification of airway diameters and 3D airway tree rendering from dynamic 
+hyperpolarized 3He magnetic resonance imaging, Magn Reson Med. 53 (2005) 
+474–478. doi:10.1002/mrm.20349. 
+[36] G.R. Cutting, Cystic fibrosis gene tics: from molecular understanding to clinical 
+application, Nat. Rev. Genet. 16 (2015) 45–56. doi:10.1038/nrg3849. 
+[37] A.B. Aurora, E.N. Olson, Immune Modulation of Stem Cells and Regeneration, Cell 
+Stem Cell. 15 (2014) 14–25. doi:10.1016/j.stem.2014.06.009. 
+[38] C. Kizil, N. Kyritsis, M. Brand, Effects of inflammation on stem cells: together they 
+strive? EMBO Rep. 16 (2015) 416–426. doi:10.15252/embr.201439702. 
+[39] J.I. Pearl, L.S. Kean, M.M. Davis, J.C. Wu, Pluripotent stem cells: immune to the 
+immune s ystem? Sci Transl Med. 4 (2012) 164ps25 –164ps25. 
+
+<<<PAGE 52>>>
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+26 
+27 
+28 
+29 
+30 
+31 
+32 
+33 
+34 
+35 
+36 
+37 
+38 
+39 
+40 
+41 
+42 
+43 
+44 
+45 
+46 
+47 
+48 
+49 
+50 
+51 
+52 
+53 
+54 
+55 
+56 
+57 
+58 
+59 
+60 
+61 
+62 
+63 
+64 
+65 
+17 
+ 
+doi:10.1126/scitranslmed.3005090. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 1 
+ 
+
+<<<PAGE 53>>>
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+26 
+27 
+28 
+29 
+30 
+31 
+32 
+33 
+34 
+35 
+36 
+37 
+38 
+39 
+40 
+41 
+42 
+43 
+44 
+45 
+46 
+47 
+48 
+49 
+50 
+51 
+52 
+53 
+54 
+55 
+56 
+57 
+58 
+59 
+60 
+61 
+62 
+63 
+64 
+65 
+18 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 2 
+ 
+
+
+<<<PAGE 54>>>
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+26 
+27 
+28 
+29 
+30 
+31 
+32 
+33 
+34 
+35 
+36 
+37 
+38 
+39 
+40 
+41 
+42 
+43 
+44 
+45 
+46 
+47 
+48 
+49 
+50 
+51 
+52 
+53 
+54 
+55 
+56 
+57 
+58 
+59 
+60 
+61 
+62 
+63 
+64 
+65 
+19 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 3 
+ 
+
+
+<<<PAGE 55>>>
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+26 
+27 
+28 
+29 
+30 
+31 
+32 
+33 
+34 
+35 
+36 
+37 
+38 
+39 
+40 
+41 
+42 
+43 
+44 
+45 
+46 
+47 
+48 
+49 
+50 
+51 
+52 
+53 
+54 
+55 
+56 
+57 
+58 
+59 
+60 
+61 
+62 
+63 
+64 
+65 
+20 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 4 
+ 
+
+
+<<<PAGE 56>>>
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+26 
+27 
+28 
+29 
+30 
+31 
+32 
+33 
+34 
+35 
+36 
+37 
+38 
+39 
+40 
+41 
+42 
+43 
+44 
+45 
+46 
+47 
+48 
+49 
+50 
+51 
+52 
+53 
+54 
+55 
+56 
+57 
+58 
+59 
+60 
+61 
+62 
+63 
+64 
+65 
+21 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 5 
+
+
+<<<PAGE 57>>>
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+26 
+27 
+28 
+29 
+30 
+31 
+32 
+33 
+34 
+35 
+36 
+37 
+38 
+39 
+40 
+41 
+42 
+43 
+44 
+45 
+46 
+47 
+48 
+49 
+50 
+51 
+52 
+53 
+54 
+55 
+56 
+57 
+58 
+59 
+60 
+61 
+62 
+63 
+64 
+65 
+22 
+ 
+ 
+ 
+Figure Captions: 
+Figure 1 HLOs seeded on P LG, P EG, and PCL scaffolds affects airway structure 
+formation. A) Approximately 50 foregut spheroids were seeded onto PLG and PEG with or 
+without RGD. Wholemount images were taken after 1 week in culture. B) Scaffolds were 
+transplanted into the epididymal fat pa d of immunocompromised mice and retrieved 8 weeks 
+later. The PLG tHLO grew up to 2.5cm while the tissue remained within the PEG scaffolds with 
+or without RGD. C) The histology of the PLG and PCL tHLOs had organized pseudostratified 
+epithelium resembling na tive airway epithelium  (shown by black arrows) . The PEG tHLOs 
+showed intact scaffold (shown by orange arrows) and both the PEG and the tissue within the 
+pores of the PCL had no organized epithelium but remained as clusters of cells  (shown by blue 
+arrows). D) Some of the clusters of cells within the PEG scaffold were lung marker NKX2.1+ and 
+human mitochondria (huMITO)+. Scale bars for A-B:1mm, C:200µm, and D:100µm. 
+ 
+Figure 2 The innate immune profile for PEG, PLG, and PCL tHLOs. Foregut spheroids were 
+cultured on scaffolds for 1 week in vitro, transplanted into the mouse ep ididymal fat pad, and 
+then retrieved after 1 week to observe the innate immune response. A) The PEG tHLOs had 
+39% CD45+ Leukocytes (N=6) compared to 17% CD45+ cells in PLG tHLOs (N=7) and 1 9% 
+CD45+ cells in PCL tHLOs (N=7) P<.005 B) PEG, PCL and PLG and similar percent of 
+macrophages (CD11b+F4 -80+). PEG tHLOs had significantly higher MDSCs 
+(CD11b+GR1+Ly6c-) compared to PLG and PCL tHLOs, *P<.05. In contrast, PEG tHLO had 
+significantly lower dendritic cells (CD11c+F4-80-) and monocytes (Ly6c+F480-) *P<.05. All error 
+bars represent SEM. 
+ 
+
+
+<<<PAGE 58>>>
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+26 
+27 
+28 
+29 
+30 
+31 
+32 
+33 
+34 
+35 
+36 
+37 
+38 
+39 
+40 
+41 
+42 
+43 
+44 
+45 
+46 
+47 
+48 
+49 
+50 
+51 
+52 
+53 
+54 
+55 
+56 
+57 
+58 
+59 
+60 
+61 
+62 
+63 
+64 
+65 
+23 
+ 
+Figure 3 HLOs fuse together to form airway structures. A) GFP H9 hESC line and H9 hESC 
+derived HLOs were seeded onto 75:25 PLG and PCL scaffolds. Wholemount im ages of the 
+scaffolds cultured for 1 week in vitro had GFP+ HLOs next to a pore of GFP - HLOs indicated by 
+the red arrow head in both PLG and PCL conditions. B) After transplanted for four weeks, the 
+GFP+ cells were mixing with the GFP - cells and both expre ssed early lung marker NKX2.1 
+(red). No organized epithelial structures were observed for either scaffold. C) After transplanted 
+for 8 weeks, airway structures formed and were comprised of GFP+ and GFP- cells in both PLG 
+and PCL tHLOs. The airway structure s expressed NKX2.1 (red).  The fused GFP+ and GFP - 
+HLOs in both PLG and PCL had multiciliated cells labelled by acetylated tubulin (ACTTUB, 
+white) and basal cell marker P63 (red). Scale bars for A-B: 200µm, B-C: 100µm, and C: 50µm, 
+10µm. 
+ 
+Figure 4  The degradation rate of the scaffold affected airway diameter. A) The average 
+measurement was taken of the longest and shortest diameter for each cross section of an 
+airway structure in a 8wk tHLO. The 85:15 PLG tHLOs (224µm) had the significantly shorter 
+diameter compared to the 75:25 control PLG (333µm) *P<.05. The 50:50 PLG tHLO had the 
+longest diameter at 415µm. The PCL control and large interconnected PCL tHLOs had similar 
+diameter at 277µm and 299µm respectively compared to the 85:15 PLG tHLO (224µm). All error 
+bars represent SEM. B -C) Histology sections of PLG (75:25), large interconnected PCL, 85:15 
+PLG and 50:50 PLG represent the quantified sections. Scale bars B) 200µm and C) 400µm.   
+ 
+Figure 5 The degradation rate of the scaffold affected explant size of tHLO. A) Overall, the 
+75:25 PLG had the largest explant size (1.18cm, N=6) after an 8wk transplant compared to both 
+fast (50:50 PLG, N=5) and slow degrading (85:15 and PCL, N=5) *P<.05. The fast degrading 
+50:50 PLG tHLO was significantly larger tha n the 85:15 PLG tHLO explant *P<.005. B) Ki67+ 
+cells (red) were present within the epithelial airway structures labelled with ECAD (green) and 
+the surrounding tissue both in PCL and 75:15 PLG. C) 75:25 PLG (19.6% 1.8%) had 
+significantly more Ki67+ cells than PCL (8.7% 1.8%). D) The 75:25 PLG had significantly more 
+Ki67+ cells in the ECAD+ and ECAD- areas (ECAD+: 6.7 0.9, ECAD-: 13.8% 1.7) compared to 
+PCL tHLO (ECAD+: 3.009 1.0, ECAD-: 6.4% 1.1). Both for PCL and PLG tHLOs there was 
+significantly more Ki 67+ cells in the surrounding tissue (ECAD -) compared to the organized 
+epithelium (ECAD+). **P>.005, *P>.05 All error bars represent SEM. 
+ 
+ 
+Tables: 
+ 
+Table 1: Primary and secondary antibody information 
+Primary Antibody Source Catalog # Dilution Clone 
+Chicken anti-GFP Aves Lab GFP-1020 1:500 polyclonal 
+Mouse anti-Acetylated 
+Tubulin (ACTTUB) Sigma-Aldrich T7451 1:1000 6-11B-1 
+Mouse anti-E-Cadherin 
+(ECAD) 
+BD Transduction 
+Laboratories  610181 1:500 36/E-Cadherin 
+Mouse anti- Human 
+Mitochondria (huMITO) Millipore MAB1273 1:500 113-1 
+Mouse anti-PLUNC R&D Systems MAP1897 1:200 monoclonal 
+Rabbit anti-Cytokeratin5 
+(CK5) Abcam ab53121 1:500 polyclonal 
+Rabbit anti-NKX2.1 Abcam ab76013 1:200 EP1584Y 
+
+<<<PAGE 59>>>
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+26 
+27 
+28 
+29 
+30 
+31 
+32 
+33 
+34 
+35 
+36 
+37 
+38 
+39 
+40 
+41 
+42 
+43 
+44 
+45 
+46 
+47 
+48 
+49 
+50 
+51 
+52 
+53 
+54 
+55 
+56 
+57 
+58 
+59 
+60 
+61 
+62 
+63 
+64 
+65 
+24 
+ 
+Table 2: Physico-chemical properties of microporous scaffolds that support HLO maturation 
+into airway structures 
+ 
+Rabbit anti-P63 Santa Cruz 
+Biotechnology sc-8344 1:200 H-129 
+Secondary Antibody Source Catalog # Dilution  
+Donkey anti-chicken 488 Jackson Immuno 703-545-155 1:500  
+Donkey anti-mouse 488 Jackson Immuno 715-545-150 1:500  
+Donkey anti-mouse 647 Jackson Immuno 415-605-350 1:500  
+Donkey anti-mouse Cy3 Jackson Immuno 715-165-150 1:500  
+Donkey anti-rabbit 488 Jackson Immuno 711-545-152 1:500  
+Donkey anti-rabbit Cy3 Jackson Immuno 711-165-102 1:500  
+ 
+ 
+ 
+ 
+Scaffold 
+Material 
+Pore 
+Size 
+Interconnected 
+Pore Size 
+Degradation 
+Rate 
+Spheroid 
+Engraftment 
+(Fig.1) 
+Airway 
+Diameter 
+Size 
+(Fig.4) 
+Tissue 
+Explant 
+Size 
+(Fig.5) 
+PLG 75:25 250-
+425µm 10-100µm Fast Throughout 
+Scaffold 333µm 1.18cm 
+PLG 85:15 250-
+425µm 10-100µm Medium Throughout 
+Scaffold 224µm 0.53cm 
+PLG 50:50 250-
+425µm 10-100µm Very Fast Throughout 
+Scaffold 415µm 0.81cm 
+PEG 250-
+425µm 10-100µm N/A Within the 
+Pores 
+No 
+Airway 
+Formation 
+N/A 
+PEG-RGD 250-
+425µm 10-100µm N/A Within the 
+Pores 
+No 
+Airway 
+Formation 
+N/A 
+PCL 250-
+425µm 10-100µm Slow Within the 
+Pores 277µm 0.65cm 
+Large 
+Interconnected 
+PCL 
+300µm 300µm Slow Within the 
+Pores 299µm 0.5cm 
+ 
+
+<<<PAGE 60>>>
+Declaration of interests 
+ 
+☒ The authors declare that they have no known competing financial interests or personal relationships 
+that could have appeared to influence the work reported in this paper. 
+ 
+☐The authors declare the following financial interests/personal relationships which may be considered 
+as potential competing interests:  
+ 
+ 
+ 
+ 
+ 
+ 
+*Declaration of Interest Statement
+
+<<<PAGE 61>>>
+Declaration of interests 
+ 
+☒
+ The authors declare that they have no known competing financial interests or personal relationships 
+that could have appeared to influence the work reported in this paper. 
+ 
+☐ The authors declare the following financial interests/personal relationships which may be considered 
+as potential competing interests:  
+ 
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,748 @@
+
+
+<<<PAGE 1>>>
+ORIGINAL ARTICLE
+Melville B. Vaughan . Ruben D. Ramirez . Woodring E.
+Wright . John D. Minna . Jerry W. Shay
+A three-dimensional model of differentiation of immortalized human
+bronchial epithelial cells
+Received May 31, 2005; accepted in revised form July 6, 2005
+Abstract A therapeutic approach being investigated
+for a variety of pathologies is tissue regeneration using a
+patient’s own cells. Such studies have been hampered
+due to the difﬁculty in growing epithelial cells for pro-
+longed periods in culture. Replicative senescence due to
+short telomeres and p16 induced by culture stress work
+together to inhibit cell growth. Forced expression of
+telomerase (hTERT) can prevent replicative senescence,
+and expression of the cell cycle protein cdk4 can se-
+quester p16, thereby immortalizing epithelial cells in
+culture. In the present study, we used this method to
+immortalize human bronchial epithelial cells (HBECs)
+to determine whether immortalized HBECs retain the
+ability to differentiate normally. HBECs were plated
+atop contracted collagen gels containing lung ﬁbro-
+blasts. This three-dimensional (3D) tissue model was
+cultured initially submerged, then raised to the air/liq-
+uid interface for up to 28 days. Normal differentiation
+was assessed by the presence of ciliated cells, goblet
+(mucin-producing) cells, and basal epithelial cells. Scan-
+ning electron microscopic observations revealed both
+ciliated and non-ciliated cells in these 3D tissues. His-
+tological examination revealed the presence of mucin-
+producing cells, and immunohistochemistry using
+antibodies against p63 and keratin 14 showed the pres-
+ence of basal cells. These results demonstrate that im-
+mortalized HBECs retain the capacity to differentiate
+into each of three cell types: basal, mucin-producing,
+and columnar ciliated epithelial cells. Such cells will be
+useful cellular reagents for research in aging, cancer
+progression, as well as normal bronchial epithelial dif-
+ferentiation and will help progress the use of engineered
+cells to enhance tissue regeneration.
+Key words telomerase /C1immortalization /C1ciliogenesis /C1
+mucin /C1human bronchial epithelial cells; organotypic
+culture /C1basal cell /C1stem cell
+Introduction
+Tissue engineering offers great promise for the gener-
+ation of therapeutic materials for the replacement of
+damaged organs. There has been significant success in
+producing artiﬁcial skin by combining dermal ﬁbro-
+blasts in contracted collagen gels with human keratin-
+ocytes (Auger et al., 1998; Vaughan et al., 2004), and in
+creating three-dimensional (3D) cultures reproducing
+some of the characteristics of a cornea by combining
+keratocyes with corneal epithelial cells (Taliana et al.,
+2001; Reichl et al. 2004). Both of these systems exhibit a
+stratiﬁed squamous epithelium. There has only been
+very limited success in producing artiﬁcial tissues using
+Melville B. Vaughan
+Department of Biology
+University of Central Oklahoma
+Edmond, OK, USA
+Ruben D. Ramirez
+Dallas Veterans Affairs Medical Center
+4500 South Lancaster Road
+Mail Code 151, Dallas, TX
+USA
+Woodring E. Wright /C1Jerry W. Shay ( .*)
+Department of Cell Biology
+The University of Texas Southwestern Medical Center
+Dallas, TX 75390-9039
+USA
+Tel: 214-648-3282
+Fax: 214-648-8694
+E-mail: Jerry.Shay@utsouthwestern.edu
+John D. Minna
+The Hamon Center for Therapeutic Oncology Research
+Department of Internal Medicine and Pharmacology
+The University of Texas Southwestern Medical Center
+Dallas, TX, USA
+U.S. Copyright Clearance Center Code Statement: 0301–4681/2006/7404–141 $ 15.00/0
+Diﬀerentiation (2006) 74:141–148 DOI: 10.1111/j.1432-0436.2006.00069.x
+r 2006, Copyright the Authors
+Journal compilation r 2006, Interntaional Society of Differentiation
+
+<<<PAGE 2>>>
+other types of epithelium such as bronchial epithelium
+(Choe et al., 2003; Paquette et al., 2003). A major
+problem in the development of such tissues is the avail-
+ability of normal human cells capable of reproducing
+the diversity of cell types seen in vivo. Lack of sufﬁcient
+cell numbers is especially evident when cells are har-
+vested from older individuals (Harley, 2002). The lim-
+ited lifespan of human cells and the variability
+encountered when using primary cultures from human
+biopsies further complicates the difﬁculties.
+Replicative senescence is a phenomenon associated
+with progressive telomere shortening. With every cell
+division a cell’s telomeres shorten until some of the
+telomeres reach a critically short length where the cells
+are signaled to stop dividing. This occurs in ﬁbroblasts
+(Harley et al., 1990, 1992) and in epithelial cells that
+have minimized the effects of p16 in culture (Ramirez
+et al., 2003). Overexpression of the catalytic subunit of
+the telomerase enzyme, hTERT, stabilizes telomere
+length and allows greatly extended or unlimited prolif-
+eration potential of cells in culture without causing
+oncogenic transformation (Harley, 2002; Herbert et al.,
+2002; Harada et al., 2003; Lee et al., 2003; Morales
+et al., 2003; Alvero et al., 2004; Ramirez et al., 2004).
+Previous studies have shown that hTERT alone, or
+hTERT in the absence of p16 effects, not only immor-
+talizes cells in culture but also allows the cells to retain
+their normal differentiation and/or function (Dickson
+et al., 2000; Forsyth et al., 2003; Harley, 2002; Wootton
+et al., 2003; Abdallah et al., 2005). We have previously
+shown that immortalized keratinocytes retain the ability
+to differentiate and function normally within the con-
+text of an organotypic construct (Ramirez et al., 2003).
+This important step implied that immortalized cells
+might be useful in tissue regeneration. More recently,
+we have shown that human bronchial epithelial cells
+(HBECs) can be immortalized by overexpression of
+cdk4 (to bypass the inhibitory effects of p16 of cells
+growing in plastic culture dishes in normal atmospheric
+oxygen levels) and hTERT. Since patients with respira-
+tory diseases such as cystic ﬁbrosis and lung cancer
+could potentially beneﬁt from tissue engineering or re-
+generation therapy, the purpose of this study was to
+determine whether immortalized HBECs can retain
+normal differentiation potential and promote the es-
+tablishment of bronchial epithelial tissue in a simpliﬁed
+3D organotypic environment.
+Methods
+Cell cultures
+Bronchial epithelial cells were isolated and cultured as described
+previously (Ramirez et al., 2004). In brief, cells were grown from
+explant cultures of non-involved areas of lung tissue removed dur-
+ing cancer surgery. Subsequent cultures were grown on collagen-
+coated dishes in serum-free media (KSFM; GIBCO, Invitrogen,
+Carlsbad, CA) containing 50 mg/ml gentamicin sulfate. Cells were
+retrovirally infected, ﬁrst to overexpress the cell-cycle protein cdk4
+followed by overexpression of the catalytic component of telom-
+erase (hTERT) (Ramirez et al., 2003). Each culture was passaged
+beyond 100 population doublings to determine in vitro immortality.
+Immortal bronchial epithelial cells from four patients were used in
+this study and designated HBEC 1, 2, 3, and 4. HBEC cells were
+also plated at very low density to allow clonal expansion. Four
+clones from each of the three HBEC populations were isolated to
+use in subsequent experiments. Human embryonic lung ﬁbroblasts
+(IMR90) (ATCC, CCL-186) were maintained in four parts
+Dulbecco’s modiﬁed Eagle’s medium to one part Medium 199 sup-
+plemented with 10% Cosmic calf serum (HyClone, Logan, UT) and
+50 mg/ml gentamicin sulfate. All cell cultures were kept in log phase
+growth until ready to use.
+Organotypic culture (Fig. 1)
+Cultures were established as previously described for skin equiv-
+alents (Vaughan et al., 2004) except that airway cells were used in
+place of skin cells. Briefly, type I collagen and IMR90 ﬁbroblasts
+were mixed and allowed to polymerize (Fig. 1B, top). The collagen
+gels were released and incubated for a period of 4–10 days to allow
+the ﬁbroblasts to contract the gels (Fig. 1B, bottom), creating a
+‘‘mucosa.’’ Cloning rings were then placed atop the gels and HBEC
+cells were plated into the rings at a concentration of 2 /C210
+5/cm2.
+After allowing the cells to attach for 4 hr, the rings were removed
+and organotypic cultures submerged for 4 days in keratinocyte
+feeder layer media containing ascorbic acid, then emerged to the
+air–liquid interface (Fig. 1C) for up to 28 days in culture, after
+which time the cultures were harvested, ﬁxed, and prepared for
+histology and immunohistochemistry.
+Histology and immunohistochemistry
+Certain organotypic cultures were immersed in 10% neutral-buﬀered
+formalin overnight at 4 1C followed by dehydration and parafﬁn
+embedding, whereas others were preserved in 4% paraformaldehyde
+and subsequently embedded in OCT compound and frozen (Halli-
+day and Tomasek, 1995). Five and 10 mm sections were then rehy-
+drated and stained with hematoxylin and eosin (H&E) to view
+overall morphology using a technique available online (http://
+www.protocol-online.org/prot/Histology/Staining/). Rehydrated un-
+stained tissues were incubated in the presence of antibodies against
+p63 (clone 63p02), keratin 14 (clone LL002), Ki67 (clone SP6), and
+mucin (clone MUC5AC) (Neomarkers; LabVision Corp, Fremont,
+CA). Parafﬁn sections incubated with primary antibodies were
+stained using a kit (Vecta-Stain, Vector Labs) followed by a DAB kit
+(Vector Labs, Burlingame, CA) and subsequently mounted. Keratin
+14-incubated frozen sections were followed by a ﬂuorescent second-
+ary antibody (rhodamine red; Molecular Probes, Eugene, OR) and
+subsequently mounted in an aqueous media with the nuclear-staining
+DAPI (4
+0,6-diamidino-2-phenylindole) (Vectashield with DAPI; Vec-
+tor Labs). Stained slides were then viewed using an Axioscop-2 or
+Axioplan-2E microscope (Carl Zeiss, Thornwood, NY; www.zeiss.-
+com) and photographed with an Axiocam MRC color digital camera
+(Carl Zeiss) or Hamamatsu ORCA monochrome CCD camera
+(Hamamatsu; Bridgewater, NJ; www.hamamatsu.com).
+Ultrastructure
+Specimens for scanning electron microscopy (SEM) were ﬁxed in
+2% glutaraldehyde in 0.01 mol/l sodium cacodylate buﬀer and
+subsequently stained with 2% osmium tetroxide. The tissues were
+then dehydrated in ethyl alcohol and critical point dried using liq-
+uid carbon dioxide. The dried specimens were mounted on alumi-
+num stubs and coated with gold–palladium before SEM study.
+142
+
+<<<PAGE 3>>>
+SEM images were obtained using a JEOL model JSM-840A mi-
+croscope operated at an accelerating voltage of 10 kV and a probe
+current of 6 /C210
+11. Digital images were captured using OpenLab
+software (Improvision; Lexington, MA; www.improvision.com/).
+Results
+HBECs form a layer of epithelial cells on the surface of
+the organotypic culture
+Normal human bronchial epithelium is composed of
+pseudostratiﬁed columnar epithelium containing ciliat-
+ed cells, goblet cells, and basal cells (Fig. 1A). H&E-
+stained parafﬁn sections using HBECs from various
+donors and placed in 3-D organotypic culture (Fig. 1B,
+1C) demonstrate a conﬂuent layer of cells on the upper
+surface of the culture. The cells’ morphology ranged
+from squamous to high cuboidal, often appearing to be
+multi-layered or pseudostratiﬁed (Fig. 2A). As bron-
+chial epithelium is known to contain both goblet secre-
+tory cells and ciliated cells, we immunostained sections
+with an antibody against the secretory product mucin to
+observe mucous-producing cells (Groneberg et al.,
+2002), which appeared to be scattered throughout the
+surface (Fig. 2B). Cilia-like structures were also ob-
+served in some of the cells (Figs. 2A, 2B). In contrast to
+normal epithelium, metaplastic human bronchial epi-
+thelium changes to a stratiﬁed squamous epithelium
+(Fig. 2C). In some organotypic cultures, especially those
+using HBEC1 derived from a long-time smoker, strat-
+iﬁed squamous epithelium similar to metaplasia was
+observed (Fig. 2D). Upon cytogenetic examination,
+HBEC1 was determined to have several alterations not
+present in the other cell lines (data not shown).
+Basal and stem cell markers detected in the epithelial
+compartment of organotypic culture
+Basal-like cells of the bronchus function as stem cells
+(Inayama et al., 1988, 1989; Hong et al., 2004) and ex-
+press the stem cell markers p63 (Wang et al., 2002; Reis-
+Filho et al., 2003; Daniely et al., 2004) and keratin 14
+(Broers et al., 1989; Wetzels et al., 1992; Nakajima
+et al., 1998; Reis-Filho et al., 2003). To determine the
+presence of these markers, we immunostained 3D or-
+ganotypic tissue sections. Using frozen sections, we ob-
+served the presence of keratin 14 in basal-like cells of
+the organotypic constructs (Fig. 3A), whereas using
+parafﬁn sections we detected the presence of p63 in the
+basal cells (Fig. 3B). We also immunostained organ-
+otypic constructs to determine whether the proliferation
+antigen Ki67 was present. Parafﬁn sections demonstrat-
+Fig. 1 Development of the organ-
+otypic culture. Normal human bron-
+chial epithelium contains ciliated
+columnar cells, mucous-producing
+goblet cells, and basal cells ( A). To
+produce a bronchial ‘‘submucosa’’ in
+vitro, ﬁbroblasts were combined with
+type I collagen, allowed to gel ( B,
+top), then the gel was released from
+the dish and allowed to contract over
+a period of 4–7 days (B, bottom).
+Bronchial epithelial cells were then
+seeded onto the top of the gels and
+allowed to attach for 4 hr to create
+the organotypic culture. Cultures
+were submerged for 4 days, then
+placed into a 6-well insert which was
+fed from beneath by media placed
+into well below the insert ( C), there-
+by leaving the upper surface of the
+tissue emerged from the media. Trip-
+licate cultures were placed into each
+insert. Cultures were fed every other
+day, and harvested at various time
+points in culture.
+143
+
+<<<PAGE 4>>>
+ed only the sporadic presence of Ki67 in the organ-
+otypic constructs and these did not co-localize to the
+p63 expressing cells (Fig. 3C).
+Apical surface differentiated phenotype developed in
+organotypic cultures of immortalized HBECs
+We next prepared organotypic cultures for ultrastruc-
+tural analysis of the apical surface. Scanning electron
+micrographs of organotypic cultures revealed the pres-
+ence of cilia at various stages of differentiation (Fig. 4).
+In addition, cells with large blebs on the surface were
+observed and these may be goblet cells. Often multiple
+cell types were present in the same ﬁeld. Large areas of
+ciliated cells were not present before 28 days at the air/
+liquid interface, although cells with small, cilia-like
+projections similar to those seen in the lower-right im-
+age of Fig. 4 were observed in every sample taken. In-
+terestingly, ciliated cells of the organotypic tissue as a
+whole were not evenly distributed; rather, small areas of
+the tissue, frequently near the edge close to the mem-
+brane, contained the majority of cells with long cilia,
+whereas other areas, especially at the high point near
+the middle of the tissue, contained cells with short cilia.
+Fig. 2 Morphology of immortal-
+ized human bronchial epithelial
+cells (HBECs) cultured on organ-
+otypic cultures. Stained parafﬁn
+cross-sections of organotypic cul-
+tures demonstrated the presence of
+squamous to cuboidal epithelial
+cells with the presence of cilia-like
+structures ( A). Mucin staining
+(brown) demonstrated the presence
+of goblet cells interspersed among
+ciliated cells ( B). In pathologies
+such as bronchial metaplasia, strat-
+iﬁed epithelium can be observed
+(C). Some of the organotypic
+cultures, especially those using
+HBEC1 cells, produced similar
+stratiﬁcation ( D). /C2630 magniﬁ-
+cation.
+Fig. 3 Appearance of basal or stem cell markers in human bron-
+chial epithelial cells on organotypic cultures. Stained parafﬁn sec-
+tions showed the presence of basal cell cytokeratin 14 ( A) and p63
+(B), as well as proliferation marker Ki67 ( C). /C2400 magniﬁcation.
+144
+
+<<<PAGE 5>>>
+HBEC clones function as multipotent stem cells
+Stem cells of the bronchus have been shown to produce
+three cell types: ciliated, mucus-producing, and basal
+cells (Inayama et al., 1989; Engelhardt et al., 1995;
+Hong et al., 2004). To determine whether immortalized
+HBECs could act as restricted-lineage stem cells, we
+isolated single cells and picked individual clones from
+HBECs 3 and 4 for use in organotypic cultures using
+conditions similar to the above studies. Results using
+HBEC3 and HBEC4 showed ciliogenesis, cell morpho-
+logically resembling goblet cells (mucin 1), and protein
+expression levels similar to the mixed populations (data
+not shown). Thus, the immortalized HBECs are mul-
+tipotential.
+Discussion
+The ability to extend the lifespan or reversibly immor-
+talize cells without altering their phenotype would al-
+low expansion of a patient’s biopsied cells ex vivo
+and permit the construction of simpliﬁed tissues, with
+the long-term goal of returning these tissues to the pa-
+tient. Previous studies have shown that overexpression
+of the telomere-stabilizing enzyme telomerase is suﬃ-
+cient to immortalize ﬁbroblasts (Bodnar et al., 1998;
+Vaziri and Benchimol, 1998). Epithelial cells have been
+more difﬁcult to immortalize in vitro , probably because
+appropriate culture conditions that do not stress the
+cells are lacking (Ramirez et al., 2001; Wright and
+Shay, 2002). For these cells it has been necessary to
+inactivate/bypass the stress- and senescence-related
+p16
+INK4a protein (by overexpressing cDNAs such as
+cdk4 or expression of viral oncoproteins such as HPV16
+E7), (Kiyono et al., 1998; Rheinwald et al., 2002;
+Sviderskaya et al., 2003) or by preventing the culture-
+induced stress activation in the ﬁrst place (e.g., culturing
+the cells on feeder layers). Bronchial epithelial cells have
+been immortalized using various methods (see Table 1),
+each of which can give rise to either ciliated or mucus
+cells, or both. However, each method employs the
+use of viral oncoproteins, which can lead to genomic
+instability. In one study (Zabner et al., 2003), the cil-
+iated phenotype was inhibited with culture time, pos-
+sibly due to the use of viral oncoproteins. We have
+shown previously that skin epithelial keratinocytes
+(Ramirez et al., 2003) can be immortalized in vitro by
+overexpression of hTERT and the cell cycle protein
+cdk4 without affecting their differentiation proﬁle. In-
+adequate culture conditions induce the cells to express
+p16, which probably binds to the overexpressed cdk4,
+thereby sequestering p16 and allowing further prolifer-
+ation in the presence of culture stress. We have recently
+shown that bronchial epithelial cells will also immor-
+talize by overexpression of hTERT and cdk4 (Ramirez
+et al., 2004). Herein we show that these cells will also
+differentiate and produce bronchial epithelial-like tissue
+in a three dimensional simpliﬁed organotypic culture
+environment.
+Fig. 4 Apical surface modiﬁcations
+in human bronchial epithelial cell-
+populated organotypic cultures.
+Cultures were prepared for scan-
+ning electron microscopy. Ciliated
+cells in various stages of diﬀerenti-
+ation were present, as were goblet-
+like cells. Picture in the upper right
+shows an undifferentiated cell at
+top, a goblet cell at center, and a
+ciliated cell at bottom. Magniﬁca-
+tion varies in this perspective.
+145
+
+<<<PAGE 6>>>
+Normal bronchial epithelium contains ciliated epi-
+thelial cells, mucin-producing cells, and basal cells that
+can proliferate and differentiate into each of the three
+major cell types (Inayama et al., 1989; Otto, 2002; Hong
+et al., 2004). In our studies immortalized bronchial ep-
+ithelial cells from three different patients were able to
+produce ciliated, mucin, and basal cells based on char-
+acteristic protein expression and morphological obser-
+vations. In addition, isolated clones from two patients
+were able to produce three major cell types present in
+bronchial epithelium. In this regard, the clones function
+as multipotent cells. While it is possible that the mul-
+tipotent cells that immortalized might be true stem cells,
+it is also possible that they might be dedifferentiated
+epithelial cells (Blau et al., 2001) or non-stem cell basal
+cells. Nevertheless, this demonstrates the presence in
+vivo of bronchial cells that, if necessary, can be har-
+vested and manipulated in order to produce bronchial
+cells with the ability to regenerate normal tissue as
+needed. Such tissues can be useful both for basic re-
+search or to rebuild tissue damaged by trauma or can-
+cerous lesions. These tissues can be important tools to
+study effects of toxins, to study cancer progression, and
+may complement animal models often employed in res-
+piratory system research. In addition, this 3D organ-
+otypic model can be used to test new chemopreventive
+drugs and study their effects on ‘‘normal’’ or ‘‘preneo-
+plastic’’ epithelia, providing valuable information re-
+garding chemopreventive agents as well as potential side
+effects. Before attempting to use such tissues in human
+grafting, it will likely be necessary to use xenografts
+onto nude mice to understand long-term effects, as it is
+difﬁcult to maintain organotypic tissues in vitro for
+longer than 2 months. Xenografts of bronchial tissue
+and organotypic constructs have been successfully per-
+formed as subcutaneous implants in mouse skin, so the
+feasibility of this approach has already been tested
+(Inayama et al., 1989; Engelhardt et al., 1992; Yank-
+askas et al., 1993).
+An interesting observation is that none of the clones
+gave rise to only ciliated epithelium or mucin-producing
+cells. This implies that more-committed cells either do
+not immortalize or clone well, or that more-committed
+cells de-differentiate into a stem cell during the culturing
+process. The latter idea has been postulated elsewhere
+(Blau et al., 2001). While it is beneﬁcial to provide all
+three cell types, it would be interesting to have the abil-
+ity to provide each as needed, especially to study the
+differentiation pathway.
+We observed what appeared to be multilayering in
+some constructs and occasional hyperproliferation at
+discrete areas of the constructs. Multilayering has been
+shown in other studies using normal bronchial epithe-
+lium (Paquette et al., 2003) and could be attributed to
+the culture media that are formulated to promote pro-
+liferation and inhibit differentiation. Some have sug-
+gested that retinoic acid may inhibit the skin-like
+morphology of bronchial epithelium (Jetten, 1989; Sac-
+hs et al., 2003) and might be necessary for ciliary and
+mucous cell development (Gray et al., 1996; Koo et al.,
+1999). While we were successful in obtaining ciliogenesis
+using the current medium formulation, future modiﬁ-
+cations of the medium such as switching to a more basal
+media at late time points, or performing xenograft
+studies may result in different outcomes. In addition,
+tissues in vivo are under tension; tension affects ﬁbro-
+blast phenotype (Grinnell, 2000, 2003). Tension may
+also affect the bronchial epithelial phenotype as well
+(Choe et al., 2003). The organotypic construct as de-
+scribed here is not under tension, which may be a reason
+for the appearance of multilayering seen here and else-
+where; current studies are underway to address the
+effects of tension on bronchial epithelium.
+Immortalizing cells in culture and returning them to
+an individual may in the future be helpful as a short-
+term solution to tissue regeneration. However, it is pos-
+sible that long-term effects may be harmful. An alter-
+nate solution would be to briefly immortalize only
+during the regeneration process. We have used an ex-
+cisable system to briefly express hTERT in ﬁbroblasts
+(Steinert et al., 2000). A similar system could be used to
+express hTERT and cdk4 to allow expansion in culture.
+These cells could then be returned to the patient, per-
+haps in the context of an organotypic construct, to
+Table 1 Differentiation characteristics of human bronchial epithelial cells
+Immortalization method Differentiation culture conditions Cell age when
+tested
+Phenotype Reference
+cdk4, hTERT IMR90 ﬁbroblast-contracted collagen
+gel, keratinocyte feeder layer medium,
+air/liquid interface
+PD4100 Basal, ciliated,
+mucus cells present
+This study
+HPV-16 E6/E7, hTERT Collagen-coated membrane, deﬁned
+medium, air/liquid interface
+4 passage 30 Ciliated and mucus Zabner et al. (2003)
+SV40ER, hTERT Nude mouse subcutaneous injection 410 PD
+beyond crisis
+Histology similar to
+normal airway
+Lundberg et al. (2002)
+SV40 large T antigen Vitrogen-coated membrane, serum-
+containing medium, air/liquid interface
+Post-crisis Ciliated Cozens et al. (1994)
+HPV-18 E6/E7 Devitalized tracheal substrate
+xenografted subcutaneously
+Passage 14 Ciliated and
+secretory cells
+Yankaskas et al. (1993)
+146
+
+<<<PAGE 7>>>
+promote normal function of the respiratory system
+without the increased risk of subsequent carcinogenesis.
+Two most challenging problems facing cell biologists
+are growing difﬁcult cell types in culture, and immor-
+talizing cells using the fewest possible changes in protein
+expression. As techniques become more sophisticated,
+these challenges are being surmounted, and now many
+cell types have been successfully grown in culture and
+immortalized (Harley, 2002). Future studies using or-
+ganotypic constructs or xenograft studies will help to
+determine when tissue regeneration in vivo will be a
+possible therapy for replacement of damaged or dis-
+eased organs.
+Acknowledgments This work was supported by Lung SPORE
+CA70907, NASA NSCOR NNJ05HD36G, and the Nash Founda-
+tion. The authors would like to thank Jimmy C. Yang and Jason
+Nagati for technical assistance; Barbara Harris for histology;
+George Lawton and Tom Januszewski for electron microscopy
+preparation; and James Tomasek for helpful discussions.
+References
+Abdallah, B.M., Haack-Sorensen, M., Burns, J.S., Elsnab, B.,
+Jakob, F., Hokland, P. and Kassem, M. (2005) Maintenance of
+differentiation potential of human bone marrow mesenchymal
+stem cells immortalized by human telomerase reverse transcript-
+ase gene despite of extensive proliferation. Biochem Biophys Res
+Commun 326:527–538.
+Alvero, A.B., Fishman, D.A., Qumsiyeh, M.B., Garg, M., Kacin-
+ski, B.M. and Sapi, E. (2004) Telomerase prolongs the lifespan of
+normal human ovarian surface epithelial cells without inducing
+neoplastic phenotype. J Soc Gynecol Invest 11:553–561.
+Auger, F.A., Rouabhia, M., Goulet, F., Berthod, F., Moulin, V.
+and Germain, L. (1998) Tissue-engineered human skin substi-
+tutes developed from collagen-populated hydrated gels: clinical
+and fundamental applications. Med Biol Eng Comput 36:
+801–812.
+Blau, H.M., Brazelton, T.R. and Weimann, J.M. (2001) The evolv-
+ing concept of a stem cell: entity or function? Cell 105:829–841.
+Bodnar, A.G., Ouellette, M., Frolkis, M., Holt, S.E., Chui, C.-P.,
+Morin, G.B., Harley, C.B., Shay, J.W., Lichsteiner, S. and
+Wright, W.E. (1998) Extension of life-span by introduction of
+telomerase into normal human cells. Science 279:349–352.
+Broers, J.L., de Leij, L., Rot, M.K., ter Haar, A., Lane, E.B., Leigh,
+I.M., Wagenaar, S.S., Vooijs, G.P. and Ramaekers, F.C. (1989)
+Expression of intermediate ﬁlament proteins in fetal and adult
+human lung tissues. Differentiation 40:119–128.
+Choe, M.M., Sporn, P.H. and Swartz, M.A. (2003) An in vitro
+airway wall model of remodeling. Am J Physiol Lung Cell Mol
+Physiol 285:L427–L433.
+Cozens, A.L., Yezzi, M.J., Kunzelmann, K., Ohrui, T., Chin, L.,
+Eng, K., Finkbeiner, W.E., Widdicombe, J.H. and Gruenert,
+D.C. (1994) CFTR expression and chloride secretion in polarized
+immortal human bronchial epithelial cells. Am J Respir Cell Mol
+Biol 10:38–47.
+Daniely, Y., Liao, G., Dixon, D., Linnoila, R.I., Lori, A., Randell,
+S.H., Oren, M. and Jetten, A.M. (2004) Critical role of p63 in the
+development of a normal esophageal and tracheobronchial
+epithelium. Am J Physiol Cell Physiol 287:C171–C181.
+Dickson, M.A., Hahn, W.C., Ino, Y., Ronfard, V., Wu, J.Y., We-
+inberg, R.A., Louis, D.N., Li, F.P. and Rheinwald, J.G. (2000)
+Human keratinocytes that express hTERT and also bypass a
+p16(INK4a)-enforced mechanism that limits life span become
+immortal yet retain normal growth and differentiation charac-
+teristics. Mol Cell Biol 20:1436–1447.
+Engelhardt, J.F., Schlossberg, H., Yankaskas, J.R. and Dudus, L.
+(1995) Progenitor cells of the adult human airway involved in
+submucosal gland development. Development 121:2031–2046.
+Engelhardt, J.F., Yankaskas, J.R. and Wilson, J.M. (1992) In vivo
+retroviral gene transfer into human bronchial epithelia of
+xenografts. J Clin Invest 90:2598–2607.
+Forsyth, N.R., Evans, A.P., Shay, J.W. and Wright, W.E. (2003)
+Developmental diﬀerences in the immortalization of lung ﬁbro-
+blasts by telomerase. Aging Cell. 2:235–243.
+Gray, T.E., Guzman, K., Davis, C.W., Abdullah, L.H. and Nett-
+esheim, P. (1996) Mucociliary differentiation of serially passaged
+normal human tracheobronchial epithelial cells. Am J Respir Cell
+Mol Biol 14:104–112.
+Grinnell, F. (2000) Fibroblast-collagen-matrix contraction: growth-
+factor signalling and mechanical loading. Trends Cell Biol
+10:362–365.
+Grinnell, F. (2003) Fibroblast biology in three-dimensional colla-
+gen matrices. Trends Cell Biol 13:264–269.
+Groneberg, D.A., Eynott, P.R., Oates, T., Lim, S., Wu, R., Car-
+lstedt, I., Nicholson, A.G. and Chung, K.F. (2002) Expression of
+MUC5AC and MUC5B mucins in normal and cystic ﬁbrosis
+lung. Respir Med 96:81–86.
+Halliday, N.L. and Tomasek, J.J. (1995) Mechanical properties of
+the extracellular matrix inﬂuence ﬁbronectin ﬁbril assembly in
+vitro. Exp Cell Res 217:109–117.
+Harada, H., Nakagawa, H., Oyama, K., Takaoka, M., Andl, C.D.,
+Jacobmeier, B., von Werder, A., Enders, G.H., Opitz, O.G. and
+Rustgi, A.K. (2003) Telomerase induces immortalization of hu-
+man esophageal keratinocytes without p16INK4a inactivation.
+Mol Cancer Res 1:729–738.
+Harley, C.B. (2002) Telomerase is not an oncogene. Oncogene
+21:494–502.
+Harley, C.B., Futcher, A.B. and Greider, C.W. (1990) Telomeres
+shorten during ageing of human ﬁbroblasts. Nature 345:458–460.
+Harley, C.B., Vaziri, H., Counter, C.M. and Allsopp, R.C. (1992)
+The telomere hypothesis of cellular aging. Exp Gerontol 27:375–
+382.
+Herbert, B.S., Wright, W.E. and Shay, J.W. (2002) p16(INK4a)
+inactivation is not required to immortalize human mammary
+epithelial cells. Oncogene 21:7897–7900.
+Hong, K.U., Reynolds, S.D., Watkins, S., Fuchs, E. and Stripp,
+B.R. (2004) Basal cells are a multipotent progenitor capable of
+renewing the bronchial epithelium. Am J Pathol 164:577–588.
+Inayama, Y., Hook, G.E., Brody, A.R., Cameron, G.S., Jetten,
+A.M., Gilmore, L.B., Gray, T. and Nettesheim, P. (1988) The
+differentiation potential of tracheal basal cells. Lab Invest
+58:706–717.
+Inayama, Y., Hook, G.E., Brody, A.R., Jetten, A.M., Gray, T.,
+Mahler, J. and Nettesheim, P. (1989) In vitro and in vivo growth
+and differentiation of clones of tracheal basal cells. Am J Pathol
+134:539–549.
+Jetten, A.M. (1989) Multistep process of squamous differentiation
+in tracheobronchial epithelial cells in vitro : analogy with epider-
+mal differentiation. Environ Health Perspect 80:149–160.
+Kiyono, T., Foster, S.A., Koop, J.I., McDougall, J.K., Galloway,
+D.A. and Klingelhutz, A.J. (1998) Both Rb/p16INK4a inactiva-
+tion and telomerase activity are required to immortalize human
+epithelial cells. Nature 396:84–88.
+Koo, J.S., Jetten, A.M., Belloni, P., Yoon, J.H., Kim, Y.D. and
+Nettesheim, P. (1999) Role of retinoid receptors in the regulation
+of mucin gene expression by retinoic acid in human tracheo-
+bronchial epithelial cells. Biochem J 338:351–357.
+Lee, K.M., Nguyen, C., Ulrich, A.B., Pour, P.M. and Ouellette,
+M.M. (2003) Immortalization with telomerase of the Nestin-pos-
+itive cells of the human pancreas. Biochem Biophys Res
+Commun 301:1038–1044.
+Lundberg, A.S., Randell, S.H., Stewart, S.A., Elenbaas, B., Hart-
+well, K.A., Brooks, M.W., Fleming, M.D., Olsen, J.C., Miller,
+147
+
+<<<PAGE 8>>>
+S.W., Weinberg, R.A. and Hahn, W.C. (2002) Immortalization
+and transformation of primary human airway epithelial cells by
+gene transfer. Oncogene 21:4577–4586.
+Morales, C.P., Gandia, K.G., Ramirez, R.D., Wright, W.E., Shay,
+J.W. and Spechler, S.J. (2003) Characterisation of telomerase
+immortalised normal human oesophageal squamous cells. Gut
+52:327–333.
+Nakajima, M., Kawanami, O., Jin, E., Ghazizadeh, M., Honda,
+M., Asano, G., Horiba, K. and Ferrans, V.J. (1998)
+Immunohistochemical and ultrastructural studies of basal cells,
+Clara cells and bronchiolar cuboidal cells in normal human
+airways. Pathol Int 48:944–953.
+Otto, W.R. (2002) Lung epithelial stem cells. J Pathol 197:527–535.
+Paquette, J.S., Tremblay, P., Bernier, V., Auger, F.A., Laviolette,
+M., Germain, L., Boutet, M., Boulet, L.P. and Goulet, F. (2003)
+Production of tissue-engineered three-dimensional human bron-
+chial models. In Vitro Cell Dev Biol Animal 39:213–220.
+Ramirez, R.D., Herbert, B.S., Vaughan, M.B., Zou, Y., Gandia,
+K., Morales, C.P., Wright, W.E. and Shay, J.W. (2003) Bypass of
+telomere-dependent replicative senescence (M1) upon overex-
+pression of Cdk4 in normal human epithelial cells. Oncogene
+22:433–444.
+Ramirez, R.D., Morales, C.P., Herbert, B.S., Rohde, J.M., Pas-
+sons, C., Shay, J.W. and Wright, W.E. (2001) Putative telomere-
+independent mechanisms of replicative aging reﬂect inadequate
+growth conditions. Genes Dev 15:398–403.
+Ramirez, R.D., Sheridan, S., Girard, L., Sato, M., Kim, Y., Pol-
+lack, J., Peyton, M., Zou, Y., Kurie, J.M., Dimaio, J.M., Mi-
+lchgrub, S., Smith, A.L., Souza, R.F., Gilbey, L., Zhang, X.,
+Gandia, K., Vaughan, M.B., Wright, W.E., Gazdar, A.F., Shay,
+J.W. and Minna, J.D. (2004) Immortalization of human bron-
+chial epithelial cells in the absence of viral oncoproteins. Cancer
+Res 64:9027–9034.
+Reichl, S., Bednarz, J. and Muller-Goymann, C.C. (2004) Human
+corneal equivalent as cell culture model for in vitro drug perme-
+ation studies. Br J Ophthalmol 88:560–565.
+Reis-Filho, J.S., Simpson, P.T., Martins, A., Preto, A., Gartner, F.
+and Schmitt, F.C. (2003) Distribution of p63, cytokeratins 5/6
+and cytokeratin 14 in 51 normal and 400 neoplastic human tissue
+samples using TARP-4 multi-tumor tissue microarray. Virchows
+Arch 443:122–132.
+Rheinwald, J.G., Hahn, W.C., Ramsey, M.R., Wu, J.Y., Guo, Z.,
+Tsao, H., De Luca, M., Catricala, C. and O’Toole, K.M. (2002)
+A two-stage, p16 (INK4A)- and p53-dependent keratinocyte se-
+nescence mechanism that limits replicative potential independent
+of telomere status. Mol Cell Biol 22:5157–5172.
+Sachs, L.A., Finkbeiner, W.E. and Widdicombe, J.H. (2003) Effects
+of media on differentiation of cultured human tracheal epithe-
+lium. In Vitro Cell Dev Biol Animal 39:56–62.
+Steinert, S., Shay, J.W. and Wright, W.E. (2000) Transient
+expression of human telomerase extends the life span of normal
+human ﬁbroblasts. Biochem Biophys Res Commun 273:
+1095–1098.
+Sviderskaya, E.V., Gray-Schopfer, V.C., Hill, S.P., Smit, N.P.,
+Evans-Whipp, T.J., Bond, J., Hill, L., Bataille, V., Peters, G.,
+Kipling, D., Wynford-Thomas, D. and Bennett, D.C. (2003) p16/
+cyclin-dependent kinase inhibitor 2A deﬁciency in human me-
+lanocyte senescence, apoptosis, and immortalization: possible
+implications for melanoma progression. J Natl Cancer Inst
+95:723–732.
+Taliana, L., Evans, M.D., Dimitrijevich, S.D. and Steele, J.G.
+(2001) The inﬂuence of stromal contraction in a wound model
+system on corneal epithelial stratiﬁcation. Invest Ophthalmol Vis
+Sci 42:81–89.
+Vaziri, H. and Benchimol, S. (1998) Reconstitution of telomerase
+activity in normal human cells leads to elongation of telomeres
+and extended replicative life span. Curr Biol 8:279–282.
+Vaughan, M.B., Ramirez, R.D., Brown, S.A., Yang, J.C., Wright,
+W.E. and Shay, J.W. (2004) A reproducible laser-wounded skin
+equivalent model to study the effects of aging in vitro . Rejuve-
+nation Res 7:99–110.
+Wang, B.Y., Gil, J., Kaufman, D., Gan, L., Kohtz, D.S. and
+Burstein, D.E. (2002) p63 in pulmonary epithelium, pulmonary
+squamous neoplasms, and other pulmonary tumors. Hum Pathol
+33:921–926.
+Wetzels, R.H., Schaafsma, H.E., Leigh, I.M., Lane, E.B.,
+Troyanovsky, S.M., Wagenaar, S.S., Vooijs, G.P. and Ram-
+aekers, F.C. (1992) Laminin and type VII collagen distribution
+in different types of human lung carcinoma: correlation with
+expression of keratins 14, 16, 17 and 18. Histopathology 20:
+295–303.
+Wootton, M., Steeghs, K., Watt, D., Munro, J., Gordon, K., Ire-
+land, H., Morrison, V., Behan, W. and Parkinson, E.K. (2003)
+Telomerase alone extends the replicative life span of human
+skeletal muscle cells without compromising genomic stability.
+Hum Gene Ther 14:1473–1487.
+Wright, W.E. and Shay, J.W. (2002) Historical claims and
+current interpretations of replicative aging. Nat Biotechnol 20:
+682–688.
+Yankaskas, J.R., Haizlip, J.E., Conrad, M., Koval, D., Lazarow-
+ski, E., Paradiso, A.M., Rinehart, C.A. Jr., Sarkadi, B., Schlegel,
+R. and Boucher, R.C. (1993) Papilloma virus immortalized tra-
+cheal epithelial cells retain a well-differentiated phenotype. Am J
+Physiol 264:C1219–C1230.
+Zabner, J., Karp, P., Seiler, M., Phillips, S.L., Mitchell, C.J., Sa-
+avedra, M., Welsh, M. and Klingelhutz, A.J. (2003) Develop-
+ment of cystic ﬁbrosis and noncystic ﬁbrosis airway cell lines. Am
+J Physiol Lung Cell Mol Physiol 284:L844–L854.
+148

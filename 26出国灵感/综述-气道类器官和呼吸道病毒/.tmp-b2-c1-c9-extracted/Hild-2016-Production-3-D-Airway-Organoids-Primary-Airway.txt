@@ -1,0 +1,925 @@
+
+
+<<<PAGE 1>>>
+UNIT IE.9Production of 3-D Airway Organoids
+From Primary Human Airway Basal Cells
+and Their Use in High-Throughput
+Screening
+Marc Hild1 and Aron B. Jaffe1
+1Developmental and Molecular Pathways, Novartis Institutes for BioMedical Research,
+Cambridge, Massachusetts
+The ability of human airway basal cells to serve as progenitor cells in the
+conducting airway makes them an attractive target in a number of respiratory
+diseases associated with epithelial remodeling. This unit describes a protocol
+for the culture of ‘bronchospheres’, three-dimensional (3-D) organoids that are
+derived from primary human airway basal cells. Mature bronchospheres are
+composed of functional multi-ciliated cells, mucin-producing goblet cells, and
+airway basal cells. In contrast to existing methods used for the culture of well-
+differentiated human airway epithelial cells, bronchospheres do not require
+growth on a permeable support and can be cultured in 384-well assay plates.
+The system provides a mechanism for investigating the regulation of basal cell
+fate during airway epithelial morphogenesis, as well as a basis for studying the
+function of the human airway epithelium in high-throughput assays. C⃝ 2016
+by John Wiley & Sons, Inc.
+Keywords: bronchosphere r ciliated cell r goblet cell r high throughput screen-
+ing r mucociliary
+How to cite this article:
+Hild, M. and Jaffe, A.B. Production of 3-D airway organoids from
+primary human airway basal cells and their use in high-throughput
+screening. 2016. Curr . Protoc. Stem Cell Biol.37:IE.9.1-IE.9.15.
+doi: 10.1002/cpsc.1
+INTRODUCTION
+This unit describes a method (Basic Protocol 1) for the expansion of human airway basal
+cells and their subsequent differentiation to form ‘bronchospheres’, organotypic cultures
+of the human bronchial epithelium (Danahay et al., 2015). Bronchospheres can be used
+to model growth, repair, and differentiation of the human airway epithelium without the
+need for expensive and time-consuming air-liquid interface (ALI) cultures that require
+the use of a permeable insert (e.g., Transwell). In addition, the system has been designed
+for high-throughput applications including compound screening. Subsequent protocols
+describe methods for immunostaining and imaging bronchospheres (Basic Protocol 2) as
+well as RNA isolation and assessment of gene expression (Basic Protocol 3). The present
+unit will not cover any details of ALI culture methodology, which have been published
+elsewhere (Fulcher et al., 2005; You and Brody, 2013).
+NOTE: All protocols in this unit require standard tissue culture and sterilization facilities.
+Cells should be handled under sterile conditions in a Class II Biological biosafety cabinet.
+NOTE: All cells are incubated at 37°C in a humidiﬁed atmosphere of 5% CO2 in air.
+Current Protocols in Stem Cell Biology IE.9.1-IE.9.15, May 2016
+Published online May 2016 in Wiley Online Library (wileyonlinelibrary.com).
+doi: 10.1002/cpsc.1
+Copyright C⃝ 2016 John Wiley & Sons, Inc.
+Embryonic and
+Extraembryonic
+Stem Cells
+IE.9.1
+Supplement 37
+
+<<<PAGE 2>>>
+NOTE: All equipment and reagents that come into contact with live cells must be sterile,
+and proper aseptic technique should be used accordingly.
+BASIC
+PROTOCOL 1
+EXPANSION OF HUMAN AIRW A Y BASAL CELLS AND BRONCHOSPHERE
+CULTURE
+Recent methods have been described that appear to extend the capacity to expand human
+airway basal cells while maintaining their potential to fully differentiate (Suprynowicz
+et al., 2012; Horani et al., 2013). Ideally, airway basal cells that have undergone a minimal
+number of expansion steps should be used as the progenitors for a well-differentiated
+epithelium, since the number of population doublings is not unlimited. For the purposes
+of this protocol, the authors have used commercially available human bronchial epithelial
+cells as the source of basal cells. Details relating to the isolation and puriﬁcation of the
+cells are rarely made available by vendors, and, as such, their expression of airway basal
+cell markers (p63, NGFR, ITGA6) should be checked routinely. In addition, the ability of
+the cells to differentiate under classical ‘air-liquid-interface’ conditions also represents
+a valuable quality-control step (Fulcher et al., 2005; You and Brody, 2013).
+Materials
+Bronchial Epithelial Basal Medium (BEBM; Lonza, cat. no. CC-3170)
+BEGM SingleQuot supplements and growth factors kit (Lonza, cat. no. CC-4175)
+Human airway basal cells (e.g., Normal Human Bronchial Epithelial Cells; Lonza,
+cat. no. CC-2540)
+0.05% trypsin-EDTA (Life Technologies, cat. no. 25300-054)
+Trypsin Neutralizing Solution (Lonza, cat. no. CC-5002)
+Cell freezing medium (see recipe)
+Matrigel (Growth Factor Reduced; BD, cat. no. 354230)
+Differentiation medium (see recipe)
+Sterile H2O (cell culture grade)
+150-cm2 cell culture ﬂasks (Corning, cat. no. 430825)
+Vacuum aspirator
+2-ml disposable aspirating pipets (Falcon cat. no. 357558)
+Cryovials
+384-well clear-bottom plastic plates (Greiner, cat. no. 781091)
+Multichannel pipettor (e.g., Thermo Scientiﬁc, cat. no. 2061) and disposable
+medium reservoirs (VWR, cat. no. 613-2857)
+Centrifuge for tubes and assay plates
+Humidiﬁed plate lids (e.g., MicroClime Environmental Lid, Labcyte, cat. no.
+LL-0310)
+Expansion of airway basal cells
+1. Prepare growth medium by supplementing 500 ml of BEBM with the BEGM Sin-
+gleQuot kit according to the manufacturer’s instructions. Warm 40 ml of the growth
+medium to 37°C in a 150-cm2 cell culture ﬂask in a humidiﬁed 5% CO2 incubator.
+Thaw a vial ( /223c500,000 cells) of airway basal cells, add to the ﬂask, and incubate
+overnight.
+The authors thaw one vial of Normal Human Bronchial Epithelial Cells, which has
+/2265500,000 cells, for each ﬂask to be seeded. At this seeding density, the cells will reach
+80% to 90% conﬂuency in /223c5 days.
+2. After 24 hr, aspirate medium, add 40 ml of fresh medium, then repeat every 2 to
+3 days until the cells are approximately 80% to 90% conﬂuent (Fig. IE.9.1).
+Organoids
+Derived From
+Human Airway
+Basal Cells
+IE.9.2
+Supplement 37 Current Protocols in Stem Cell Biology
+
+<<<PAGE 3>>>
+Figure IE.9.1 Phase-contrast image of a /223c80% conﬂuent ﬂask of human bronchial epithelial
+cells. Scale bar = 100 μm.
+3. Aspirate medium, add 10 ml of 0.05% trypsin-EDTA, and return ﬂask to the incu-
+bator for 3 to 5 min until all of the cells have lifted. Add 10 ml Trypsin Neutralizing
+Solution, transfer the cell suspension to a 50-ml tube, and centrifuge 5 min at 300
+× g, room temperature.
+4. Aspirate the neutralized trypsin off of the cell pellet and resuspend in 5 ml growth
+medium or cell freezing medium (typically yields 1–2 × 106 cells/ml).
+At this stage, the user has the option to cryopreserve cells or progress to seeding. The
+authors typically put a vial (500,000 cells) of Normal Human Bronchial Epithelial Cells
+through two rounds of expansion as described (steps 1 to 4 above), and then seed the
+resulting progeny. Cells can be cryopreserved between expansions (see 5 below).
+The authors would recommend assessing each batch of cells for expression of the basal
+cell markers p63, ITGA6, and NGFR after each expansion, with the expectation that 100%
+of cells should be p63 +ITGA6+NGFR+. See Table IE.9.1 for recommended antibodies.
+In addition, the authors suggest testing cells at each expansion step to conﬁrm differ-
+entiation and expression of the phenotype of interest at the air-liquid interface (Fulcher
+et al., 2005; You and Brody, 2013).
+5. Dilute the cell suspension from step 4 in cell freezing medium to a ﬁnal density of
+500,000 cells/ml, transfer to cryovials, and freeze in 1-ml aliquots.
+Preparation of bronchosphere plates
+Plates can be prepared on the day that cells will be seeded, or up to 24 hr before, and
+stored in a 37°C, 5% CO2 incubator. When seeding large numbers of cells, it is suggested
+that the plates be prepared the day before.
+6. Defrost Matrigel on ice.
+10-ml bottles of Matrige can be defrosted on ice in a cold room/refrigerator overnight.
+Smaller aliquots can be defrosted on ice on the day the plates are prepared.
+The authors routinely test individual Matrigel lots, with protein concentrations ranging
+between 9 and 12 mg/ml and endotoxin levels less than 2 U/ml. Although we prefer to
+use the same lot of Matrigel for studies, we have not observed dramatic differences in
+bronchosphere formation using Matrigel from various lots with these parameters.
+Embryonic and
+Extraembryonic
+Stem Cells
+IE.9.3
+Current Protocols in Stem Cell Biology Supplement 37
+
+<<<PAGE 4>>>
+Table IE.9.1 Recommended Primary Antibodies and Fluorescent Reagents for Staining and Imaging Bronchospheres
+Antigen/stain Company Cat. no. Species (clone) Utility Subcellular localization
+Acetylated
+α-Tubulin
+Sigma T6793 Mouse IgG2b
+(6-11B-1)
+Ciliated cell
+marker
+Cilia
+FOXJ1 eBioscience 14-9965-80 Mouse IgG1
+(2A5)
+Ciliated cell
+marker
+Nucleus
+FOXJ1 Sigma HPA005714 Rabbit Ciliated cell
+marker
+Nucleus
+MUC5AC Thermo Scientiﬁc MS-145-P Mouse IgG1
+(45M1)
+Goblet cell
+marker
+Apical (intracellular)
+and secreted apically
+Integrin α6 Millipore MAB1378 Rat IgG2a
+(NKI-GoH3)
+Basal cell
+marker
+Basal membrane, weak
+lateral membrane
+p63 BioLegend 619001 Rabbit Basal cell
+marker
+Nucleus
+NGFR Abcam ab8877 Mouse IgG1
+(ME20.4)
+Basal cell
+marker
+Plasma membrane
+Ki67 Zymed 18-0191 Rabbit Proliferation
+marker
+Nucleus
+Phalloidin Life Technologies R415 n/a Cytoskeleton Actin
+7. Prepare 25% (v/v) Matrigel (v/v) in differentiation medium on ice and dispense
+10 μl per well of a 384-well plate at room temperature.
+Maintain the Matrigel on ice prior to dilution, as it will solidify at room temperature. Do
+not pre-warm the medium used to prepare the 25% solution.
+F or ease, the 25% solution can be loaded into a disposable reservoir and dispensed
+into the wells of the plate at room temperature using a multichannel pipettor . Once the
+Matrigel is diluted to a 25% (v/v) solution, it will not solidify at room temperature, so
+there is no need to pre-cool the plate or keep the plate on a cold block.
+8. Centrifuge the plate 5 sec at 100 × g to ensure that all of the Matrigel is at the
+bottom of the well. Place the plate in a 37°C, 5% CO2 incubator for at least 4 hr for
+the Matrigel to set.
+Seeding basal cells and top-up feeds (Fig. IE.9.2)
+9. Add Matrigel and cells (from step 4, above) to pre-warmed (37 °C) differentiation
+medium to achieve a ﬁnal Matrigel concentration of 5% (v/v) and a cell density of
+30,000 cells/ml.
+10. Load the 5% Matrigel cell suspension into a disposable reservoir and dispense 20μl
+per well of the Matrigel-coated 384-well plate (600 cells/well). Centrifuge the plate
+for 5 sec at 50 × g (500 rpm).
+A multichannel pipettor will improve efﬁciency, uniformity, and accuracy of cell seeding.
+The quick spin ensures that all of the cell suspension is forced into the base of the well. It
+is important that the spin be gentle to prevent cells being pushed ‘through’ the Matrigel
+bed and onto the ﬂoor of the plate.
+11. Place a pre-hydrated MicroClime humidiﬁed plate lid onto the plate and return it to
+the 37°C incubator.
+Humidiﬁed plate lids are important to reduce the risk of edge effects as a consequence of
+the 2-week culture period, low-volume wells, and top-up feeds. They may not be necessary
+if the user can maintain humidiﬁcation of the incubator by keeping its use to a minimum.
+Organoids
+Derived From
+Human Airway
+Basal Cells
+IE.9.4
+Supplement 37 Current Protocols in Stem Cell Biology
+
+<<<PAGE 5>>>
+Day 0: Seed Day 2: Feed
+± Treatment
+Day 8: Feed
+± Treatment
+Day 14: Analyze
+p63
+ITGA6
+MUC5AC
+MUC5B
+FOXA3
+FOXJ1
+DNAI2
+Figure IE.9.2 Schematic representation of 3-D bronchosphere formation. The expression of each
+cell type–speciﬁc marker, relative to the bronchosphere formation timeline, is indicated below (see
+Danahay et al., 2015). Note that basal cell markers ( p63 and ITGA6) are expressed throughout
+the culture period. Goblet cell markers (MUC5AC, MUC5B, and FOXA3) are ﬁrst observed at low
+levels at day 5, and are more easily detectable by day 7. Ciliated cell markers (FOXJ1 and DNAI2)
+are detected from day 7.
+If not all wells of the plate are used, ﬁlling the unused wells with 80 μl sterile water helps
+to reduce the risk of edge effects.
+12. On day 2 (48 hr after seeding cells), prepare 5% Matrigel in differentiation medium
+and load into a disposable reservoir. Dispense 30 μl into each well of the 384-well
+plate.
+It may be necessary to repeat the short, gentle spin of the plate to force ‘beads’ of medium
+on the plate wall into the well.
+The authors do not aspirate any medium before adding the 30 μl to each well. Note that
+any treatment (e.g., recombinant protein, small molecule) should be prepared at 1.67 ×
+prior to adding to each well, to achieve the desired ﬁnal concentration.
+13. On day 8, repeat step 12.
+Again, the authors do not aspirate any medium before adding the 30 μl to each well.
+Note that the concentration of any treatment initiated at day 2 will have to be maintained
+by adding medium containing the treatment at the desired ﬁnal concentration (i.e., 1 ×).
+At this stage, bronchospheres will be readily visible in each well, but very few will contain
+a lumen.
+Bronchospheres will display a mucociliary differentiation by day 14. Lumen will begin
+to be observed between days 7 and 10, and functional (beating) cilia will typically be
+observed from day 10 to 11 (Fig. IE.9.3).
+Embryonic and
+Extraembryonic
+Stem Cells
+IE.9.5
+Current Protocols in Stem Cell Biology Supplement 37
+
+<<<PAGE 6>>>
+Figure IE.9.3 Phase-contrast images of a time course of bronchosphere development, modiﬁed
+from Danahay et al. (2015). Scale bar = 50 μm.
+Cilia can be observed lining the interior of the bronchospheres under phase contrast
+using a 10× or 20× objective.
+BASIC
+PROTOCOL 2
+IMMUNOSTAINING AND IMAGING OF BRONCHOSPHERES
+Immunostaining of bronchospheres is used to check for differentiation of the epithelium
+as a quality-control step and as a bioassay endpoint. This protocol provides a method for
+the staining and imaging of different cell types in the bronchospheres, which should be
+broadly applicable to other immunoﬂuorescence assay endpoints.
+Materials
+20% paraformaldehyde solution (Electron Microscopy Sciences, cat. no. 15713-S)
+Live, human airway basal cell-derived bronchospheres in 384-well plate (Basic
+Protocol 1)
+Immunoﬂuorescence (IF) wash buffer (see recipe)
+20% (v/v) goat serum (Sigma, cat. no. G9023-10 ml) in IF wash buffer
+Primary and secondary antibodies (Table IE.9.1)
+Rhodamine-conjugated phalloidin (Life Technologies, cat. no. R415)
+Hoechst 33342 (Life Technologies, cat. no. H3570)
+Phosphate-buffered saline (PBS; Thermo Fisher Scientiﬁc, cat. no. 14190-144)
+25-ml reagent reservoirs (VistaLab, cat. no. 3054-1005)
+BioTek plate washer
+Vacuum aspirator
+2-ml disposable aspirating pipets (Falcon cat. no. 357558)
+Seal & Sample aluminum foil lids (Beckman Coulter, cat. no. 538619)
+Fix and block bronchospheres
+1. Add 20 μl of a 20% paraformaldehyde solution to each well of a 384-well plate
+containing bronchospheres and allow to ﬁx for 60 min.
+This provides a 1 in 5 dilution of the 20% paraformaldehyde, thus ﬁxing the structures at
+a ﬁnal concentration of 4% paraformaldehyde.
+The authors have found that the use of a MicroClime humidiﬁed plate lid when cultur-
+ing the bronchospheres (see Basic Protocol 1) minimizes evaporation across the plate.
+However , if uneven evaporation is observed, we recommend aspirating each well of the
+IE.9.6
+Supplement 37 Current Protocols in Stem Cell Biology
+
+<<<PAGE 7>>>
+plate to a residual volume of 20 μl (see note under step 3, below) and adding 5 μlo f
+a 20% paraformaldehyde solution to each well to obtain a ﬁnal concentration of 4%
+paraformaldehyde for ﬁxing.
+2. Aspirate each well of the plate to a residual volume of 15 μl (see below) and wash
+once with IF wash buffer (enough to ﬁll the well, approximately 85μl). Aspirate the
+contents of each well again to 15 μl and add a further 15 μl of 20% goat serum in IF
+wash buffer. Incubate at room temperature for /226560 min.
+The authors use a BioTek plate washer for the aspiration and washing steps. The aspiration
+setting on the washer needs to be optimized to leave a residual volume of 15 μl with the
+aspiration and dispensing speeds set to avoid dislodging bronchospheres from the Matrigel
+bed.
+The 15-μl residual volume approximates the volume of the solid Matrigel bed.
+3. Prepare a mix of the desired primary antibodies at 2× the ﬁnal working concentration
+in IF wash buffer containing 10% goat serum. Add 15 μl of the primary antibody
+mix to each well to achieve the ﬁnal working concentration, and incubate overnight
+at 4°C.
+4. Aspirate each well of the plate to a residual volume of 15 μl and wash with IF wash
+buffer (enough to ﬁll the well, approximately 85 μl). Repeat aspiration/wash two
+more times and aspirate to 15 μl after the ﬁnal wash.
+5. Prepare a mix of the desired secondary antibodies at 2 × the ﬁnal working concen-
+tration in IF wash buffer containing 10% goat serum. Add 15 μl of the secondary
+antibody mix to each well to achieve the ﬁnal working concentration and incubate at
+room temperature for 1 to 2 hr.
+The authors typically use Alexa-conjugated secondary antibodies (Invitrogen). When visu-
+alizing actin or DNA, ﬂuorescently-conjugated phalloidin or Hoechst 33342, respectively,
+can be added to the secondary antibody mix.
+6. Wash the plate as described in step 4, and aspirate to 15 μl.
+7. Wash the plate two additional times with /223c85 μl of PBS. Add 85 μlo fP B Sa n d
+cover with a Seal & Sample Aluminum Foil Lid.
+At this point, the plates can be stored at 4 °C for several weeks. The authors routinely
+perform epiﬂuorescent and brightﬁeld imaging on an IN Cell Analyzer (GE Healthcare
+Life Sciences). The aluminum foil lid should be removed prior to imaging. Note that the
+ﬁnal washes do not have any anti-fade agent, so care should be taken when imaging
+to avoid bleaching of the sample. The authors recommend keeping the samples in dark
+conditions and turn off lasers/lamps when not collecting the image.
+BASIC
+PROTOCOL 3
+RNA ISOLA TION AND ANALYSIS
+Recent technological advances have made it possible to easily analyze endogenous ex-
+pression of a set of genes in 384-well and even 1536-well formats. Cells can be lysed, and
+without further puriﬁcation, gene expression can be measured either by high-throughput
+RT-qPCR or Affymetrix’s QuantiGene 2.0 Plex Assays. In contrast to the RT-qPCR
+approach, the QuantiGene assay is based purely on hybridization steps and does not
+involve reverse transcription into cDNA followed by ampliﬁcation, thus eliminating the
+potential biases associated with these steps. Cells or tissue samples are lysed, and the
+lysates are incubated with color-coded (i.e., bead region) beads, each covalently linked
+to a speciﬁc “capture probe,” a single-stranded oligonucleotide that will speciﬁcally hy-
+bridize to another oligonucleotide, called the “probe extender,” which in turn hybridizes
+to the target RNA (Fig. IE.9.4). RNA is detected by hybridizing a pair of “label exten-
+der” oligonucleotides to the RNA of interest. The pair of label extender oligonucleotides
+Embryonic and
+Extraembryonic
+Stem Cells
+IE.9.7
+Current Protocols in Stem Cell Biology Supplement 37
+
+<<<PAGE 8>>>
+ZZ
+Label Probe
+Amplifier
+Pre-Amplifier
+Label Extender Pair
+Target RNA
+Probe Extender
+Capture Probe
+Bead
+Figure IE.9.4 Schematic representation of QuantiGene 2.0 Plex Assays Branched DNA
+signal ampliﬁcation on Luminex beads (adapted from http://www.ebioscience.com/application/
+gene-expression/quantigene-plex-assay-workﬂow.htm).
+Table IE.9.2 Validated 8 × 8 Capture Probe (CP)/Bead Region Combinations Used for the 8 × 8 Plex-Plex Assaya
+Plate #1 Plate #2 Plate #3 Plate #4 Plate #5 Plate #6 Plate #7 Plate #8
+Capture
+probe
+Bead
+regions
+Bead
+regions
+Bead
+regions
+Bead
+regions
+Bead
+regions
+Bead
+regions
+Bead
+regions
+Bead
+regions
+Gene 1 CP06 07 08 09 12 13 14 15 18
+Gene 2 CP59 19 20 21 22 25 26 27 28
+Gene 3 CP63 29 30 33 34 35 36 37 38
+Gene 4 CP72 39 42 43 44 45 46 47 48
+Gene 5 CP61 49 51 52 53 54 55 56 57
+Gene 6 CP21 58 59 61 62 63 64 65 66
+Gene 7 CP64 67 68 69 70 72 73 74 75
+Gene 8 CP33 76 77 78 79 80 81 82 83
+aEach of the eight plates (columns 1 to 8) receives beads from eight different bead regions. Beads within the same row share the same capture probe
+(covalently linked to the bead) which will recognize the Gene Speciﬁc Probe Extender (PE). See schematic in Figure IE.9.4.
+are then hybridized to a branched DNA (bDNA) “tree” containing a “Pre-Ampliﬁer”
+molecule, which can hybridize to multiple molecules of an “Ampliﬁer” DNA oligo
+(Fig. IE.9.4). Hybridization of multiple biotin–labeled “Label Probe” molecules to the
+“Ampliﬁer” completes the “tree.” Detection of the bDNA “tree” is achieved by addition of
+streptavidin-phycoerythrin (SAPE), which in turn generates a signal that is proportional
+to the amount of target RNA. Samples are then read on a Luminex bead reader like the
+Flexmap 3D. The beads will be recognized by their color coding, and, simultaneously,
+the ﬂuorescent signal is read out. Aggregating the signal over multiple beads per target
+gene in the sample improves the accuracy of the assay. By combining multiple different
+color-coded beads, each carrying a different “capture probe,” it is possible to analyze the
+expression of multiple target genes in a single sample/well. Moreover, we have adapted
+the assay to allow pooling of multiple wells by using beads of different colors (i.e., differ-
+ent “Bead Regions”) having the same “capture probe” attached. We refer to this setup as
+n1 × n2 Plex-Plex assays, where n1 is the number of plates pooled and n2 is the number
+of genes. For most of our screening applications, we use an “8 × 8 Plex-Plex assay”—8
+lysate plates combined in one assay plate to analyze the expression of 8 genes of inter-
+est —which seems to be a good compromise of information, throughput, and cost (see
+Table IE.9.2). The protocol presented here is based on the manufacturer’s recommen-
+dation and provides a methodology for the RNA isolation, sample processing, and
+Organoids
+Derived From
+Human Airway
+Basal Cells
+IE.9.8
+Supplement 37 Current Protocols in Stem Cell Biology
+
+<<<PAGE 9>>>
+high-throughput analysis of gene expression in the bronchospheres that should be broadly
+applicable to many other cell systems.
+Materials
+Lysis Mixture (Affymetrix/Panomics, cat. no. 10187–1.7 liters–bulk)
+Proteinase K (Affymetrix/Panomics, cat. no. 10231–24 ml–bulk)
+Blocking Reagent (Affymetrix/Panomics, cat. no. 13256–140 ml–bulk)
+Pooled Probe Sets (Affymetrix/Panomics 8-plex, HT9000 High Throughput Gene
+Expression Custom Manufacturing–345 ml)
+64 beads—8 × 8–plex format (Affymetrix/Panomics)—HT9000 High Throughput
+Gene Expression Custom Manufacturing, refer to Table IE.9.2
+Wash Buffer Component 1 (Affymetrix/Panomics, cat. no. 10205 - 33 ml - bulk)
+Wash Buffer Component 2 (Affymetrix/Panomics, cat. no. 10193 - 545 ml - bulk)
+Label Probe Diluent (Affymetrix/Panomics, cat. no. 10676–765 ml–bulk)
+2.0 Pre-Ampliﬁer (Affymetrix/Panomics, cat. no. 15533–4 ml–bulk)
+2.0 Ampliﬁer (Affymetrix/Panomics, cat. no. 15532–4 ml–bulk)
+Label Probe (Affymetrix/Panomics, cat. no. 10940–4 ml–bulk)
+SAPE (Affymetrix/Panomics, cat. no. 10659–2 ml–bulk)
+Live, human airway basal cell-derived bronchospheres (Basic Protocol 1), day 14
+Sheath ﬂuid (Luminex, cat. no. 40-50000)
+Biomek FX with 384-well head and 384-well magnet (Beckman Coulter, cat no.
+A31844, 719715)
+Multidrop 384 Reagent Dispenser (Thermo Scientiﬁc, cat. no. 5840157)
+384 well V-bottom polypropylene plates (Greiner, cat. no. 781280)
+Bath sonicator
+PlateLoc Thermal Microplate Sealer (Agilent, cat. no. 01867-201)
+Orbital shaking humidiﬁed incubator (Liconic, cat. no. 9118 07 00, 9118 12 41,
+9121 00 83, 9118 11 02, or 9118 11 16)
+384-well ﬂat clear-bottom plate (NUNC, cat. no. 242757)
+ELX406 plate washer with 384-well magnet (BioTek, cat. no. 406PSUB3-LB,
+7180011, 7102215)
+Flexmap 3D (Luminex, cat. no. 40-014)
+Preparation of working solutions
+1. Prepare Lysis Mixture Solution for lysing cells by adding 10 μl of Proteinase K for
+each ml of Lysis Mixture.
+2. Prepare Hybridization Master Mix as described in Table IE.9.3.
+The authors have used probes (Probe Mix from Affymetrix) corresponding to the genes
+in Table IE.9.4, but this method can be adapted to monitor the expression of other genes
+of interest. Affymetrix provides a Web page with pre-designed gene sets, but also offers
+a service to design novel reagents. The gene set used in this protocol is available from
+Affymetrix as Plex Set 11783, HUMAN, 8 plex–Magnetic Beads, cat. no. 311783. See
+http://www.ebioscience.com/resources/QuantiGenePlex/qgp-probeset-catalog.htm.
+3. Prepare Wash Solution by adding 50 ml of Wash Buffer Component 2 and 3 ml of
+Wash Buffer Component 1 to 947 ml of water.
+4. Prepare Pre-Ampliﬁer Solution by warming Label Probe Diluent at 37°C for 30 min
+then adding 54 μl of Pre-Ampliﬁer per ml of Label Probe Diluent.
+5. Prepare Ampliﬁer Solution by adding 54 μl of Ampliﬁer per ml of Label Probe
+Diluent.
+6. Prepare Label Probe/SAPE Solution by adding 54 μl of Label Probe and 7.5 μlo f
+SAPE per ml of Label Probe Diluent.
+Embryonic and
+Extraembryonic
+Stem Cells
+IE.9.9
+Current Protocols in Stem Cell Biology Supplement 37
+
+<<<PAGE 10>>>
+Table IE.9.3 Preparation of Hybridization Master Mix
+Per well (μl) Per 384 well plate ( μl)
+Lysis Mixturea 5 2000
+Proteinase Kb 0.2 80
+Blocking Reagentc 2 800
+Probe mixd 2.5 1000
+Beads (500 beads/region/μl)e 0.2 80
+Water 10.1 4040
+Total 20 8000
+aAffymetrix/Panomics, cat. no. 10187.
+bAffymetrix/Panomics, cat. no. 10231.
+cAffymetrix/Panomics, cat. no. 13256.
+dPooled Probe Sets (Affymetrix/Panomics 8-plex, HT9000 High Throughput Gene Expression Custom Manufacturing).
+e64 beads—8 × 8–plex format (Affymetrix/Panomics)—HT9000 High Throughput Gene Expression Custom Manufac-
+turing.
+Table IE.9.4 Gene Set Used in this Unit
+NCBI reference sequence Gene symbol
+NM_017511 MUC5AC
+NM_002458 MUC5B
+NM_001454 FOXJ1
+NM_000441 SLC26A4
+NM_023036 DNAI2
+NM_003722 TP63
+NM_001079818 ITGA6
+NM_000937 POLR2A
+All solutions are prepared on the day of the experiment.
+All solutions can be scaled up or down according to experimental design.
+Lysis and hybridization
+7. Aspirate supernatant from a day-14 bronchosphere plate (see Basic Protocol 1, step
+13 annotations) to 30μl using the Biomek FX. Add 15μl of Lysis Mixture Solution
+(prepared in step 1) to each well of the 384-well bronchosphere plates using a
+Multidrop Dispenser.
+Total cell lysate= 15 μl of Lysis Mixture Solution plus 30 μl of culture medium = 45 μl).
+Plates can be frozen at − 80°C at this point.
+8. Incubate plates at 50 °C for 30 min, then mix wells 30 times using a Biomek FXP
+384-multichannel pipetting head and freeze plates at−80°C. Thaw, mix, and transfer
+40 μl/well to the corresponding wells of a fresh 384-well V-bottom polypropylene
+plates (Greiner).
+If you are not going to run the assay immediately, place lid on 384-well V-bottom plate
+and freeze at − 80°C. The plates are ready for processing upon thawing.
+9. Add 20 μl of Hybridization Master Mix (prepared in step 2) to each well of the
+assay plates prepared in step 8.
+Organoids
+Derived From
+Human Airway
+Basal Cells
+IE.9.10
+Supplement 37 Current Protocols in Stem Cell Biology
+
+<<<PAGE 11>>>
+V ortex and sonicate Hybridization Master Mix beads using a bath sonicator for 10
+seconds at room temperature, set to the medium setting, to homogenize beads before
+dispensing.
+It is important to keep careful track of which bead panel is added to which plate at this
+step when setting up the assay.
+10. Heat seal the assay plates using a PlateLoc plate sealer.
+Plate sealer settings for aluminum seals = 170°C, 2-sec sealing time.
+11. Incubate the sealed assay plates at 55 °C in a orbital shaking incubator at /223c500 rpm
+overnight.
+12. Remove the assay plates from the incubator and remove the seals.
+13. Use the Biomek FX to compress 8 assay plates into a single destination plate (384-
+well ﬂat clear bottom plates, NUNC). To do this, add a destination plate onto the
+384-well magnet (center) position of the Biomek FX deck. Next, mix the ﬁrst assay
+plate twice and transfer to the destination plate, then mix the second assay plate twice
+and transfer to destination plate. Wait 3 min on magnet, and then slowly remove
+supernatant. Repeat these steps for assay plates 3 to 8.
+Plates are compressed in pairs due to volume constraints in the destination plate.
+14. Using an ELX406 plate washer (BioTek) with 384-well ring magnet, wash the
+destination plates three times with 80μl/well of Wash Solution (prepared at step 3),
+waiting 2 min after adding the solution before removing it each time.
+The authors use a BioTek plate washer for the aspiration and washing steps. The aspira-
+tion setting on the washer need to be optimized to leave a residual volume that does not
+disturb the beads.
+15. Remove the plates from the magnet and add 25 μl/well of Pre-Ampliﬁer Solution
+(prepared at step 4) using a Multidrop dispenser. Place a lid on the plate. Incubate
+at 50°C for 1 hr on a shaker at /223c500 rpm in a humidiﬁed incubator set to /226590%
+relative humidity.
+16. Wash the compressed destination plates three times with 80 μl/well Wash Solution,
+as described in step 14.
+17. Remove the plates from the magnet and add 25 μl/well of Ampliﬁer Solution
+(prepared at step 5) using a Multidrop dispenser. Place a lid on the plates. Incubate
+at 50°C for 1 hr on a shaker at /223c500 rpm in a humidiﬁed incubator.
+18. Wash the compressed destination plates three times with 80 μl/well Wash Solution,
+as described in step 14.
+19. Remove the plates from the magnet and add 25 μl/well of Label Probe/SAPE
+Solution (prepared at step 6) using a Multidrop dispenser. Place a lid on the plates.
+Incubate at 50°C for 1 hr on a shaker at /223c500 rpm in a humidiﬁed incubator.
+20. Wash the compressed destination plates three times with 80 μl/well Wash Solution,
+as described in step 14.
+21. Add 60 μl of bead suspension (8 × 8–plex format) solution using a Multidrop
+dispenser.
+Plates can be sealed and stored at 4 °C for up to 2 weeks if necessary.
+Embryonic and
+Extraembryonic
+Stem Cells
+IE.9.11
+Current Protocols in Stem Cell Biology Supplement 37
+
+<<<PAGE 12>>>
+22. Read on a Luminex Flexmap 3D Reader with uptake volume = 70 μl, bead
+count/region = 10, BeadType = MagPlex, DD Gating = 7500-26800 and Reporter
+Gain = Enhanced PMT (High).
+Before reading plates, place them on a Biomek magnet (center) for 2 min to concentrate
+the beads in the center of the wells.
+Always check to ensure that there is enough sheath ﬂuid in the source carboy for the
+number of plates being read (it can take up to 5 liters to read one plate).
+Analysis and hit selection
+23. De-convolute result ﬁles using a table linking target gene id to bead number and
+assay plate number.
+The resulting table contains measured target gene expression for each well of each assay
+plate. A complete raw data-containing result ﬁle can be created by merging this table
+with a table containing the treatment information for each well/assay plate.
+24. Perform data analysis and hit calling by calculating fold-changes as compared to
+control wells.
+F or this, the median of the negative control wells (NC) is calculated for each target (gene
+1 to gene 8) for each individual assay plate. (MedianNC Gene).
+The fold change is then FC Gene = RawV alueSampleGene/MedianNCGene.
+REAGENTS AND SOLUTIONS
+F or culture recipes and steps, use sterile tissue culture-grade water . F or other purposes,
+use deionized, distilled water or equivalent in recipes and protocol steps.
+All-trans retinoic acid stock
+Dissolve 50 mg all-trans retinoic acid (Sigma, cat. no. R2625) in 3.32 ml of 100%
+ethanol (ﬁnal all-trans retinoic acid = 5 × 10−2 M). Take 0.1 ml and dilute to
+10 ml with 100% ethanol (ﬁnal all-trans retinoic acid= 5 × 10−4 M). Protect
+from light, aliquot, and store up to 1 year at −80°C.
+Cell freezing medium
+Prepare growth medium by supplementing 500 ml of BEBM with the BEGM
+SingleQuot kit according to the manufacturer’s instructions. Add 20 ml of
+DMSO (Sigma, cat. no. 2650) and 20 ml of heat-inactivated FBS (Hyclone cat.
+no. SH30071) to 60 ml of growth medium. Store up to 1 month at 4ºC.
+Differentiation medium
+Mix 250 ml BEBM (Lonza, cat. no. CC-3170) and 250 ml DMEM (Life
+Technologies, cat. no. 41965-039). Add BEGM SingleQuots (Lonza, cat. no.
+CC-4175) except for retinoic acid and T3 (these should be discarded). Store with
+the above components up to 1 month at 4ºC. At the time of use, add
+all-trans-retinoic acid stock (see recipe) to a ﬁnal concentration of 50 nM
+(1:10,000 dilution of retinoic acid stock).
+Immunoﬂuorescence (IF) wash buffer (10 × stock)
+130 mM NaCl
+7m MN a2HPO4
+3.5 mM Na2HPO4
+continued
+Organoids
+Derived From
+Human Airway
+Basal Cells
+IE.9.12
+Supplement 37 Current Protocols in Stem Cell Biology
+
+<<<PAGE 13>>>
+7.7 mM NaN3
+0.1% bovine serum albumin
+0.2% Triton X-100
+0.05% Tween 20
+Wash buffer can be stored at 4 °C for extended periods. Discard if there is any evidence of a
+precipitate.
+COMMENTARY
+Background Information
+The abundance and distribution of goblet
+and ciliated cells in the conducting airway
+must be tightly regulated to allow for nor-
+mal air ﬂow. Excessive goblet cell numbers,
+resulting in increased mucus production, are
+a hallmark of many airway diseases such as
+asthma, chronic obstructive pulmonary dis-
+ease (COPD), and cystic ﬁbrosis (CF). Gob-
+let cells and ciliated cells are derived from a
+common progenitor cell, the airway basal cell.
+Identifying the mechanisms regulating airway
+basal cell fate decisions to differentiate into
+goblet versus ciliated cells is crucial to our un-
+derstanding of airway diseases, and ultimately
+to development of therapeutics that reduce
+mucus production and increase mucociliary
+clearance.
+Studies of airway epithelial cells in vitro
+have relied largely on the air-liquid interface
+(ALI) method of culturing airway basal cells
+from both mouse and human (Fulcher et al.,
+2005; You and Brody, 2013). While ALI cul-
+tures display several hallmarks of the conduct-
+ing airway, particularly the repertoire of major
+cell types, there are at least three factors that
+limit their utility in a high-throughput format
+to allow for unbiased screening. First, ALI cul-
+tures are typically performed in either 12-well
+or 24-well plates. Second, the medium is re-
+plenished every other day. Third, published
+protocols describe a culture length of 21 to
+35 days to achieve a ‘fully-differentiated’ mu-
+cociliary epithelium.
+The authors have adapted the growth
+conditions used in ALI cultures and three-
+dimensional (3-D) cell culture model systems
+(Debnath et al., 2003; Jaffe et al., 2008) to
+allow for growth and differentiation of human
+airway basal cells in a 384-well plate format to
+form ‘bronchospheres’ containing basal, cili-
+ated, and goblet cells. This method allows for
+large-scale unbiased screening for factors that
+modulate the abundance of each of these cell
+types, and could be adapted for studying other
+cellular processes (e.g., polarity, lumen forma-
+tion) that are regulated during airway epithelial
+morphogenesis.
+Critical Parameters
+Retinoic acid
+All-trans retinoic acid is critical to the cul-
+ture system, as it is required for differentiation
+of airway epithelial cells into a mucociliary
+epithelium (Gray et al., 1996). After generat-
+ing the stock of 5 × 10−4 M all-trans retinoic
+acid, the authors typically make 5- to 10- μl
+aliquots and store them at −80°C, using the
+appropriate number of aliquots for each ex-
+periment. Repeated freeze/thaw cycles are not
+recommended.
+Handling of cells
+The starting material and subsequent cul-
+turing of cells is critical for obtaining
+reproducible, well-differentiated 3-D bron-
+chospheres. The authors routinely use com-
+mercially available human airway basal cells
+(sold as Normal Human Bronchial Epithe-
+lial Cells; Lonza, cat. no. CC-2540), but pri-
+mary human airway basal cells as described
+in Fulcher et al. (2005) can also be used. Pas-
+saging of cells on plastic, prior to plating in
+3-D, should be limited to 1 to 2 passages, as
+serial passaging results in the loss of mucocil-
+iary differentiation potential and results in a
+squamous phenotype (Araya et al., 2007). In
+addition, cells grown on plastic prior to plat-
+ing in 3-D should not be allowed to reach more
+than 90% conﬂuence, as this also alters their
+ability form reproducibly well-differentiated
+bronchospheres.
+Troubleshooting
+Table IE.9.5 lists common problems that
+may arise with bronchosphere culture, along
+with their possible causes and solutions.
+Anticipated Results
+This protocol is designed for high-
+throughput culturing and screening of human
+airway epithelial cells. If primary human air-
+way basal cells are cultured, treated, and an-
+alyzed according to the protocols described
+in this chapter, they will form 3-D broncho-
+spheres containing basal, goblet, and ciliated
+cells with a central lumen. Expression of basal
+Embryonic and
+Extraembryonic
+Stem Cells
+IE.9.13
+Current Protocols in Stem Cell Biology Supplement 37
+
+<<<PAGE 14>>>
+Table IE.9.5 Troubleshooting Guide for Production of 3-D Airway Organoids From Primary Human
+Airway Basal Cells and Their Use in High-Throughput Analysis
+Problem Possible cause Solution
+Uneven plating Cell clumping Ensure that cells are fully
+resuspended after trypsin
+neutralization and pelleting
+Poor bronchosphere
+growth/formation
+Old medium Make sure that medium is
+used within 1 month, and
+only warm up the amount
+needed at 37°C, leaving the
+rest at 4°C
+Excessive trypsinization prior
+to plating in 3-D
+Use fresh 0.05%
+trypsin-EDTA solution and
+monitor cell detachment to
+avoid prolonged exposure to
+trypsin
+Excessive medium
+evaporation
+Ensure that the MicroClime
+humidiﬁed plate lids are
+properly hydrated, and that
+the incubators are humidiﬁed
+Low expression of cell
+type–speciﬁc markers
+Loss of bronchospheres
+during handling (e.g., washes)
+Make sure that the aspiration
+height is set appropriately, so
+the bronchospheres are not
+disturbed
+Inefﬁcient lysis and/or
+mixing of lysate prior to bead
+addition
+Make sure that lysate is
+thoroughly mixed by
+repeatedly pipetting up and
+down. Lysate should contain
+only small pieces of debris
+after mixing.
+Variable bead numbers Solutions containing the
+Luminex beads have not been
+thoroughly
+vortexed/sonicated
+Make sure that beads are
+homogenously dispersed by
+thoroughly vortexing and
+sonicating bead-containing
+solutions before dispensing
+Low bead numbers Loss of beads during
+handling (e.g., washes)
+Make sure that the aspiration
+height is set appropriately, so
+that beads are not disturbed.
+Allow ample time for beads
+to settle on magnetic plate
+holder.
+cell markers, such as TP63 and ITGA6, will
+be detectable throughout the culture period,
+while expression of ciliated cell markers, such
+as FOXJ1 and DNAI2, and goblet cell markers
+such as MUC5AC and MUC5B, will be read-
+ily detectable at the end (day 14) of the culture
+period (Fig. IE.9.2). We have also detected
+expression of the club (Clara) cell marker
+SCGB1A1 at the end of the culture period,
+suggesting that bronchospheres contain both
+club and goblet cells.
+Treatment of the bronchosphere cultures
+with factors that inﬂuence the differentiation
+of one or more of the cell types will be reﬂected
+in expression changes of the corresponding
+cell type–speciﬁc markers.
+Time Considerations
+Reagent and medium preparation
+Allow for 2 hr to overnight for the Matrigel
+to thaw on ice, depending on the size of the
+Organoids
+Derived From
+Human Airway
+Basal Cells
+IE.9.14
+Supplement 37 Current Protocols in Stem Cell Biology
+
+<<<PAGE 15>>>
+aliquot being thawed. All other reagents and
+mixtures should take less than 1 hr to prepare
+prior to use.
+Cell culture
+Matrigel-coated 384-well plates are best
+prepared the day before plating cells in 3-D.
+Typically, the authors plate the Matrigel bed
+the evening (/223c16 to 24 hr) before seeding the
+airway basal cells. Allow 10 to 15 min for
+trypsinization and resuspension of cells cul-
+tured on plastic. When seeding multiple plates,
+care should be taken to move quickly, to avoid
+leaving the cells to settle out of the suspension.
+Acknowledgements
+We thank the members of the Jaffe and
+Hild labs for help in establishing the methods
+described in this chapter, in particular Henry
+Danahay for his efforts in helping to set up the
+bronchosphere culture methods. We also thank
+Serena De Vita and Randal C. Jaffe for helpful
+discussions and reviewing this manuscript.
+Conﬂicts of Interest
+M.H. and A.B.J. are employees of Novar-
+tis, Inc., as indicated in the afﬁliations at the
+beginning of the unit.
+Literature Cited
+Araya, J., Cambier, S., Markovics, J.A., Wolters,
+P., Jablons, D., Hill, A., Finkbeiner, W., Jones,
+K., Broaddus, V .C., Sheppard, D., Barzcak,
+A., Xiao, Y ., Erle, D.J., and Nishimura, S.L.
+2007. Squamous metaplasia ampliﬁes patho-
+logic epithelial-mesenchymal interactions in
+COPD patients. J. Clin. Invest. 117:3551-3562.
+doi: 10.1172/JCI32526.
+Danahay, H., Pessotti, A.D., Coote, J., Mont-
+gomery, B.E., Xia, D., Wilson, A., Yang, H.,
+Wang, Z., Bevan, L., Thomas, C., Petit, S.,
+London, A., LeMotte, P., Doelemeyer, A.,
+Velez-Reyes, G.L., Bernasconi, P., Fryer, C.J.,
+Edwards, M., Capodieci, P., Chen, A., Hild, M.,
+and Jaffe, A.B. 2015. Notch2 is required for
+inﬂammatory cytokine-driven goblet cell meta-
+plasia in the lung. Cell Rep. 10:239-252. doi:
+10.1016/j.celrep.2014.12.017.
+Debnath, J., Muthuswamy, S.K., and Brugge,
+J.S. 2003. Morphogenesis and oncogene-
+sis of MCF-10A mammary epithelial acini
+grown in three-dimensional basement mem-
+brane cultures. Methods 30:256-268. doi:
+10.1016/S1046-2023(03)00032-X.
+Fulcher, M.L., Gabriel, S., Burns, K.A.,
+Yankaskas, J.R., and Randell, S.H. 2005.
+Well-differentiated human airway epithelial cell
+cultures. Methods Mol. Med. 107:183-206. doi:
+10.1385/1-59259-861-7:183.
+Gray, T.E., Guzman, K., Davis, C.W., Abdullah,
+L.H., and Nettesheim, P. 1996. Mucociliary dif-
+ferentiation of serially passaged normal human
+tracheobronchial epithelial cells. Am. J. Respir .
+Cell Mol. Biol. 14:104-112. doi: 10.1165/ajr-
+cmb.14.1.8534481.
+Horani, A., Nath, A., Wasserman, M.G., Huang,
+T., and Brody, S.L. 2013. Rho-associated pro-
+tein kinase inhibition enhances airway epithelial
+basal-cell proliferation and lentivirus transduc-
+tion. Am. J. Respir . Cell Mol. Biol. 49:341-347.
+doi: 10.1165/rcmb.2013-0046TE.
+Jaffe, A.B., Kaji, N., Durgan, J., and Hall, A.
+2008. Cdc42 controls spindle orientation to
+position the apical surface during epithelial
+morphogenesis. J. Cell Biol. 183:625-633. doi:
+10.1083/jcb.200807121.
+Suprynowicz, F.A., Upadhyay, G., Krawczyk, E.,
+Kramer, S.C., Hebert, J.D., Liu, X., Yuan, H.,
+Cheluvaraju, C., Clapp, P.W., Boucher, R.C., Jr.,
+Kamonjoh, C.M., Randell, S.H., and Schlegel,
+R. 2012. Conditionally reprogrammed cells rep-
+resent a stem-like state of adult epithelial cells.
+Proc. Natl. Acad. Sci. U.S.A. 109:20035-20040.
+doi: 10.1073/pnas.1213241109.
+You, Y . and Brody, S.L. 2013. Culture and
+differentiation of mouse tracheal epithelial
+cells. Methods Mol. Biol. 945:123-143. doi:
+10.1007/978-1-62703-125-7_9.
+Embryonic and
+Extraembryonic
+Stem Cells
+IE.9.15
+Current Protocols in Stem Cell Biology Supplement 37
