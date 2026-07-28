@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "26出国灵感/综述-气道类器官和呼吸道病毒/Part1-AB-5篇综述精读-评估维度提炼.md",
+                "file": "26出国灵感/综述-气道类器官和呼吸道病毒/Part1-AB-试跑检索报告-查准版.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Part1-AB-5篇综述精读-评估维度提炼"
+              "title": "Part1-AB-试跑检索报告-查准版"
             }
           },
           {
@@ -133,13 +133,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "26出国灵感/综述-气道类器官和呼吸道病毒/Part1-AB-5篇综述精读-评估维度提炼.md",
+                "file": "26出国灵感/综述-气道类器官和呼吸道病毒/Part1-AB-试跑检索报告-查准版.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Part1-AB-5篇综述精读-评估维度提炼 的大纲"
+              "title": "Part1-AB-试跑检索报告-查准版 的大纲"
             }
           },
           {
@@ -208,37 +208,39 @@
       "obsidian-table-x:编辑模式表格操作": false
     }
   },
-  "active": "aff4bdb1d5434ebe",
+  "active": "136b4a603b11efa6",
   "lastOpenFiles": [
-    "笔记同步助手/images/bcdf7314f789009ad51df0a640a3071c_MD5.png",
-    "笔记同步助手/images/f5617fa2d479dcce78adb7005e8761cb_MD5.png",
-    "笔记同步助手/images/b5da40a9a38cb61bf09a9fc35078bb77_MD5.png",
+    "26出国灵感/综述-气道类器官和呼吸道病毒/Part1-AB-5篇综述精读-评估维度提炼.md",
+    "笔记同步助手/images/e56c2f306673686c2df44e38fe658ae5_MD5.png",
+    "笔记同步助手/images/23d254806ebc4a18b608db26824df49e_MD5.jpg",
+    "笔记同步助手/images/1eca70e40189ac263a99b3a151cda690_MD5.jpg",
+    "笔记同步助手/images/8550a06c3c01880dcd42625730fd9d0e_MD5.jpg",
+    "笔记同步助手/images/6db3e0f30d1b86e70394e95cb2ecc90e_MD5.jpg",
+    "笔记同步助手/images/080114a1e26b667d0bab2fed31cd5cc3_MD5.jpg",
+    "笔记同步助手/images/54a577128b53c02152255b23801f5ff6_MD5.jpg",
+    "笔记同步助手/images/b8d9a6e45824efe4c621696f644a62be_MD5.jpg",
+    "笔记同步助手/images/601d18b3b7e6474523830529f409dfce_MD5.jpg",
+    "笔记同步助手/images/0eff473108d73d38ad97b218977425f8_MD5.jpg",
+    "笔记同步助手/2026-07-27/使用 Obsidian 作为 AI 时代的 IDE.md",
+    "笔记同步助手/2026-07-27",
+    "笔记同步助手/2026-07-28/学生党 白嫖token 的10大秘诀.md",
+    "笔记同步助手/2026-07-28/很多神级开源 Agent 从它演化而来：77K Star 的 Pi 太强了。.md",
+    "笔记同步助手/2026-07-28",
     "笔记同步助手/2026-07-26/Codex执行慢？编码乱码-.md",
     "笔记同步助手/2026-07-26",
     "26出国灵感/综述-气道类器官和呼吸道病毒/Wang-2026-Human-organoids-3D-drug-discovery/Wang 2026-Human organoids 3D drug discovery-中文精读与讲稿.md",
-    "26出国灵感/综述-气道类器官和呼吸道病毒/Part1-AB-5篇综述精读-评估维度提炼.md",
     "26出国灵感/综述-气道类器官和呼吸道病毒/AB试跑材料全文/AB试跑材料全文下载结果.md",
     "26出国灵感/综述-气道类器官和呼吸道病毒/Part1-AB-试跑检索报告-查准版.md",
     "26出国灵感/综述-气道类器官和呼吸道病毒/Part1-AB-试跑材料检索方案.md",
     "26出国灵感/综述-气道类器官和呼吸道病毒/Wang-2026-Human-organoids-3D-drug-discovery/Organoid drug discovery 40min bilingual script.md",
-    "26出国灵感/综述-气道类器官和呼吸道病毒/Wang-2026-Human-organoids-3D-drug-discovery/Fig2-不同器官类器官的特征与疾病应用.png",
-    "26出国灵感/综述-气道类器官和呼吸道病毒/Wang-2026-Human-organoids-3D-drug-discovery/Fig4-自动化高通量药物筛选.png",
-    "26出国灵感/综述-气道类器官和呼吸道病毒/Wang-2026-Human-organoids-3D-drug-discovery/Fig3-递送极性与工程化复杂度.png",
-    "26出国灵感/综述-气道类器官和呼吸道病毒/Wang-2026-Human-organoids-3D-drug-discovery/Fig1-PSC与TSC两条构建路线.png",
     "26出国灵感/综述-气道类器官和呼吸道病毒/Wang-2026-Human-organoids-3D-drug-discovery",
     "26出国灵感/综述-气道类器官和呼吸道病毒/assets",
-    "26出国灵感/综述-气道类器官和呼吸道病毒/tmp/pdfs/wang2026-note/page-16.png",
-    "26出国灵感/综述-气道类器官和呼吸道病毒/tmp/pdfs/wang2026-note/page-07.png",
-    "26出国灵感/综述-气道类器官和呼吸道病毒/tmp/pdfs/wang2026-note/page-05.png",
-    "26出国灵感/综述-气道类器官和呼吸道病毒/tmp/pdfs/wang2026-note/page-03.png",
     "26出国灵感/综述-气道类器官和呼吸道病毒/tmp/pdfs/wang2026-note",
     "26出国灵感/综述-气道类器官和呼吸道病毒/未命名.md",
     "26出国灵感/综述-气道类器官和呼吸道病毒/tmp/pdfs/wang2026/render",
     "26出国灵感/综述-气道类器官和呼吸道病毒/tmp/pdfs/wang2026/wang2026-columns.txt",
     "26出国灵感/综述-气道类器官和呼吸道病毒/tmp/pdfs/wang2026/wang2026-pypdf-layout.txt",
     "26出国灵感/综述-气道类器官和呼吸道病毒/tmp/pdfs/wang2026/wang2026-pages.txt",
-    "26出国灵感/综述-气道类器官和呼吸道病毒/tmp/pdfs/wang2026",
-    "26出国灵感/综述-气道类器官和呼吸道病毒/tmp/pdfs",
     "26出国灵感/研究计划_方案一_病毒表面蛋白免疫逃逸筛选（疑似寄了）/研究计划_方案一_病毒表面蛋白免疫逃逸筛选（疑似寄了）.md",
     "26出国灵感/综述-气道类器官和呼吸道病毒/deepseek.md",
     "26出国灵感/综述-气道类器官和呼吸道病毒/Total_Execution_Plan-manual-v2-AB.md",
@@ -253,9 +255,6 @@
     "AGENTS-Obsidian.md",
     "毛概作业.md",
     "CLAUDE记忆.md",
-    "未命名 1.md",
-    "未命名.md",
-    "AGENTS-视觉.md",
     "任务管理/任务看板.canvas",
     "任务管理/2026-06-05 工作看板.canvas",
     "GPT画图测试260227/GPT画图测试260227.canvas",
