@@ -1,456 +1,409 @@
-
-
 <<<PAGE 1>>>
+ll
+OPEN ACCESS
 Protocol
 Protocol for the generation of murine
 bronchiolospheres
-Organoid models have been shown to be valuable tools for studying epithelial-mesenchymal
-crosstalk during biological and pathological settings. Our data identiﬁed ACTA2+ PDGFR a+
-repair-supportive mesenchymal cells (RSMCs) as an important component of the conducting
-airway niche. Here, we provide a detailed protocol for culturing airway organoids, or
-bronchiolospheres, which provide an assessm ent of the ability of mesenchymal cells to support
-club-cell growth.
-Ana Ivonne
+AnaIvonne
 Vazquez-Armendariz,
-Werner Seeger,
-Susanne Herold, Elie
-El Agha
+WernerSeeger,
+SusanneHerold,Elie
+ElAgha
 ana.i.
 vazquez-armendariz@
 innere.med.uni-giessen.
-de (A.I.V.-A.)
+de(A.I.V.-A.)
 elie.el-agha@innere.med.
-uni-giessen.de (E.E.A.)
+uni-giessen.de(E.E.A.)
 Highlights
 Bronchiolospheres
-are a useful tool to
-model epithelial-
+areausefultoolto
+modelepithelial-
 mesenchymal
 interactions
-Different types of
-mesenchymal cells
-can be used to
-support club cell
+Differenttypesof
+mesenchymalcells
+canbeusedto
+supportclubcell
 growth
-Cell differentiation
+Celldifferentiation
 within
-bronchiolospheres
-can be assessed after
-16 days of culture
-Bronchiolospheres
-can be passaged
-multiple times
-Vazquez-Armendariz et al.,
-STAR Protocols 2,1 0 0 5 9 4
-June 18, 2021 ª 2021 The
+Organoidmodelshavebeenshowntobevaluabletoolsforstudyingepithelial-mesenchymal bronchiolospheres
+crosstalkduringbiologicalandpathologicalsettings.OurdataidentifiedACTA2+PDGFRa+ canbeassessedafter
+repair-supportivemesenchymalcells(RSMCs)asanimportantcomponentoftheconducting 16daysofculture
+airwayniche.Here,weprovideadetailedprotocolforculturingairwayorganoids,or
+bronchiolospheres,whichprovideanassessmentoftheabilityofmesenchymalcellstosupport Bronchiolospheres
+club-cellgrowth. canbepassaged
+multipletimes
+Vazquez-Armendarizetal.,
+STARProtocols2,100594
+June18,2021ª2021The
 Author(s).
 https://doi.org/10.1016/
 j.xpro.2021.100594
+<<<PAGE 2>>>
 ll
 OPEN ACCESS
-
-<<<PAGE 2>>>
 Protocol
 Protocol for the generation of murine
 bronchiolospheres
-Ana Ivonne Vazquez-Armendariz, 1,2,* Werner Seeger,1 Susanne Herold,1 and Elie El Agha 1,3,*
-1Department of Internal Medicine, Universities of Giessen and Marburg Lung Center (UGMLC), Cardio-Pulmonary Institute
-(CPI), Institute for Lung Health (ILH), member of the German Center for Lung Research (DZL), Justus-Liebig University
-Giessen, 35392 Giessen, Hessen, Germany
-2Technical contact
-3Lead contact
-*Correspondence: ana.i.vazquez-armendariz@innere.med.uni-giessen.de (A.I.V.-A.),
-elie.el-agha@innere.med.uni-giessen.de (E.E.A.)
+Ana Ivonne Vazquez-Armendariz,1,2,* Werner Seeger,1 Susanne Herold,1 and Elie El Agha1,3,*
+1DepartmentofInternalMedicine,UniversitiesofGiessenandMarburgLungCenter(UGMLC),Cardio-PulmonaryInstitute
+(CPI),InstituteforLungHealth(ILH),memberoftheGermanCenterforLungResearch(DZL),Justus-LiebigUniversity
+Giessen,35392Giessen,Hessen,Germany
+2Technicalcontact
+3Leadcontact
+*Correspondence:ana.i.vazquez-armendariz@innere.med.uni-giessen.de(A.I.V.-A.),
+elie.el-agha@innere.med.uni-giessen.de(E.E.A.)
 https://doi.org/10.1016/j.xpro.2021.100594
 SUMMARY
 Organoid models have been shown to be valuable tools for studying epithelial-
-mesenchymal crosstalk during biological and pathological settings. Our data identi-
-ﬁed ACTA2+ PDGFR a+ repair-supportive mesenchymal cells as an important
+mesenchymalcrosstalkduringbiologicalandpathologicalsettings.Ourdataidenti-
+fied ACTA2+ PDGFRa+ repair-supportive mesenchymal cells as an important
 component of the conducting airway niche. Here, we provide a detailed protocol
-for culturing airway organoids, or bronchiolospheres, which provide an assessment
-of the ability of mesenchymal cells to support club-cell growth.
-For complete details on the use and execu tion of this protocol, please refer to
-Moiseenko et al. (2020).
-BEFORE YOU BEGIN
-Timing: 15 days
-Tamoxifen administration and naphthalene injury
-Lung mesenchymal cells used for the co-culture with club cells are obtained from 8–12-week-old
-Acta2-Cre-ERT2; tdTomato ﬂox mice 14 days after naphthalene-induced injury. Provide tamoxifen-
-containing food at a concentration of 0.4 g of tamo xifen per Kg of food (Altromin, Germany) starting
-at one day before naphthalene treatment for a peri od of 14 days. Administer naphthalene intraper-
-itoneally at a concentration of 0.275 mg per gram of body weight.
-Note: For naphthalene treatment, female mice ar e preferably used since they are more sus-
-ceptible to injury.
-Note: Naphthalene stock solution (20 mg/mL) is p repared by dissolving naphthalene powder
-in corn oil at 20 /C14C–25/C14C while vortexing in the dark.
-KEY RESOURCES TABLE
-REAGENT or RESOURCE SOURCE IDENTIFIER
+forculturingairwayorganoids,orbronchiolospheres,whichprovideanassessment
+oftheabilityofmesenchymalcellstosupportclub-cellgrowth.
+For complete details on the use and execution of this protocol, please refer to
+Moiseenkoetal.(2020).
+BEFOREYOUBEGIN
+Timing:15days
+Tamoxifenadministrationandnaphthaleneinjury
+Lung mesenchymalcellsused for theco-culturewith club cellsareobtained from8–12-week-old
+Acta2-Cre-ERT2;tdTomatofloxmice14daysafternaphthalene-inducedinjury.Providetamoxifen-
+containingfoodataconcentrationof0.4goftamoxifenperKgoffood(Altromin,Germany)starting
+atonedaybeforenaphthalenetreatmentforaperiodof14days.Administernaphthaleneintraper-
+itoneallyataconcentrationof0.275mgpergramofbodyweight.
+Note:Fornaphthalenetreatment,femalemicearepreferablyusedsincetheyaremoresus-
+ceptibletoinjury.
+Note:Naphthalenestocksolution(20mg/mL)ispreparedbydissolvingnaphthalenepowder
+incornoilat20(cid:1)C–25(cid:1)Cwhilevortexinginthedark.
+KEYRESOURCESTABLE
+REAGENTorRESOURCE SOURCE IDENTIFIER
 Antibodies
-APC Rat monoclonal anti-PDGFR a BioLegend Cat#135907; RRID:
+APCRatmonoclonalanti-PDGFRa BioLegend Cat#135907;RRID:
 AB_2043969
-APC Rat IgG2a BioLegend Cat#400511; RRID:
+APCRatIgG2a BioLegend Cat#400511;RRID:
 AB_1952838
-(Continued on next page )
-STAR Protocols 2, 100594, June 18, 2021 ª 2021 The Author(s).
-This is an open access article under the CC BY-NC-ND license ( http://creativecommons.org/licenses/by-nc-nd/4.0/).
-1
-ll
-OPEN ACCESS
-
+(Continuedonnextpage)
+STARProtocols2,100594,June18,2021ª2021TheAuthor(s). 1
+ThisisanopenaccessarticleundertheCCBY-NC-NDlicense(http://creativecommons.org/licenses/by-nc-nd/4.0/).
 <<<PAGE 3>>>
+ll
+OPEN ACCESS Protocol
 Continued
-REAGENT or RESOURCE SOURCE IDENTIFIER
-Chemicals, peptides, and recombinant proteins
+REAGENTorRESOURCE SOURCE IDENTIFIER
+Chemicals,peptides,andrecombinantproteins
 Naphthalene Sigma-Aldrich Cat#84679
 Tamoxifen Sigma-Aldrich Cat#T5648
 Insulin-Transferrin-Selenium Biozym Cat#41400-045
 l-Glutamine Gibco Cat#11539876
 PBS Gibco Cat#10010023
 EDTA Roth Cat#6764.1
-Matrigel matrix Corning Cat#356231
+Matrigelmatrix Corning Cat#356231
 DMEM Gibco Cat#12491015
 aMEM Gibco Cat#41061029
 Dispase Corning Cat#354235
-Collagenase IV Gibco Cat # 17104019
-DNase I Serva Cat#18535.01
-Heparin Stemcell Technologies Cat#07980
-Y-27632 ROCK inhibitor Stemcell Technologies Cat#72304
+CollagenaseIV Gibco Cat#17104019
+DNaseI Serva Cat#18535.01
+Heparin StemcellTechnologies Cat#07980
+Y-27632ROCKinhibitor StemcellTechnologies Cat#72304
 rmFGF10 R&D Cat#6224-FG-025/CF
 rmHGF R&D Cat#2207-HG-025/CF
 Ethanol Merck Cat#32305
 Hepes Gibco Cat#12509079
-Matrigel matrix Corning Cat #356231
+Matrigelmatrix Corning Cat#356231
 HBSS Gibco Cat#14175095
-FCS Cell Biologics Cat#6912
+FCS CellBiologics Cat#6912
 Pen/Strep/L-Glut Merck Cat#G6784
-Corn oil Sigma-Aldrich Cat#C8267-500ML
-Experimental models: organisms/strains
-Mouse: Tg(Acta2-cre/ERT2)12Pcn Pierre Chambon ( Wendling et al.,
+Cornoil Sigma-Aldrich Cat#C8267-500ML
+Experimentalmodels:organisms/strains
+Mouse:Tg(Acta2-cre/ERT2)12Pcn PierreChambon(Wendlingetal., MGI:3831907
 2009)
-MGI: 3831907
-Mouse: B6;129S6-Gt(ROSA)26Sor tm9(CAG-tdTomato)
+Mouse:B6;129S6-Gt(ROSA)26Sortm9(CAG-tdTomato) JacksonLaboratory RRID:IMSR_JAX:007905
 Hze/J
-Jackson Laboratory RRID: IMSR_JAX:007905
-Mouse: B6N.129S6(Cg)-Scgb1a1 tm1(cre/ERT)Blh
-/J Jackson Laboratory RRID: IMSR_JAX:016225
-Mouse: B6.Cg-Gt(ROSA)26Sortm14(CAG-tdTomato)Hze/
+Mouse:B6N.129S6(Cg)-Scgb1a1tm1(cre/ERT)Blh /J JacksonLaboratory RRID:IMSR_JAX:016225
+Mouse:B6.Cg-Gt(ROSA)26Sortm14(CAG-tdTomato)Hze/JacksonLaboratory RRID:IMSR_JAX:007914
 J
-Jackson Laboratory RRID: IMSR_JAX:007914
 Software
-FlowJo FlowJo, LLC https://www.ﬂowjo.com/
-solutions/ﬂowjo
-RRID: SCR_008520
+FlowJo FlowJo,LLC https://www.flowjo.com/
+solutions/flowjo
+RRID:SCR_008520
 Other
-5 mL polypropylene
-round-bottom tube
-Corning Cat#352063
-5 mL polystyrene round-bottom
-tube with cell-strainer cap
-Corning Cat#352235
-60-mm glass petri dishes Sigma-Aldrich Cat#CLS7016560
-Scalpel blades Fisher Scientiﬁc Cat# S95937A
-Cell culture inserts 0.4 mm,
-12 mm diameter
-Millicell Cat#PICM01250
-24-Well cell culture plare Greiner Bio-One Cat#662160
-Cell strainer 100 mm Sarstedt Cat#833945100
-Cell strainer 70 mm Sarstedt Cat#833945070
-0.2 mm ﬁlter Sarstedt Cat#831826001
-BD FACSAriaTMIII Cell Sorter BD Biosciences Cat#648282
-GentleMACS/C226 Dissociator MACS Miltenyi
+5mLpolypropylene Corning Cat#352063
+round-bottomtube
+5mLpolystyreneround-bottom Corning Cat#352235
+tubewithcell-strainercap
+60-mmglasspetridishes Sigma-Aldrich Cat#CLS7016560
+Scalpelblades FisherScientific Cat#S95937A
+Cellcultureinserts0.4mm, Millicell Cat#PICM01250
+12mmdiameter
+24-Wellcellcultureplare GreinerBio-One Cat#662160
+Cellstrainer100mm Sarstedt Cat#833945100
+Cellstrainer70mm Sarstedt Cat#833945070
+0.2mmfilter Sarstedt Cat#831826001
+BDFACSAriaTMIIICellSorter BDBiosciences Cat#648282
+GentleMACS(cid:2)Dissociator MACSMiltenyi Cat#130-093-235
 Biotec
-Cat#130-093-235
-Laminar hood Class II Heraeus Cat#50033851
-Mettler-Toledo/C228 pH meter Sigma-Aldrich Cat#MT30130864
-ll
-OPEN ACCESS
-2 STAR Protocols 2, 100594, June 18, 2021
-Protocol
-
+LaminarhoodClassII Heraeus Cat#50033851
+Mettler-Toledo(cid:3)pHmeter Sigma-Aldrich Cat#MT30130864
+2 STARProtocols2,100594,June18,2021
 <<<PAGE 4>>>
-MATERIALS AND EQUIPMENT
-All the chemicals and reagents should be kept sterile. Media and buffers should be prepared under a
-Class II biological hood and ﬁlter-sterilized using a 0.2 mm ﬁlter (Sarstedt). For pH adjustment, use
-1MH C lo rN a O H( M e r c k ) .
-Note: This medium should be freshly made and kept at 4 /C14Cf o ram a x i m u mo f2h .
-Note: Adjust PH to 7.2 and store at 4 /C14C for no longer than 2 months.
-Note: Store at 4 /C14C for no longer than 2 weeks.
-Note: For the initial culture, prepare 5 mL of organoid medium containing 10 mM of PBS-re-
-constituted ROCK inhibitor.
-Alternatives: DMEM may also be used.
-Note: D i s s o l v ei n1Lo fd d H 2 Oa n da d j u s tP Ht o7 . 4 .
-Note: Store at 20 /C14C–25/C14C for no longer than 2 months.
-Digestion medium
-Reagent Final concentration Amount
-DMEM n/a 48.75 mL
-HEPES 25 mM 1.25 mL
-DNase I 10 U/mL 0.005 mL
-Total 50 mL
-MACS buffer
-Reagent Final concentration Amount
-PBS n/a 46.05 mL
-EDTA 2 mM 3.7 mL
-FCS 0.5% 0.25 mL
-Total 50 mL
-Organoid medium
-Reagent Final concentration Amount
-aMEM n/a 44.45 mL
-FCS 10% 5 mL
-Pen/Strep/L-Glut 100 U/mL /0.1 mg/mL /2 mM 0.5 mL
-Insulin-transferrin-selenium 10 mg/mL-5.5 mg/mL–6.7 ng/mL 0.5 mL
-Heparin 4 mg/mL 0.05 mL
-Total 50 mL
-RBC lysis buffer
-Reagent Final concentration Amount
-NH4Cl 155 mM 90 g
-KHCO3 10 mM 10 g
-EDTA 0.1 mM 370 mg
 ll
-OPEN ACCESS
-STAR Protocols 2, 100594, June 18, 2021 3
-Protocol
-
+Protocol OPEN ACCESS
+MATERIALSANDEQUIPMENT
+Allthechemicalsandreagentsshouldbekeptsterile.Mediaandbuffersshouldbepreparedundera
+ClassIIbiologicalhoodandfilter-sterilizedusinga0.2mmfilter(Sarstedt).ForpHadjustment,use
+1MHClorNaOH(Merck).
+Digestionmedium
+Reagent Finalconcentration Amount
+DMEM n/a 48.75mL
+HEPES 25mM 1.25mL
+DNaseI 10U/mL 0.005mL
+Total 50mL
+Note:Thismediumshouldbefreshlymadeandkeptat4(cid:1)Cforamaximumof2h.
+MACSbuffer
+Reagent Finalconcentration Amount
+PBS n/a 46.05mL
+EDTA 2mM 3.7mL
+FCS 0.5% 0.25mL
+Total 50mL
+Note:AdjustPHto7.2andstoreat4(cid:1)Cfornolongerthan2months.
+Organoidmedium
+Reagent Finalconcentration Amount
+aMEM n/a 44.45mL
+FCS 10% 5mL
+Pen/Strep/L-Glut 100U/mL/0.1mg/mL/2mM 0.5mL
+Insulin-transferrin-selenium 10mg/mL-5.5mg/mL–6.7ng/mL 0.5mL
+Heparin 4mg/mL 0.05mL
+Total 50mL
+Note:Storeat4(cid:1)Cfornolongerthan2weeks.
+Note:Fortheinitialculture,prepare5mLoforganoidmediumcontaining10mMofPBS-re-
+constitutedROCKinhibitor.
+Alternatives:DMEMmayalsobeused.
+RBClysisbuffer
+Reagent Finalconcentration Amount
+NH4Cl 155mM 90g
+KHCO3 10mM 10g
+EDTA 0.1mM 370mg
+Note:Dissolvein1LofddH2OandadjustPHto7.4.
+Note:Storeat20(cid:1)C–25(cid:1)Cfornolongerthan2months.
+STARProtocols2,100594,June18,2021 3
 <<<PAGE 5>>>
-STEP-BY-STEP METHOD DETAILS
-Lung homogenate preparation
-Timing: 2.5 h
-Two weeks after naphthalene treatment, prepare the lung homogenates needed for the co-culture
-from Acta2-Cre-ERT2; tdTomato ﬂox mice and Scgb1a1 Cre-ERT ;t d T o m a t oﬂox mice.
-Note: Female 12- to 14-week-old Scgb1a1Cre-ERT ;t d T o m a t oﬂox mice can be used without
-tamoxifen treatment.
-1. Euthanize animals by exposure to CO 2 followed by cervical dislocation.
-2. Sterilize the mouse thorax and abdomen with 80% ethanol.
-3. Open the thoracic cavity to expose the lungs and heart using surgical scissors.
-4. Use a 25 G needle to perfuse the lungs with 20 mL of sterile Hank’s Balanced Salt Solution (HBSS,
-Life Technologies) through the right ventricle until the lungs are free of blood.
-5. Lung harvest:
-a. To obtain lung cell suspensions from Acta2-Cre-ERT2; tdTomato
-ﬂox mice:
-i. Harvest the lungs and cut them into small pieces ( /C242 mm) in a small petri dish using a blade.
-i i . P l a c et h el u n gp i e c e si n1 5m LF a l c o nt u b e sa n di n c u b a t ei n5m Lo f0 . 5 %c o l l a g e n a s et y p e
-IV in HBSS for 45 min at 37 /C14C while rotating.
-b. To obtain lung cell suspensions from Scgb1a1 Cre-ERT ;t d T o m a t oﬂox mice:
-i. Make a small incision in the exposed trachea to insert a shortened 21 G cannula (ﬁrmly
-ﬁxed).
-ii. Instill 1.5 mL of dispase through the trachea.
-iii. Remove the cannula and immediately tie the trachea using a surgical suture.
-iv. Harvest the lungs and place them in separate Eppendorf tubes containing 2 mL of dispase
-v. Incubate for 40 min at 20
-/C14C–25/C14C.
-vi. Remove the trachea and heart using surgical scissors.
-vii. Homogenize the lungs in 10 mL of digestion medium using GentleMACS /C226 Dissociator
-(MACS Miltenyi Biotech).
-CRITICAL: Be careful not to digest lungs longer than 45 min. This could lead to signiﬁcant
-loss of cells.
-6. Filter the homogenates through 70 mm and 40 mm nylon cell strainers (BD Biosciences).
-7. Centrifuge at 500 3g for 10 min at 4 /C14C.
-Note: Wash the ﬁlters using 5 mL of DMEM if necessary.
+ll
+OPEN ACCESS Protocol
+STEP-BY-STEPMETHODDETAILS
+Lunghomogenatepreparation
+Timing:2.5h
+Twoweeksafternaphthalenetreatment,preparethelunghomogenatesneededfortheco-culture
+fromActa2-Cre-ERT2;tdTomatofloxmiceandScgb1a1Cre-ERT;tdTomatofloxmice.
+Note: Female 12- to 14-week-old Scgb1a1Cre-ERT; tdTomatoflox mice can be used without
+tamoxifentreatment.
+1. EuthanizeanimalsbyexposuretoCO followedbycervicaldislocation.
+2
+2. Sterilizethemousethoraxandabdomenwith80%ethanol.
+3. Openthethoraciccavitytoexposethelungsandheartusingsurgicalscissors.
+4. Usea25Gneedletoperfusethelungswith20mLofsterileHank’sBalancedSaltSolution(HBSS,
+LifeTechnologies)throughtherightventricleuntilthelungsarefreeofblood.
+5. Lungharvest:
+a. ToobtainlungcellsuspensionsfromActa2-Cre-ERT2;tdTomatofloxmice:
+i. Harvestthelungsandcutthemintosmallpieces((cid:3)2mm)inasmallpetridishusingablade.
+ii. Placethelungpiecesin15mLFalcontubesandincubatein5mLof0.5%collagenasetype
+IVinHBSSfor45minat37(cid:1)Cwhilerotating.
+b. ToobtainlungcellsuspensionsfromScgb1a1Cre-ERT;tdTomatofloxmice:
+i. Makeasmallincisionintheexposedtracheatoinsertashortened21Gcannula(firmly
+fixed).
+ii. Instill1.5mLofdispasethroughthetrachea.
+iii. Removethecannulaandimmediatelytiethetracheausingasurgicalsuture.
+iv. HarvestthelungsandplacetheminseparateEppendorftubescontaining2mLofdispase
+v. Incubatefor40minat20(cid:1)C–25(cid:1)C.
+vi. Removethetracheaandheartusingsurgicalscissors.
+vii. Homogenize the lungs in 10 mL of digestion medium using GentleMACS(cid:2)Dissociator
+(MACSMiltenyiBiotech).
+CRITICAL:Becarefulnottodigestlungslongerthan45min.Thiscouldleadtosignificant
+lossofcells.
+6. Filterthehomogenatesthrough70mmand40mmnyloncellstrainers(BDBiosciences).
+7. Centrifugeat5003gfor10minat4(cid:1)C.
+Note:Washthefiltersusing5mLofDMEMifnecessary.
 Note: The optimal yield expected at this stage for both cell types is between 15 3106 to
-303106 cells per lung.
-Primary cell isolation
-Timing: 3 h
-After the preparation of Acta2-Cre-ERT2; tdTomato ﬂox and Scgb1a1 Cre-ERT ;t d T o m a t oﬂox lung cell
-suspensions, use a cell sorter (For e.g., BD FACSAria /C228 III) to isolate mesenchymal and club cells,
+303106cellsperlung.
+Primarycellisolation
+Timing:3h
+AfterthepreparationofActa2-Cre-ERT2;tdTomatofloxandScgb1a1Cre-ERT;tdTomatofloxlungcell
+suspensions,useacellsorter(Fore.g.,BDFACSAria(cid:3)III)toisolatemesenchymalandclubcells,
 respectively.
-8. Stain Acta2-Cre-ERT2; tdTomato ﬂox cells
-ll
-OPEN ACCESS
-4 STAR Protocols 2, 100594, June 18, 2021
-Protocol
-
+8. StainActa2-Cre-ERT2;tdTomatofloxcells
+4 STARProtocols2,100594,June18,2021
 <<<PAGE 6>>>
-a. Resuspend cells in 50 mL of anti-PDGFR a antibodies (1:100) or isoty p ec o n t r o li nM A C Sb u f f e r
-f o r2 0m i no ni c ei nt h ed a r k .
-b. Wash cells with 100 mLo fM A C Sb u f f e r .
-c. Centrifuge cells at 500 3 g for 10 min at 4 /C14C.
-d. Resuspend the cell pellet in 300 mL of MACS buffer.
-9. Resuspend the cell su spension obtained from Scgb1a1 Cre-ERT ;t d T o m a t oﬂox mice in 300 mLo f
-MACS buffer.
-Filter cells with a ﬁnal volume of 500 mL of MACS buffer using 40 mm mesh into FACS tubes for cell
+ll
+Protocol OPEN ACCESS
+a. Resuspendcellsin50mLofanti-PDGFRaantibodies(1:100)orisotypecontrolinMACSbuffer
+for20minoniceinthedark.
+b. Washcellswith100mLofMACSbuffer.
+c. Centrifugecellsat5003gfor10minat4(cid:1)C.
+d. Resuspendthecellpelletin300mLofMACSbuffer.
+9. Resuspend the cell suspension obtained from Scgb1a1Cre-ERT; tdTomatoflox mice in 300 mL of
+MACSbuffer.
+Filtercellswithafinalvolumeof500mLofMACSbufferusing40mmmeshintoFACStubesforcell
 sorting.
-10. Set the appropriate gating strategy ( Figure 1 ).
-a. Isolate PDGFR a+ tdTom+ cells from the lung homogenates of Acta2-Cre-ERT2; tdTomato ﬂox
-mice ( Figure 1 A) ( troubleshooting 1 ).
-b. Isolate tdTom+ cells from the lung homogenates of Scgb1a1Cre-ERT ;t d T o m a t oﬂox mice ( Fig-
-ure 1 B) ( troubleshooting 2 ).
-11. Perform cell sorting into FACS tubes containing 350 mL organoid medium using an 85 mm nozzle
-(troubleshooting 3 ).
-Note: The expected viability post-sort is around 9 6% for mesenchymal cells and 86% for club
+10. Settheappropriategatingstrategy(Figure1).
+a. IsolatePDGFRa+tdTom+cellsfromthelunghomogenatesofActa2-Cre-ERT2;tdTomatoflox
+mice(Figure1A)(troubleshooting1).
+b. IsolatetdTom+cellsfromthelunghomogenatesofScgb1a1Cre-ERT;tdTomatofloxmice(Fig-
+ure1B)(troubleshooting2).
+11. PerformcellsortingintoFACStubescontaining350mLorganoidmediumusingan85mmnozzle
+(troubleshooting3).
+Note:Theexpectedviabilitypost-sortisaround96%formesenchymalcellsand86%forclub
 cells.
-Organoid culture
-Timing: 14 days
-Following cell isolation, co-culture mesenchym al and epithelial cells for 14 days to generate
+Organoidculture
+Timing:14days
+Following cell isolation, co-culture mesenchymal and epithelial cells for 14 days to generate
 bronchiolospheres.
-12. Centrifuge ﬂow-sorted cells for 5 min, 500 3 g at 4 /C14C.
-13. Resuspend the cells in organoid medium.
-a. Adjust cell concentrations as follows:
-i. 2 3104 PDGFRa+t d T o m +c e l l sp e r2 5mL of medium per cell culture insert.
-ii. 1 3103 SCGB1A1+ cells per 25 mL of medium per cell culture insert.
-Note: The expected number of sorted cells per mouse is /C2415,000 PDGFR a+t d T o m +m e s e n -
-chymal cells and /C24100,000 SCGB1A1+ club cells.
+12. Centrifugeflow-sortedcellsfor5min,5003gat4(cid:1)C.
+13. Resuspendthecellsinorganoidmedium.
+a. Adjustcellconcentrationsasfollows:
+i. 23104PDGFRa+tdTom+cellsper25mLofmediumpercellcultureinsert.
+ii. 13103SCGB1A1+cellsper25mLofmediumpercellcultureinsert.
+Note:Theexpectednumberofsortedcellspermouseis(cid:3)15,000PDGFRa+tdTom+mesen-
+chymalcellsand(cid:3)100,000SCGB1A1+clubcells.
 Note: For each culture, between 15,000 and 20,000 mesenchymal cells and a minimum of
-5,000 epithelial cells are required.
-CRITICAL: It is advisable to perform a cell viability and quantiﬁcation assay before the cul-
-ture if the total number of isolated cells is lower than expected.
-14. Mix both cell populations to end up with a volume of 50 mL of organoid medium per insert.
-15. Dilute PDGFR a+ tdTom+ cells and SCGB1A1+ cells in 50 mL (per insert) with cold growth factor-
-reduced Matrigel at a 1:1 ratio as described before ( Quantius et al., 2016 )( troubleshooting 4 ).
-CRITICAL: Mix well but carefully to avoid bubble formation.
-CRITICAL: Work as fast as possible to avoid Matrigel polymerization in the tube.
-16. Add 100 mL of mixed cells in Matrigel on top of a 12-mm cell culture insert.
-ll
-OPEN ACCESS
-STAR Protocols 2, 100594, June 18, 2021 5
-Protocol
-
+5,000epithelialcellsarerequired.
+CRITICAL:Itisadvisabletoperformacellviabilityandquantificationassaybeforethecul-
+tureifthetotalnumberofisolatedcellsislowerthanexpected.
+14. Mixbothcellpopulationstoendupwithavolumeof50mLoforganoidmediumperinsert.
+15. DilutePDGFRa+tdTom+cellsandSCGB1A1+cellsin50mL(perinsert)withcoldgrowthfactor-
+reducedMatrigelata1:1ratioasdescribedbefore(Quantiusetal.,2016)(troubleshooting4).
+CRITICAL:Mixwellbutcarefullytoavoidbubbleformation.
+CRITICAL:WorkasfastaspossibletoavoidMatrigelpolymerizationinthetube.
+16. Add100mLofmixedcellsinMatrigelontopofa12-mmcellcultureinsert.
+STARProtocols2,100594,June18,2021 5
 <<<PAGE 7>>>
-Note: Add the cell mixture drop by drop placing the pipette in the middle of the insert to
-ensure cell dispersion into the entire insert.
-17. Place inserts in a 24-well plate.
-18. Incubate for 15 min at 37 /C14C to allow Matrigel polymerization.
-19. Remove the insert and add 350 mL of organoid medium into each well.
-CRITICAL: Add ROCK inhibitor at a concentration of 10 mM to the organoid medium for
-14–18 h, then change to regular organoid medium.
-20. Place back the insert into the well containing the organoid medium and incubate at 37 /C14Cw i t h
-5% CO 2 for at least 2 weeks.
+ll
+OPEN ACCESS Protocol
+Figure1. Gatingstrategyforsortingmesenchymalandepithelialcellpopulations
+(A)RepresentativeflowcytometricdotplotsofisotypecontrolandPDGFRaandtdTomatoexpressioninmesenchymalcells
+isolatedfromlunghomogenatesofActa2-Cre-ERT2;tdTomatofloxmice14daysafternaphthaleneinjury.
+(B)RepresentativeflowcytometricdotplotsoftdTomatoexpressioninclubcellsisolatedfromlunghomogenatesof
+Scgb1a1Cre-ERT;tdTomatofloxmice.
+Note:Addthecellmixturedrop bydropplacingthepipetteinthemiddleoftheinsert to
+ensurecelldispersionintotheentireinsert.
+17. Placeinsertsina24-wellplate.
+18. Incubatefor15minat37(cid:1)CtoallowMatrigelpolymerization.
+19. Removetheinsertandadd350mLoforganoidmediumintoeachwell.
+CRITICAL:AddROCKinhibitorataconcentrationof10mMtotheorganoidmediumfor
+14–18h,thenchangetoregularorganoidmedium.
+20. Placebacktheinsertintothewellcontainingtheorganoidmediumandincubateat37(cid:1)Cwith
+5%CO foratleast2weeks.
+2
 21. Change medium three times per week for at least 14 days to generate bronchiolospheres
-(troubleshooting 5 ).
-Figure 1. Gating strategy for sorting mesenchymal and epithelial cell populations
-(A) Representative ﬂow cytometric dot plots of isotype control and PDGFRa and tdTomato expression in mesenchymal cells
-isolated from lung homogenates of Acta2-Cre-ERT2; tdTomatoﬂox mice 14 days after naphthalene injury.
-(B) Representative ﬂow cytometric dot plots of tdTomato ex pression in club cells isolated from lung homogenates of
-Scgb1a1 Cre-ERT ; tdTomato ﬂox mice.
-ll
-OPEN ACCESS
-6 STAR Protocols 2, 100594, June 18, 2021
-Protocol
-
+(troubleshooting5).
+6 STARProtocols2,100594,June18,2021
 <<<PAGE 8>>>
-Note: Bronchiolospheres can be kept in culture for at least 4 weeks.
-EXPECTED OUTCOMES
-Using this detailed protocol for the isolation an d 3D co-culture of lineage-labeled mesenchymal
+ll
+Protocol OPEN ACCESS
+Figure2. Bronchiolosphereformationafterco-cultureofmesenchymalandclubcells
+(A)Whole-welloverview(left),representativeimageofabronchiolosphere(whitesquare;middle)andamesenchymalcellcluster(yellowsquare;right)
+atday14ofco-cultureofPDGFRa+tdTom+cellsandSCGB1A1+clubcells.Scalebarsrepresent100mm.
+(B)RepresentativeconfocalimageofanalveolospherestainedforLysoTracker(stainslamellarbodiesinAECII).Scalebarrepresents100mm.
+(C)RepresentativeconfocalimageofabronchiolospherestainedforSCGB1A1(clubcells)andacetylatedtubulin(ciliatedcells).Scalebarsrepresent
+50mm.
+(D)Whole-welloverviewofbronchiolospheresgrowninthepresenceorabsenceofmesenchymalcellsbeforeandafterpassaging.Notethat
+bronchiolospheresgrownintheabsenceofmesenchymalcellsweresupplementedwithrmFGF10andrmHGF.Scalebarsrepresent100mm.
+Note:Bronchiolospherescanbekeptincultureforatleast4weeks.
+EXPECTEDOUTCOMES
+Using this detailed protocol for the isolation and 3D co-culture of lineage-labeled mesenchymal
 and epithelial cell populations, it is expected that tdTom+ bronchiolospheres will develop after
-14 days of culture ( Figure 2 A). Notably, repair-supportive mesenchymal cells (RSMCs) classical spin-
-dle-shape morphology can also be observed around the bronchiolospheres ( Figure 2 A). The typical
-morphology of bronchiolospheres has been addressed in a previous publication ( Vazquez-Armen-
-dariz et al., 2020 ). Besides bronchiolospheres, a low percentage of Lysotracker+ alveolospheres
-c a na l s ob ed e t e c t e d( 1 4 %G3%) ( Figure 2 B). At day 14 of culture, these organoids mostly express
-the club cell marker SCGB1A1 with only a f ew acetylated tubulin+ ciliated cells ( Figure 2 C). Never-
-theless, abundant beating cilia can be observed wit hin bronchiolospheres at day 16 of culture, indi-
-cating the presence of mature ciliated cells ( Methods video S1 ) .A tt h i ss t a g e ,t h es u p p o r t i v er o l eo f
-mesenchymal cells for club-cell growth can be asse ssed by quantiﬁcation of bronchiolosphere col-
-ony-forming efﬁciency (CFE) and size, as well as ident iﬁcation of ciliated cell differentiation by immu-
-noﬂuorescence/live imaging. Bronchiolospheres can be passaged up to at least 5 times by using
-freshly isolated mesenchymal cells. Alternatively, the mesenchymal component can be substituted
-by a mixture of recombinant mouse (rm)FGF10 and rmHGF; however, the latter approach leads to
-Figure 2. Bronchiolosphere formation after co-culture of mesenchymal and club cells
-(A) Whole-well overview (left), representative image of a bronchiolospher e (white square; middle) and a mesenchymal cell cluster (yellow square; r ight)
-at day 14 of co-culture of PDGFR a+ tdTom+ cells and SCGB1A1+ club cells. Scale bars represent 100 mm.
-(B) Representative confocal image of an alveolosphere stained for Lys oTracker (stains lamellar bodies in AECII). Scale bar represents 100 mm.
-(C) Representative confocal image of a bronchiolosphere stained for SCGB1A1 (club cells) and acetylated tubulin (ciliated cells). Scale bars repre sent
-50 mm.
-(D) Whole-well overview of bronchiolospheres grown in the presence or absence of mesenchymal cells before and after passaging. Note that
-bronchiolospheres grown in the absence of mesenchymal cells we re supplemented with rmFGF10 and rmHGF. Scale bars represent 100 mm.
-ll
-OPEN ACCESS
-STAR Protocols 2, 100594, June 18, 2021 7
-Protocol
-
+14daysofculture(Figure2A).Notably,repair-supportivemesenchymalcells(RSMCs)classicalspin-
+dle-shapemorphologycanalsobeobservedaroundthebronchiolospheres(Figure2A).Thetypical
+morphologyofbronchiolosphereshasbeenaddressedinapreviouspublication(Vazquez-Armen-
+dariz et al., 2020). Besides bronchiolospheres, a low percentage of Lysotracker+ alveolospheres
+canalsobedetected(14%G3%)(Figure2B).Atday14ofculture,theseorganoidsmostlyexpress
+theclubcellmarkerSCGB1A1withonlyafewacetylatedtubulin+ciliatedcells(Figure2C).Never-
+theless,abundantbeatingciliacanbeobservedwithinbronchiolospheresatday16ofculture,indi-
+catingthepresenceofmatureciliatedcells(MethodsvideoS1).Atthisstage,thesupportiveroleof
+mesenchymalcellsforclub-cellgrowthcanbeassessedbyquantificationofbronchiolospherecol-
+ony-formingefficiency(CFE)andsize,aswellasidentificationofciliatedcelldifferentiationbyimmu-
+nofluorescence/liveimaging.Bronchiolospherescanbepassageduptoatleast5timesbyusing
+freshlyisolatedmesenchymalcells.Alternatively,themesenchymalcomponentcanbesubstituted
+byamixtureofrecombinantmouse(rm)FGF10andrmHGF;however,thelatterapproachleadsto
+STARProtocols2,100594,June18,2021 7
 <<<PAGE 9>>>
-signiﬁcant reduction in bronchiolosphere CFE, lifespan until passaging and ciliated cell differentia-
-tion ( Figure 2 D).
+ll
+OPEN ACCESS Protocol
+significantreductioninbronchiolosphereCFE,lifespanuntilpassagingandciliatedcelldifferentia-
+tion(Figure2D).
 LIMITATIONS
-Although most of the organoids are bronchiolospheres ( /C2486%), other types of organoids such as al-
-veolospheres can also be generated ( /C2414%). This is due to the nature of isolated mesenchymal cells;
-in this case, RSMCs. If RSMCs are substituted by ai rway smooth muscle cell (ASMC)-enriched cells
-(PDGFRa- tdTom+), only bronchiolospheres will be generated albeit at signiﬁcantly lower CFE ( Moi-
-seenko et al., 2020 ). Note that this bronchiolosphere mode l can also be used to test the ability of
+Althoughmostoftheorganoidsarebronchiolospheres((cid:3)86%),othertypesoforganoidssuchasal-
+veolospherescanalsobegenerated((cid:3)14%).Thisisduetothenatureofisolatedmesenchymalcells;
+inthiscase,RSMCs.IfRSMCsaresubstitutedbyairwaysmoothmusclecell(ASMC)-enrichedcells
+(PDGFRa-tdTom+),onlybronchiolosphereswillbegeneratedalbeitatsignificantlylowerCFE(Moi-
+seenkoetal.,2020).Notethatthisbronchiolospheremodelcanalsobeusedtotesttheabilityof
 other mesenchymal cell populations to support club cell growth in vitro such as EpCAM- CD31-
-CD45- SCA-1+ resident mesenchymal cells.
+CD45-SCA-1+residentmesenchymalcells.
 TROUBLESHOOTING
-Problem 1
-There is no access to mesenchymal cells (step #10a).
-Potential solution
-Club cells can be cultured in organoid medium containing 50 ng/mL rmFGF10 and 30 ng/mL rmHGF.
-Bronchiolospheres will develop after 14 days albeit at signiﬁcantly lower numbers ( Figure 2D).
-Problem 2
-SCGB1A1+ club cell number is not enough for co-culturing with mesenchymal cells (step #10b).
-Potential solution
-SCGB1A1+ club cells can be expanded in vitro by c ulturing them in organoid medium containing
-50 ng/mL rmFGF10 and 30 ng/mL rmHGF. The resulting bronchiolospheres can then be digested
-using 1 mg/mL dispase (BD Biosciences) for 10 min at 4 /C14C, washed with MACS buffer twice by centri-
-fugation at 300 3g for 10 min and then passaged and expanded until co-culture with the mesen-
-chymal cells can be performed ( Figure 2 D).
-Problem 3
-Slow cell sorting due to the presence of red blood cells (RBCs) in the sample (step #11).
-Potential solution
-U s ea nR B Cl y s i sb u f f e ra sa na d d i t i o n a ls t e pb e f o r esorting. Incubate cell su spensions in RBC lysis
-buffer for 90 s, wash with DMEM containing 10% FCS, centrifuge at 500 3 g for 10 min at 4 /C14C, and
-resuspend in 300 mLo fM A C Sb u f f e r .
-Problem 4
-Matrigel polymerization during co-culture preparation (step #15).
-Potential solution
-Keep Matrigel, organoid media and samples on ice d uring the entire culture preparation procedure.
-Keep a box of sterile 200 mL pipette tips at /C020/C14C to use them exclusively for Matrigel mixing and
-transfer of the cells.
-Problem 5
-Bronchiolospheres do not develop even when the right number of cells per well was cultured (step
+Problem1
+Thereisnoaccesstomesenchymalcells(step#10a).
+Potentialsolution
+Clubcellscanbeculturedinorganoidmediumcontaining50ng/mLrmFGF10and30ng/mLrmHGF.
+Bronchiolosphereswilldevelopafter14daysalbeitatsignificantlylowernumbers(Figure2D).
+Problem2
+SCGB1A1+clubcellnumberisnotenoughforco-culturingwithmesenchymalcells(step#10b).
+Potentialsolution
+SCGB1A1+clubcellscanbeexpandedinvitrobyculturingtheminorganoidmediumcontaining
+50ng/mLrmFGF10and30ng/mLrmHGF.Theresultingbronchiolospherescanthenbedigested
+using1mg/mLdispase(BDBiosciences)for10minat4(cid:1)C,washedwithMACSbuffertwicebycentri-
+fugationat3003gfor10minandthenpassagedandexpandeduntilco-culturewiththemesen-
+chymalcellscanbeperformed(Figure2D).
+Problem3
+Slowcellsortingduetothepresenceofredbloodcells(RBCs)inthesample(step#11).
+Potentialsolution
+UseanRBClysisbufferasanadditionalstepbeforesorting.IncubatecellsuspensionsinRBClysis
+bufferfor90s,washwithDMEMcontaining10%FCS,centrifugeat5003gfor10minat4(cid:1)C,and
+resuspendin300mLofMACSbuffer.
+Problem4
+Matrigelpolymerizationduringco-culturepreparation(step#15).
+Potentialsolution
+KeepMatrigel,organoidmediaandsamplesoniceduringtheentireculturepreparationprocedure.
+Keepaboxofsterile200mLpipettetipsat(cid:4)20(cid:1)CtousethemexclusivelyforMatrigelmixingand
+transferofthecells.
+Problem5
+Bronchiolospheresdonotdevelopevenwhentherightnumberofcellsperwellwascultured(step
 #21).
-Potential solution
-Exclude dead cells by adding a live/dead cell marker before the sort of both cell types. For instance,
-add 1 mLo fS Y T O X/C228 Blue (Invitrogen) per mL of sample just before sorting.
-ll
-OPEN ACCESS
-8 STAR Protocols 2, 100594, June 18, 2021
-Protocol
-
+Potentialsolution
+Excludedeadcellsbyaddingalive/deadcellmarkerbeforethesortofbothcelltypes.Forinstance,
+add1mLofSYTOX(cid:3)Blue(Invitrogen)permLofsamplejustbeforesorting.
+8 STARProtocols2,100594,June18,2021
 <<<PAGE 10>>>
-RESOURCE AVAILABILITY
-Lead contact
-Further information and requests for resources and reagents should be directed to and will be ful-
-ﬁlled by the lead contact, Elie El Agha ( Elie.El-Agha@innere.med.uni-giessen.de ).
-Materials availability
-This study did not generate new unique reagents.
-Data and code availability
-This study did not generate or analyze any data sets or code.
-SUPPLEMENTAL INFORMATION
-Supplemental information can be found online at https://doi.org/10.1016/j.xpro.2021.100594 .
-ACKNOWLEDGMENTS
-This work was supported by the German Research Foundation (DFG, SFB 1021 C05 and Z02, SFB-
-TR84 B9; A6, SFB CRC1213 A04, KFO 309 P2/P7/P8/Z01, and EL 931/4-1, excellence cluster Cardio-
-Pulmonary Institute [CPI]), University Hospital Gi essen and Marburg (FOKOOPV), Institute for Lung
-Health (ILH), and the German Center for Lung Research (DZL).
-AUTHOR CONTRIBUTIONS
-A.I.V.-A. and E.E.A. designed and wrote this protoc ol. W.S., S.H., and E.E.A. provided guidance dur-
-ing the experiments and manuscript preparation. All authors read and approved the ﬁnal version of
-the manuscript.
-DECLARATION OF INTERESTS
-The authors declare no competing interests.
-REFERENCES
-Moiseenko, A., Vazquez-Armendariz, A.I.,
-Kheirollahi, V., Chu, X., Tata, A., Rivetti, S., Gu¨ nther,
-S., Lebrigand, K., Herold, S., Braun, T., et al. (2020).
-Identiﬁcation of a repair-supportive mesenchymal
-cell population during airway epithelial
-regeneration. Cell Rep. 33, 108549.
-Quantius, J., Schmoldt, C., Vazquez-Armendariz,
-A.I., Becker, C., El Agha, E., Wilhelm, J., Morty, R.E.,
-Vada´ sz, I., Mayer, K., Gattenloehner, S., et al.
-(2016). Inﬂuenza virus infects epithelial stem/
-progenitor cells of the distal lung: impact on
-Fgfr2b-driven epithelial repair. PLoS Pathog. 12,
-e1005544.
-Vazquez-Armendariz, A.I., Heiner, M., El Agha, E.,
-Salwig, I., Hoek, A., Hessler, M.C., Shalashova, I.,
-Shrestha, A., Carraro, G., Mengel, J.P., et al. (2020).
-Multilineage murine stem cells generate complex
-organoids to model distal lung development and
-disease. EMBO J. 39, e103476.
-Wendling, O., Bornert, J.-M., Chambon, P., and
-Metzger, D. (2009). Efﬁcient temporally-controlled
-targeted mutagenesis in smooth muscle cells of the
-adult mouse. Genesis 47, 14–18.
 ll
-OPEN ACCESS
-STAR Protocols 2, 100594, June 18, 2021 9
-Protocol
+Protocol OPEN ACCESS
+RESOURCEAVAILABILITY
+Leadcontact
+Furtherinformationandrequestsforresourcesandreagentsshouldbedirectedtoandwillbeful-
+filledbytheleadcontact,ElieElAgha(Elie.El-Agha@innere.med.uni-giessen.de).
+Materialsavailability
+Thisstudydidnotgeneratenewuniquereagents.
+Dataandcodeavailability
+Thisstudydidnotgenerateoranalyzeanydatasetsorcode.
+SUPPLEMENTALINFORMATION
+Supplementalinformationcanbefoundonlineathttps://doi.org/10.1016/j.xpro.2021.100594.
+ACKNOWLEDGMENTS
+ThisworkwassupportedbytheGermanResearchFoundation(DFG,SFB1021C05andZ02,SFB-
+TR84B9;A6,SFBCRC1213A04,KFO309P2/P7/P8/Z01,andEL931/4-1,excellenceclusterCardio-
+PulmonaryInstitute[CPI]),UniversityHospitalGiessenandMarburg(FOKOOPV),InstituteforLung
+Health(ILH),andtheGermanCenterforLungResearch(DZL).
+AUTHORCONTRIBUTIONS
+A.I.V.-A.andE.E.A.designedandwrotethisprotocol.W.S.,S.H.,andE.E.A.providedguidancedur-
+ingtheexperimentsandmanuscriptpreparation.Allauthorsreadandapprovedthefinalversionof
+themanuscript.
+DECLARATIONOFINTERESTS
+Theauthorsdeclarenocompetinginterests.
+REFERENCES
+Moiseenko,A.,Vazquez-Armendariz,A.I., Vada´sz,I.,Mayer,K.,Gattenloehner,S.,etal. Multilineagemurinestemcellsgeneratecomplex
+Kheirollahi,V.,Chu,X.,Tata,A.,Rivetti,S.,Gu¨nther, (2016).Influenzavirusinfectsepithelialstem/ organoidstomodeldistallungdevelopmentand
+S.,Lebrigand,K.,Herold,S.,Braun,T.,etal.(2020). progenitorcellsofthedistallung:impacton disease.EMBOJ.39,e103476.
+Identificationofarepair-supportivemesenchymal Fgfr2b-drivenepithelialrepair.PLoSPathog.12,
+cellpopulationduringairwayepithelial e1005544.
+regeneration.CellRep.33,108549. Wendling,O.,Bornert,J.-M.,Chambon,P.,and
+Vazquez-Armendariz,A.I.,Heiner,M.,ElAgha,E., Metzger,D.(2009).Efficienttemporally-controlled
+Quantius,J.,Schmoldt,C.,Vazquez-Armendariz, Salwig,I.,Hoek,A.,Hessler,M.C.,Shalashova,I., targetedmutagenesisinsmoothmusclecellsofthe
+A.I.,Becker,C.,ElAgha,E.,Wilhelm,J.,Morty,R.E., Shrestha,A.,Carraro,G.,Mengel,J.P.,etal.(2020). adultmouse.Genesis47,14–18.
+STARProtocols2,100594,June18,2021 9
