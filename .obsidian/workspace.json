@@ -48,39 +48,9 @@
               "icon": "lucide-file",
               "title": "00-B2原始技术文献评级矩阵"
             }
-          },
-          {
-            "id": "9dd51e3bf285aacf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "26出国灵感/综述-气道类器官和呼吸道病毒/B2原始技术文献评级详情/Hawkins-2021-Derivation-Airway-Basal-Stem-Cells-Pluripotent-Stem.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hawkins-2021-Derivation-Airway-Basal-Stem-Cells-Pluripotent-Stem"
-            }
-          },
-          {
-            "id": "660d6c2f3d5011c8",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "26出国灵感/综述-气道类器官和呼吸道病毒/B2类器官原始技术文献全文/Hawkins-2021-Derivation-Airway-Basal-Stem-Cells-Pluripotent-Stem.pdf",
-                "page": 2,
-                "left": -11,
-                "top": 256,
-                "zoom": 1.4179433685027514
-              },
-              "icon": "lucide-file-text",
-              "title": "Hawkins-2021-Derivation-Airway-Basal-Stem-Cells-Pluripotent-Stem"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -178,13 +148,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "26出国灵感/综述-气道类器官和呼吸道病毒/B2原始技术文献评级详情/Hawkins-2021-Derivation-Airway-Basal-Stem-Cells-Pluripotent-Stem.md",
+                "file": "26出国灵感/综述-气道类器官和呼吸道病毒/B2原始技术文献评级详情/00-B2原始技术文献评级矩阵.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Hawkins-2021-Derivation-Airway-Basal-Stem-Cells-Pluripotent-Stem 的大纲"
+              "title": "00-B2原始技术文献评级矩阵 的大纲"
             }
           },
           {
@@ -254,8 +224,9 @@
       "obsidian-table-x:编辑模式表格操作": false
     }
   },
-  "active": "9dd51e3bf285aacf",
+  "active": "ed9f94fe37cc4394",
   "lastOpenFiles": [
+    "26出国灵感/综述-气道类器官和呼吸道病毒/新建 文本文档.txt",
     "26出国灵感/综述-气道类器官和呼吸道病毒/B2类器官原始技术文献全文/Hawkins-2021-Derivation-Airway-Basal-Stem-Cells-Pluripotent-Stem.pdf",
     "26出国灵感/综述-气道类器官和呼吸道病毒/B2原始技术文献评级详情/Hawkins-2021-Derivation-Airway-Basal-Stem-Cells-Pluripotent-Stem.md",
     "26出国灵感/综述-气道类器官和呼吸道病毒/B2原始技术文献评级详情/00-B2原始技术文献评级矩阵.md",
@@ -301,7 +272,6 @@
     "26出国灵感/综述-气道类器官和呼吸道病毒/B2类器官原始技术文献全文/_audit_artifacts/_quarantine_second_pass_before_visual_overrides/_renders/contact-sheet-01.png",
     "26出国灵感/综述-气道类器官和呼吸道病毒/B2类器官原始技术文献全文/_audit_artifacts/_quarantine_second_pass_before_visual_overrides/_renders/040-Elbadawy-2025-Establishment-bat-lung-organoid-culture-model-studying.png",
     "26出国灵感/综述-气道类器官和呼吸道病毒/B2类器官原始技术文献全文/_audit_artifacts/_quarantine_second_pass_before_visual_overrides/_renders/039-Budeus-2025-Upscaling-efficient-generation-lung-organoids-induced-pluripotent.png",
-    "26出国灵感/综述-气道类器官和呼吸道病毒/B2类器官原始技术文献全文/_audit_artifacts/_quarantine_second_pass_before_visual_overrides/_renders",
     "任务管理/任务看板.canvas",
     "任务管理/2026-06-05 工作看板.canvas",
     "GPT画图测试260227/GPT画图测试260227.canvas",
