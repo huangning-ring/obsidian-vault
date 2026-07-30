@@ -14,9 +14,9 @@ id: 5c2b3c8d-c3f9-4d44-94e2-41763a9ae1c0
 
 发布时间：2026-04-26 19:36
 
-![](https://relay-1.bijitongbu.site/p/c5e12c8555234719f5f0bd7e19cf0e83.png)
+![[笔记同步助手/images/12e2b2d51edcd78f6cc925f03158d501_MD5.gif]]
 
-![](https://relay-1.bijitongbu.site/p/962003490ccd1ae9f40e1e0e27a36bfb.png)
+![[笔记同步助手/images/043ab156f1821e91364906b6af51aec8_MD5.png]]
 
 嗨大家好，这里是硅潮。
 
@@ -28,7 +28,7 @@ id: 5c2b3c8d-c3f9-4d44-94e2-41763a9ae1c0
 
 使用时只记住一个顺序：先选图型，再写机制链条，最后补布局和限制。
 
-![](https://relay-1.bijitongbu.site/p/54c4257c6f9b9760e32e52667ade1130.png)
+![[笔记同步助手/images/5fb337d3ede671834e3cc4e74f3c584d_MD5.png]]
 
   
 
@@ -38,7 +38,7 @@ id: 5c2b3c8d-c3f9-4d44-94e2-41763a9ae1c0
 
 适用场景：适合论文 graphical abstract、项目汇报第一页、基金本子研究思路图。
 
-![](https://relay-1.bijitongbu.site/p/a5276364018ded7e25a578b185f3b435.png)
+![[笔记同步助手/images/a83ea0df6a20782eca2f7d1218c6fdc4_MD5.png]]
 
 -   ●●ChatGPT Image2 prompt
 
@@ -54,7 +54,7 @@ Create a publication-ready scientific graphical abstract for ChatGPT Image2. Top
 
 适用场景：适合 Methods 图、课题路线、开题报告、横向流程总览。
 
-![](https://relay-1.bijitongbu.site/p/8e3593efb3fc35428e8a03593e3b9ac0.png)
+![[笔记同步助手/images/42eb85acc3ec685dd6ef0fb52dc57c06_MD5.png]]
 
 -   ●●ChatGPT Image2 prompt
 
@@ -70,7 +70,7 @@ Create a clean scientific method workflow illustration for ChatGPT Image2. Show 
 
 适用场景：适合信号通路、药物作用机制、调控网络、因果链说明。
 
-![](https://relay-1.bijitongbu.site/p/8e564317a16adb68d1dc17e30d9d3f52.png)
+![[笔记同步助手/images/5b43dd6abfcca59a9eecfab8f9d98d77_MD5.png]]
 
 -   ●●ChatGPT Image2 prompt
 
@@ -86,7 +86,7 @@ Create a publication-ready scientific mechanism schematic for ChatGPT Image2. Sh
 
 适用场景：适合亚细胞定位、细胞死亡、药物释放、细胞器损伤。
 
-![](https://relay-1.bijitongbu.site/p/28659dac51c935ff0c3b09c1be8408ef.png)
+![[笔记同步助手/images/a6db9691e506a18cb81c4074e941a22d_MD5.png]]
 
 -   ●●ChatGPT Image2 prompt
 
@@ -102,7 +102,7 @@ Create a biomedical intracellular mechanism illustration for ChatGPT Image2. Sho
 
 适用场景：适合肿瘤免疫、炎症微环境、免疫调节材料、细胞互作机制。
 
-![](https://relay-1.bijitongbu.site/p/8e0e200c7cd29d7daa41bed61c39bfd4.png)
+![[笔记同步助手/images/b3f4eaefd52626bcf1667cdd7712195d_MD5.png]]
 
 -   ●●ChatGPT Image2 prompt
 
@@ -112,7 +112,7 @@ Create a scientific tumor immune microenvironment schematic for ChatGPT Image2. 
 
 > 硅潮提醒：微环境图要画“关系网络”，不是画一堆细胞合影。
 
-![](https://relay-1.bijitongbu.site/p/90c33ebecdd8d4366f1535d34e0bc262.png)
+![[笔记同步助手/images/b5387b96b0c20fd57c668432f993985c_MD5.png]]
 
 ## 06 药物递送 / 纳米载体图形摘要
 
@@ -120,7 +120,7 @@ Create a scientific tumor immune microenvironment schematic for ChatGPT Image2. 
 
 适用场景：适合纳米药物、靶向递送、响应释放、组合治疗。
 
-![](https://relay-1.bijitongbu.site/p/f57eb883437af3802375deb76281b415.png)
+![[笔记同步助手/images/2751e9e11401209d5ef95e27e0afa07c_MD5.png]]
 
 -   ●●ChatGPT Image2 prompt
 
@@ -136,7 +136,7 @@ Create a publication-ready drug delivery graphical abstract for ChatGPT Image2. 
 
 适用场景：适合 LNP、AAV、siRNA、mRNA、CRISPR、基因沉默或表达。
 
-![](https://relay-1.bijitongbu.site/p/4439f703a30696a2019e009d8e772b5c.png)
+![[笔记同步助手/images/6833143f434f7ba1b124305d04e008e0_MD5.png]]
 
 -   ●●ChatGPT Image2 prompt
 
@@ -152,7 +152,7 @@ Create a scientific nucleic-acid delivery graphical abstract for ChatGPT Image2.
 
 适用场景：适合 ferroptosis、pyroptosis、apoptosis、autophagy、necroptosis 相关论文图。
 
-![](https://relay-1.bijitongbu.site/p/1b1ce7ee2785166a1b37aa1b740135da.png)
+![[笔记同步助手/images/dcbc590b9577abe136a6f04f642a678e_MD5.png]]
 
 -   ●●ChatGPT Image2 prompt
 
@@ -168,7 +168,7 @@ Create a publication-ready programmed cell death mechanism schematic for ChatGPT
 
 适用场景：适合抗菌材料、纳米酶、光热抗菌、光动力抗菌、生物膜清除。
 
-![](https://relay-1.bijitongbu.site/p/ea12ae192925d001d9acae439e726cd3.png)
+![[笔记同步助手/images/f49d1a7d7311be1d1da67c0ff95062d7_MD5.png]]
 
 -   ●●ChatGPT Image2 prompt
 
@@ -184,7 +184,7 @@ Create a scientific antibacterial mechanism illustration for ChatGPT Image2. Sho
 
 适用场景：适合光催化、电催化、异质结、纳米酶、表面反应机制。
 
-![](https://relay-1.bijitongbu.site/p/bb366ecf2063cd19440a0f1299039e08.png)
+![[笔记同步助手/images/f299e7700962abc5f7349083f483398f_MD5.png]]
 
 -   ●●ChatGPT Image2 prompt
 
@@ -200,7 +200,7 @@ Create a scientific materials-chemistry mechanism schematic for ChatGPT Image2. 
 
 适用场景：适合锂电、钠电、固态电池、电极界面、SEI/CEI、离子传输。
 
-![](https://relay-1.bijitongbu.site/p/4817c7e38eac80a954b9b68cd7d48430.png)
+![[笔记同步助手/images/83dae2f45719186cf423e64957d9c770_MD5.png]]
 
 -   ●●ChatGPT Image2 prompt
 
@@ -210,7 +210,7 @@ Create a publication-ready energy-device interface schematic for ChatGPT Image2.
 
 > 硅潮提醒：能源器件图要让读者看到离子怎么走、界面怎么变、性能为什么提升。
 
-![](https://relay-1.bijitongbu.site/p/5e4305649cc010a188330c10916d1b00.png)
+![[笔记同步助手/images/d6c79a9abd6c18004aaed746e3559c33_MD5.png]]
 
 ## 12 多组学 / 单细胞整合图
 
@@ -218,7 +218,7 @@ Create a publication-ready energy-device interface schematic for ChatGPT Image2.
 
 适用场景：适合单细胞、多组学、空间组学、转录组/蛋白组/代谢组联合分析。
 
-![](https://relay-1.bijitongbu.site/p/9f8a0b9f9123096d6d3b40fe9347c84c.png)
+![[笔记同步助手/images/f9c9d10ee821ac99d8e3d990ac0d4cf4_MD5.png]]
 
 -   ●●ChatGPT Image2 prompt
 
@@ -234,7 +234,7 @@ Create a scientific multi-omics integration workflow illustration for ChatGPT Im
 
 适用场景：适合 AI 辅助科研、模型筛选、分子/材料预测、实验验证闭环。
 
-![](https://relay-1.bijitongbu.site/p/bb1d19aba25442473df50c9c8b8c3cae.png)
+![[笔记同步助手/images/2e34ea9b92dfa3d433451a393bd3423e_MD5.png]]
 
 -   ●●ChatGPT Image2 prompt
 
@@ -250,7 +250,7 @@ Create a clean AI4Sci research-loop illustration for ChatGPT Image2. Show a scie
 
 适用场景：适合 review、基金背景、开题综述、领域路线图。
 
-![](https://relay-1.bijitongbu.site/p/cef5e99019210f81149bde2de80731ed.png)
+![[笔记同步助手/images/fb764d973754e6fc81b9d2f40a496d3f_MD5.png]]
 
 -   ●●ChatGPT Image2 prompt
 
@@ -266,7 +266,7 @@ Create a review-article overview map for ChatGPT Image2. Topic: a rapidly develo
 
 适用场景：适合投稿封面、项目主视觉、答辩开场图、公众号封面配图。
 
-![](https://relay-1.bijitongbu.site/p/a634cf45103afab5124a1d158d1aeac6.png)
+![[笔记同步助手/images/88f4a377e56ac008286f9f737a5896ab_MD5.png]]
 
 -   ●●ChatGPT Image2 prompt
 
@@ -276,7 +276,7 @@ Create a high-impact journal-cover-style scientific illustration for ChatGPT Ima
 
 > 硅潮提醒：封面图先确定唯一主角，再让周围元素服务它。
 
-![](https://relay-1.bijitongbu.site/p/be99f34f006b188072e1331e79219fea.png)
+![[笔记同步助手/images/dc213346a9e1ecd70703d0aa720530b7_MD5.png]]
 
 ## 通用母版
 
@@ -300,7 +300,7 @@ Create a publication-ready scientific \[figure type\] for ChatGPT Image2. Topic:
 
 最后一句：科研图不是把科学画得更热闹，而是把复杂关系画得更容易被看懂。
 
-![](https://relay-1.bijitongbu.site/p/a1ad8548f0e95aeb5f30b5edcb6c2b70.png)
+![[笔记同步助手/images/b2983475f6683d5671f9193939389d91_MD5.gif]]
 
 ---
 
