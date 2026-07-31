@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "6e405d32f17e3fab",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.13.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.13.4"
+            }
+          },
+          {
             "id": "f6ba9c26f3826bb3",
             "type": "leaf",
             "state": {
@@ -49,7 +61,8 @@
               "title": "CLAUDE记忆"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -223,8 +236,14 @@
       "obsidian-table-x:编辑模式表格操作": false
     }
   },
-  "active": "136b4a603b11efa6",
+  "active": "6e405d32f17e3fab",
   "lastOpenFiles": [
+    "笔记同步助手/images/2bd9fd75b4fbc3320416e360cebb0ee8_MD5.jpg",
+    "笔记同步助手/images/6beee455ca496f785116cb3eaa401706_MD5.jpg",
+    "笔记同步助手/images/4394e6f847ff195c1b4c447bf151db38_MD5.jpg",
+    "笔记同步助手/images/a5f0e0a45bca6d17e42a53b068c02ee2_MD5.jpg",
+    "笔记同步助手/2026-07-31/如何让你的AI搜到互联网上所有你想找的东西.md",
+    "笔记同步助手/2026-07-31",
     "CLAUDE记忆.md",
     "26出国灵感/综述-气道类器官和呼吸道病毒/B2原始技术文献评级详情/00-B2原始技术文献评级矩阵.md",
     "复习/统计/03-正态分布与医学参考值范围.md",
@@ -235,9 +254,6 @@
     "笔记同步助手/images/fb764d973754e6fc81b9d2f40a496d3f_MD5.png",
     "笔记同步助手/images/f9c9d10ee821ac99d8e3d990ac0d4cf4_MD5.png",
     "笔记同步助手/images/83dae2f45719186cf423e64957d9c770_MD5.png",
-    "笔记同步助手/images/d6c79a9abd6c18004aaed746e3559c33_MD5.png",
-    "笔记同步助手/images/f299e7700962abc5f7349083f483398f_MD5.png",
-    "笔记同步助手/images/f49d1a7d7311be1d1da67c0ff95062d7_MD5.png",
     "笔记同步助手/2026-07-30/ChatGPT Image2 科研绘图模板库：机制图、流程图、综述图、封面图都在这.md",
     "笔记同步助手/2026-07-30",
     "26出国灵感/综述-气道类器官和呼吸道病毒/新建 文本文档.txt",
@@ -263,14 +279,11 @@
     "26出国灵感/综述-气道类器官和呼吸道病毒/B2原始技术文献评级详情/Mou-2012-Generation-Multipotent-Lung-Airway-Progenitors-Mouse-ESCs.md",
     "26出国灵感/综述-气道类器官和呼吸道病毒/B2原始技术文献评级详情/Miller-2019-Generation-lung-organoids-pluripotent-stem-cells-vitro.md",
     "26出国灵感/综述-气道类器官和呼吸道病毒/B2原始技术文献评级详情/Dye-2020-lung-organoids-develop-adult-airway-like-structures.md",
-    "26出国灵感/综述-气道类器官和呼吸道病毒/B2原始技术文献评级详情/McCauley-2017-Efficient-Derivation-Functional-Airway-Epithelium-Pluripotent-Stem.md",
-    "26出国灵感/综述-气道类器官和呼吸道病毒/B2原始技术文献评级详情/Marthin-2017-Patient-specific-three-dimensional-explant-spheroids-nasal.md",
     "26出国灵感/综述-气道类器官和呼吸道病毒/B2原始技术文献评级详情",
     "26出国灵感/综述-气道类器官和呼吸道病毒/s41573-025-01317-y.pdf",
     "26出国灵感/综述-气道类器官和呼吸道病毒/B2类器官原始技术文献全文/Cadena-Castaneda-2023-Protocol-establishing-primary-human-lung-organoid-derived-ALI-cultures.pdf",
     "26出国灵感/综述-气道类器官和呼吸道病毒/B2类器官原始技术文献全文/Han-2022-Generation-embryonic-stem-cell-lung-organoids.pdf",
     "26出国灵感/综述-气道类器官和呼吸道病毒/B2类器官原始技术文献全文/Budeus-2024-Matrix-free-lung-organoids-induced-pluripotent-stem.pdf",
-    "26出国灵感/综述-气道类器官和呼吸道病毒/B2类器官原始技术文献全文/Vazquez-Armendariz-2021-Protocol-generation-murine-bronchiolospheres.pdf",
     "任务管理/任务看板.canvas",
     "任务管理/2026-06-05 工作看板.canvas",
     "GPT画图测试260227/GPT画图测试260227.canvas",
