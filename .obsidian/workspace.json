@@ -4,26 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "3f3840d74a74f2d4",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a625781fd51a98eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "26出国灵感/综述-气道类器官和呼吸道病毒/正文写作/Part1-前三节-提纲与写作提示.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Part1-前三节-提纲与写作提示"
-            }
-          }
-        ]
-      },
-      {
         "id": "5e2fcdbeacc86f62",
         "type": "tabs",
         "children": [
@@ -39,6 +19,20 @@
               },
               "icon": "lucide-file",
               "title": "PART1-Evaluation frameworks for airway organ models and their contributions to respiratory virology research"
+            }
+          },
+          {
+            "id": "a625781fd51a98eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "26出国灵感/综述-气道类器官和呼吸道病毒/正文写作/Part1-前三节-提纲与写作提示.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Part1-前三节-提纲与写作提示"
             }
           }
         ]
@@ -190,8 +184,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5,
-    "collapsed": true
+    "width": 269.5
   },
   "left-ribbon": {
     "hiddenItems": {
