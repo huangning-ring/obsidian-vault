@@ -41,16 +41,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "26出国灵感/综述-气道类器官和呼吸道病毒/B2原始技术文献评级详情/00-B2原始技术文献评级矩阵.md",
+                "file": "CLAUDE记忆.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00-B2原始技术文献评级矩阵"
+              "title": "CLAUDE记忆"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -224,10 +223,11 @@
       "obsidian-table-x:编辑模式表格操作": false
     }
   },
-  "active": "ed9f94fe37cc4394",
+  "active": "136b4a603b11efa6",
   "lastOpenFiles": [
-    "复习/统计/03-正态分布与医学参考值范围.md",
+    "CLAUDE记忆.md",
     "26出国灵感/综述-气道类器官和呼吸道病毒/B2原始技术文献评级详情/00-B2原始技术文献评级矩阵.md",
+    "复习/统计/03-正态分布与医学参考值范围.md",
     "笔记同步助手/images/b2983475f6683d5671f9193939389d91_MD5.gif",
     "笔记同步助手/images/dc213346a9e1ecd70703d0aa720530b7_MD5.png",
     "笔记同步助手/images/88f4a377e56ac008286f9f737a5896ab_MD5.png",
@@ -265,7 +265,6 @@
     "26出国灵感/综述-气道类器官和呼吸道病毒/B2原始技术文献评级详情/Dye-2020-lung-organoids-develop-adult-airway-like-structures.md",
     "26出国灵感/综述-气道类器官和呼吸道病毒/B2原始技术文献评级详情/McCauley-2017-Efficient-Derivation-Functional-Airway-Epithelium-Pluripotent-Stem.md",
     "26出国灵感/综述-气道类器官和呼吸道病毒/B2原始技术文献评级详情/Marthin-2017-Patient-specific-three-dimensional-explant-spheroids-nasal.md",
-    "26出国灵感/综述-气道类器官和呼吸道病毒/B2原始技术文献评级详情/Dye-2016-bioengineered-niche-promotes-vivo-engraftment-maturation-pluripotent.md",
     "26出国灵感/综述-气道类器官和呼吸道病毒/B2原始技术文献评级详情",
     "26出国灵感/综述-气道类器官和呼吸道病毒/s41573-025-01317-y.pdf",
     "26出国灵感/综述-气道类器官和呼吸道病毒/B2类器官原始技术文献全文/Cadena-Castaneda-2023-Protocol-establishing-primary-human-lung-organoid-derived-ALI-cultures.pdf",
