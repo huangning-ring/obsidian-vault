@@ -115,7 +115,7 @@ id: 783608ea-11bc-470e-999e-2200842bd789
 
 如果你也有一项特别希望 AI 长期参与、却始终做不顺的复杂工作，欢迎在评论区找我。也欢迎来我的朋友圈，围观我和 AI 的真实协作与持续进化。
 
-![Image](https://relay-1.bijitongbu.site/p/482109945bcc120daad7ef37a2f8cf85.png)![Image](https://relay-1.bijitongbu.site/p/d10980c03b30cc98a888402c3e1f5c33.png)![Image](https://relay-1.bijitongbu.site/p/70d299ae13299fd28621eb41fca18548.png)![Image](https://relay-1.bijitongbu.site/p/1f9e9ece90c14abb68ee419c1f221d41.png)![Image](https://relay-1.bijitongbu.site/p/a221f78e96bc77a3a6fca7a6d698dbca.png)![Image](https://relay-1.bijitongbu.site/p/3691df667c85a334993720179bb758d9.png)![Image](https://relay-1.bijitongbu.site/p/dace6f2be531f0aa9b74a5e4a9f0cea2.png)![Image](https://relay-1.bijitongbu.site/p/513a12082b6aed7bf63852dfb9e61597.png)![Image](https://relay-1.bijitongbu.site/p/fb2d7dd232957bfd79916626f6b7b729.png)![Image](https://relay-1.bijitongbu.site/p/b08cde39a7ebaf2329580af02094e4b2.png)
+![[笔记同步助手/images/8159659acabe48ce9175604896261a7b_MD5.jpg|Image]]![[笔记同步助手/images/4394e6f847ff195c1b4c447bf151db38_MD5.jpg|Image]]![[笔记同步助手/images/a5f0e0a45bca6d17e42a53b068c02ee2_MD5.jpg|Image]]![[笔记同步助手/images/6beee455ca496f785116cb3eaa401706_MD5.jpg|Image]]![[笔记同步助手/images/2bd9fd75b4fbc3320416e360cebb0ee8_MD5.jpg|Image]]![[笔记同步助手/images/9c3b43734cf21a0b86596dfd92e891e0_MD5.jpg|Image]]![[笔记同步助手/images/6bab9c0c6facbec15cf81539b8584c2d_MD5.jpg|Image]]![[笔记同步助手/images/49f5c48e17579cb9d84b6113db642bc4_MD5.jpg|Image]]![[笔记同步助手/images/7525c765f6a4740625ed2a1411fbf346_MD5.jpg|Image]]![[笔记同步助手/images/97a0af98ba75b3900a2316a1828b8a33_MD5.jpg|Image]]
 
 这套系统真正厉害的地方，是让 AI 知道该去哪里找、用什么找、何时升级能力。  
 #howto用好AI #howto用AI抢救一切 #claudecode #codex #agent #AI工具 #提高工作效率的方法 #AI进化生活howto

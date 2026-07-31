@@ -8,61 +8,40 @@
         "type": "tabs",
         "children": [
           {
-            "id": "136b4a603b11efa6",
+            "id": "a625781fd51a98eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "复习/统计/03-正态分布与医学参考值范围.md",
+                "file": "26出国灵感/综述-气道类器官和呼吸道病毒/正文写作/Part1-前三节-提纲与写作提示.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03-正态分布与医学参考值范围"
-            }
-          },
-          {
-            "id": "6e405d32f17e3fab",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.13.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.13.4"
-            }
-          },
-          {
-            "id": "f6ba9c26f3826bb3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "26出国灵感/综述-气道类器官和呼吸道病毒/Part1-AB-试跑检索报告-查准版.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Part1-AB-试跑检索报告-查准版"
-            }
-          },
-          {
-            "id": "ed9f94fe37cc4394",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CLAUDE记忆.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CLAUDE记忆"
+              "title": "Part1-前三节-提纲与写作提示"
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "5e2fcdbeacc86f62",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f64894d47782d7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "26出国灵感/综述-气道类器官和呼吸道病毒/正文写作/PART1-Evaluation frameworks for airway organ models and their contributions to respiratory virology research.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PART1-Evaluation frameworks for airway organ models and their contributions to respiratory virology research"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +61,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "byModifiedTime",
-                "autoReveal": true
+                "autoReveal": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -130,7 +111,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 268.5
+    "width": 266,
+    "collapsed": true
   },
   "right": {
     "id": "e8af24c642dba675",
@@ -160,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "26出国灵感/综述-气道类器官和呼吸道病毒/B2原始技术文献评级详情/00-B2原始技术文献评级矩阵.md",
+                "file": "26出国灵感/综述-气道类器官和呼吸道病毒/正文写作/PART1-Evaluation frameworks for airway organ models and their contributions to respiratory virology research.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "00-B2原始技术文献评级矩阵 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -236,54 +218,54 @@
       "obsidian-table-x:编辑模式表格操作": false
     }
   },
-  "active": "6e405d32f17e3fab",
+  "active": "0f64894d47782d7b",
   "lastOpenFiles": [
+    "26出国灵感/综述-气道类器官和呼吸道病毒/正文写作/Part1-前三节-提纲与写作提示.md",
+    "26出国灵感/综述-气道类器官和呼吸道病毒/正文写作/PART1-Evaluation frameworks for airway organ models and their contributions to respiratory virology research.md",
+    "26出国灵感/综述-气道类器官和呼吸道病毒/B2技术文献评级详情/Budeus-2024-Matrix-free-lung-organoids-induced-pluripotent-stem.md",
+    "26出国灵感/综述-气道类器官和呼吸道病毒/B2技术文献评级详情/Cadena-Castaneda-2023-Protocol-establishing-primary-human-lung-organoid-derived-ALI-cultures.md",
+    "26出国灵感/综述-气道类器官和呼吸道病毒/B2技术文献评级详情/Konishi-2016-Directed-Induction-Functional-Multi-ciliated-Cells-Proximal.md",
+    "26出国灵感/综述-气道类器官和呼吸道病毒/B2技术文献评级详情/McCauley-2018-Derivation-Epithelial-Only-Airway-Organoids-Pluripotent-Stem.md",
+    "26出国灵感/综述-气道类器官和呼吸道病毒/B2技术文献评级详情/00-B2原始技术文献评级矩阵.md",
+    "26出国灵感/综述-气道类器官和呼吸道病毒/B2技术文献评级详情/Valenzuela-2024-Design-infectability-transcriptomic-analysis-transregionally-differentia.md",
+    "26出国灵感/综述-气道类器官和呼吸道病毒/B2技术文献评级详情/Dye-2020-lung-organoids-develop-adult-airway-like-structures.md",
+    "26出国灵感/综述-气道类器官和呼吸道病毒/B2原始技术文献全文/Butler-2016-Rapid-Expansion-Epithelial-Stem-Cells-Suitable-Airway.pdf",
+    "26出国灵感/综述-气道类器官和呼吸道病毒/B2原始技术文献全文/Cadena-Castaneda-2023-Protocol-establishing-primary-human-lung-organoid-derived-ALI-cultures.pdf",
+    "26出国灵感/综述-气道类器官和呼吸道病毒/B2原始技术文献全文/B2类器官原始技术文献检索与下载报告.md",
+    "26出国灵感/综述-气道类器官和呼吸道病毒/精读-Wang-2026-Human-organoids-3D-drug-discovery/s41573-025-01317-y.pdf",
+    "26出国灵感/综述-气道类器官和呼吸道病毒/Total_Execution_Plan-manual-v2-AB.md",
+    "26出国灵感/综述-气道类器官和呼吸道病毒/精读-Wang-2026-Human-organoids-3D-drug-discovery/Wang 2026-Human organoids 3D drug discovery-中文精读与讲稿.md",
+    "26出国灵感/综述-气道类器官和呼吸道病毒/精读-Wang-2026-Human-organoids-3D-drug-discovery/Organoid drug discovery 40min bilingual script.md",
+    "26出国灵感/综述-气道类器官和呼吸道病毒/正文写作",
+    "26出国灵感/综述-气道类器官和呼吸道病毒/B2技术文献评级详情/Sachs-2019-Long-term-expanding-airway-organoids-disease-modeling.md",
+    "26出国灵感/综述-气道类器官和呼吸道病毒/B2技术文献评级详情/Gerli-2024-Single-cell-guided-prenatal-derivation-primary-fetal.md",
+    "26出国灵感/综述-气道类器官和呼吸道病毒/Part1-AB-试跑检索报告-查准版.md",
+    "26出国灵感/综述-气道类器官和呼吸道病毒/B2技术文献评级详情/Dye-2015-vitro-generation-pluripotent-stem-cell-lung-organoids.md",
+    "复习/统计/03-正态分布与医学参考值范围.md",
+    "CLAUDE记忆.md",
+    "笔记同步助手/images/8159659acabe48ce9175604896261a7b_MD5.jpg",
+    "笔记同步助手/images/49f5c48e17579cb9d84b6113db642bc4_MD5.jpg",
+    "笔记同步助手/images/6bab9c0c6facbec15cf81539b8584c2d_MD5.jpg",
+    "笔记同步助手/images/97a0af98ba75b3900a2316a1828b8a33_MD5.jpg",
+    "笔记同步助手/images/7525c765f6a4740625ed2a1411fbf346_MD5.jpg",
+    "笔记同步助手/images/9c3b43734cf21a0b86596dfd92e891e0_MD5.jpg",
     "笔记同步助手/images/2bd9fd75b4fbc3320416e360cebb0ee8_MD5.jpg",
     "笔记同步助手/images/6beee455ca496f785116cb3eaa401706_MD5.jpg",
     "笔记同步助手/images/4394e6f847ff195c1b4c447bf151db38_MD5.jpg",
     "笔记同步助手/images/a5f0e0a45bca6d17e42a53b068c02ee2_MD5.jpg",
     "笔记同步助手/2026-07-31/如何让你的AI搜到互联网上所有你想找的东西.md",
     "笔记同步助手/2026-07-31",
-    "CLAUDE记忆.md",
-    "26出国灵感/综述-气道类器官和呼吸道病毒/B2原始技术文献评级详情/00-B2原始技术文献评级矩阵.md",
-    "复习/统计/03-正态分布与医学参考值范围.md",
-    "笔记同步助手/images/b2983475f6683d5671f9193939389d91_MD5.gif",
-    "笔记同步助手/images/dc213346a9e1ecd70703d0aa720530b7_MD5.png",
-    "笔记同步助手/images/88f4a377e56ac008286f9f737a5896ab_MD5.png",
-    "笔记同步助手/images/2e34ea9b92dfa3d433451a393bd3423e_MD5.png",
-    "笔记同步助手/images/fb764d973754e6fc81b9d2f40a496d3f_MD5.png",
-    "笔记同步助手/images/f9c9d10ee821ac99d8e3d990ac0d4cf4_MD5.png",
-    "笔记同步助手/images/83dae2f45719186cf423e64957d9c770_MD5.png",
     "笔记同步助手/2026-07-30/ChatGPT Image2 科研绘图模板库：机制图、流程图、综述图、封面图都在这.md",
     "笔记同步助手/2026-07-30",
     "26出国灵感/综述-气道类器官和呼吸道病毒/新建 文本文档.txt",
-    "26出国灵感/综述-气道类器官和呼吸道病毒/B2类器官原始技术文献全文/Hawkins-2021-Derivation-Airway-Basal-Stem-Cells-Pluripotent-Stem.pdf",
-    "26出国灵感/综述-气道类器官和呼吸道病毒/B2原始技术文献评级详情/Hawkins-2021-Derivation-Airway-Basal-Stem-Cells-Pluripotent-Stem.md",
-    "26出国灵感/综述-气道类器官和呼吸道病毒/Part1-AB-试跑检索报告-查准版.md",
-    "26出国灵感/综述-气道类器官和呼吸道病毒/B2原始技术文献评级详情/Budeus-2025-Upscaling-efficient-generation-lung-organoids-induced-pluripotent.md",
-    "26出国灵感/综述-气道类器官和呼吸道病毒/B2原始技术文献评级详情/Budeus-2024-Matrix-free-lung-organoids-induced-pluripotent-stem.md",
-    "26出国灵感/综述-气道类器官和呼吸道病毒/B2原始技术文献评级详情/Konishi-2016-Directed-Induction-Functional-Multi-ciliated-Cells-Proximal.md",
-    "26出国灵感/综述-气道类器官和呼吸道病毒/Total_Execution_Plan-manual-v2-AB.md",
-    "26出国灵感/综述-气道类器官和呼吸道病毒/B2原始技术文献评级详情/Elbadawy-2025-Establishment-bat-lung-organoid-culture-model-studying.md",
-    "26出国灵感/综述-气道类器官和呼吸道病毒/B2原始技术文献评级详情/Gerli-2024-Single-cell-guided-prenatal-derivation-primary-fetal.md",
-    "26出国灵感/综述-气道类器官和呼吸道病毒/B2原始技术文献评级详情/McCauley-2018-Derivation-Epithelial-Only-Airway-Organoids-Pluripotent-Stem.md",
-    "26出国灵感/综述-气道类器官和呼吸道病毒/B2类器官原始技术文献全文/McCauley-2018-Derivation-Epithelial-Only-Airway-Organoids-Pluripotent-Stem.pdf",
-    "26出国灵感/综述-气道类器官和呼吸道病毒/B2原始技术文献评级详情/Nikolic-2017-embryonic-lung-epithelial-tips-are-multipotent-progenitors.md",
-    "26出国灵感/综述-气道类器官和呼吸道病毒/B2原始技术文献评级详情/Rock-2009-Basal-cells-stem-cells-mouse-trachea-airway.md",
-    "26出国灵感/综述-气道类器官和呼吸道病毒/B2原始技术文献评级详情/Tan-2017-airway-organoid-engineering-step-toward-lung-regeneration.md",
-    "26出国灵感/综述-气道类器官和呼吸道病毒/B2原始技术文献评级详情/Sachs-2019-Long-term-expanding-airway-organoids-disease-modeling.md",
-    "26出国灵感/综述-气道类器官和呼吸道病毒/B2原始技术文献评级详情/Hild-2016-Production-3-D-Airway-Organoids-Primary-Airway.md",
-    "笔记同步助手/2026-07-28/我发现了一个真·AI PPT神器：生图级效果，还能真正变成可编辑PPTX.md",
-    "26出国灵感/综述-气道类器官和呼吸道病毒/Part1-AB-5篇综述精读-评估维度提炼.md",
-    "26出国灵感/综述-气道类器官和呼吸道病毒/B2原始技术文献评级详情/Mou-2016-Dual-SMAD-Signaling-Inhibition-Enables-Long-Term.md",
-    "26出国灵感/综述-气道类器官和呼吸道病毒/B2原始技术文献评级详情/Mou-2012-Generation-Multipotent-Lung-Airway-Progenitors-Mouse-ESCs.md",
-    "26出国灵感/综述-气道类器官和呼吸道病毒/B2原始技术文献评级详情/Miller-2019-Generation-lung-organoids-pluripotent-stem-cells-vitro.md",
-    "26出国灵感/综述-气道类器官和呼吸道病毒/B2原始技术文献评级详情/Dye-2020-lung-organoids-develop-adult-airway-like-structures.md",
-    "26出国灵感/综述-气道类器官和呼吸道病毒/B2原始技术文献评级详情",
-    "26出国灵感/综述-气道类器官和呼吸道病毒/s41573-025-01317-y.pdf",
-    "26出国灵感/综述-气道类器官和呼吸道病毒/B2类器官原始技术文献全文/Cadena-Castaneda-2023-Protocol-establishing-primary-human-lung-organoid-derived-ALI-cultures.pdf",
-    "26出国灵感/综述-气道类器官和呼吸道病毒/B2类器官原始技术文献全文/Han-2022-Generation-embryonic-stem-cell-lung-organoids.pdf",
-    "26出国灵感/综述-气道类器官和呼吸道病毒/B2类器官原始技术文献全文/Budeus-2024-Matrix-free-lung-organoids-induced-pluripotent-stem.pdf",
+    "26出国灵感/综述-气道类器官和呼吸道病毒/B2原始技术文献全文/Hawkins-2021-Derivation-Airway-Basal-Stem-Cells-Pluripotent-Stem.pdf",
+    "26出国灵感/综述-气道类器官和呼吸道病毒/B2技术文献评级详情/Hawkins-2021-Derivation-Airway-Basal-Stem-Cells-Pluripotent-Stem.md",
+    "26出国灵感/综述-气道类器官和呼吸道病毒/B2技术文献评级详情/Budeus-2025-Upscaling-efficient-generation-lung-organoids-induced-pluripotent.md",
+    "26出国灵感/综述-气道类器官和呼吸道病毒/B2技术文献评级详情/Elbadawy-2025-Establishment-bat-lung-organoid-culture-model-studying.md",
+    "26出国灵感/综述-气道类器官和呼吸道病毒/B2原始技术文献全文/McCauley-2018-Derivation-Epithelial-Only-Airway-Organoids-Pluripotent-Stem.pdf",
+    "26出国灵感/综述-气道类器官和呼吸道病毒/B2技术文献评级详情/Nikolic-2017-embryonic-lung-epithelial-tips-are-multipotent-progenitors.md",
+    "26出国灵感/综述-气道类器官和呼吸道病毒/B2技术文献评级详情/Rock-2009-Basal-cells-stem-cells-mouse-trachea-airway.md",
+    "26出国灵感/综述-气道类器官和呼吸道病毒/B2技术文献评级详情",
     "任务管理/任务看板.canvas",
     "任务管理/2026-06-05 工作看板.canvas",
     "GPT画图测试260227/GPT画图测试260227.canvas",
