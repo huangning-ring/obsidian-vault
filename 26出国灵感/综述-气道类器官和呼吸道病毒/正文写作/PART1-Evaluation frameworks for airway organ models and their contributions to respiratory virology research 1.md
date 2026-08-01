@@ -1,12 +1,10 @@
 # Abstract
 # Basical concepts
-Organoids are 3D models including stem cells or progenitor cells, aiming to intimate the original tissue's key structure and functional symbol. It has to contain 4 条件: stem cells or progenitor cells source, self organizing ability, 3D culture and reconstruction of target tissue's structure and function. Vazquez-Armendariz and Tata（2023） also pointed out that organoids are not tiny 完整 organs, but to optionaly 重现 target tissue's function. The core difference between organoids and classical 2D cell culture is to use the self-organizing ability to recur relative structure and functions in operatable in-vitro culturing environment. 
-
-
-## 两条来源路线
-类器官的构建存在两条主要技术路线：多能干细胞（PSC/iPSC）路线和组织干细胞（TSC/AdSC）路线（Wang et al., 2026; Kim et al., 2020）。
-PSC路线通过模拟胚胎发育信号逐步定向分化，可形成包含多种谱系的复杂结构，但细胞常停留在较晚胎儿阶段，成熟度受限（Wang et al., 2026）。Kim等（2020）将PSC类器官的形成归纳为区域身份建立、终末分化和三维扩增三个关键步骤。TSC路线由目标组织活检直接建立，通常更快，所获细胞更接近成人表型，但受取材限制且通常以组织上皮为主（Kim et al., 2020）。
-Vazquez-Armendariz和Tata（2023）进一步将来源细分为成人、胎儿和iPSC三类，指出培养补充物和共培养条件共同决定终态，相同来源可因培养条件产生不同模型。两条路线在规模化能力、成熟度、供体表征和发育建模上各有优势：iPSC利于规模化和发育操控，成人来源更可能保留供体年龄与疾病背景（Vazquez-Armendariz and Tata, 2023）。来源应作为模型的分层变量而非优劣排序，这一原则也是后续评估中来源维度（C4）不评分的理论依据。
+Organoids are 3D models including stem cells or progenitor cells, aiming to intimate the original tissue's key structure and functional symbol. It has to follow 4 key requests: stem cells or progenitor cells source, self organizing ability, 3D culture and reconstruction of target tissue's structure and function. Vazquez-Armendariz and Tata（2023） also pointed out that organoids are not tiny integrated organs, but to optionaly recur target tissue's function. The core difference between organoids and classical 2D cell culture is to use the self-organizing ability to recur relative structure and functions in operatable in-vitro culturing environment. 
+Air-liquid interface (ALI) culture can form mature, polarized pseudostratified epithelium of the proximal respiratory tract, which is valuable airway microenvironment model. However ALI is essentially a 2D differentiation or orthogonal validation system, which means organoid-derived cell can be set on ALI culture model for function validation, but ALI itself can't meet the conditions of self-organization for typical "organoid".
+## 2 Construction pathways
+There are 2 types of technology methods in the mainstream: pluripotent stem cells(PSC/iPSC) approches and tissue stem cell (TSC/AdSC) approaches. In fact they are both depended on stem cells' self organizing and differentiating ability. 
+PSC approch aims to simulate embryonic development signals 
 ## 价值定位与还原性边界
 类器官的技术价值在于填补二维细胞系与动物模型之间的空白。二维培养具有高度可操作性但缺乏组织相关性，动物模型具备组织复杂性但存在物种差异，类器官以人源、可遗传操作的三维系统补齐了这一缺口（Kim et al., 2020）。Kim等（2020）强调，人源类器官用于补充而非简单取代既有模型——人类特异性发育、代谢和药物反应过程难以由动物完全模拟，这是类器官存在的根本理由。
 类器官始终是还原性模型。Wang等（2026）指出，当前类器官通常缺少血管、免疫细胞、基质细胞、神经、机械力和多器官互作等微环境成分。Hughes等（2022）同样强调，类器官无法重建完整上皮-基质、上皮-免疫和系统变量，任何结论的外推都应由正交模型或独立数据集验证。
