@@ -1,12 +1,8 @@
 # Abstract
 # Basical concepts
-Organoids are 3D models including stem cells or progenitor cells, aiming to intimate the 来源 tissue's key structure and 
-## 与相邻概念的边界
-类器官与多种体外模型存在形态或功能上的交集，但概念边界需要严格区分。
-传统二维培养具有高度可操作性，但缺乏空间组织、细胞极性和多谱系分化能力（Wang et al., 2026）。类器官通过干细胞自组织产生三维结构，重建了二维培养无法维持的细胞间空间关系和顶端-基底极性（Hughes et al., 2022）。
-Kim等（2020）指出，仅凭"三维细胞团"形态不足以将一个培养体系归入类器官，需同时核实其是否具备干细胞来源和组织样分化。早期气道研究中使用的胶原凝胶球体培养（Castillon et al., 2002; Castillon et al., 2004; Deslee et al., 2007）和永生化支气管上皮细胞的三维分化（Vaughan et al., 2006; Kaisani et al., 2014）虽已实现三维形态，但未以干细胞自组织为核心机制，应视为类器官概念建立前的三维培养探索。
-气液界面（ALI）培养可形成成熟、极化的假复层近端气道上皮，是有价值的气道微环境模型，但不能与三维类器官概念互换（Barkauskas et al., 2017）。ALI本质上是二维分化或正交验证体系，类器官来源的细胞可接种于ALI进行功能验证，但ALI本身不满足类器官的三维自组织要件。
-器官芯片是工程化微流控平台，通过控制流体和机械环境模拟器官功能。Wang等（2026）将微流控和器官芯片列为类器官之外的技术路线，二者在研究目的和构建逻辑上存在根本差异，类器官可嵌入芯片系统但两者不等同。
+Organoids are 3D models including stem cells or progenitor cells, aiming to intimate the original tissue's key structure and functional symbol. It has to contain 4 条件: stem cells or progenitor cells source, self organizing ability, 3D culture and reconstruction of target tissue's structure and function. Vazquez-Armendariz and Tata（2023） also pointed out that organoids are not tiny 完整 organs, but to optionaly 重现 target tissue's function. The core difference between organoids and classical 2D cell culture is to use the self-organizing ability to recur relative structure and functions in operatable in-vitro culturing environment. 
+
+
 ## 两条来源路线
 类器官的构建存在两条主要技术路线：多能干细胞（PSC/iPSC）路线和组织干细胞（TSC/AdSC）路线（Wang et al., 2026; Kim et al., 2020）。
 PSC路线通过模拟胚胎发育信号逐步定向分化，可形成包含多种谱系的复杂结构，但细胞常停留在较晚胎儿阶段，成熟度受限（Wang et al., 2026）。Kim等（2020）将PSC类器官的形成归纳为区域身份建立、终末分化和三维扩增三个关键步骤。TSC路线由目标组织活检直接建立，通常更快，所获细胞更接近成人表型，但受取材限制且通常以组织上皮为主（Kim et al., 2020）。
