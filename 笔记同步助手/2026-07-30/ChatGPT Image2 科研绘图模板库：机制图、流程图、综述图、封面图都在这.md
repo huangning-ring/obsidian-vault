@@ -51,7 +51,6 @@ Create a publication-ready scientific graphical abstract for ChatGPT Image2. Top
 ## 02 实验流程图 / 方法路线图
 
 读者痛点：实验步骤很多，组会里讲三分钟，别人还是不知道你先做了什么。
-
 适用场景：适合 Methods 图、课题路线、开题报告、横向流程总览。
 
 ![[笔记同步助手/images/42eb85acc3ec685dd6ef0fb52dc57c06_MD5.png]]
