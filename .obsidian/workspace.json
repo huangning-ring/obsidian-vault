@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "26出国灵感/综述-气道类器官和呼吸道病毒/Total_Execution_Plan-manual-v2-AB.md",
+                "file": "26出国灵感/综述-气道类器官和呼吸道病毒/PART2文献/Part2-查准版检索报告.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Total_Execution_Plan-manual-v2-AB"
+              "title": "Part2-查准版检索报告"
             }
           },
           {
@@ -35,7 +35,8 @@
               "title": "PART1-Evaluation frameworks for airway organ models and their contributions to respiratory virology research 1"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266
+    "width": 266,
+    "collapsed": true
   },
   "right": {
     "id": "e8af24c642dba675",
@@ -135,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "26出国灵感/综述-气道类器官和呼吸道病毒/Total_Execution_Plan-manual-v2-AB.md",
+                "file": "26出国灵感/综述-气道类器官和呼吸道病毒/正文写作/PART1-Evaluation frameworks for airway organ models and their contributions to respiratory virology research 1.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
@@ -183,7 +185,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5
+    "width": 269.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -210,8 +213,19 @@
       "obsidian-table-x:编辑模式表格操作": false
     }
   },
-  "active": "52e0ddb702c0e2b9",
+  "active": "cc82e150722fa255",
   "lastOpenFiles": [
+    "26出国灵感/当前AI使用方式与远程工作.md",
+    "26出国灵感/综述-气道类器官和呼吸道病毒/PART2文献/Part2-查准版检索报告.md",
+    "26出国灵感/综述-气道类器官和呼吸道病毒/正文写作/PART1-Evaluation frameworks for airway organ models and their contributions to respiratory virology research 1.md",
+    "26出国灵感/综述-气道类器官和呼吸道病毒/PART2文献/06-Duan-2021-HIF1a-glycolysis-screen.md",
+    "26出国灵感/综述-气道类器官和呼吸道病毒/PART2文献/05-Wan-2025-Organoid-neutralization.md",
+    "26出国灵感/综述-气道类器官和呼吸道病毒/PART2文献/04-Mykytyn-2023-Omicron-entry-proteases.md",
+    "26出国灵感/综述-气道类器官和呼吸道病毒/PART2文献/03-Chan-2022-COPD-organoids.md",
+    "26出国灵感/综述-气道类器官和呼吸道病毒/PART2文献/02-Chiu-2022-Human-nasal-organoids.md",
+    "26出国灵感/综述-气道类器官和呼吸道病毒/PART2文献/01-Mykytyn-2021-Serine-protease-entry.md",
+    "26出国灵感/综述-气道类器官和呼吸道病毒/PART2文献/20-Tarres-Freixas-2026-Influenza-Tropism-Wildlife.md",
+    "26出国灵感/综述-气道类器官和呼吸道病毒/Total_Execution_Plan-manual-v2-AB.md",
     "26出国灵感/综述-气道类器官和呼吸道病毒/PART2文献/10-Lee-2024-Apical-out-airway-organoids.md",
     "26出国灵感/综述-气道类器官和呼吸道病毒/PART2文献/15-Li-2026-H5N1-Cross-Species-Transmission-and-N1-Antibodies.md",
     "26出国灵感/综述-气道类器官和呼吸道病毒/PART2文献/09-Fujimoto-2024-Vascular-bed-disruption.md",
@@ -220,25 +234,14 @@
     "26出国灵感/综述-气道类器官和呼吸道病毒/PART2文献/13-Bui-2019-Influenza-B-Tropism.md",
     "26出国灵感/综述-气道类器官和呼吸道病毒/PART2文献/07-Hysenaj-2023-Tetraspanin-8.md",
     "26出国灵感/综述-气道类器官和呼吸道病毒/PART2文献/12-Hui-2018-Influenza-in-Airway-Organoids-and-Bronchus.md",
-    "26出国灵感/综述-气道类器官和呼吸道病毒/PART2文献/06-Duan-2021-HIF1a-glycolysis-screen.md",
     "26出国灵感/综述-气道类器官和呼吸道病毒/PART2文献/11-Zhou-2018-Emerging-Influenza-Infectivity.md",
-    "26出国灵感/综述-气道类器官和呼吸道病毒/PART2文献/05-Wan-2025-Organoid-neutralization.md",
-    "26出国灵感/综述-气道类器官和呼吸道病毒/PART2文献/04-Mykytyn-2023-Omicron-entry-proteases.md",
-    "26出国灵感/综述-气道类器官和呼吸道病毒/PART2文献/03-Chan-2022-COPD-organoids.md",
-    "26出国灵感/综述-气道类器官和呼吸道病毒/PART2文献/02-Chiu-2022-Human-nasal-organoids.md",
-    "26出国灵感/综述-气道类器官和呼吸道病毒/PART2文献/01-Mykytyn-2021-Serine-protease-entry.md",
-    "26出国灵感/综述-气道类器官和呼吸道病毒/PART2文献/20-Tarres-Freixas-2026-Influenza-Tropism-Wildlife.md",
     "26出国灵感/综述-气道类器官和呼吸道病毒/PART2文献/19-Zhang-2026-H5N1-Genotype-Adaptation.md",
     "26出国灵感/综述-气道类器官和呼吸道病毒/PART2文献/18-Rothan-2025-H5N1-Fibrotic-Remodeling.md",
     "26出国灵感/综述-气道类器官和呼吸道病毒/PART2文献/17-Ekanger-2025-ALI-versus-Airway-Organoids.md",
     "26出国灵感/综述-气道类器官和呼吸道病毒/PART2文献/16-Bui-2021-HPAI-Risk-Assessment.md",
     "26出国灵感/综述-气道类器官和呼吸道病毒/Part2-查准版检索报告.md",
-    "26出国灵感/综述-气道类器官和呼吸道病毒/PART2文献/Part2-查准版检索报告.md",
     "26出国灵感/综述-气道类器官和呼吸道病毒/PART2文献",
-    "26出国灵感/综述-气道类器官和呼吸道病毒/Total_Execution_Plan-manual-v2-AB.md",
     "26出国灵感/综述-气道类器官和呼吸道病毒/正文写作/人工修改PART1-气道类器官模型的评估框架与其对呼吸道病毒学研究的推动.md",
-    "Vicky/SIBLING蛋白家族综述-演讲稿.md",
-    "26出国灵感/综述-气道类器官和呼吸道病毒/正文写作/PART1-Evaluation frameworks for airway organ models and their contributions to respiratory virology research 1.md",
     "笔记同步助手/images/9d07bb8fee7d64224b2f332949417677_MD5.jpg",
     "笔记同步助手/images/a87fce2e9ee740d619b02d41654ae070_MD5.jpg",
     "笔记同步助手/images/63282d314accb92e0f6574fa8001f7fe_MD5.png",
