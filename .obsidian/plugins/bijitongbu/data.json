@@ -19,7 +19,7 @@
   "messageSortOrder": "desc",
   "messageFolder": "",
   "frequency": 300,
-  "intervalId": 0,
+  "intervalId": 768,
   "frontMatterVariables": [],
   "frontMatterTemplate": "author: {{{author}}}\nsource: {{{siteName}}}\nurl: {{{originalUrl}}}\nsaved: {{{dateSaved}}}\ntags: [笔记同步助手{{#labels}}, {{{name}}}{{/labels}}]",
   "syncOnStart": true,
