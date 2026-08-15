@@ -48,9 +48,21 @@
               "icon": "lucide-file",
               "title": "Airway-organoid-models-evaluation-framework-and-respiratory-virology-English-full-text"
             }
+          },
+          {
+            "id": "5a2b2b3cc8e35241",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.13.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.13.7"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "5e2fcdbeacc86f62",
@@ -260,7 +272,7 @@
       "obsidian-table-x:编辑模式表格操作": false
     }
   },
-  "active": "aff4bdb1d5434ebe",
+  "active": "5a2b2b3cc8e35241",
   "lastOpenFiles": [
     "vibe coding/蓝粉风格画/蒸馏材料/ooQA7pMDeIbANA2ZOUgAHLICncGKjfAuwe47fI~tplv-dy-aweme-images-ds-rs-v1_1440_2160_q80.jpeg",
     "vibe coding/蓝粉风格画/蒸馏材料/oMUBE8uBADEHLAAALPsEfFa02BEEhISe7Df7bA~tplv-dy-aweme-images-ds-rs-v1_1080_1620_q80.jpeg",
