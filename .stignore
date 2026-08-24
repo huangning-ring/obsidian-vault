@@ -1,0 +1,29 @@
+// Syncthing cloud knowledge mirror exclusions
+// Local app state, repositories, caches, and possible credentials
+.git
+.obsidian
+.trash
+node_modules
+.agents
+.codex
+CLAUDE.md
+
+// Files flagged by the local secret-pattern audit
+AI查文献方法大全/花了我3个月-2024查论文文献神器.md
+Clippings/linshenkxprompt-optimizer An AI prompt optimizer for writing better prompts and getting better AI results.md
+Clippings/linshenkxprompt-optimizer An AI prompt optimizer for writing better prompts and getting better AI results.md.bak
+笔记同步助手/2026-06-22/这个 GitHub 项目火了：30.9k Star，把你的提示词从“随便写写”变成“可测试、可复用、可迭代”.md
+笔记同步助手/2026-07-28/很多神级开源 Agent 从它演化而来：77K Star 的 Pi 太强了。.md
+笔记同步助手/bak/这个 GitHub 项目火了：30.9k Star，把你的提示词从“随便写写”变成“可测试、可复用、可迭代”.md.bak
+
+// Generic secret and credential file patterns
+(?i)**/.env
+(?i)**/.env.*
+(?i)**/*credentials*.json
+(?i)**/*secrets*.json
+(?i)**/*cookies*.json
+(?i)**/*token*.json
+(?i)**/*.pem
+(?i)**/*.key
+(?i)**/id_rsa*
+(?i)**/id_ed25519*
