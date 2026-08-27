@@ -11,14 +11,16 @@
             "id": "a67a1102bbfd4dcb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Clippings/Bilibili/2026-08-04-关于一个语言现象的理解和思考.md",
-                "mode": "source",
-                "source": false
+                "file": "复习/血液系统/原始课件/第三章 2止血血型 血液.pdf",
+                "page": 9,
+                "left": -155,
+                "top": 122,
+                "zoom": 1
               },
-              "icon": "lucide-file",
-              "title": "2026-08-04-关于一个语言现象的理解和思考"
+              "icon": "lucide-file-text",
+              "title": "第三章 2止血血型 血液"
             }
           },
           {
@@ -213,6 +215,11 @@
   },
   "active": "aff4bdb1d5434ebe",
   "lastOpenFiles": [
+    "复习/血液系统/原始课件/~$06 血液16 9.pptx",
+    "Clippings/Bilibili/2026-08-04-关于一个语言现象的理解和思考.md",
+    "笔记同步助手/images/3f5499200839b3f71a75616c23169e1b_MD5.png",
+    "笔记同步助手/2026-08-25/给 AI 助手装上本地知识库大脑：QMD 语义搜索全工具接入教程（Hermes、Claude、Codex、Cursor 都能用）.md",
+    "笔记同步助手/2026-08-25",
     "vibe coding/科研Agent市场调研与选型建议_2026-08-25.md",
     "Clippings/Bilibili/2026-08-24-ClawsGO：全球首个全流程科研自动化 Agent 预览版发布.md",
     "Clippings/Bilibili/2026-08-24-ClawsGO Science：全球首个全流程科研自动化 Agent 预览版发布.md",
@@ -238,7 +245,6 @@
     "vibe coding/蓝粉风格画/蒸馏材料/oEB7HhEAEEAFTEDPBE7u0ffSA2DlBEAILAaUe8~tplv-dy-aweme-images-ds-rs-v1_1080_1920_q80.jpeg",
     "vibe coding/蓝粉风格画/蒸馏材料/oYAuShVf7UEcBEBiE7D8L2FDAa6fAA0EeFPAIB~tplv-dy-aweme-images-ds-rs-v1_1440_2080_q80.jpeg",
     "vibe coding/蓝粉风格画/蒸馏材料/o0EvAPufWFBAeBDAEUED0afZIAGHA27SBE8hL7~tplv-dy-aweme-images-ds-rs-v1_1440_2562_q80.jpeg",
-    "vibe coding/蓝粉风格画/蒸馏材料/o81tyjgQE2DAdCZFvKCaDq8nlA5A9AAAIjfcfM~tplv-dy-aweme-images-ds-rs-v1_1440_2560_q80.jpeg",
     "vibe coding/蓝粉风格画/蒸馏材料",
     "vibe coding/蓝粉风格画/原材料",
     "vibe coding/蓝粉风格画/新建文件夹",
@@ -255,10 +261,6 @@
     "26出国灵感/综述-气道类器官和呼吸道病毒/Total_Execution_Plan-manual-v2-AB.md",
     "26出国灵感/综述-气道类器官和呼吸道病毒/PART2文献/Part2-查准版检索报告.md",
     "26出国灵感/当前AI使用方式与远程工作.md",
-    "26出国灵感/综述-气道类器官和呼吸道病毒/正文写作/PART1-Evaluation frameworks for airway organ models and their contributions to respiratory virology research 1.md",
-    "26出国灵感/综述-气道类器官和呼吸道病毒/PART2文献/06-Duan-2021-HIF1a-glycolysis-screen.md",
-    "26出国灵感/综述-气道类器官和呼吸道病毒/PART2文献/05-Wan-2025-Organoid-neutralization.md",
-    "26出国灵感/综述-气道类器官和呼吸道病毒/PART2文献",
     "任务管理/任务看板.canvas",
     "任务管理/2026-06-05 工作看板.canvas",
     "GPT画图测试260227/GPT画图测试260227.canvas",
