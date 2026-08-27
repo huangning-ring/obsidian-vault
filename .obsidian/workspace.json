@@ -4,23 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "07366481f17a3fa8",
+        "id": "b8495d6b03d34afc",
         "type": "tabs",
         "children": [
           {
-            "id": "a67a1102bbfd4dcb",
+            "id": "a2040b58027c66c6",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "复习/血液系统/原始课件/02_基础生理_止血凝血与血型输血原则.pdf",
-                "page": 9,
-                "left": -226,
-                "top": 124,
-                "zoom": 0.9
+                "file": "复习/血液系统/01_Day1_贫血与红细胞.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "02_基础生理_止血凝血与血型输血原则"
+              "icon": "lucide-file",
+              "title": "01_Day1_贫血与红细胞"
             }
           }
         ]
@@ -123,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "26出国灵感/综述-气道类器官和呼吸道病毒/正文写作/Airway-organoid-models-evaluation-framework-and-respiratory-virology-half-length-English-full-text.md",
+                "file": "复习/血液系统/01_Day1_贫血与红细胞.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
@@ -171,8 +169,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5,
-    "collapsed": true
+    "width": 269.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,13 +196,18 @@
       "obsidian-table-x:编辑模式表格操作": false
     }
   },
-  "active": "a67a1102bbfd4dcb",
+  "active": "a2040b58027c66c6",
   "lastOpenFiles": [
+    "复习/血液系统/00_三天冲刺总计划.md",
+    "复习/血液系统/原始课件/02_基础生理_止血凝血与血型输血原则.pdf",
+    "复习/血液系统/04_最后60分钟速记卡.md",
+    "复习/血液系统/03_Day3_止血输血与血液药理.md",
+    "复习/血液系统/02_Day2_白血病与淋巴瘤.md",
+    "复习/血液系统/01_Day1_贫血与红细胞.md",
     "复习/血液系统/原始课件/~$08_白细胞疾病_白血病临床诊疗.pptx",
     "复习/血液系统/原始课件/~$06_白细胞疾病_血液肿瘤MICM诊断.pptx",
     "复习/血液系统/原始课件/~$07_白细胞疾病_白血病血象与骨髓形态.pptx",
     "复习/统计/00-医学统计学索引.md",
-    "复习/血液系统/原始课件/02_基础生理_止血凝血与血型输血原则.pdf",
     "复习/血液系统/原始课件/~$01_基础总论_血液系统疾病实验诊断.pptx",
     "复习/血液系统/原始课件/~$2023版本二：血液系统疾病的实验诊断魏小平 -.pptx",
     "复习/血液系统/原始课件/~$06 血液16 9.pptx",
@@ -225,7 +227,6 @@
     "复习/统计/11-Logistic回归.md",
     "复习/统计/06-t检验与方差分析.md",
     "复习/统计/原始课件/~$非参数秩和检验.pptx",
-    "复习/统计/原始课件/~$方差分析.pptx",
     "复习/统计/05-参数估计与假设检验.md",
     "复习/统计/04-定性数据、统计表与统计图.md",
     "vibe coding/蓝粉风格画/蒸馏材料/ooQA7pMDeIbANA2ZOUgAHLICncGKjfAuwe47fI~tplv-dy-aweme-images-ds-rs-v1_1440_2160_q80.jpeg",
@@ -242,11 +243,6 @@
     "26出国灵感/综述-气道类器官和呼吸道病毒/正文写作/Airway-organoid-models-evaluation-framework-and-respiratory-virology-English-full-text.md",
     "26出国灵感/综述-气道类器官和呼吸道病毒/正文写作/人工修改PART1-气道类器官模型的评估框架与其对呼吸道病毒学研究的推动 1.md",
     "26出国灵感/综述-气道类器官和呼吸道病毒/正文写作/气道类器官模型的评估框架与其对呼吸道病毒学研究的推动-中文全文.md",
-    "26出国灵感/综述-气道类器官和呼吸道病毒/正文写作/Part2-正文初稿.md",
-    "26出国灵感/综述-气道类器官和呼吸道病毒/正文写作/人工修改PART1-气道类器官模型的评估框架与其对呼吸道病毒学研究的推动.md",
-    "26出国灵感/综述-气道类器官和呼吸道病毒/Total_Execution_Plan-manual-v2-AB.md",
-    "26出国灵感/综述-气道类器官和呼吸道病毒/PART2文献/Part2-查准版检索报告.md",
-    "26出国灵感/当前AI使用方式与远程工作.md",
     "任务管理/任务看板.canvas",
     "任务管理/2026-06-05 工作看板.canvas",
     "GPT画图测试260227/GPT画图测试260227.canvas",
