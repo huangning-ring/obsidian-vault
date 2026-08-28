@@ -106,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266,
-    "collapsed": true
+    "width": 266
   },
   "right": {
     "id": "e8af24c642dba675",
@@ -212,8 +211,11 @@
       "obsidian-table-x:编辑模式表格操作": false
     }
   },
-  "active": "788921ef1e667ab1",
+  "active": "aff4bdb1d5434ebe",
   "lastOpenFiles": [
+    "复习/血液系统/原始课件/~$06_白细胞疾病_血液肿瘤MICM诊断.pptx",
+    "复习/血液系统/原始课件/~$01_基础总论_血液系统疾病实验诊断.pptx",
+    "复习/血液系统/原始课件/~$08_白细胞疾病_白血病临床诊疗.pptx",
     "复习/血液系统/血液系统三日冲刺讲义_内科学第10版校订_机制内嵌版/01_Day1_贫血与红细胞.md",
     "复习/血液系统/血液系统三日冲刺讲义_内科学第10版校订_机制内嵌版/02_Day2_白血病与淋巴瘤.md",
     "复习/血液系统/血液系统三日冲刺讲义_内科学第10版校订_机制内嵌版/00_三天冲刺总计划.md",
@@ -234,11 +236,8 @@
     "复习/血液系统/04_最后60分钟速记卡.md",
     "复习/血液系统/03_Day3_止血输血与血液药理.md",
     "复习/血液系统/02_Day2_白血病与淋巴瘤.md",
-    "复习/血液系统/原始课件/~$08_白细胞疾病_白血病临床诊疗.pptx",
-    "复习/血液系统/原始课件/~$06_白细胞疾病_血液肿瘤MICM诊断.pptx",
     "复习/血液系统/原始课件/~$07_白细胞疾病_白血病血象与骨髓形态.pptx",
     "复习/统计/00-医学统计学索引.md",
-    "复习/血液系统/原始课件/~$01_基础总论_血液系统疾病实验诊断.pptx",
     "复习/血液系统/原始课件/~$2023版本二：血液系统疾病的实验诊断魏小平 -.pptx",
     "复习/血液系统/原始课件/~$06 血液16 9.pptx",
     "Clippings/Bilibili/2026-08-04-关于一个语言现象的理解和思考.md",
@@ -250,7 +249,6 @@
     "Clippings/Bilibili/2026-08-24-ClawsGO Science：全球首个全流程科研自动化 Agent 预览版发布.md",
     "复习/毛概/毛概作业.md",
     "__hermes_syncthing_acceptance_6f2c9a.md",
-    "复习/统计/12-生存分析.md",
     "笔记同步助手/images/d0b936ca385fc0b1d7a2653cd7278d9b_MD5.jpg",
     "vibe coding/蓝粉风格画/蒸馏材料/ooQA7pMDeIbANA2ZOUgAHLICncGKjfAuwe47fI~tplv-dy-aweme-images-ds-rs-v1_1440_2160_q80.jpeg",
     "vibe coding/蓝粉风格画/蒸馏材料/oMUBE8uBADEHLAAALPsEfFa02BEEhISe7Df7bA~tplv-dy-aweme-images-ds-rs-v1_1080_1620_q80.jpeg",
